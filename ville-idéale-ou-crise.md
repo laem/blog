@@ -1,4 +1,5 @@
-
+> Cet article est maintenant synchronisé avec github.com/laem/blog
+> 
 
 - Peut-etre relire ce thread après une 1ère version de l'article ?
 https://twitter.com/HubertBecart/status/1247618351612006401
