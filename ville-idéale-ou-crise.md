@@ -1,14 +1,14 @@
 > Cet article est maintenant synchronisé avec github.com/laem/blog
-> 
+
 
 - Peut-etre relire ce thread après une 1ère version de l'article ?
 https://twitter.com/HubertBecart/status/1247618351612006401
 
 
 
-- prenons un appartement de 4 étages, etc. 100 personnes. La largeur de la rue en bas, privatisée. C'est x M2 de jardin perdu. 
-https://www.youtube.com/watch?v=mguvTfAw4wk
-La rue devrait être notre les pièces communes de notre cohabitation. 
+
+-----------
+
 
 - le plus marquant c'est le calme en cette période ralentie. Une vie qui vit est dans nos têtes synonyme d'une ville bruyante. 
 On peut même se demander si nous n'avons pas peur de ce silence. Une rue piétonne, c'est une rue sans bruit autre que celui des enfants qui jouent. Nous avons peur de ces rues, si peu fréquentes dans les villes qu'elles nous rappellent des scènes de film où elles craignent. Et pourtant aussi fréquentées que des rues à voiture. 
@@ -49,7 +49,7 @@ La paralysie du secteur immobilier provoquée par la crise du coronavirus pourra
 
 Propriétaires, rassurez-vous ! Cette crise a une solution plutôt bien tracée. Locataires, réjouissez-vous : vous aurez soit des loyers et prix d'achat plus bas, soit une montée en gamme des services.
 
-# Rêves de verdure, de calme et d'espace
+## Rêves de verdure, de calme et d'espace
 
 Cette crise inédite, qui confine les habitants des métropoles dans des appartements souvent petits, révèle l'évidence : tout le monde aimerait avoir un jardin, un espace extérieur apaisé. D'ailleurs, seuls 15% des français [sont confinés sans balcon ni jardin](https://twitter.com/FredericSays/status/1248202276801589248). Prêts à y renoncer pour l'emploi et l'animation urbaine… jusqu'à réaliser que l'espace étriqué, la fatigue des grandes villes coûte le prix d'une villa sur la côte ouest,  2 fois celui d'une maison charmante dans un village, ou 4 fois celui d'une maison pavillonnaire.
  
@@ -66,7 +66,7 @@ Quitter la ville est même devenu pour beaucoup le rêve de reconversion écolog
 
 ## La riposte des grandes villes
 
-Face à cette menace de dégringolade des prix, les métropoles se laisseront-elles faire ? La compétition pour redorer l'image de la grande ville s'est silencieusement lancée. Les concurrents ? Paris, Lyon, Bordeaux, Strasbourg, Rennes, Nantes. Elles  battent entre-elles, mais aussi avec le reste de la France en copiant ses atouts.    
+Face à cette menace de dégringolade des prix, les métropoles se laisseront-elles faire ? La compétition pour redorer l'image de la grande ville s'est silencieusement lancée. Les concurrents ? Paris, Lyon, Bordeaux, Strasbourg, Rennes, Nantes. Elles  battent entre-elles, mais aussi avec le reste de la France en copiant ses atouts.
 
 
 Respirer un air pur. Marcher, s'asseoir, dormir la fenêtre ouverte au calme. Marcher librement, sans que le réhaussement et les potelets du trottoir nous rappelle que nous ne sommes pas les bienvenus ailleurs. Faire du vélo sans la vigileance d'un pilote de F1. Être entouré de vert. Voir les enfants jouer dans les rues. Observer des sols et façades moins noirs. 
@@ -78,30 +78,47 @@ Terminer l'ère de la voiture individuelle en zone dense n'est pas une mince aff
 
 Or nous oublions souvent qu'elle rentre tout simplement en conflit avec ces aspirations. 
 
-Un conflit évident d'espace d'abord. A Paris, x% de des zones publiques sont réservées aux voitures. 
+Un évident **conflit d'espace** d'abord. A Paris, pourtant parmi les villes les plus denses du monde, [50 % de l’espace pour 13 % des déplacements](https://www.lemonde.fr/les-decodeurs/article/2016/11/30/a-paris-la-moitie-de-l-espace-public-est-reservee-a-l-automobile_5040857_4355770.html).
 
 
-[photo trottoir étroit, lutte des zones vertes, moto, voiture garée, route]
-[photo de mon téléphone]
-Cette ville où il faut protéger les plantes, pour éviter que des piétons, à qui les voitures ont volé la place, une 5 voies en comptant le stationnement 
-L'équité géographique. 30% de voitures, 70% de rues piétonnes. https://youtu.be/IFjD3NMv6Kw.
+![](https://i.imgur.com/dU0xyR7.jpg)
+*Calcul du nombre de m² / personne privatisés pour la voiture*
 
-Un conflit moins évident d'argent ensuite. La France n'est pas Dubaï : nous n'arriverons pas à bâtir un réseau de transport propre sans faire s'effondrer les coûts publics (les infrastructures routières, la santé) comme privés (l'achat de la voiture, son entretien, son assurance, etc.). Non, nous ne pouvons pas d'abord proposer l'alternative pour que la bagnole soit naturellement abandonnée.
+- [ ] indiquer un rdc de commerces ? Diviser par 2 car meme batiment en face. Ajouter que trottoir => piste cyclable
 
+Ce modèle est simpliste, mais illustre à quel point nos rues pourraient devenir nos petites parcelles de jardin ou d'[espace de cohabitation entre voisins](https://www.youtube.com/watch?v=mguvTfAw4wk), à commencer par les places de parking. Quand verrons-nous des tables de pique-nique en bas des immeubles ?
 
-Se balader dans une zone pietonne, c'est une aventure toujours intéressante. D'autant plus qu'elle est verte : les saisons nous surprennent chaque année.
+![](https://i.imgur.com/2FweqGr.jpg)
+*Une rue à 5 voies dans le 12ème arrondissement de Paris*
+
+Cette ville où il faut barricader les coins végétalisés pour éviter que des piétons, à l'étroit dans leur passage moins large qu'une Wolkswagen, ne les piétinnes.
+Nous devons mettre en oeuvre l'[équité géographique](https://m.youtube.com/watch?v=IFjD3NMv6Kw).
+
+Un **conflit moins évident d'argent** ensuite. La France n'est pas Dubaï : nous n'arriverons pas à bâtir un réseau de transport alternatif sans s'attaquer aux coûts multiples de la voiture, publics (les infrastructures routières, la santé) comme privés (l'achat de la voiture, son entretien, son assurance, etc.). Non, nous ne pouvons pas d'abord mettre en place l'alternative pour faire une transition douce. Nous n'avons ni l'argent, ni le temps.
+
+:::info
+**à déplacer**
+
+Le confinement nous a donné un aperçu, au milieu de toutes les frustrations, les quelques sorties sont un plaisir. Se balader dans une zone pietonne, c'est une aventure toujours intéressante. D'autant plus qu'elle est verte : les saisons nous surprennent chaque année.
 
 Dans certains endroits, ce serait tellement facile de faire ces continuités piétonnes et vertes que ça en devient frustrant. Relier les zones vertes autour de chez moi avec mon crayon, annoter. Le dépôt Charonne. La petite ceinture. Les deux parcs, Sarah Bernard et Rejahne, non reliés, la contre allée pietonne du cours de Vincennes, le précipice du coût, le square côté sud, etc.
+:::
 
-Le confinement nous a donné un aperçu, au milieu de toutes les frustrations, les quelques sorties sont un plaisir.
-
-Une ville sortira bientôt du lot, en profitera largement et amortira la chute de ses prix, avant de se faire rattraper par les autres.
+Une ville sortira bientôt du lot. Elle en profitera largement et amortira la chute de ses prix, avant de se faire rattraper par d'autres.
 
 ## Un changement radical
 
-Il ne s'agit pas d'ajouter des voies cyclables tracées au sol, ni d'ailleurs d'ajouter des pistes cyclables, il s'agit de faire de la rue que nous connaissons aujourd'hui l'exception. Il ne s'agit pas non plus de répondre à un seul problème en en créant de nouveaux (voiture individuelle électrique, autonome). 
+Il ne s'agit plus d'ajouter des voies cyclables tracées au sol, ni d'ailleurs d'ajouter des pistes cyclables, il s'agit de faire de la rue que nous connaissons aujourd'hui une nouvelle page des manuels d'histoire. 
 
-Une transformation assez radicale des espaces publics pour continuer de faire avaler la pression d'un apport de 50 000 euros, un CDI bien payé et 20 ans de mensualités pour un appartement minable.
+![](https://i.imgur.com/PWcVbzQ.jpg)
+*Les petits gestes de l'urbanisme*
+
+
+Il ne s'agit pas non plus de répondre à un seul problème en en créant de nouveaux (voiture individuelle électrique, autonome). 
+
+
+
+Il faut une transformation assez radicale des espaces publics pour continuer de faire avaler la pression d'un apport de 50 000 euros, un CDI bien payé et 20 ans de mensualités pour un appartement minable.
 Un choc d'un ordre de grandeur pour des endroits de vie qu'on ose à peine imaginer aujourd'hui, enfermés dans les schémas actuels. 
 
 Laisser au garage l'angoisse que provoque la grande ville pour certains, ne garder que la fascination des autres. Et puis démolir le garage.
