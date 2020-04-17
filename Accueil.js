@@ -10,8 +10,8 @@ export default () => (
           align-items: center;
         `}
       >
-        <h1>Un blog</h1>
-        <p>A propos de plein de choses</p>
+        <h1>📝 Un blog</h1>
+        <p>Quelques idées sur les algorithmes, l'environnement, la ville </p>
       </header>
     </div>
     <Liste />
