@@ -1,3 +1,9 @@
+---
+id: ville-idéale-ou-crise
+date: avril 2020
+---
+
+
 :::info
 
 AFAIRE
