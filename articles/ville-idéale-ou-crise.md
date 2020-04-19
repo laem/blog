@@ -1,36 +1,9 @@
 ---
-titre: [Brouillon] La crise, ou la ville idéale ?
+titre: "[Brouillon] La crise, ou la ville idéale ?"
 résumé: Le rapport qualité-prix de nos villes est en chute libre. Il y a pourtant une solution évidente pour qu'elles restent désirables.
 image: https://i.imgur.com/OZEwzs5.jpg
 date: avril 2020
 ---
-
-
-:::info
-
-AFAIRE
-
-- Peut-etre relire ce thread après une 1ère version de l'article ?
-https://twitter.com/HubertBecart/status/1247618351612006401
-
-
-#### continuités piétonnes 
-
-Se balader dans une zone pietonne, c'est une aventure toujours intéressante. D'autant plus qu'elle est verte : les saisons nous surprennent chaque année. 
-
-Dans certains endroits, ce serait tellement facile de faire ces continuités piétonnes et vertes que ça en devient frustrant. Relier les zones vertes autour de chez moi avec mon crayon, annoter. Le dépôt Charonne. La petite ceinture. Les deux parcs, Sarah Bernard et Rejahne, non reliés, la contre allée pietonne du cours de Vincennes, le précipice du coût, le square côté sud, etc.
-
-
-
-- le plus marquant c'est le calme en cette période ralentie. Une vie qui vit est dans nos têtes synonyme d'une ville bruyante. 
-On peut même se demander si nous n'avons pas peur de ce silence. Une rue piétonne, c'est une rue sans bruit autre que celui des enfants qui jouent. Nous avons peur de ces rues, si peu fréquentes dans les villes qu'elles nous rappellent des scènes de film où elles craignent. Et pourtant aussi fréquentées que des rues à voiture. 
-
-
-
-Fins de section à caser : 
-
-- L'arbre qui pousse à côté des affiches et qui défonce de le bitûme. Alors, c'est quand qu'on débitume ?
-:::
 
 
 # La crise, ou la ville idéale ?
@@ -41,6 +14,8 @@ Fins de section à caser :
 La France est en pleine bulle immobilière. Qu'est-ce qui permet de l'affirmer ? Le décrochage de plus en plus manifeste des revenus par rapport au prix de l'immobilier. En termes simples : les français peuvent de moin en moins s'acheter un appartement avec l'argent de leur travail. 
 
 Prenons le cas d'un ingénieur sorti d'école, qui gagnerait 39 000 € bruts par an, soit 28 000 € nets d'impôt. Supposons que sur ce salaire net, il paie les 800€ de loyer d'un studio, se donne 700€ / mois pour se nourrir, ses loisirs etc. et qu'il mette de côté le reste, environ 10 000€ / an. Il pourra s'acheter chaque année 1 m² d'un appartement parisien. Au bout de 30 ans de travail, vers 55 ans, il aura pu s'acheter un 30m², au "confort thermique acceptable", avec "cuisine lumineuse" et "métro à 20 m". Comprendre : "passoire thermique impossible à isoler", "non traversant et peu lumineux sauf cuisine" et "donnant sur un boulevard bruyant".
+
+> [name=Mael]C'est normal de faire un prêt ?
 
 Or nous venons d'étudier un cas parmi les plus favorables aujourd'hui ! Le salaire brut médian en France est de 28 000€, dix mille de moins. On se rend compte à quel point les pespectives logement du jeune français dans les métropoles sont sombres : décidémment en 2020, on a la famille derrière nous, on a la chance d'être en CDI pour s'endetter, ou bien on reste locataire à vie.
 
@@ -71,21 +46,24 @@ L'exode massive vers la province à l'annonce du confinement a lui aussi dévoil
 Et pourtant, le confinement nous donne l'opportunité rare de nous balader dans des rues apaisées, alors que les êtres végétaux se réveille. 
 
 
-Une rue piétonne de maisons colorées, aux trottoirs symboliques remplis de plantes : la [rue Crémieux](https://fr.m.wikipedia.org/wiki/Rue_Crémieux) sort tellement de l'ordinaire du quartier hyper-actif de la Gare de Lyon à Paris qu'elle est devenu un culte sur Instagram, problématique pour ses habitants. 
+[Paris](https://fr.wikipedia.org/wiki/Coul%C3%A9e_verte_Ren%C3%A9-Dumont) d'abord, [New York](https://fr.wikipedia.org/wiki/High_Line) ensuite puis [Seoul](https://fr.wikipedia.org/wiki/Seoullo_7017) nous montrent le succès immédiat d'une simple voie entièrement piétonne et plantée dans des villes monde. A défaut d'avoir des anciens rails ou autoroutes suspendus dans les autres villes, pourquoi ne pas reproduire ces lieux magiques directement au sol ? 
+
+Pourquoi ne pas commencer par relier les parcs et squares existants entre-eux ?
+
+> [name=Mael] insérer ici un dessin sur fond satellite des possibilités sur le square Sarah Bernard et au nord du Père Lachaise ?
 
 
-:::info
-photo de la rue ligner, mais chut, il faut pas le dire où elle est
-:::
+Une rue piétonne de maisons colorées, aux trottoirs couverts de plantes : la [rue Crémieux](https://fr.m.wikipedia.org/wiki/Rue_Crémieux) sort tellement de l'ordinaire hyper-actif bouchonné de la Gare de Lyon à Paris qu'elle est devenu culte sur Instagram, jusqu'à faire craquer ses habitants. 
 
 
-Plutôt que de reproduire ailleurs cette ambiance qui plait et donc diluer ses touristes, la mairie réfléchit à fermer cette voie publique le soir et le Weekend... 
+Plutôt que de reproduire ailleurs cette ambiance qui plait et donc diluer les touristes, la mairie du 12ème réfléchit à fermer cette voie publique le soir et le Weekend... 
 
 
 
-:::spoiler Central parc, buttes-chaumont
-Tout le monde échangerait son appartement donnant sur la rue française moyenne pour un autre bordant central Park à New-York, les buttes Chaumont ou le jardin du Thabor de Rennes. [Ca tombe bien, chaque appartement est aujourd'hui bordé par un espace d'une vingtaine de mètres de large, aujourd'hui privatisé.]
-:::
+![](https://imgur.com/k8aWvT7.png)
+*Une lettre du nom de cette rue parisienne sera révélé à chaque autre rue piétonnisée*
+
+
 
 
 Quitter la ville est d'ailleurs devenu pour beaucoup le rêve de reconversion écologique. Et toi, c'est quand que tu quittes Paris ? 
@@ -147,7 +125,7 @@ Coût de possession d'une voiture : 4000€ /an. Coût d'un 30m² à Paris : 100
 
 Une ville sortira bientôt du lot. Elle en profitera largement et amortira la chute de ses prix, avant de se faire rattraper par d'autres.
 
-## Un changement radical
+## Le changement doit être radical
 
 Il ne s'agit plus d'ajouter des voies cyclables tracées au sol, ni d'ailleurs d'ajouter des pistes cyclables, il s'agit de faire de la rue que nous connaissons aujourd'hui une nouvelle page des manuels d'histoire. 
 
@@ -167,15 +145,14 @@ Un choc d'un ordre de grandeur pour des endroits de vie qu'on ose à peine imagi
 
 ## Une dernière raison de foncer 
 
-Les derniers été sur la métropole nous ont permis de comprendre que les villes actuelles ne sont pas vivables l'été. Rappelons que le monde s'est réchauffé d'1 degré, et que nous nous dirigeons vers +3 ou +4 degrés, et bien plus sur les terres. 
+Les derniers étés sur la métropole nous ont permis de comprendre que les villes actuelles ne sont pas vivables l'été. Rappelons que le monde s'est réchauffé d'1 degré, et que nous nous dirigeons vers +3 ou +4 degrés, et bien plus sur les terres. 
 
 Alors que Dubaï a terminé son premier [*quartier durable*](https://www.francetvinfo.fr/monde/moyen-orient/emirats-arabes-unis-une-ville-100-durable-a-l-essai_3804809.html), les médias commencent tout juste à parler [du repli immobilier](https://www.wedemain.fr/Et-si-le-climat-faisait-plonger-l-immobilier_a4596.html) dans le sud provoqué par les températures insoutenables.
 
-Le climat est une raison à part entière de construire cette ville alternative, d'autant plus que ses solutions bien tracées illustrent parfaitement cette notion de transformation radicale : pour rester sous les 2° d'ici 2050, il faut réduire nos émissions de 4% par an. C'est dix fois le [rythme actuel](http://www.leparisien.fr/info-paris-ile-de-france-oise/transports/ile-de-france-le-nombre-de-deplacements-en-voiture-a-baisse-de-5-en-huit-ans-13-11-2019-8192181.php) de baisse des déplacements en voiture en Île-de-France. La ville de Paris [vient d'y parvenir](https://mobile.twitter.com/C_Najdovski/status/1230787893087625216).
+Le climat est une raison à part entière de construire cette ville alternative, d'autant plus que ses solutions bien tracées illustrent parfaitement cette notion de transformation radicale : pour rester sous les 2° d'ici 2050, il faut réduire nos émissions de 4% par an. C'est dix fois le [rythme actuel](http://www.leparisien.fr/info-paris-ile-de-france-oise/transports/ile-de-france-le-nombre-de-deplacements-en-voiture-a-baisse-de-5-en-huit-ans-13-11-2019-8192181.php) de baisse des déplacements en voiture en Île-de-France. Paris est une des rares villes [à y parvenir](https://mobile.twitter.com/C_Najdovski/status/1230787893087625216).
 
-:::info 
-intégrer l'article de carbon brief, confinement => seulement -4% ? 
-:::
+> [name=Mael] intégrer l'article de carbon brief, confinement => seulement -5% ? 
+
 
 
 Enterrer l'angoisse que provoque la grande ville pour certains, ne garder que la fascination des autres.
@@ -190,32 +167,41 @@ Villes sans voiture, villes "plus". Il nous manque aujourd'hui les outils pour m
 
 # Au-delà des grandes villes
 
-Rappelons que les villes de plus de 100 mille habitants ne regroupent que 15% des français, et les villes de plus de 50 mille, le quart de la population.
 
-Réécrire nos grandes villes, ce ne serait donc pas un sujet pour 85% de la population ? Non. Disons-le clairement : une vie durable en zone peu dense n'est pas soutenable sans d'énormes sacrifices auxquels beaucoup ne sont pas prêts.
+Rappelons que les communes de plus de cent mille habitants ne regroupent que 15% des français, et celles de plus de cinquante mille, 25% de la population.
 
-Les villes sont donc aussi nécessaires que mal aimées. Il est urgent de transformer les villes et pour y accueillir une exode rurale nécessaire.
-
-Quelle taille ?
-
-Jancovici laisse entendre dit qu'on sera tous dans les campagnes. Les villages sont-ils des modèles écologiques ? Voir la conv Shift
+Réécrire nos grandes villes, ce ne serait donc pas un sujet pour 85% de la population ? 
 
 
-Cette éxode pourra être la conséquence d'au moins deux facteurs :
+Il y a fort à parier qu'une vie durable en zone peu dense ne soit pas soutenable (au sens de notre empreinte sur l'environnement) sans d'énormes sacrifices, auxquels beaucoup ne sont pas prêts : un nombre conséquent de kilomètres à vélo ou dans un bus peu fréquent; des surfaces de maison plus proches de 20m² par personne que de 100 m², etc. 
 
-- un autre idéal écologique, plus rationnel, minimisant l'empreinte sur le climat et la biodiversité, a priori incompatible avec les besoins énergétiques de la maison individuelle en quartier pavilonnaire (sauf à imaginer 20km de vélo par jour ou un certain isolement social)
-- un choc pétrolier
+La vie quotidienne en ville dense est aujourd'hui bien plus soutenable (en termes d'empreinte sur l'environnement) que la vie en maison individuelle sur les composantes transport, logement et santé, qui représentent par exemple du point de vue du climat plus de la moitié de notre empreinte. http://ravijen.fr/?p=508
+
+Pour respecter un idéal écologique plus rationnel que sentimental, une exode vers des villes plus denses semble tout à fait probable.
+
+Notons aussi que *le pic pétrolier est jugé probable d'ici 2025*, soit en gros le temps d'un mandat municipal, par l'Agence Internationle de l'Energie. Or, vivre en zone peu dense sans voiture est à l'évidence très compliqué, sauf à s'isoler ou à accepter de faire des dizaines de kilomètres par jour en vélo.
+
+Une transition *préparée* vers des lieux de vie plus durables, qu'elle s'impose par l'imaginaire collectif ou par la loi, sera de toute évidence [moins chaotique](https://video.antopie.org/videos/watch/9b326897-139a-4633-a659-ca801de27c93) que l'option choc pétrolier.
 
 
+Les villes denses sont donc aujourd'hui aussi peu habitées et mal aimées que nécessaires. Cela renforce l'urgence de leur transformation vers un nouveau modèle  convainquant, ou la chute probable de leur prix. 
 
-Ce premier chemin, qu'il s'impose par l'imaginaire collectif ou par la loi, sera de toute évidence [moins chaotique](https://video.antopie.org/videos/watch/9b326897-139a-4633-a659-ca801de27c93) que le deuxième. Notons qu'un pic pétrolier était présumé possible d'ici 2025 par l'Agence Internationale de l'Energie. 
+### Mais 
 
-La crise des gilets jaunes nous a entre autres enseigné que les villes sont trop chères pour ce qu'elles offrent. Gilets jaunes, prix des loyers, moins de voiture.
+Un élément important vient toutefois nuancer ce propos : le potentiel risque de rupture d'approvisionnement en nourriture des villes est aujourd'hui pointé du doigt.
 
-:::info
-Se balader dans une campagne qui occupent 70% du territoire pour produire du maïs pour les animaux, démembrés, où les talus et forêts se font rares, où les seules voies publiques sont les dangereuses routes sans trottoir, c'est en général très chiant. 
+Jancovici laisse entendre dit qu'on sera tous dans les campagnes. 
+
+> [name=Mael] A travailler : 
+> 
+Cette campagne de toute évidence ne ressemblera pas à l'actuelle, où x% de la surface est destinée à la bidoche. Se balader dans une campagne qui occupent 70% du territoire pour produire du maïs pour les animaux, démembrés, où les talus et forêts se font rares, où les seules voies publiques sont les dangereuses routes sans trottoir, c'est en général très chiant. 
 [image gmap Brest]
-:::
+
+Faut-il alors inventer l'habitat partagé à la campagne ? Ou intégrer l'agriculture au coeur de nos aglomérations ? Quelle est la taille idéale d'une ville soutenable et son organisation spatiale ?
+
+Construisons des modèles numériques pour trancher cette question qui ne saurait l'être sans chiffres et avec les a priori de chacun.
+
+
 
 
 # Conclusion 
