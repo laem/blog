@@ -1,5 +1,6 @@
 import React from 'react'
 import ReactMarkdown from 'react-markdown'
+import { pageLayout } from './Accueil'
 
 export default ({
 	data: {
@@ -9,9 +10,7 @@ export default ({
 }) => (
 	<div
 		css={`
-			max-width: 800px;
-			margin: 0 auto;
-			padding: 1rem;
+			${pageLayout}
 		`}
 	>
 		<ReactMarkdown source={body} />

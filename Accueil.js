@@ -2,6 +2,12 @@ import React from 'react'
 import Article from './Article'
 import frontMatter from 'front-matter'
 
+export const pageLayout = `
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 1rem;
+`
+
 var req = require.context('./articles', true, /\.md$/)
 const rawArticles = [...req.keys()].map((key) => [
 	key.replace('./', '').replace('.md', ''),
@@ -44,7 +50,7 @@ const Header = () => (
 )
 
 let Liste = ({ articles }) => (
-	<main>
+	<main css={pageLayout}>
 		<Header />
 		<section
 			css={`
@@ -56,15 +62,36 @@ let Liste = ({ articles }) => (
 				}
 			`}
 		>
-			<header>
-				<h2>Articles</h2>
-			</header>
+			<header></header>
 			{articles.map((a) => (
-				<aside>
-					<img css="width: 10rem" src={a.attributes.image}></img>
-					<h3>{a.attributes.titre}</h3>
-					<p>{a.attributes.résumé}</p>
+				<aside
+					css={`
+						p {
+							max-width: 36rem;
+							margin-bottom: 0.3rem;
+						}
+						> a {
+							text-decoration: none;
+						}
+
+						h3 {
+							display: inline-block;
+							margin-right: 1rem;
+						}
+						margin-bottom: 3rem;
+					`}
+				>
+					<header>
+						<a href={'/' + a.id}>
+							<h3>{a.attributes.titre}</h3>
+						</a>
+						<small>{a.attributes.date}</small>
+					</header>
+					<a href={'/' + a.id}>
+						<img css="width: 10rem" src={a.attributes.image}></img>
+					</a>
 					<p>
+						{a.attributes.résumé}{' '}
 						<a href={'/' + a.id}>
 							<em>Lire</em>
 						</a>
