@@ -3,19 +3,22 @@ import Article from './Article'
 import frontMatter from 'front-matter'
 
 var req = require.context('./articles', true, /\.md$/)
-const rawArticles = [...req.keys()].map((key) => req(key).default)
+const rawArticles = [...req.keys()].map((key) => [
+	key.replace('./', '').replace('.md', ''),
+	req(key).default,
+])
 console.log({ rawArticles })
 
-const parsedArticles = rawArticles.map(frontMatter)
-console.log(parsedArticles)
+const parsedArticles = rawArticles.map(([id, string]) => ({
+	...frontMatter(string),
+	id,
+}))
 
 export default () => {
 	const path = decodeURI(window.location.pathname)
 
 	if (path === '/') return <Liste articles={parsedArticles} />
-	const theOne = parsedArticles.find(
-		({ attributes: { id } }) => id === path.replace('/', '')
-	)
+	const theOne = parsedArticles.find(({ id }) => id === path.replace('/', ''))
 	if (theOne) return <Article data={theOne} />
 
 	return <div>Désolé, cette page n'existe pas</div>
@@ -59,13 +62,13 @@ let Liste = ({ articles }) => (
 			{articles.map((a) => (
 				<aside>
 					<img css="width: 10rem" src={a.attributes.image}></img>
-					<h3>{a.attributes.id}</h3>
+					<h3>{a.attributes.titre}</h3>
 					<p>
 						Cet article parle de ci et de ça, et de tout et de rien, et plus
 						encore.{' '}
 					</p>
 					<p>
-						<a href={'/' + a.attributes.id}>
+						<a href={'/' + a.id}>
 							<em>Lire</em>
 						</a>
 					</p>
