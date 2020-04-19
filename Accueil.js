@@ -39,7 +39,7 @@ const Header = () => (
 		`}
 	>
 		<h1>📝 Un blog</h1>
-		<p>Quelques idées sur les algorithmes, l'environnement, la ville </p>
+		<p>Quelques idées sur notre environnement, nos villes, les algorithmes</p>
 	</header>
 )
 
@@ -63,10 +63,7 @@ let Liste = ({ articles }) => (
 				<aside>
 					<img css="width: 10rem" src={a.attributes.image}></img>
 					<h3>{a.attributes.titre}</h3>
-					<p>
-						Cet article parle de ci et de ça, et de tout et de rien, et plus
-						encore.{' '}
-					</p>
+					<p>{a.attributes.résumé}</p>
 					<p>
 						<a href={'/' + a.id}>
 							<em>Lire</em>

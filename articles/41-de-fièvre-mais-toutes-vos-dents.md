@@ -1,6 +1,7 @@
 ---
 date: 4 avril 2020 
 image: https://images.unsplash.com/photo-1586194483662-d84a7a2deba1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+résumé: Votre médecin ne prononcera jamais cette phrase. Adoptons la même rigueur pour diagnostiquer l'état de notre planète bleue.
 ---
 
 # 41° de fièvre, mais toutes vos dents !
