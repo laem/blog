@@ -1,5 +1,5 @@
 ---
-id: ville-idéale-ou-crise
+image: https://i.imgur.com/OZEwzs5.jpg
 date: avril 2020
 ---
 
@@ -69,7 +69,17 @@ L'exode massive vers la province à l'annonce du confinement a lui aussi dévoil
 Et pourtant, le confinement nous donne l'opportunité rare de nous balader dans des rues apaisées, alors que les êtres végétaux se réveille. 
 
 
-Une rue piétonne de maisons colorées, aux trottoirs symboliques remplis de plantes : la [rue Crémieux](https://fr.m.wikipedia.org/wiki/Rue_Crémieux) sort tellement de l'ordinaire du quartier hyper-actif de la Gare de Lyon à Paris qu'elle est devenu un culte sur Instagram, problématique pour ses habitants. Plutôt que de reproduire ailleurs cette ambiance qui plait et donc diluer ses touristes, la mairie réfléchit à fermer cette voie publique le soir et le Weekend... 
+Une rue piétonne de maisons colorées, aux trottoirs symboliques remplis de plantes : la [rue Crémieux](https://fr.m.wikipedia.org/wiki/Rue_Crémieux) sort tellement de l'ordinaire du quartier hyper-actif de la Gare de Lyon à Paris qu'elle est devenu un culte sur Instagram, problématique pour ses habitants. 
+
+
+:::info
+photo de la rue ligner, mais chut, il faut pas le dire où elle est
+:::
+
+
+Plutôt que de reproduire ailleurs cette ambiance qui plait et donc diluer ses touristes, la mairie réfléchit à fermer cette voie publique le soir et le Weekend... 
+
+
 
 :::spoiler Central parc, buttes-chaumont
 Tout le monde échangerait son appartement donnant sur la rue française moyenne pour un autre bordant central Park à New-York, les buttes Chaumont ou le jardin du Thabor de Rennes. [Ca tombe bien, chaque appartement est aujourd'hui bordé par un espace d'une vingtaine de mètres de large, aujourd'hui privatisé.]
