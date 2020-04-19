@@ -1,4 +1,5 @@
 ---
+titre: La crise, ou la ville idéale ?
 image: https://i.imgur.com/OZEwzs5.jpg
 date: avril 2020
 ---
@@ -195,6 +196,8 @@ Réécrire nos grandes villes, ce ne serait donc pas un sujet pour 85% de la pop
 Les villes sont donc aussi nécessaires que mal aimées. Il est urgent de transformer les villes et pour y accueillir une exode rurale nécessaire.
 
 Quelle taille ?
+
+Jancovici laisse entendre dit qu'on sera tous dans les campagnes. Les villages sont-ils des modèles écologiques ? Voir la conv Shift
 
 
 Cette éxode pourra être la conséquence d'au moins deux facteurs :
