@@ -58,10 +58,7 @@ let Liste = ({ articles }) => (
 			</header>
 			{articles.map((a) => (
 				<aside>
-					<img
-						css="width: 10rem"
-						src="https://images.unsplash.com/photo-1559113202-ce42ff9be4b6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-					></img>
+					<img css="width: 10rem" src={a.attributes.image}></img>
 					<h3>{a.attributes.id}</h3>
 					<p>
 						Cet article parle de ci et de ça, et de tout et de rien, et plus
