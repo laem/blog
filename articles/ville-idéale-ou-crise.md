@@ -22,7 +22,8 @@ Il pourra s'acheter tous les 10 ans 6 petits m² d'un appartement parisien. Au b
 Heureusement, un emprunt immobilier à taux faible lui permettra d'éviter de payer un loyer et mettre 1/3 de ses revenus bruts dans l'achat pour rembourser son 25m² sur une période de 30 ans.
 
 
-![](https://i.imgur.com/V5LrQp0.jpg =500x)
+<img src="https://i.imgur.com/V5LrQp0.jpg" width="500px"/>
+
 *Ce cocon élégant et fonctionnel vaut bien ses 12 500€ le m² et 30 ans de travail, non ?*
 
 
