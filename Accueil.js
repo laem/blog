@@ -101,7 +101,10 @@ let Liste = ({ articles }) => (
 							</small>
 						</header>
 						<a href={'/' + a.id}>
-							<img css="width: 10rem" src={a.attributes.image}></img>
+							<img
+								css="width: 10rem; box-shadow: rgb(147, 143, 143) 2px 2px 10px 0px;"
+								src={a.attributes.image}
+							></img>
 						</a>
 						<p>
 							{a.attributes.résumé}{' '}
