@@ -2,7 +2,7 @@
 titre: "La crise, ou la ville idéale ?"
 résumé: Le rapport qualité-prix de nos villes est en chute libre. Il y a pourtant une solution évidente pour qu'elles restent désirables.
 image: https://i.imgur.com/OZEwzs5.jpg
-date: 26 avril 2020
+date: 2020-04-26
 ---
 
 
