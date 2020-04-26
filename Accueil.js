@@ -63,41 +63,54 @@ let Liste = ({ articles }) => (
 			`}
 		>
 			<header></header>
-			{articles.map((a) => (
-				<aside
-					css={`
-						p {
-							max-width: 36rem;
-							margin-bottom: 0.3rem;
-						}
-						> a {
-							text-decoration: none;
-						}
+			{articles
+				.sort((a2, a1) => (a1.attributes.date > a2.attributes.date ? -1 : 1))
+				.map((a) => (
+					<aside
+						css={`
+							p {
+								max-width: 36rem;
+								margin-bottom: 0.3rem;
+							}
+							header {
+								margin-bottom: 1rem;
+							}
+							header > a {
+								text-decoration: none;
+							}
 
-						h3 {
-							display: inline-block;
-							margin-right: 1rem;
-						}
-						margin-bottom: 3rem;
-					`}
-				>
-					<header>
+							h2 {
+								display: block;
+								text-decoration: none;
+								margin-bottom: 0.3rem;
+							}
+							margin-bottom: 3rem;
+						`}
+					>
+						<header>
+							<a href={'/' + a.id}>
+								<h2>{a.attributes.titre}</h2>
+							</a>
+							<small>
+								{a.attributes.date.toLocaleString(undefined, {
+									weekday: 'long',
+									year: 'numeric',
+									month: 'long',
+									day: 'numeric',
+								})}
+							</small>
+						</header>
 						<a href={'/' + a.id}>
-							<h3>{a.attributes.titre}</h3>
+							<img css="width: 10rem" src={a.attributes.image}></img>
 						</a>
-						<small>{a.attributes.date}</small>
-					</header>
-					<a href={'/' + a.id}>
-						<img css="width: 10rem" src={a.attributes.image}></img>
-					</a>
-					<p>
-						{a.attributes.résumé}{' '}
-						<a href={'/' + a.id}>
-							<em>Lire</em>
-						</a>
-					</p>
-				</aside>
-			))}
+						<p>
+							{a.attributes.résumé}{' '}
+							<a href={'/' + a.id}>
+								<em>Lire</em>
+							</a>
+						</p>
+					</aside>
+				))}
 		</section>
 	</main>
 )
