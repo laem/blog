@@ -5,7 +5,6 @@ import frontMatter from 'front-matter'
 export const pageLayout = `
 			max-width: 800px;
 			margin: 0 auto;
-			padding: 1rem;
 `
 
 var req = require.context('./articles', true, /\.md$/)
@@ -36,8 +35,9 @@ const Header = () => (
 			display: flex;
 			flex-direction: column;
 			align-items: center;
+			margin-bottom: 1rem;
 			> h1 {
-				margin-bottom: 0.8rem;
+				margin: 0.8rem;
 			}
 			> p {
 				margin-top: 0;

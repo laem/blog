@@ -1,18 +1,41 @@
 import React from 'react'
 import ReactMarkdown from 'react-markdown'
-import { pageLayout } from './Accueil'
 
 export default ({
 	data: {
-		attributes: { id },
+		attributes: { image, id },
 		body,
 	},
 }) => (
 	<div
 		css={`
-			${pageLayout}
+			max-width: 800px;
+			margin: 0 auto;
+			h1 {
+				text-align: center;
+			}
+			h2,
+			h3,
+			h4,
+			h5 {
+				margin-top: 2rem;
+			}
+			img {
+				max-width: 80%;
+				margin: 2rem auto;
+				display: block;
+			}
+			img + em {
+				color: #666;
+				text-align: center;
+			}
 		`}
 	>
-		<ReactMarkdown source={body} />
+		<img
+			css="    max-height: 30rem;
+"
+			src={image}
+		></img>
+		<ReactMarkdown source={body} escapeHtml={false} />
 	</div>
 )
