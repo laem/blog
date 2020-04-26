@@ -58,6 +58,11 @@ L'inédite crise du coronavirus, qui confine les habitants des métropoles dans 
 
 Nous sommes d'ordinaire prêts à y renoncer pour l'emploi et l'animation urbaine… jusqu'à peut-être réaliser que ce modeste espace, et la fatigue des grandes villes coûtent le prix d'une villa sur la côte ouest, 2 fois celui d'une maison charmante dans un village, ou 3 fois celui d'une maison pavillonnaire.
  
+ 
+![](https://i.imgur.com/vro4CLh.png)
+*Et vous, vous êtes plutôt 1, 2 ou 3 ?*
+
+
 L'exode massive vers la province à l'annonce du confinement a dévoilé le peu d'attrait de l'environnement urbain, quand le télétravail est généralisé, et quand ses bars et théâtres ferment. 
 
 ## Des exemples tout tracés
