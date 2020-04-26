@@ -10,7 +10,7 @@ export default ({
 	<div
 		css={`
 			max-width: 800px;
-			margin: 0 auto;
+			margin: 0 auto 4rem;
 			h1 {
 				text-align: center;
 			}
@@ -28,6 +28,11 @@ export default ({
 			img + em {
 				color: #666;
 				text-align: center;
+			}
+			hr {
+				border: 1px solid #eee;
+				width: 70%;
+				margin: 2rem auto;
 			}
 		`}
 	>
