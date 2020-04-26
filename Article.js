@@ -34,6 +34,16 @@ export default ({
 				width: 70%;
 				margin: 2rem auto;
 			}
+			blockquote {
+				border-left: 6px solid grey;
+				padding-left: 1rem;
+				margin-left: 0;
+			}
+			code {
+				background: #eee;
+				padding: 0.1rem 0.4rem;
+				border-radius: 0.3rem;
+			}
 		`}
 	>
 		<img

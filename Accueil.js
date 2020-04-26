@@ -64,7 +64,7 @@ let Liste = ({ articles }) => (
 		>
 			<header></header>
 			{articles
-				.sort((a2, a1) => (a1.attributes.date > a2.attributes.date ? -1 : 1))
+				.sort((a1, a2) => (a1.attributes.date > a2.attributes.date ? -1 : 1))
 				.map((a) => (
 					<aside
 						css={`
