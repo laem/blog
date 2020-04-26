@@ -70,7 +70,6 @@ L'exode massive vers la province à l'annonce du confinement a dévoilé le peu 
 
 [Paris](https://fr.wikipedia.org/wiki/Coul%C3%A9e_verte_Ren%C3%A9-Dumont) d'abord, [New York](https://fr.wikipedia.org/wiki/High_Line) ensuite puis [Seoul](https://fr.wikipedia.org/wiki/Seoullo_7017) nous montrent le succès immédiat d'une réalisation simple : une voie entièrement piétonne et plantée dans des villes monde. A défaut d'avoir des anciens rails ou autoroutes suspendus dans les autres villes, pourquoi ne pas reproduire ces lieux magiques directement au sol ? Pourquoi ne pas commencer par relier les parcs et squares existants entre-eux ?
 
-> [name=Mael] insérer ici un dessin sur fond satellite des possibilités sur le square Sarah Bernard et au nord du Père Lachaise ?
 
 
 Une rue piétonne de maisons colorées, aux trottoirs couverts de plantes : la [rue Crémieux](https://fr.m.wikipedia.org/wiki/Rue_Crémieux) sort tellement de l'ordinaire hyperactif bouchonné de la Gare de Lyon à Paris qu'elle est devenu culte sur Instagram, jusqu'à faire craquer ses habitants. 
@@ -103,7 +102,10 @@ La compétition pour redorer l'image de la grande ville s'est silencieusement la
 
 Respirer un air pur. Dormir la fenêtre ouverte au calme. Marcher librement, sans que le rehaussement du trottoir et ses potelets nous rappellent que nous ne sommes pas les bienvenus en dehors des marges. Faire du vélo sans la vigilance d'un pilote de F1. Être entouré de vert. Voir les enfants jouer dans les rues. Observer la beauté d'une ville, remarquer des sols et façades non noircis. 
 
-Une ville sortira bientôt du lot. Elle en profitera largement et amortira la chute de ses prix, avant de se faire rattraper par d'autres.
+![](https://i.imgur.com/pbg5FHM.jpg)
+
+
+Une ville sortira bientôt du lot. Elle en profitera largement et amortira la chute de ses prix, avant que les autres la rattrappent.
 
 
 Comment faire pour que l'environnement urbain comble davantage ce besoin de campagne ? La solution commune la plus évidente, c'est **la fin programmée du véhicule motorisé individuel dans les zones denses**.
@@ -115,14 +117,13 @@ Thème incontournable des municipales annulées de mars 2020, nous sommes en ple
 
 ## L'ennemi des villes : la voiture individuelle
 
-> [name=Mael] Un meilleur titre
 
 Rares sont aujourd'hui les initiatives radicales pour diminuer la place de la voiture individuelle. Donc on tente, en vain, de construire la ville alternative à sa marge. 
 
 
 Or nous oublions souvent qu'elle rentre tout simplement *en conflit* avec ces aspirations. 
 
-### Un évident conflit d'espace
+### Un évident conflit d'espace 🗺
 
 A Paris, pourtant parmi les villes les plus denses du monde, [50 % de l’espace pour 13 % des déplacements](https://www.lemonde.fr/les-decodeurs/article/2016/11/30/a-paris-la-moitie-de-l-espace-public-est-reservee-a-l-automobile_5040857_4355770.html).
 
@@ -143,10 +144,8 @@ Nous devons mettre en oeuvre l'[équité géographique](https://m.youtube.com/wa
 
 Sortons un peu de la capitale pour ramener cette occupation de l'espace publique aux surfaces de nos logements.
 
+![](https://i.imgur.com/60SJijL.jpg)
 
-![](https://i.imgur.com/dU0xyR7.jpg)
-
-> [name=Mael] indiquer un rdc de commerces ? Diviser par 2 car meme batiment en face. Ajouter que trottoir => piste cyclable
 
 Ce modèle est simpliste, mais illustre à quel point nos rues pourraient devenir nos petites parcelles de jardin ou d'[espace de cohabitation entre voisins](https://www.youtube.com/watch?v=mguvTfAw4wk).
 
@@ -169,17 +168,17 @@ Il ne s'agit plus de peindre au sol des voies cyclables, ni d'ailleurs de constr
 *Des petits gestes de transition urbaine, aussi radicaux que l'interdiction des pailles en plastique*
 
 
-La crise du coronavirus met en évidence le problème de nos trottoirs. A vrai dire en 2020, Paris est la seule ville de France à disposer d'une [carte de la largeur des trottoirs](http://laem.github.io/trottoirs-de-paris/) ! 
+La crise du coronavirus a mis en évidence le problème de nos trottoirs. A vrai dire en 2020, Paris est la seule ville de France à disposer d'une [carte de la largeur des trottoirs](http://laem.github.io/trottoirs-de-paris/) ! 
 
-Mais ne nous laissons pas avoir : le sujet n'est pas seulement la largeur du trottoir, c'est son existence même. Il est conçu pour protéger les piétons du danger au centre de nos routes. Pourquoi devrions accepter ce danger lui-même en zone dense ? Une rue ou portion de rue sans trottoir sont aujourd'hui synonymes de zone agréable prioritaire aux piétons.
-
-
-Il ne s'agit pas non plus de répondre à un seul problème en en créant de nouveaux : la voiture individuelle électrique reste encombrante et chère; sa version autonome, risque de voir son potentiel de partage gâché par un rebond du nombre de kilomètres parcourus (imaginez : le télétravail dans les bouchons). 
-
->[name=Mael] La *smart city* fluide aux véhicules autonomes [existe déjà à Amsterdam](https://www.youtube.com/watch?v=p-ZaIvgWUlk).
+Mais ne nous laissons pas avoir : le sujet n'est pas la largeur du trottoir, c'est son existence même qui souvent révèle un échec. Il est conçu pour protéger les piétons du danger au centre de nos routes. Pourquoi devrions accepter ce danger en zone dense ? Le peu de rues ou portions de rue plates sont aujourd'hui synonymes de zone agréable prioritaire aux piétons.
 
 
-Il faut une transformation assez radicale des espaces publics pour résister à cette inédite pression immobilière. 
+Il ne s'agit pas non plus de répondre à un seul problème en en créant de nouveaux : la voiture individuelle électrique reste encombrante et chère; sa version autonome verra son potentiel de partage gâché par un rebond du nombre de kilomètres parcourus (imaginez : le télétravail dans les bouchons). 
+
+La *smart city* fluide et sûre que promettent les véhicules autonomes est déjà en oeuvre à Amsterdam,  [sans les voitures](https://www.youtube.com/watch?v=p-ZaIvgWUlk).
+
+
+Il faut une transformation assez radicale de nos espaces publics pour résister à cette inédite pression immobilière. 
 
 Un choc urbain d'un ordre de grandeur pour des lieux de vie qu'on ose à peine imaginer aujourd'hui, coincés dans nos schémas quotidiens.
 
@@ -191,9 +190,9 @@ Les dernières canicules sur la métropole nous ont montré que ses villes ne se
 
 Alors que Dubaï a terminé son premier [*quartier durable*](https://www.francetvinfo.fr/monde/moyen-orient/emirats-arabes-unis-une-ville-100-durable-a-l-essai_3804809.html) (ce qui ne compense évidemment presque rien du mode de vie Emirati), les médias français commencent tout juste à raconter [le repli immobilier](https://www.wedemain.fr/Et-si-le-climat-faisait-plonger-l-immobilier_a4596.html) dans les régions du sud aux températures insoutenables.
 
-Le problème climatique, connu de longue date, est d'ailleurs doté de solutions bien tracées qui illustrent parfaitement cette notion de transformation radicale : pour rester sous les 2° de réchauffement, il faut réduire nos émissions de gaz à effet de serre de 4% par an. 
+Le problème climatique, connu de longue date, est d'ailleurs doté de solutions bien tracées qui illustrent parfaitement cette notion de transformation radicale : pour rester sous les 2° de réchauffement, il faut réduire nos émissions de gaz à effet de serre d'au moins 4% par an. 
 
-Quelques petits pourcents, cela peut sembler anodin ! Et pourtant, nous n'y sommes arrivés que 3 fois dans l'histoire : la chute des empires nazi et japonais en 1945, le paroxysme de la crise de 1929, et la crise actuelle du coronavirus. C'est *dix fois* le [rythme actuel](http://www.leparisien.fr/info-paris-ile-de-france-oise/transports/ile-de-france-le-nombre-de-deplacements-en-voiture-a-baisse-de-5-en-huit-ans-13-11-2019-8192181.php) de baisse des déplacements en voiture en Île-de-France. Paris est une des rares villes [à y parvenir](https://mobile.twitter.com/C_Najdovski/status/1230787893087625216). *Il faut y arriver chaque année*.
+Quelques petits pourcents, cela peut sembler anodin ! Et pourtant, nous n'y sommes arrivés que 3 fois dans l'histoire : la chute des empires allemand et japonais en 1945, le paroxysme de la crise de 1929, et la crise actuelle du coronavirus. C'est *dix fois* le [rythme actuel](http://www.leparisien.fr/info-paris-ile-de-france-oise/transports/ile-de-france-le-nombre-de-deplacements-en-voiture-a-baisse-de-5-en-huit-ans-13-11-2019-8192181.php) de baisse des déplacements en voiture en Île-de-France. Paris est une des rares villes [à y parvenir](https://mobile.twitter.com/C_Najdovski/status/1230787893087625216). *Il faut y arriver chaque année*.
 
 
 
@@ -229,8 +228,6 @@ Un élément important vient toutefois questionner ce propos : le risque de rupt
 Jean-Marc Jancovici par exemple [laisse entendre](https://youtu.be/QGEai5owA4w?t=4434) un déplacement massif, contraint, vers les campagnes, où nous devrons être des millions en plus à travailler la terre. C'est aussi le point de vue du texte ["Propositions pour un retour sur Terre"
 ](lapenseeecologique.com/propositions-pour-un-retour-sur-terre/) publié en avril 2020.
 
-> [name=Mael] A travailler : 
-
 
 Cette campagne plus durable de toute évidence ne pourra ressembler à l'actuelle, dont [65%](https://parcel-app.org/repartition-des-produits-relocalises) de la surface est destinée à la viande (et ca ne suffit pas, il faut importer du soja), composée à 90% de champs démembrés, où les chemins publics et les bois se font rares, coupée par des routes dangereuses. Tout autre mode de déplacement que la voiture y est déconseillé.
 
@@ -251,10 +248,12 @@ Ou celle-ci ?
 
 
 
-**Quelle sont la taille et l'organisation spatiale idéales d'une ville soutenable** ? Et donc d'une *vie* soutenable ?
+**Quelle sont la taille et l'organisation spatiale idéales d'une ville soutenable** ? 
+
+Et donc d'une *vie* soutenable ?
 
 
-Construisons des modèles, numériques et chiffrés, pour donner une base plus solide que les aprioris de chacun, à cette question essentielle.
+Construisons des modèles chiffrés, pour donner une base plus solide que les aprioris de chacun, à cette question essentielle.
 
 
 -------------
@@ -263,7 +262,7 @@ En attendant cet idéal, dîtes-moi où se construit cette grande ville où plus
 
 Elle ne semble pour l'instant pas exister, mais on la devine dans les promesses électorales.
 
-Pour suivre l'avancement de ces villes "plus" qui seront en premier lieu piétonnes, un observatoire vient de naître : découvrez le premier classement des villes les plus piétonnes 🚶‍♀️, ouvert et contributif : [https://villes.plus](https://villes.plus).
+Pour suivre l'avancement de ces villes "plus" qui seront en premier lieu piétonnes, un observatoire vient de naître : découvrez le premier classement des villes les plus piétonnes 🚶‍♀️ ouvert et contributif : [https://villes.plus](https://villes.plus).
 
 
 
