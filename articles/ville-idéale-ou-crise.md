@@ -9,7 +9,7 @@ date: avril 2020
 # La crise, ou la ville idéale ?
 
 
-## Innaccessible propriété
+## Inaccessible propriété
 
 La France est en pleine bulle immobilière. Qu'est-ce qui permet de l'affirmer ? Le décrochage de plus en plus manifeste des revenus par rapport au prix de l'immobilier. En termes simples : les français peuvent de moins en moins s'acheter un appartement avec l'argent de leur travail. 
 
@@ -26,7 +26,7 @@ Heureusement, un emprunt immobilier à taux faible lui permettra d'éviter de pa
 *Ce cocon élégant et fonctionnel vaut bien ses 12 500€ le m² et 30 ans de travail, non ?*
 
 
-Or notre jeune ingénieur est parmi les mieux lotis aujourd'hui ! Le salaire brut médian en France est de 28 000€, dix mille de moins. On se rend compte à quel point les pespectives logement du jeune français dans les métropoles sont sombres : **décidémment en 2020, on a la famille derrière nous, on a la chance d'être en CDI pour s'endetter, ou bien on reste locataire à vie**.
+Or notre jeune ingénieur est parmi les mieux lotis aujourd'hui ! Le salaire brut médian en France est de 28 000€, dix mille de moins. On se rend compte à quel point les perspectives logement du jeune français dans les métropoles sont sombres : **décidément en 2020, on a la famille derrière nous, on a la chance d'être en CDI pour s'endetter, ou bien on reste locataire à vie**.
 
 ### Pas seulement en Île-de-France
 
@@ -40,7 +40,7 @@ Encore plus étonnant, c'est en fait *toute la France* en tendance longue qui a 
 
 ## La mécanique se grippe
 
-Il y a dix ans, on pouvait déjà faire ce constat. Alors pourquoi pas une autre décénnie de hausse des prix ? 
+Il y a dix ans, on pouvait déjà faire ce constat. Alors pourquoi pas une autre décennie de hausse des prix ? 
 
 Personne ne contestera que la possibilité de l'emprunt et les taux bas de sont le carburant de cette hausse. Mais en ce début d'année 2020, l'Etat s'est adressé aux banques qu'il considère trop généreuses dans leurs crédits… Notons aussi la fin de l'impôt sur la fortune pour les placements financiers, rendant les rentes locatives comparativement moins intéressantes. La fin de la taxe d'habitation payée par le locataire, la hausse de la taxe foncière payée par le propriétaire ne manqueront pas de rentrer dans les calculs pour l'accession à la propriété. 
 
@@ -67,7 +67,7 @@ L'exode massive vers la province à l'annonce du confinement a dévoilé le peu 
 > [name=Mael] insérer ici un dessin sur fond satellite des possibilités sur le square Sarah Bernard et au nord du Père Lachaise ?
 
 
-Une rue piétonne de maisons colorées, aux trottoirs couverts de plantes : la [rue Crémieux](https://fr.m.wikipedia.org/wiki/Rue_Crémieux) sort tellement de l'ordinaire hyper-actif bouchonné de la Gare de Lyon à Paris qu'elle est devenu culte sur Instagram, jusqu'à faire craquer ses habitants. 
+Une rue piétonne de maisons colorées, aux trottoirs couverts de plantes : la [rue Crémieux](https://fr.m.wikipedia.org/wiki/Rue_Crémieux) sort tellement de l'ordinaire hyperactif bouchonné de la Gare de Lyon à Paris qu'elle est devenu culte sur Instagram, jusqu'à faire craquer ses habitants. 
 
 
 Plutôt que de reproduire ailleurs cette ambiance qui plait et donc diluer les touristes, la mairie du 12ème réfléchit à fermer cette voie publique les soirs et weekends... 
@@ -80,7 +80,7 @@ Plutôt que de reproduire ailleurs cette ambiance qui plait et donc diluer les t
 
 ### Incarnation actuelle de l'écologie
 
-Quitter la ville est d'ailleurs devenu pour beaucoup le rêve de reconversion écologique. Et toi, c'est quand que tu quittes Paris ? Les *tiny houses* fascinent, tout comme les éco-villages.
+Quitter la ville est d'ailleurs devenu pour beaucoup le rêve de reconversion écologique. Et toi, c'est quand que tu quittes Paris ? Les *tiny houses* fascinent, tout comme les écovillages.
 
 
 Pas si simple ! Au-delà de ces tendances du moment, comme on pouvait s'en douter, [les français veulent la nature, le village, et l'activité des grandes villes à la fois](http://lobsoco.com/wp-content/uploads/2020/02/LObSoCo-Chronos-I-Observatoire-des-usages-et-repr%C3%A9sentations-des-territoires-I-Conf%C3%A9rence-de-Presse.pdf).
@@ -95,7 +95,7 @@ La compétition pour redorer l'image de la grande ville s'est silencieusement la
 
 
 
-Respirer un air pur. Dormir la fenêtre ouverte au calme. Marcher librement, sans que le réhaussement du trottoir et ses potelets nous rappellent que nous ne sommes pas les bienvenus en dehors des marges. Faire du vélo sans la vigileance d'un pilote de F1. Être entouré de vert. Voir les enfants jouer dans les rues. Observer la beauté d'une ville, remarquer des sols et façades non noircis. 
+Respirer un air pur. Dormir la fenêtre ouverte au calme. Marcher librement, sans que le rehaussement du trottoir et ses potelets nous rappellent que nous ne sommes pas les bienvenus en dehors des marges. Faire du vélo sans la vigilance d'un pilote de F1. Être entouré de vert. Voir les enfants jouer dans les rues. Observer la beauté d'une ville, remarquer des sols et façades non noircis. 
 
 Une ville sortira bientôt du lot. Elle en profitera largement et amortira la chute de ses prix, avant de se faire rattraper par d'autres.
 
@@ -156,18 +156,26 @@ Rennes, parmi les villes les plus riches de France, a beau terminer sa deuxième
 
 ## Le changement doit être radical
 
-Il ne s'agit plus de peindre au sol quelques voies cyclables, ni d'ailleurs d'ajouter des pistes cyclables en marge des routes, il s'agit de faire de la rue que nous connaissons aujourd'hui une nouvelle page des manuels d'histoire. 
+Il ne s'agit plus de peindre au sol des voies cyclables, ni d'ailleurs de construire des pistes cyclables en marge des routes, il s'agit de faire de la rue que nous connaissons aujourd'hui une nouvelle page des manuels d'histoire. 
+
 
 ![](https://i.imgur.com/PWcVbzQ.jpg)
 *Des petits gestes de transition urbaine, aussi radicaux que l'interdiction des pailles en plastique*
 
 
-Il ne s'agit pas non plus de répondre à un seul problème en en créant de nouveaux : la voiture individuelle électrique reste encombrante et chère; sa version autonome, risque de voir son potentiel de partage gâché par un rebond du nombre de kilomètres parcourus (imaginez : le télétravail dans les bouchons).
+La crise du coronavirus met en évidence le problème de nos trottoirs. A vrai dire en 2020, Paris est la seule ville de France à disposer d'une [carte de la largeur des trottoirs](http://laem.github.io/trottoirs-de-paris/) ! 
+
+Mais ne nous laissons pas avoir : le sujet n'est pas seulement la largeur du trottoir, c'est son existence même. Il est conçu pour protéger les piétons du danger au centre de nos routes. Pourquoi devrions accepter ce danger lui-même en zone dense ? Une rue ou portion de rue sans trottoir sont aujourd'hui synonymes de zone agréable prioritaire aux piétons.
+
+
+Il ne s'agit pas non plus de répondre à un seul problème en en créant de nouveaux : la voiture individuelle électrique reste encombrante et chère; sa version autonome, risque de voir son potentiel de partage gâché par un rebond du nombre de kilomètres parcourus (imaginez : le télétravail dans les bouchons). 
+
+>[name=Mael] La *smart city* fluide aux véhicules autonomes [existe déjà à Amsterdam](https://www.youtube.com/watch?v=p-ZaIvgWUlk).
 
 
 Il faut une transformation assez radicale des espaces publics pour résister à cette inédite pression immobilière. 
 
-Un choc urbain d'un ordre de grandeur pour des lieux de vie qu'on ose à peine imaginer aujourd'hui, enfermés dans nos schémas quotidiens.
+Un choc urbain d'un ordre de grandeur pour des lieux de vie qu'on ose à peine imaginer aujourd'hui, coincés dans nos schémas quotidiens.
 
 ### Le climat s'invite dans les transactions
 
@@ -185,23 +193,23 @@ Quelques petits pourcents, cela peut sembler anodin ! Et pourtant, nous n'y somm
 
 ## Au-delà des grandes villes
 
-Rappelons que les communes de plus de cent mille habitants ne regroupent que 15% des français, et celles de plus de cinquante mille, 25% de la population.
+Rappelons que les communes de plus de cent mille habitants [ne regroupent que 15% des français](https://www.lemonde.fr/blog/transports/2020/02/16/ces-jolies-places-de-france-qui-sont-encore-des-parkings/), et celles de plus de cinquante mille, 25% de la population.
 
-Réécrire nos grandes villes, ça ne concernerait pas trois quarts des Français ? 
+Réécrire nos grandes villes, ça ne concernerait donc pas les trois quarts des Français ? 
 
 ### Un autre idéal écologique
 
-Il y a fort à parier qu'une vie durable en zone peu dense ne soit pas soutenable (au sens de notre empreinte sur l'environnement) sans d'énormes sacrifices, auxquels beaucoup ne sont pas prêts : un nombre conséquent de kilomètres à vélo ou en bus peu fréquent; résister à des surfaces de logement par personnes de plus de 20m², limiter l'artificialisation des sols à la seule habitation; refaire du gros pull en laine la norme, etc. 
+L'idéal écologique actuel, qui tend vers la maison isolée de campagne, est nourri en grande partie par un besoin viscéral de quitter la ville,devenue angoissante. Il est nécessaire et inspirant, mais ne répond pas forcément à une réduction réelle de notre empreinte. 
 
-La vie quotidienne en ville dense est aujourd'hui bien plus soutenable que la vie en maison individuelle sur les composantes transport, logement et services publics, qui représentent par exemple du point de vue du climat plus de la moitié [de notre empreinte](http://ravijen.fr/?p=508). Il reste donc à s'assurer que cette vie quotidienne ne soit plus source d'envie d'évasion en avion le weekend.
+Il y a fort à parier qu'une vie durable en zone peu dense ne soit pas soutenable (au sens de notre empreinte sur l'environnement) sans d'énormes sacrifices, auxquels beaucoup ne sont pas prêts : un nombre conséquent de kilomètres à vélo ou en bus peu fréquent; résister à des surfaces de logement par personnes de plus de 30m², limiter l'artificialisation des sols à la seule habitation; baisser le chauffage et refaire du gros pull en laine la norme, etc. 
 
-L'idéal écologique actuel, qui tend vers la maison isolée de campagne, est nourri en grande partie par un besoin viscéral de quitter la ville, voir même une angoisse. Il est nécessaire et inspirant, mais ne répond pas à une réduction réelle de notre empreinte. 
+La vie quotidienne en ville dense est aujourd'hui bien plus soutenable que la vie en maison individuelle sur les composantes transport, logement et services publics, qui représentent par exemple du point de vue du climat [plus de la moitié de notre empreinte](http://ravijen.fr/?p=508). Il reste à s'assurer que cette vie quotidienne ne soit plus source de l'envie d'évasion en avion le weekend.
 
-Pour atteindre un idéal écologique plus rationnel, à ce stade une exode vers des villes nouvelles, denses, semble à l'inverse préférable.
+
 
 ### La contrainte pétrole 
 
-Rappelons que *le pic de production de pétrole est jugé probable d'ici 2025*, soit en gros le temps d'un mandat municipal, par l'Agence Internationale de l'Energie. L'épisode des prix négatifs provoqué par la crise du Coronavirus brouille cette prédiction, qui pourrait aussi être décalée (baisse pérenne de la demande) qu'avancée (faillite des puits pétroliers non conventionnels nord-américains).
+Rappelons que *le pic de production de pétrole est jugé probable d'ici 2025*, soit presque le temps d'un mandat municipal, par l'Agence Internationale de l'Energie. L'épisode des prix négatifs provoqué par la crise du coronavirus brouille cette prédiction, qui pourrait aussi bien être décalée (baisse pérenne de la demande) qu'avancée (faillite de la production non conventionnels nord-américaine).
 
 Or, vivre en zone peu dense sans voiture est à l'évidence très compliqué, sauf à s'isoler, accepter des dizaines de kilomètres à vélo par jour, ou s'organiser avec les voisins pour partager une voiture électrique.
 
@@ -210,15 +218,15 @@ Une transition *préparée* vers des lieux de vie plus durables, qu'elle s'impos
 
 ### Un contrepoint : l'agriculture
 
-Un élément important vient toutefois nuancer ce propos : le potentiel risque de rupture d'approvisionnement en nourriture des villes est de plus en plus pointé du doigt.
+Un élément important vient toutefois questionner ce propos : le risque de rupture d'approvisionnement en nourriture des grandes villes est de plus en plus pointé du doigt.
 
-Jean-Marc Jancovici par exemple [laisse entendre](https://youtu.be/QGEai5owA4w?t=4434) un déplacement massif, contraint, vers les campagnes, où nous devrons être des millions en plus à travailler la terre. C'est aussi le point de vue de ["Propositions pour un retour sur Terre"
-](lapenseeecologique.com/propositions-pour-un-retour-sur-terre/) publié récemment.
+Jean-Marc Jancovici par exemple [laisse entendre](https://youtu.be/QGEai5owA4w?t=4434) un déplacement massif, contraint, vers les campagnes, où nous devrons être des millions en plus à travailler la terre. C'est aussi le point de vue du texte ["Propositions pour un retour sur Terre"
+](lapenseeecologique.com/propositions-pour-un-retour-sur-terre/) publié en avril 2020.
 
 > [name=Mael] A travailler : 
 
 
-Cette campagne de toute évidence ne ressemblera pas à l'actuelle, dont [65%](https://parcel-app.org/repartition-des-produits-relocalises) de la surface est destinée à la viande (et ca ne suffit pas, il faut importer du soja), composée à 90% de champs privés démembrés, où les chemins publics et bois se font rares, coupée par des routes dangereuses sans trottoir.
+Cette campagne plus durable de toute évidence ne pourra ressembler à l'actuelle, dont [65%](https://parcel-app.org/repartition-des-produits-relocalises) de la surface est destinée à la viande (et ca ne suffit pas, il faut importer du soja), composée à 90% de champs démembrés, où les chemins publics et les bois se font rares, coupée par des routes dangereuses. Tout autre mode de déplacement que la voiture y est déconseillé.
 
 ![](https://i.imgur.com/nWTO1Bp.jpg)
 
@@ -228,27 +236,28 @@ Faut-il donc inventer l'habitat partagé à la campagne ? Ou intégrer l'agricul
 
 Doit-on aller dans cette direction ?
 
-[![](https://i.imgur.com/Dv93apL.jpg)](https://mobile.twitter.com/loouisfernandes/status/953557063124377600/photo/1)
-
+![](https://i.imgur.com/w1FhmRh.jpg)
 
 Ou celle-ci ?
 
-![](https://i.imgur.com/w1FhmRh.jpg)
 
-**Quelle est la taille idéale d'une ville soutenable et son organisation spatiale** ?
+[![](https://i.imgur.com/Dv93apL.jpg)](https://mobile.twitter.com/loouisfernandes/status/953557063124377600/photo/1)
+
+
+
+**Quelle sont la taille et l'organisation spatiale idéales d'une ville soutenable** ? Et donc d'une *vie* soutenable ?
 
 
 Construisons des modèles, numériques et chiffrés, pour donner une base plus solide que les aprioris de chacun, à cette question essentielle.
 
 
-# Conclusion 
+-------------
+En attendant cet idéal, dîtes-moi où se construit cette grande ville où plus de moitié des rues sont piétonnes, cyclables, vertes. Où la voiture n'y est plus qu'un moyen de transport exceptionnel. Pas seulement dans le centre-ville touristique. 
 
-En attendant cet idéal, dîtes-moi où est cette grande ville où plus de moitié des rues sont piétonnes, cyclables, vertes. Pas seulement le centre-ville touristique. 
 
+Elle ne semble pour l'instant pas exister, mais on la devine dans les promesses électorales.
 
-Elle ne semble pour l'instant pas exister, sauf peut-être dans les promesses électorales.
-
-Pour suivre l'avancement de ces villes "plus" qui seront en premier lieu **piétonnes**, un observatoire vient de naître : découvrez [le premier classement des villes les plus piétonnes](https://villes.plus/piétonnes), ouvert et contributif.
+Pour suivre l'avancement de ces villes "plus" qui seront en premier lieu piétonnes, un observatoire vient de naître : découvrez le premier classement des villes les plus piétonnes 🚶‍♀️, ouvert et contributif : [https://villes.plus](https://villes.plus).
 
 
 
