@@ -1,18 +1,11 @@
 ---
 titre: 41° de fièvre, mais toutes vos dents ! 
-date: 4 avril 2020 
+date: 2020-04-04
 image: https://images.unsplash.com/photo-1586194483662-d84a7a2deba1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 résumé: Votre médecin ne prononcera jamais cette phrase. Adoptons la même rigueur pour diagnostiquer l'état de notre planète bleue.
 ---
 
 # 41° de fièvre, mais toutes vos dents !
-
-:::warning
-1er jet de l'article. il manque : 
-- un sous-titre introduisant la cible : patler environnement
-- des liens, lanoteglobale, publi.codes
-- mieux introduite l'extrait de loi à la fin
-:::
 
 > Voilà madame, vous pouvez rentrer chez vous, tout va bien. Le thermomètre indique 41° de fièvre, ce qui pourrait sembler inquiétant en soi, mais votre électrocardiogramme est normal, votre tension aussi et vous n'avez perdu aucune dent !
 
