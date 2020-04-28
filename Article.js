@@ -1,6 +1,13 @@
 import React from 'react'
 import ReactMarkdown from 'react-markdown'
 
+export const imageResizer = (size) => (src) =>
+	src.includes('imgur.com')
+		? src.replace(/\.(png|jpg)$/, size + '.jpg')
+		: src.includes('unsplash.com')
+		? src.replace(/w=[0-9]+\&/, (_, p1) => `w=${size === 'm' ? '320' : '640'}&`)
+		: src
+
 export default ({
 	data: {
 		attributes: { image, id },
@@ -8,7 +15,7 @@ export default ({
 	},
 }) => (
 	<div css={() => articleStyle}>
-		<img css="max-height: 30rem;" src={image}></img>
+		<img css="max-height: 30rem;" src={imageResizer('l')(image)}></img>
 		<ReactMarkdown
 			renderers={{ image: ImageRenderer }}
 			source={body}
@@ -17,11 +24,7 @@ export default ({
 	</div>
 )
 
-const ImageRenderer = ({ src }) => (
-	<img
-		src={src.includes('imgur.com') ? src.replace(/\.(png|jpg)$/, 'l.jpg') : src}
-	/>
-)
+const ImageRenderer = ({ src }) => <img src={imageResizer('l')(src)} />
 
 const articleStyle = `
 	max-width: 800px;

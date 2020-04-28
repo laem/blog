@@ -1,6 +1,7 @@
 import React from 'react'
 import Article from './Article'
 import frontMatter from 'front-matter'
+import { imageResizer } from './Article'
 
 export const pageLayout = `
 			max-width: 800px;
@@ -103,7 +104,7 @@ let Liste = ({ articles }) => (
 						<a href={'/' + a.id}>
 							<img
 								css="width: 10rem; box-shadow: rgb(147, 143, 143) 2px 2px 10px 0px;"
-								src={a.attributes.image}
+								src={imageResizer('m')(a.attributes.image)}
 							></img>
 						</a>
 						<p>
