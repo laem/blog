@@ -234,7 +234,7 @@ Cette campagne plus durable de toute évidence ne pourra ressembler à l'actuell
 ![](https://i.imgur.com/nWTO1Bp.jpg)
 
 
-Faut-il donc inventer l'habitat partagé à la campagne ? Ou intégrer l'agriculture au coeur de nos agglomérations ? 
+Faut-il donc inventer l'habitat partagé dans des campagnes où réindustrialisation et autonomie alimentaire nous auront rapprochés des emplois ? Ou intégrer l'agriculture au coeur de nos agglomérations ? 
 
 
 Doit-on aller dans cette direction ?
