@@ -19,7 +19,7 @@ export default ({
 
 const ImageRenderer = ({ src }) => (
 	<img
-		src={src.includes('imgur.com') ? src.replace(/\.(png|jpg)$/, 'h.jpg') : src}
+		src={src.includes('imgur.com') ? src.replace(/\.(png|jpg)$/, 'l.jpg') : src}
 	/>
 )
 
