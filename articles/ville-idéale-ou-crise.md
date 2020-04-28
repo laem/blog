@@ -27,7 +27,7 @@ Heureusement, un emprunt immobilier à taux faible lui permettra d'éviter de pa
 *Ce cocon élégant et fonctionnel vaut bien ses 12 500€ le m² et 30 ans de travail, non ?*
 
 
-Or notre jeune ingénieur est parmi les mieux lotis aujourd'hui ! Le salaire brut médian en France est de 28 000€, dix mille de moins. On se rend compte à quel point les perspectives logement du jeune français dans les métropoles sont sombres : **décidément en 2020, on a la famille derrière nous, on a la chance d'être en CDI pour s'endetter, ou bien on reste locataire à vie**.
+Or notre jeune ingénieur est parmi les mieux lotis aujourd'hui ! Le salaire brut médian en France est de 28 000€, dix mille de moins. On se rend compte à quel point les perspectives logement du jeune français dans les métropoles sont sombres : **décidément en 2020, soit on a la famille derrière nous, soit on a la chance d'être en CDI pour s'endetter, soit on reste locataire à vie**.
 
 ### Pas seulement en Île-de-France
 
@@ -37,15 +37,15 @@ Encore plus étonnant, c'est en fait *toute la France* en tendance longue qui a 
 
 
 ![](https://imgur.com/z1rrKuX.png)
-*Courbe de Friggit [publiée mensuellement](http://www.cgedd.developpement-durable.gouv.fr/prix-immobilier-evolution-a-long-terme-a1048.html) par le ministère du logement.*
+*Courbe de Friggit [publiée mensuellement par le ministère du logement](http://www.cgedd.developpement-durable.gouv.fr/prix-immobilier-evolution-a-long-terme-a1048.html).*
 
 ## La mécanique se grippe
 
 Il y a dix ans, on pouvait déjà faire ce constat. Alors pourquoi pas une autre décennie de hausse des prix ? 
 
-Personne ne contestera que la possibilité de l'emprunt et les taux bas de sont le carburant de cette hausse. Mais en ce début d'année 2020, l'Etat s'est adressé aux banques qu'il considère trop généreuses dans leurs crédits… Notons aussi la fin de l'impôt sur la fortune pour les placements financiers, rendant les rentes locatives comparativement moins intéressantes. La fin de la taxe d'habitation payée par le locataire, la hausse de la taxe foncière payée par le propriétaire ne manqueront pas de rentrer dans les calculs pour l'accession à la propriété. 
+Personne ne contestera que la possibilité de l'emprunt aux taux bas sont le carburant de cette hausse. Mais en ce début d'année 2020, l'Etat s'est adressé aux banques qu'il considère trop généreuses dans leurs crédits… Notons aussi la fin de l'impôt sur la fortune pour les placements financiers, rendant les rentes locatives comparativement moins intéressantes. La fin de la taxe d'habitation payée par le locataire, la hausse de la taxe foncière payée par le propriétaire ne manqueront pas de rentrer dans les calculs pour l'accession à la propriété. 
 
-L'encadrement des loyers à Paris et Lille font que l'on n'y investit plus vraiment pour louer, mais plutôt pour vendre après 20% de hausse. Le bien n'est plus rentable, il faut **espérer trouver un acheteur misant lui-même sur une hausse sur la décénnie suivante**.
+L'encadrement des loyers à Paris et Lille fait que l'on n'y investit plus vraiment pour louer, mais plutôt pour vendre après 20% de hausse. Le bien n'est plus rentable, sauf dans les beaux quartier sur AirBnb : il faut **espérer trouver un acheteur misant lui-même sur une hausse sur la décénnie suivante**.
 
 Dans ces grandes villes, qui sortent du lot notamment grâce à leur offre d'emplois, il n'est plus rare d'entendre un nouvel arrivant tourner en rond pour se loger malgré son CDI. Jusqu'à quand les employeurs toléreront-ils une inflation des salaires, ou de façon plus réaliste, les salariés accepteront-ils de rogner sur leur budget, avant de simplement quitter ces métropoles ? 
 
@@ -64,15 +64,15 @@ Nous sommes d'ordinaire prêts à y renoncer pour l'emploi et l'animation urbain
 *Et vous, vous êtes plutôt 1, 2 ou 3 ?*
 
 
-L'exode massive vers la province à l'annonce du confinement a dévoilé le peu d'attrait de l'environnement urbain, quand le télétravail est généralisé, et quand ses bars et théâtres ferment. 
+L'exode massif vers la province à l'annonce du confinement a dévoilé le peu d'attrait de l'environnement urbain, quand le télétravail est généralisé, et quand ses bars et théâtres ferment. 
 
 ## Des exemples tout tracés
 
-[Paris](https://fr.wikipedia.org/wiki/Coul%C3%A9e_verte_Ren%C3%A9-Dumont) d'abord, [New York](https://fr.wikipedia.org/wiki/High_Line) ensuite puis [Seoul](https://fr.wikipedia.org/wiki/Seoullo_7017) nous montrent le succès immédiat d'une réalisation simple : une voie entièrement piétonne et plantée dans des villes monde. A défaut d'avoir des anciens rails ou autoroutes suspendus dans les autres villes, pourquoi ne pas reproduire ces lieux magiques directement au sol ? Pourquoi ne pas commencer par relier les parcs et squares existants entre-eux ?
+[Paris](https://fr.wikipedia.org/wiki/Coul%C3%A9e_verte_Ren%C3%A9-Dumont) d'abord, [New York](https://fr.wikipedia.org/wiki/High_Line) ensuite puis [Seoul](https://fr.wikipedia.org/wiki/Seoullo_7017) nous montrent le succès immédiat d'une réalisation simple : une voie entièrement piétonne et plantée dans des villes monde. A défaut d'avoir des anciens rails ou autoroutes suspendus dans les autres villes, pourquoi ne pas reproduire ces lieux magiques directement au sol ? Pourquoi ne pas commencer par relier les parcs et squares existants entre-eux, pour former des corridors verts ? 
 
 
 
-Une rue piétonne de maisons colorées, aux trottoirs couverts de plantes : la [rue Crémieux](https://fr.m.wikipedia.org/wiki/Rue_Crémieux) sort tellement de l'ordinaire hyperactif bouchonné de la Gare de Lyon à Paris qu'elle est devenu culte sur Instagram, jusqu'à faire craquer ses habitants. 
+Une rue piétonne de maisons colorées, aux trottoirs couverts de plantes : la [rue Crémieux](https://fr.m.wikipedia.org/wiki/Rue_Crémieux) sort tellement de l'ordinaire hyperactif bouchonné de la Gare de Lyon à Paris qu'elle est devenue culte sur Instagram, jusqu'à faire craquer ses habitants. 
 
 
 Plutôt que de reproduire ailleurs cette ambiance qui plait et donc diluer les touristes, la mairie du 12ème réfléchit à fermer cette voie publique les soirs et weekends... 
@@ -98,9 +98,7 @@ La compétition pour redorer l'image de la grande ville s'est silencieusement la
 
 
 
-
-
-Respirer un air pur. Dormir la fenêtre ouverte au calme. Marcher librement, sans que le rehaussement du trottoir et ses potelets nous rappellent que nous ne sommes pas les bienvenus en dehors des marges. Faire du vélo sans la vigilance d'un pilote de F1. Être entouré de vert. Voir les enfants jouer dans les rues. Observer la beauté d'une ville, remarquer des sols et façades non noircis. 
+Respirer un air pur. Dormir la fenêtre ouverte au calme. Marcher librement, sans que le rehaussement du trottoir et ses potelets nous rappellent que nous ne sommes pas les bienvenus en dehors des marges. Faire du vélo sans la vigilance d'un pilote de formule 1. Être entouré de vert. Voir les enfants jouer dans les rues. Observer la beauté d'une ville, remarquer des sols et façades non noircis. 
 
 ![](https://i.imgur.com/pbg5FHM.jpg)
 
@@ -149,7 +147,7 @@ Sortons un peu de la capitale pour ramener cette occupation de l'espace publique
 
 Ce modèle est simpliste, mais illustre à quel point nos rues pourraient devenir nos petites parcelles de jardin ou d'[espace de cohabitation entre voisins](https://www.youtube.com/watch?v=mguvTfAw4wk).
 
-Quand est-ce que nos rues seront assez agréable pour y installer des tables de pique nique ? 
+Quand est-ce que nos rues seront assez agréables pour y installer des tables de pique nique ? 
 
 ### Un conflit d'argent 💰
 
@@ -157,7 +155,7 @@ Un conflit moins évident d'argent ensuite. La France n'est pas Dubaï : nous n'
 
 Certes, construire une piste cyclable, ou mieux, une voie où les voitures ne sont que tolérées, c'est peu d'investissement. Mais un métro, un tram, une voie de bus électrique fréquent, c'est cher. Non, nous ne pouvons pas d'abord mettre en place l'alternative pour faire une transition douce. Nous n'avons ni l'argent, ni le temps de réaliser ces travaux. 
 
-Rennes, parmi les villes les plus riches de France, a beau terminer sa deuxième ligne de métro à 1 milliard d'euros, ce n'est que la colonne vertébrale du  réseau de transport de la ville.
+Rennes, parmi les villes les plus dynamiques de France, a beau terminer sa deuxième ligne de métro à 1 milliard d'euros, ce n'est que la colonne vertébrale du  réseau de transport de la ville.
 
 ## Le changement doit être radical
 
@@ -186,9 +184,11 @@ Un choc urbain d'un ordre de grandeur pour des lieux de vie qu'on ose à peine i
 
 Le climat est une raison à part entière de construire cette ville radicalement alternative.
 
-Les dernières canicules sur la métropole nous ont montré que ses villes ne seront pas vivables l'été. Rappelons que le monde s'est déjà réchauffé d'1,2 degré et que nous nous dirigeons vers +3 à +4 degrés en moyenne. En moyenne sur la planète, ce qui signifie +6 à +10 [sur les terres](https://know-your-planet.netlify.app/#/questions/48)...
+Les dernières canicules sur la métropole nous ont montré que nos villes ne seront pas vivables l'été. Les surfaces minérales et les sols non perméables ne sont qu'un aperçu du problème. 
 
-Alors que Dubaï a terminé son premier [*quartier durable*](https://www.francetvinfo.fr/monde/moyen-orient/emirats-arabes-unis-une-ville-100-durable-a-l-essai_3804809.html) (ce qui ne compense évidemment presque rien du mode de vie Emirati), les médias français commencent tout juste à raconter [le repli immobilier](https://www.wedemain.fr/Et-si-le-climat-faisait-plonger-l-immobilier_a4596.html) dans les régions du sud aux températures insoutenables.
+Rappelons que le monde s'est déjà réchauffé d'1,2 degré et que nous nous dirigeons vers +3 à +4 degrés en moyenne. En moyenne sur la planète, ce qui signifie +6 à +10 [sur les terres](https://know-your-planet.netlify.app/#/questions/48)...
+
+Alors que Dubaï a terminé son premier [*quartier durable*](https://www.francetvinfo.fr/monde/moyen-orient/emirats-arabes-unis-une-ville-100-durable-a-l-essai_3804809.html) (ce qui ne compense évidemment presque rien du mode de vie Emirati), les médias français commencent tout juste à raconter les migrations depuis les régions du sud, aux températures insoutenables, et en conséquence les [replis immobiliers](https://www.wedemain.fr/Et-si-le-climat-faisait-plonger-l-immobilier_a4596.html).
 
 Le problème climatique, connu de longue date, est d'ailleurs doté de solutions bien tracées qui illustrent parfaitement cette notion de transformation radicale : pour rester sous les 2° de réchauffement, il faut réduire nos émissions de gaz à effet de serre d'au moins 4% par an. 
 
@@ -214,7 +214,7 @@ La vie quotidienne en ville dense est aujourd'hui bien plus soutenable que la vi
 
 ### La contrainte pétrole 
 
-Rappelons que *le pic de production de pétrole est jugé probable d'ici 2025*, soit presque le temps d'un mandat municipal, par l'Agence Internationale de l'Energie. L'épisode des prix négatifs provoqué par la crise du coronavirus brouille cette prédiction, qui pourrait aussi bien être décalée (baisse pérenne de la demande) qu'avancée (faillite de la production non conventionnels nord-américaine).
+Rappelons que *le pic de production de pétrole est jugé probable d'ici 2025*, soit presque le temps d'un mandat municipal, par l'Agence Internationale de l'Energie. L'épisode des prix négatifs provoqué par la crise du coronavirus brouille cette prédiction, qui pourrait aussi bien être décalée (baisse pérenne de la demande) qu'avancée (faillite de la production non conventionnelle nord-américaine).
 
 Or, vivre en zone peu dense sans voiture est à l'évidence très compliqué, sauf à s'isoler, accepter des dizaines de kilomètres à vélo par jour, ou s'organiser avec les voisins pour partager une voiture électrique.
 
@@ -229,7 +229,7 @@ Jean-Marc Jancovici par exemple [laisse entendre](https://youtu.be/QGEai5owA4w?t
 ](lapenseeecologique.com/propositions-pour-un-retour-sur-terre/) publié en avril 2020.
 
 
-Cette campagne plus durable de toute évidence ne pourra ressembler à l'actuelle, dont [65%](https://parcel-app.org/repartition-des-produits-relocalises) de la surface est destinée à la viande (et ca ne suffit pas, il faut importer du soja), composée à 90% de champs démembrés, où les chemins publics et les bois se font rares, coupée par des routes dangereuses. Tout autre mode de déplacement que la voiture y est déconseillé.
+Cette campagne plus durable de toute évidence ne pourra ressembler à l'actuelle, dont [65%](https://parcel-app.org/repartition-des-produits-relocalises) de la surface est destinée à la viande (et ça ne suffit pas, il faut [importer du soja](https://www.lefigaro.fr/sciences/pourquoi-la-france-est-elle-si-dependante-du-soja-bresilien-20190920) en déforestant le Brésil), composée à 90% de champs démembrés, où les chemins publics et les bois se font rares, coupée par des routes dangereuses. Tout autre mode de déplacement que la voiture y est déconseillé.
 
 ![](https://i.imgur.com/nWTO1Bp.jpg)
 
@@ -248,7 +248,7 @@ Ou celle-ci ?
 
 
 
-**Quelle sont la taille et l'organisation spatiale idéales d'une ville soutenable** ? 
+**Quelles sont la taille et l'organisation spatiale idéales d'une ville soutenable** ? 
 
 Et donc d'une *vie* soutenable ?
 
@@ -260,7 +260,7 @@ Construisons des modèles chiffrés, pour donner une base plus solide que les ap
 En attendant cet idéal, dîtes-moi où se construit cette grande ville où plus de moitié des rues sont piétonnes, cyclables, vertes. Où la voiture n'y est plus qu'un moyen de transport exceptionnel. Pas seulement dans le centre-ville touristique. 
 
 
-Elle ne semble pour l'instant pas exister, mais on la devine dans les promesses électorales.
+Elle ne semble pour l'instant pas exister, mais on la devine dans les travaux des citoyens et associations engagés, des chercheurs, et dans les promesses électorales des municipales annulées de mars 2020.
 
 Pour suivre l'avancement de ces villes "plus" qui seront en premier lieu piétonnes, un observatoire vient de naître : découvrez le premier classement des villes les plus piétonnes 🚶‍♀️ ouvert et contributif : [https://villes.plus](https://villes.plus).
 
