@@ -11,7 +11,7 @@ date: 2020-04-26
 
 ## Inaccessible propriété
 
-La France est en pleine bulle immobilière. Qu'est-ce qui permet de l'affirmer ? Le décrochage de plus en plus manifeste des revenus par rapport au prix de l'immobilier. En termes simples : les français peuvent de moins en moins s'acheter un appartement avec l'argent de leur travail. 
+La France est en pleine bulle immobilière. Qu'est-ce qui permet de l'affirmer ? Le décrochage de plus en plus manifeste des revenus par rapport au prix de l'immobilier. En termes simples : de moins en moins de français peuvent s'acheter un appartement avec l'argent de leur travail. 
 
 ### Un cas pratique
 
@@ -22,7 +22,7 @@ Il pourra s'acheter tous les 10 ans 6 petits m² d'un appartement parisien. Au b
 Heureusement, un emprunt immobilier à taux faible lui permettra d'éviter de payer un loyer et mettre 1/3 de ses revenus bruts dans l'achat pour rembourser son 25m² sur une période de 30 ans.
 
 
-<img src="https://i.imgur.com/V5LrQp0.jpg" width="500px"/>
+![](https://i.imgur.com/V5LrQp0.jpg)
 
 *Ce cocon élégant et fonctionnel vaut bien ses 12 500€ le m² et 30 ans de travail, non ?*
 
@@ -31,7 +31,7 @@ Or notre jeune ingénieur est parmi les mieux lotis aujourd'hui ! Le salaire bru
 
 ### Pas seulement en Île-de-France
 
-Certes, Paris est exceptionnellement chère et pas représentative du pays. Le reste du parc immobilier serait-il lui accessible ? Non, il explose dans toutes les grandes métropoles. Les logements anciens à Bordeaux ont pris 44% en 10 ans pour atteindre 4000€ le m². Brest, 25ème ville française, relativement peu chère, a pris 12% *en un an* ! 
+Certes, Paris est exceptionnellement chère et pas représentative du pays. Le reste du parc immobilier serait-il, lui, accessible ? Non, il explose dans toutes les grandes métropoles. Les logements anciens à Bordeaux ont pris 44% en 10 ans pour atteindre 4000€ le m². Brest, 25ème ville française, relativement peu chère, a pris 12% *en un an* ! 
 
 Encore plus étonnant, c'est en fait *toute la France* en tendance longue qui a du compter de moins en moins sur son salaire pour devenir propriétaire.
 
