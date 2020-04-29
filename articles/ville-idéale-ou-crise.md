@@ -198,7 +198,7 @@ Quelques petits pourcents, cela peut sembler anodin ! Et pourtant, nous n'y somm
 
 ## Au-delà des grandes villes
 
-Rappelons que les communes de plus de cent mille habitants [ne regroupent que 15% des Français](https://www.lemonde.fr/blog/transports/2020/02/16/ces-jolies-places-de-france-qui-sont-encore-des-parkings/), et celles de plus de cinquante mille, 25% de la population. 
+Les communes de plus de cent mille habitants [ne regroupent que 15% des Français](https://www.lemonde.fr/blog/transports/2020/02/16/ces-jolies-places-de-france-qui-sont-encore-des-parkings/), et celles de plus de cinquante mille, 25% de la population. 
 
 Réécrire nos grandes villes, ça ne concernerait donc pas les trois quarts des Français ?
 
