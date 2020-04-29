@@ -43,7 +43,7 @@ Encore plus étonnant, c'est en fait *toute la France* en tendance longue qui a 
 
 Il y a dix ans, on pouvait déjà faire ce constat. Alors pourquoi pas une autre décennie de hausse des prix ? 
 
-Personne ne contestera que la possibilité de l'emprunt aux taux bas sont le carburant de cette hausse. Mais en ce début d'année 2020, l'Etat s'est adressé aux banques qu'il considère trop généreuses dans leurs crédits… Notons aussi la fin de l'impôt sur la fortune pour les placements financiers, rendant les rentes locatives comparativement moins intéressantes. La fin de la taxe d'habitation payée par le locataire, la hausse de la taxe foncière payée par le propriétaire ne manqueront pas de rentrer dans les calculs pour l'accession à la propriété. 
+Personne ne contestera que l'emprunt aux taux bas est le carburant de cette hausse. Mais en ce début d'année 2020, l'Etat s'est adressé aux banques qu'il considère trop généreuses dans leurs crédits… Notons aussi la fin de l'impôt sur la fortune pour les placements financiers, rendant les rentes locatives comparativement moins intéressantes. La fin de la taxe d'habitation payée par le locataire, la hausse de la taxe foncière payée par le propriétaire ne manqueront pas de rentrer dans les calculs pour l'accession à la propriété. 
 
 L'encadrement des loyers à Paris et Lille fait que l'on n'y investit plus vraiment pour louer, mais plutôt pour vendre après 20% de hausse. Le bien n'est plus rentable, sauf dans les beaux quartier sur AirBnb : il faut **espérer trouver un acheteur misant lui-même sur une hausse sur la décénnie suivante**.
 
@@ -135,7 +135,7 @@ A 5 minutes à pieds de 7 lignes de métro RER ou tram, les voitures et les voie
 ![](https://i.imgur.com/2FweqGr.jpg)
 *Une rue à 5 voies dans le 12ème arrondissement de Paris*
 
-Cette capitale, où il faut barricader les coins végétalisés pour éviter que des piétons, à l'étroit dans leur passage moins large qu'une Wolkswagen, ne les piétinnent.
+Cette capitale, où il faut barricader les coins végétalisés pour éviter que des piétons, à l'étroit dans leur passage moins large qu'une Volkswagen, ne les piétinnent.
 
 Nous devons mettre en oeuvre l'[équité géographique](https://m.youtube.com/watch?v=IFjD3NMv6Kw).
 
@@ -226,7 +226,7 @@ Une transition *préparée* vers des lieux de vie plus durables, qu'elle s'impos
 Un élément important vient toutefois questionner ce propos : le risque de rupture d'approvisionnement en nourriture des grandes villes est de plus en plus pointé du doigt.
 
 Jean-Marc Jancovici par exemple [laisse entendre](https://youtu.be/QGEai5owA4w?t=4434) un déplacement massif, contraint, vers les campagnes, où nous devrons être des millions en plus à travailler la terre. C'est aussi le point de vue du texte ["Propositions pour un retour sur Terre"
-](lapenseeecologique.com/propositions-pour-un-retour-sur-terre/) publié en avril 2020.
+](https://lapenseeecologique.com/propositions-pour-un-retour-sur-terre/) publié en avril 2020.
 
 
 Cette campagne plus durable de toute évidence ne pourra ressembler à l'actuelle, dont [65%](https://parcel-app.org/repartition-des-produits-relocalises) de la surface est destinée à la viande (et ça ne suffit pas, il faut [importer du soja](https://www.lefigaro.fr/sciences/pourquoi-la-france-est-elle-si-dependante-du-soja-bresilien-20190920) en déforestant le Brésil), composée à 90% de champs démembrés, où les chemins publics et les bois se font rares, coupée par des routes dangereuses. Tout autre mode de déplacement que la voiture y est déconseillé.
@@ -257,7 +257,7 @@ Construisons des modèles chiffrés, pour donner une base plus solide que les ap
 
 
 -------------
-En attendant cet idéal, dîtes-moi où se construit cette grande ville où plus de moitié des rues sont piétonnes, cyclables, vertes. Où la voiture n'y est plus qu'un moyen de transport exceptionnel. Pas seulement dans le centre-ville touristique. 
+En attendant cet idéal, dites-moi où se construit cette grande ville où plus de moitié des rues sont piétonnes, cyclables, vertes. Où la voiture n'y est plus qu'un moyen de transport exceptionnel. Pas seulement dans le centre-ville touristique. 
 
 
 Elle ne semble pour l'instant pas exister, mais on la devine dans les travaux des citoyens et associations engagés, des chercheurs, et dans les promesses électorales des municipales annulées de mars 2020.
