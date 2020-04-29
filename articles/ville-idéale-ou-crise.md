@@ -198,9 +198,11 @@ Quelques petits pourcents, cela peut sembler anodin ! Et pourtant, nous n'y somm
 
 ## Au-delà des grandes villes
 
-Rappelons que les communes de plus de cent mille habitants [ne regroupent que 15% des français](https://www.lemonde.fr/blog/transports/2020/02/16/ces-jolies-places-de-france-qui-sont-encore-des-parkings/), et celles de plus de cinquante mille, 25% de la population.
+Rappelons que les communes de plus de cent mille habitants [ne regroupent que 15% des Français](https://www.lemonde.fr/blog/transports/2020/02/16/ces-jolies-places-de-france-qui-sont-encore-des-parkings/), et celles de plus de cinquante mille, 25% de la population. 
 
-Réécrire nos grandes villes, ça ne concernerait donc pas les trois quarts des Français ? 
+Réécrire nos grandes villes, ça ne concernerait donc pas les trois quarts des Français ?
+
+Rappelons d'abord que beaucoup de communes ont moins de cinquante mille habitants mais sont très proches d'une métropole. C'est le cas par exemple d'Alfortville au sud-est de Paris, pourtant bien plus dense que Rennes.
 
 ### Un autre idéal écologique
 
@@ -257,7 +259,7 @@ Construisons des modèles chiffrés, pour donner une base plus solide que les ap
 
 
 -------------
-En attendant cet idéal, dites-moi où se construit cette grande ville où plus de moitié des rues sont piétonnes, cyclables, vertes. Où la voiture n'y est plus qu'un moyen de transport exceptionnel. Pas seulement dans le centre-ville touristique. 
+En attendant cet idéal, dites-moi où se construit cette grande ville où plus de la moitié des rues sont piétonnes, cyclables, vertes. Où la voiture n'y est plus qu'un moyen de transport exceptionnel. Pas seulement dans le centre-ville touristique. 
 
 
 Elle ne semble pour l'instant pas exister, mais on la devine dans les travaux des citoyens et associations engagés, des chercheurs, et dans les promesses électorales des municipales annulées de mars 2020.
