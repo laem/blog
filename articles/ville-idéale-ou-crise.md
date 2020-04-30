@@ -45,7 +45,7 @@ Il y a dix ans, on pouvait déjà faire ce constat. Alors pourquoi pas une autre
 
 Personne ne contestera que l'emprunt aux taux bas est le carburant de cette hausse. Mais en ce début d'année 2020, l'Etat s'est adressé aux banques qu'il considère trop généreuses dans leurs crédits… Notons aussi la fin de l'impôt sur la fortune pour les placements financiers, rendant les rentes locatives comparativement moins intéressantes. La fin de la taxe d'habitation payée par le locataire, la hausse de la taxe foncière payée par le propriétaire ne manqueront pas de rentrer dans les calculs pour l'accession à la propriété. 
 
-L'encadrement des loyers à Paris et Lille fait que l'on n'y investit plus vraiment pour louer, mais plutôt pour vendre après 20% de hausse. Le bien n'est plus rentable, sauf dans les beaux quartier sur AirBnb : il faut **espérer trouver un acheteur misant lui-même sur une hausse sur la décénnie suivante**.
+L'encadrement des loyers à Paris et Lille fait que l'on n'y investit plus vraiment pour louer, mais plutôt pour vendre après 20% de hausse. Le bien n'est plus rentable, sauf dans les beaux quartiers sur AirBnb : il faut **espérer trouver un acheteur misant lui-même sur une hausse sur la décénnie suivante**.
 
 Dans ces grandes villes, qui sortent du lot notamment grâce à leur offre d'emplois, il n'est plus rare d'entendre un nouvel arrivant tourner en rond pour se loger malgré son CDI. Jusqu'à quand les employeurs toléreront-ils une inflation des salaires, ou de façon plus réaliste, les salariés accepteront-ils de rogner sur leur budget, avant de simplement quitter ces métropoles ? 
 
@@ -135,7 +135,7 @@ A 5 minutes à pieds de 7 lignes de métro RER ou tram, les voitures et les voie
 ![](https://i.imgur.com/2FweqGr.jpg)
 *Une rue à 5 voies dans le 12ème arrondissement de Paris*
 
-Cette capitale, où il faut barricader les coins végétalisés pour éviter que des piétons, à l'étroit dans leur passage moins large qu'une Volkswagen, ne les piétinnent.
+Cette capitale, où il faut barricader les coins végétalisés pour éviter que des piétons, à l'étroit dans leur passage moins large qu'une Volkswagen, ne les piétinent.
 
 Nous devons mettre en oeuvre l'[équité géographique](https://m.youtube.com/watch?v=IFjD3NMv6Kw).
 
@@ -151,11 +151,11 @@ Quand est-ce que nos rues seront assez agréables pour y installer des tables de
 
 ### Un conflit d'argent 💰
 
-Un conflit moins évident d'argent ensuite. La France n'est pas Dubaï : nous n'arriverons pas à bâtir un réseau de transport alternatif sans s'attaquer aux coûts multiples de la voiture, publics (les infrastructures routières, la santé) comme privés (l'achat de la voiture, son entretien, son assurance, etc.). 
+Un conflit moins évident d'argent ensuite. La France ne roule pas sur l'or (noir) comme Dubaï : nous n'arriverons pas à bâtir un réseau de transport alternatif sans s'attaquer aux coûts multiples de la voiture, publics (les infrastructures routières, la santé) comme privés (l'achat de la voiture, son entretien, son assurance, etc.). Il faut rogner sur le budget voiture 
 
-Certes, construire une piste cyclable, ou mieux, une voie où les voitures ne sont que tolérées, c'est peu d'investissement. Mais un métro, un tram, une voie de bus électrique fréquent, c'est cher. Non, nous ne pouvons pas d'abord mettre en place l'alternative pour faire une transition douce. Nous n'avons ni l'argent, ni le temps de réaliser ces travaux. 
+Certes, construire une piste cyclable, ou mieux, une voie apaisée où les voitures ne sont que tolérées, c'est peu d'investissement. Mais un métro, un tram, une voie de bus électrique fréquent, c'est cher. Non, nous ne pouvons pas *d'abord* mettre en place l'alternative pour faire une transition douce. Nous n'avons ni l'argent, ni le temps de réaliser ces travaux *avant* de toucher à la voiture. 
 
-Rennes, parmi les villes les plus dynamiques de France, a beau terminer sa deuxième ligne de métro à 1 milliard d'euros, ce n'est que la colonne vertébrale du  réseau de transport de la ville.
+Rennes, parmi les villes les plus dynamiques de France, a beau terminer sa deuxième ligne de métro à 1 milliard d'euros, ce n'est que la colonne vertébrale du réseau de transport de la ville, tout le reste est à construire.
 
 ## Le changement doit être radical
 
@@ -168,7 +168,7 @@ Il ne s'agit plus de peindre au sol des voies cyclables, ni d'ailleurs de constr
 
 La crise du coronavirus a mis en évidence le problème de nos trottoirs. A vrai dire en 2020, Paris est la seule ville de France à disposer d'une [carte de la largeur des trottoirs](http://laem.github.io/trottoirs-de-paris/) ! 
 
-Mais ne nous laissons pas avoir : le sujet n'est pas la largeur du trottoir, c'est son existence même qui souvent révèle un échec. Il est conçu pour protéger les piétons du danger au centre de nos routes. Pourquoi devrions accepter ce danger en zone dense ? Le peu de rues ou portions de rue plates sont aujourd'hui synonymes de zone agréable prioritaire aux piétons.
+Mais ne nous laissons pas avoir : le sujet n'est pas la largeur du trottoir, c'est son existence même qui souvent révèle un échec. Il est conçu pour protéger les piétons du danger au centre de nos routes. Pourquoi devrions-nous accepter ce danger en zone dense ? Le peu de rues ou portions de rue plates sont aujourd'hui synonymes de zone agréable prioritaire aux piétons.
 
 
 Il ne s'agit pas non plus de répondre à un seul problème en en créant de nouveaux : la voiture individuelle électrique reste encombrante et chère; sa version autonome verra son potentiel de partage gâché par un rebond du nombre de kilomètres parcourus (imaginez : le télétravail dans les bouchons). 
