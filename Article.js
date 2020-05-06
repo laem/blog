@@ -21,6 +21,16 @@ export default ({
 			source={body}
 			escapeHtml={false}
 		/>
+		<p>
+			Venez discuter de cet article{' '}
+			<a
+				class="twitter-share-button"
+				href="https://twitter.com/intent/tweet?text=La crise, ou la ville idéale ? kont.me/ville-id%C3%A9ale-ou-crise @maeool"
+				data-size="large"
+			>
+				sur twitter
+			</a>
+		</p>
 	</div>
 )
 
