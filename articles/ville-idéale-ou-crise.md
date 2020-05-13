@@ -188,7 +188,7 @@ Les dernières canicules sur la métropole nous ont montré que nos villes ne se
 
 Rappelons que le monde s'est déjà réchauffé d'1,2 degré et que nous nous dirigeons vers +3 à +4 degrés en moyenne. En moyenne sur la planète, ce qui signifie +6 à +10 [sur les terres](https://know-your-planet.netlify.app/#/questions/48)...
 
-Alors que Dubaï a terminé son premier [*quartier durable*](https://www.francetvinfo.fr/monde/moyen-orient/emirats-arabes-unis-une-ville-100-durable-a-l-essai_3804809.html) (ce qui ne compense évidemment presque rien du mode de vie Emirati), les médias français commencent tout juste à raconter les migrations depuis les régions du sud, aux températures insoutenables, et en conséquence les [replis immobiliers](https://www.wedemain.fr/Et-si-le-climat-faisait-plonger-l-immobilier_a4596.html).
+Alors que Dubaï a terminé son premier [*quartier durable*](https://www.francetvinfo.fr/monde/moyen-orient/emirats-arabes-unis-une-ville-100-durable-a-l-essai_3804809.html) (ce qui ne compense évidemment presque rien du mode de vie Emirati), les médias français commencent tout juste à raconter les migrations depuis les régions du sud... de la France ! Les températures insoutenables l'été, la fragilisation climatique du bâti, ont déjà pour conséquence des [replis immobiliers](https://www.wedemain.fr/Et-si-le-climat-faisait-plonger-l-immobilier_a4596.html).
 
 Le problème climatique, connu de longue date, est d'ailleurs doté de solutions bien tracées qui illustrent parfaitement cette notion de transformation radicale : pour rester sous les 2° de réchauffement, il faut réduire nos émissions de gaz à effet de serre d'au moins 4% par an. 
 
