@@ -3,6 +3,7 @@ import Article from './Article'
 import frontMatter from 'front-matter'
 import { imageResizer } from './Article'
 import { Switch, Route, BrowserRouter as Router, Link } from 'react-router-dom'
+import ScrollToTop from './ScrollToTop'
 
 export const pageLayout = `
 			max-width: 800px;
@@ -25,17 +26,19 @@ export default () => {
 
 	return (
 		<Router>
-			<Switch>
-				<Route path="/:id">
-					<Article />
-				</Route>
-				<Route path="/">
-					<Liste articles={parsedArticles} />
-				</Route>
-				<Route path="*">
-					<NoMatch />
-				</Route>
-			</Switch>
+			<ScrollToTop>
+				<Switch>
+					<Route path="/:id">
+						<Article />
+					</Route>
+					<Route path="/">
+						<Liste articles={parsedArticles} />
+					</Route>
+					<Route path="*">
+						<NoMatch />
+					</Route>
+				</Switch>
+			</ScrollToTop>
 		</Router>
 	)
 
