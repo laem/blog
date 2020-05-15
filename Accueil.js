@@ -52,19 +52,27 @@ const Header = () => (
 	<header
 		css={`
 			display: flex;
-			flex-direction: column;
 			align-items: center;
 			margin-bottom: 1rem;
+			justify-content: center;
 			> h1 {
 				margin: 0.8rem;
+				font-size: 100%;
+				font-weight: normal;
+				max-width: 20rem;
 			}
 			> p {
 				margin-top: 0;
 			}
+			img {
+				width: 2.6rem;
+			}
 		`}
 	>
-		<h1>📝 Un blog</h1>
-		<p>Quelques idées sur notre environnement, nos villes, les algorithmes</p>
+		<img src="https://avatars1.githubusercontent.com/u/1177762?s=460&v=4" />
+		<h1>
+			Quelques idées sur notre environnement, nos villes et les algorithmes
+		</h1>
 	</header>
 )
 

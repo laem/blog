@@ -33,8 +33,10 @@ export default ({}) => {
 
 	return (
 		<div css={() => articleStyle}>
-			<nav css="font-size: 300%; a {text-decoration: none}">
-				<Link to="/">📝</Link>
+			<nav css="img {width: 3rem; margin: 1rem 0; display: inline; }; a {text-decoration: none}">
+				<Link to="/">
+					<img src="https://avatars1.githubusercontent.com/u/1177762?s=460&v=4" />
+				</Link>
 			</nav>
 			<img css="max-height: 30rem;" src={imageResizer('l')(image)}></img>
 			<ReactMarkdown
