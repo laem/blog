@@ -22,7 +22,7 @@ Les opinions exprimées dans cet article sont celles de son auteur. N’hésitez
 Vous avez peut-être eu la chance de visiter le Louvre à Paris et de tomber sur une mystérieuse stèle noire plus grande que vous : le Code de Hammourabi. Gravé il y a près de 4000 ans, il comporte des paragraphes d’un style qui nous est familier : des lois qui régissaient la vie quotidienne des citoyens de l’époque.
 
 ![](https://cdn-images-1.medium.com/max/800/1*YX0Ju8EpIO0fa_LkvDhsMg.png)
-[Voir la page Wikipedia](https://fr.wikipedia.org/wiki/Code_de_Hammurabi)
+*[Voir la page Wikipedia](https://fr.wikipedia.org/wiki/Code_de_Hammurabi)*
 
 On pourra se réjouir du chemin parcouru depuis en termes d’égalité et de tolérance… Mais mettons ce jugement de côté un moment. Pour nous, citoyens d’aujourd’hui, ça ne semble pas si compliqué à comprendre : les règles sont limpides et il n’y en a finalement pas tant que ça. Sauf qu’à l’époque, [peu de gens pouvaient les lire](https://fr.wikipedia.org/wiki/Cun%C3%A9iforme#Qui_.C3.A9crivait_et_lisait_le_cun.C3.A9iforme_.3F)…
 
@@ -64,7 +64,7 @@ La fiche de [service-public.fr](https://www.service-public.fr/particuliers/vosdr
 *   notre formule a oublié l’**abattement de 1,75% **: seul 98,25% de l’assiette sera à prendre en compte…
 
 ![un abattement conditionnel](https://cdn-images-1.medium.com/max/600/1*U5reYyoAViUcWfgCtCpCLA.png)
-un abattement conditionnel
+*un abattement conditionnel*
 
 Et ce, seulement en dessous d’un certain montant comme le montre cette copie d’écran. Cet usage de “au delà” n’est-il pas ambigu ? Doit-on comprendre que pour un salaire de 200 000 € c’est seulement le reste de 43 088 € qui ne sera pas abattu, ou l’ensemble ?
 
@@ -117,7 +117,7 @@ Le code est souvent assimilé à une boîte noire qui transforme des entrées (v
 Les demandes d’ouverture, quand par chance elles aboutissent, n’obtiennent jamais un code _lisible_ par tous, seulement ouvert _(“open source”)_ mais  pénible à lire même pour ceux qui sont familiers avec le langage de programmation utilisé. Les règles sont donc soit cadenassées (code caché) soit opaques (code public mais illisible par la plupart)— et on réserve le même sort aux incontournables _tests_, qu’il faut voir comme des exemples, utiles autant pour comprendre le code que pour prouver son bon fonctionnement.
 
 ![À quoi bon avoir accès aux rouages si vous n’êtes pas horloger ?](https://cdn-images-1.medium.com/max/800/0*i1Cs4Qp7p8CEBQm4.jpg)
-À quoi bon avoir accès aux rouages si vous n’êtes pas horloger ?
+*À quoi bon avoir accès aux rouages si vous n’êtes pas horloger ?*
 
 Ça tombe bien : un code source plus déclaratif, permettant plusieurs usages quand il est lu par un programme, sera aussi plus accessible pour les citoyens. Ne nous faisons pas d’illusion : il faudra quand même un certain investissement pour comprendre les blocs de texte affichés à l’écran. Mais justement, c’est sur le Web qu’il sera présenté dans sa version finale enrichie pour le citoyen (c’est justement cette base documentaire 3.0).
 
@@ -126,6 +126,8 @@ Nous sommes de plus en plus confrontés à des algorithmes qui sont complètemen
 Faisons donc l’effort de bien expliquer ce qui est toujours facilement explicable, et c’est le cas des règles de notre législation. C’est elles qui viendront articuler les entrées et sorties de ces boîtes noires, points de contact, d’_interprétation_ du monde réel mais pas d’_action_.
 
 > Construisons un base ouverte de règles lisibles et exécutables, socle d’une multitude d’applications permettant d’expliquer et d’appliquer la loi.
+
+<aside class="notice">
 
 ### Encart — Le droit du logement
 
@@ -149,6 +151,8 @@ Tout ça ne vous rappelle rien ? Ce rôle est déjà tenu par un acteur (sur le
 Peut-être allons nous nous réveiller en 2030, dans une France où l’essentiel du parc immobilier est géré par Airbnb. Aucun risque, pensez-vous, Airbnb prend une commission trop importante. Vraiment ? Un calcul simpliste pour un studio à Paris : pour 1 an de location à 900€/mois, c’est 10 800 € de loyer, 850€ de dépôt de garantie, 450€ de frais d’agence soit 12% de commission du “système classique”, dont 8% restitués en fin de période. Chez Airbnb, ça peut descendre jusqu’à 6% (pour l’instant), mais avec une expérience utilisateur bien plus attirante.
 
 Pourquoi ne pas en construire un équivalent public qui se chargerait simplement de faire respecter une partie du droit du logement (nous ne parlons pas ici de lister les annonces) ? Une application bien concrète sur le Web et sur mobile, qui utiliserait une base publique de règles lisibles et exécutables.
+
+</aside>
 
 À ce stade et après cette digression, une réaction tout à fait normale serait : « c’est une bonne idée… mais la loi est bien trop compliquée. Vous allez vous casser la gueule dès le début de votre encodage du monstre législatif ! ». Et en effet, on pourrait multiplier encore les sujets candidats à la traduction : un troisième exemple serait les règles de protection de l’environnement dont l’application est surveillée par les [DREAL](https://fr.wikipedia.org/wiki/Direction_r%C3%A9gionale_de_l%27environnement,_de_l%27am%C3%A9nagement_et_du_logement) de chaque région. Et puis d’autres sujets de notre vie de tous les jours seraient à envisager : les obscures règles d’avancement et de salaire au boulot; les règles des seuils de pollution des villes menant à une information, une alerte ou des actions (et lesquelles ? circulation alternée, gratuité des transports…). Vous avez sûrement vous-même identifié la bête noire que vous ne comprenez pas ou qui vous fait perdre du temps.
 

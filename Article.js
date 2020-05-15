@@ -1,5 +1,5 @@
 import React from 'react'
-import ReactMarkdown from 'react-markdown'
+import ReactMarkdown from 'react-markdown/with-html'
 
 const thumbnailWidth = '320',
 	fullWidth = '800'
@@ -77,7 +77,7 @@ const articleStyle = `
 		margin: 2rem auto;
 	}
 	blockquote {
-		border-left: 6px solid grey;
+		border-left: 6px solid #ddd;
 		padding-left: 1rem;
 		margin-left: 0;
 	}
@@ -86,4 +86,16 @@ const articleStyle = `
 		padding: 0.1rem 0.4rem;
 		border-radius: 0.3rem;
 	}
+
+aside {
+	border: 1px solid #ddd;
+	border-radius: 0.3rem;
+	box-shadow: 1px 3px 8px #ddd;
+	padding: 1rem;
+	margin: 2rem .6rem
+	}
+	aside h2, aside h3 {
+margin: .3rem
+	}
+
 	`
