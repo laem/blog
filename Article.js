@@ -21,7 +21,8 @@ export const imageResizer = (size) => (src) =>
 
 export default ({
 	data: {
-		attributes: { image, id },
+		attributes: { titre, image },
+		id,
 		body,
 	},
 }) => (
@@ -32,11 +33,21 @@ export default ({
 			source={body}
 			escapeHtml={false}
 		/>
+		<hr />
 		<p>
+			<span
+				css={`
+					font-size: 200%;
+					vertical-align: middle;
+				`}
+			>
+				🐦
+			</span>{' '}
 			Venez discuter de cet article{' '}
 			<a
 				class="twitter-share-button"
-				href="https://twitter.com/intent/tweet?text=La crise, ou la ville idéale ? kont.me/ville-id%C3%A9ale-ou-crise @maeool"
+				href={`https://twitter.com/intent/tweet?text=${titre} https://kont.me/${id} @maeool`}
+				target="_blank"
 				data-size="large"
 			>
 				sur twitter
