@@ -23,7 +23,6 @@ Heureusement, un emprunt immobilier à taux faible lui permettra d'éviter de pa
 
 
 ![](https://i.imgur.com/V5LrQp0.jpg)
-
 *Ce cocon élégant et fonctionnel vaut bien ses 12 500€ le m² et 30 ans de travail, non ?*
 
 
