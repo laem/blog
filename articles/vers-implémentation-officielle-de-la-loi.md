@@ -1,10 +1,13 @@
 ---
-title: Vers une implémentation officielle de la loi
+titre: Vers une implémentation officielle de la loi
 description: 'Partie 1 : introduction'
+résumé: L'Etat doit accompagner la loi d'un code qui peut être lu par un ordinateur
+image: "https://cdn-images-1.medium.com/max/2560/1*xOKbBlYZ4wg0OhIhyUgnfQ.jpeg"
 date: 2017-06-22
 ---
 
-![](https://cdn-images-1.medium.com/max/2560/1*xOKbBlYZ4wg0OhIhyUgnfQ.jpeg)
+
+# Vers une implémentation officielle de la loi
 
 L’État doit accompagner la loi d’un code qui peut être lu à la foi par le citoyen et par nos ordinateurs, donc _lisible et exécutable_. C’est une énorme promesse de transparence et d’efficacité… au prix d’un défi technique. Il est tout à fait possible aujourd’hui de commencer sur de petites parties de la loi. Un sujet s’y prête bien : les taxes et prélèvements qui font tourner l’État lui-même et notre sécurité sociale. Ces règles dictent des transactions financières qui représentent chaque année _un millier de milliards d’€_.
 
@@ -16,7 +19,7 @@ Les opinions exprimées dans cet article sont celles de son auteur. N’hésitez
 
 Vous avez peut-être eu la chance de visiter le Louvre à Paris et de tomber sur une mystérieuse stèle noire plus grande que vous : le Code de Hammourabi. Gravé il y a près de 4000 ans, il comporte des paragraphes d’un style qui nous est familier : des lois qui régissaient la vie quotidienne des citoyens de l’époque.
 
-![[Voir la page Wikipedia](https://fr.wikipedia.org/wiki/Code_de_Hammurabi)](https://cdn-images-1.medium.com/max/800/1*YX0Ju8EpIO0fa_LkvDhsMg.png)
+![](https://cdn-images-1.medium.com/max/800/1*YX0Ju8EpIO0fa_LkvDhsMg.png)
 [Voir la page Wikipedia](https://fr.wikipedia.org/wiki/Code_de_Hammurabi)
 
 On pourra se réjouir du chemin parcouru depuis en termes d’égalité et de tolérance… Mais mettons ce jugement de côté un moment. Pour nous, citoyens d’aujourd’hui, ça ne semble pas si compliqué à comprendre : les règles sont limpides et il n’y en a finalement pas tant que ça. Sauf qu’à l’époque, [peu de gens pouvaient les lire](https://fr.wikipedia.org/wiki/Cun%C3%A9iforme#Qui_.C3.A9crivait_et_lisait_le_cun.C3.A9iforme_.3F)…
