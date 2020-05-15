@@ -48,7 +48,8 @@ export default ({
 const ImageRenderer = ({ src }) => <img src={imageResizer('l')(src)} />
 
 const articleStyle = `
-	max-width: 800px;
+font-size: 125%;
+	max-width: 700px;
 	margin: 0 auto 4rem;
 	h1 {
 		text-align: center;
