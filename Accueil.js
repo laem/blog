@@ -2,6 +2,7 @@ import React from 'react'
 import Article from './Article'
 import frontMatter from 'front-matter'
 import { imageResizer } from './Article'
+import { Switch, Route, BrowserRouter as Router, Link } from 'react-router-dom'
 
 export const pageLayout = `
 			max-width: 800px;
@@ -14,7 +15,7 @@ const rawArticles = [...req.keys()]
 	.map((key) => [key.replace('./', '').replace('.md', ''), req(key).default])
 console.log({ rawArticles })
 
-const parsedArticles = rawArticles.map(([id, string]) => ({
+export const parsedArticles = rawArticles.map(([id, string]) => ({
 	...frontMatter(string),
 	id,
 }))
@@ -22,7 +23,22 @@ const parsedArticles = rawArticles.map(([id, string]) => ({
 export default () => {
 	const path = decodeURI(window.location.pathname)
 
-	if (path === '/') return <Liste articles={parsedArticles} />
+	return (
+		<Router>
+			<Switch>
+				<Route path="/:id">
+					<Article />
+				</Route>
+				<Route path="/">
+					<Liste articles={parsedArticles} />
+				</Route>
+				<Route path="*">
+					<NoMatch />
+				</Route>
+			</Switch>
+		</Router>
+	)
+
 	const theOne = parsedArticles.find(({ id }) => id === path.replace('/', ''))
 	if (theOne) return <Article data={theOne} />
 
@@ -88,9 +104,9 @@ let Liste = ({ articles }) => (
 						`}
 					>
 						<header>
-							<a href={'/' + a.id}>
+							<Link to={'/' + a.id}>
 								<h2>{a.attributes.titre}</h2>
-							</a>
+							</Link>
 							<small>
 								{a.attributes.date.toLocaleString(undefined, {
 									weekday: 'long',
@@ -100,20 +116,32 @@ let Liste = ({ articles }) => (
 								})}
 							</small>
 						</header>
-						<a href={'/' + a.id}>
+						<Link to={'/' + a.id}>
 							<img
 								css="width: 10rem; box-shadow: rgb(147, 143, 143) 2px 2px 10px 0px;"
 								src={imageResizer('m')(a.attributes.image)}
 							></img>
-						</a>
+						</Link>
 						<p>
 							{a.attributes.résumé}{' '}
-							<a href={'/' + a.id}>
+							<Link to={'/' + a.id}>
 								<em>Lire</em>
-							</a>
+							</Link>
 						</p>
 					</aside>
 				))}
 		</section>
 	</main>
 )
+
+function NoMatch() {
+	let location = useLocation()
+
+	return (
+		<div>
+			<h3>
+				No match for <code>{location.pathname}</code>
+			</h3>
+		</div>
+	)
+}

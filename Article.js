@@ -1,5 +1,8 @@
 import React from 'react'
 import ReactMarkdown from 'react-markdown/with-html'
+import { parsedArticles } from './Accueil'
+import { useParams } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 const thumbnailWidth = '320',
 	fullWidth = '800'
@@ -19,45 +22,49 @@ export const imageResizer = (size) => (src) =>
 		  )
 		: src
 
-export default ({
-	data: {
+export default ({}) => {
+	const { id } = useParams()
+	const theOne = parsedArticles.find(({ id: id2 }) => id === id2)
+
+	const {
 		attributes: { titre, image },
-		id,
 		body,
-	},
-}) => (
-	<div css={() => articleStyle}>
-		<nav css="font-size: 300%; a {text-decoration: none}">
-			<a href="/">📝</a>
-		</nav>
-		<img css="max-height: 30rem;" src={imageResizer('l')(image)}></img>
-		<ReactMarkdown
-			renderers={{ image: ImageRenderer }}
-			source={body}
-			escapeHtml={false}
-		/>
-		<hr />
-		<p>
-			<span
-				css={`
-					font-size: 200%;
-					vertical-align: middle;
-				`}
-			>
-				🐦
-			</span>{' '}
-			Venez discuter de cet article{' '}
-			<a
-				class="twitter-share-button"
-				href={`https://twitter.com/intent/tweet?text=${titre} https://kont.me/${id} @maeool`}
-				target="_blank"
-				data-size="large"
-			>
-				sur twitter
-			</a>
-		</p>
-	</div>
-)
+	} = theOne
+
+	return (
+		<div css={() => articleStyle}>
+			<nav css="font-size: 300%; a {text-decoration: none}">
+				<Link to="/">📝</Link>
+			</nav>
+			<img css="max-height: 30rem;" src={imageResizer('l')(image)}></img>
+			<ReactMarkdown
+				renderers={{ image: ImageRenderer }}
+				source={body}
+				escapeHtml={false}
+			/>
+			<hr />
+			<p>
+				<span
+					css={`
+						font-size: 200%;
+						vertical-align: middle;
+					`}
+				>
+					🐦
+				</span>{' '}
+				Venez discuter de cet article{' '}
+				<a
+					class="twitter-share-button"
+					href={`https://twitter.com/intent/tweet?text=${titre} https://kont.me/${id} @maeool`}
+					target="_blank"
+					data-size="large"
+				>
+					sur twitter
+				</a>
+			</p>
+		</div>
+	)
+}
 
 const ImageRenderer = ({ src }) => <img src={imageResizer('l')(src)} />
 
