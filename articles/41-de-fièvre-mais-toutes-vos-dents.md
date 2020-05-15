@@ -7,6 +7,8 @@ résumé: Votre médecin ne prononcera jamais cette phrase. Adoptons la même ri
 
 # 41° de fièvre, mais toutes vos dents !
 
+*Vous lisez un article pas complètement finalisé, il sera un peu brut :)*
+
 > Voilà madame, vous pouvez rentrer chez vous, tout va bien. Le thermomètre indique 41° de fièvre, ce qui pourrait sembler inquiétant en soi, mais votre électrocardiogramme est normal, votre tension aussi et vous n'avez perdu aucune dent !
 
 Ce diagnostic ne sera évidemment jamais prononcé par un médecin. Un seul indicateur critique délencherait une investigation d'urgence. Un autre indicateur ne fera pas oublier cette gravité, qu'il soit secondaire (le nombre de dents), ou même vital (l'électrocardiogramme, qui mesure la régularité des bâtements du coeur).
