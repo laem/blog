@@ -15,6 +15,8 @@ L’objectif n’est pas de changer ou remplacer la loi, mais simplement de mode
 
 Les opinions exprimées dans cet article sont celles de son auteur. N’hésitez pas à signaler les malheureuses simplifications ou erreurs.
 
+--------------------
+
 ### Le problème du citoyen avec la loi
 
 Vous avez peut-être eu la chance de visiter le Louvre à Paris et de tomber sur une mystérieuse stèle noire plus grande que vous : le Code de Hammourabi. Gravé il y a près de 4000 ans, il comporte des paragraphes d’un style qui nous est familier : des lois qui régissaient la vie quotidienne des citoyens de l’époque.

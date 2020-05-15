@@ -1,11 +1,22 @@
 import React from 'react'
 import ReactMarkdown from 'react-markdown'
 
+const thumbnailWidth = '320',
+	fullWidth = '800'
+
 export const imageResizer = (size) => (src) =>
 	src.includes('imgur.com')
 		? src.replace(/\.(png|jpg)$/, size + '.jpg')
 		: src.includes('unsplash.com')
-		? src.replace(/w=[0-9]+\&/, (_, p1) => `w=${size === 'm' ? '320' : '640'}&`)
+		? src.replace(
+				/w=[0-9]+\&/,
+				(_, p1) => `w=${size === 'm' ? thumbnailWidth : fullWidth}&`
+		  )
+		: src.includes('medium.com')
+		? src.replace(
+				/max\/[0-9]+\//,
+				(_, p1) => `max/${size === 'm' ? thumbnailWidth : fullWidth}/`
+		  )
 		: src
 
 export default ({
@@ -54,8 +65,11 @@ const articleStyle = `
 		display: block;
 	}
 	img + em {
-		color: #666;
-		text-align: center;
+	color: #666;
+	text-align: center;
+	width: 100%;
+	display: inline-block;
+	margin: 0 auto 1rem;
 	}
 	hr {
 		border: 1px solid #eee;
