@@ -78,7 +78,7 @@ font-size: 125%;
 		margin: 2rem auto;
 	}
 	blockquote {
-		border-left: 6px solid #ddd;
+		border-left: 3px solid #4d4d4d;
 		padding-left: 1rem;
 		margin-left: 0;
 	}
