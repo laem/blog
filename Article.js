@@ -27,6 +27,9 @@ export default ({
 	},
 }) => (
 	<div css={() => articleStyle}>
+		<nav css="font-size: 300%; a {text-decoration: none}">
+			<a href="/">📝</a>
+		</nav>
 		<img css="max-height: 30rem;" src={imageResizer('l')(image)}></img>
 		<ReactMarkdown
 			renderers={{ image: ImageRenderer }}
