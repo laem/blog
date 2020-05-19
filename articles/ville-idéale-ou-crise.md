@@ -93,7 +93,7 @@ Pas si simple ! Au-delà de ces tendances du moment, comme on pouvait s'en doute
 
 Face à cette menace de dégringolade des prix, les métropoles se laisseront-elles faire ? 
 
-La compétition pour redorer l'image de la grande ville s'est silencieusement lancée. Les concurrents : Paris, Lyon, Bordeaux, Strasbourg, Rennes, Nantes... Elles se battent entre-elles, mais aussi avec le reste de la France dont elles doivent copier les atouts.
+La compétition pour redorer l'image de la grande ville s'est silencieusement lancée. Les concurrentes : Paris, Lyon, Bordeaux, Strasbourg, Rennes, Nantes... Elles se battent entre-elles, mais aussi avec le reste de la France dont elles doivent copier les atouts.
 
 
 
