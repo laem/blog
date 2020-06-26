@@ -33,7 +33,7 @@ Comment ce choix est-il fait aujourd'hui ? En première approximation, aujourd'h
 
 Première solution : nous modifions ce prix pour y intégrer les contraintes environnementales, en fonction de l'impact qu'a cette consommation sur les indicateurs cités plus haut. Il faudra alors… moyenner ces nombreux indicateurs pour tous les ramener à un nombre, le prix en €. Nous devrons être particulièrement vigilants pour éviter de tuer le patient en considérant que cette délicieuse entrecôte de boeuf est tout à fait durable : si si, j'ai lu que certes le boeuf est catastrophique pour le climat (1/10) mais l'animal a vécu une vie heureuse (9/10), a été élevé sans OGM (10/10) et sans antibiotiques (10/10) et issu d'une filière plutôt équitable (8/10). Note globale `7,6/10` , miam 😋 ! 
 
-Bien sûr, ceci est une caricature, les notes sur les emballages ou la majoration du prix d'achat seront des moyennes pondérées : on choisit de donner plus d'importance à certains indicateurs. Une autre façon de faire plus radicale serait de considérer certains indicateurs comme des conditions nécessaires (mais pas suffisantes) : si la note climat est en-dessous de 5, la consommation est disqualifiée, peut importe les autres notes : 0 pointé !
+Bien sûr, ceci est une caricature, les [notes sur les emballages](https://lanoteglobale.org/les-produits-notes/poulets/poulet-blanc-lyre-fermier-decoupe-4-filets) ou la majoration du prix d'achat seront des moyennes pondérées : on choisit de donner plus d'importance à certains indicateurs. Une autre façon de faire plus radicale serait de considérer certains indicateurs comme des conditions nécessaires (mais pas suffisantes) : si la note climat est en-dessous de 5, la consommation est disqualifiée, peut importe les autres notes : 0 pointé !
 
 Mais le problème reste entier : dans notre exemple, qui décidera de l'importance du climat par rapport au bien-être animal ? Le gouvernement ? Le parlement ? L'industrie agro-alimentaire ? Le paysan local qui me livre mon panier ? La première appli que j'ai trouvé sur l'App Store ? Le nouveau "planet score" affiché quand je tape "entrecôte de boeuf bien ou pas" sur Google ? Chaque citoyen ? Le strict minimum sera de [rendre public cette méthode de calcul](https://publi.codes/) et de justifier les choix.
 
@@ -41,9 +41,11 @@ Et si c'est un prix, par exemple 50€ l'entrecôte à la brasserie du coin (car
 
 La deuxième solution sera de planifier la décroissance des consommations non durables, en faisant des choix démocratiques (du moins espérons-le) reposant sur l'état de l'art des mesures scientifiques. Bien sûr, cette solution ne remplace aucunement la 1ère : vivre implique consommer un minimum de choses, et le choix entre deux alternatives (liseuse vs livre, vélo vs voiture partagée) implique souvent des arbitrages moraux, toutes les meilleure notes pour chaque indicateur n'étant pas systématiquement détenues par l'une des alternative : le livre n'utilise certes que très peu de ressources minières, mais la liseuse a aussi ses qualités.
 
+A quoi pourrait ressembler cette planification, par opposition à la taxation progressive qui ne ferait que renchérir une consommation jugée mauvaise ? Exemple avec l'avion.
+
 > Article 1er du code de la consommation durable. 
 
-> Étant donné l'impact majeur de l'aviation sur le climat et l'absence d'avantage significatif sur les autres critères de durabilité énoncés à l'article 8 du présent code et documentés à l'adresse https://impact.gouv.fr, toute liaison aérienne nationale est interdite si elle concurrence une liaison ferroviaire de moins de 4h ou de nuit.
+> Étant donné l'impact majeur de l'aviation sur le climat, sa consommation immodérée de cette ressource rare qu'est le pétrole, et l'absence d'avantage significatif sur les autres critères de durabilité énoncés à l'article 8 du présent code et documentés à l'adresse https://impact.gouv.fr, toute liaison aérienne nationale est interdite si elle concurrence une liaison ferroviaire de moins de 4h ou de nuit.
 
 > Chaque citoyen est tenu de respecter le quota d'un vol long-courrier de tourisme tous les 10 ans, un vol moyen courrier tous les 5 ans; chaque citoyen dispose chaque année de deux pass voyage illimité d'une semaine sur les rails européens.
 
