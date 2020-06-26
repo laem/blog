@@ -11,7 +11,7 @@ résumé: Votre médecin ne prononcera jamais cette phrase. Adoptons la même ri
 
 > Voilà madame, vous pouvez rentrer chez vous, tout va bien. Le thermomètre indique 41° de fièvre, ce qui pourrait sembler inquiétant en soi, mais votre électrocardiogramme est normal, votre tension aussi et vous n'avez perdu aucune dent !
 
-Ce diagnostic ne sera évidemment jamais prononcé par un médecin. Un seul indicateur critique délencherait une investigation d'urgence. Un autre indicateur ne fera pas oublier cette gravité, qu'il soit secondaire (le nombre de dents), ou même vital (l'électrocardiogramme, qui mesure la régularité des bâtements du coeur).
+Ce diagnostic ne sera évidemment jamais prononcé par un médecin. Un seul indicateur critique délencherait une investigation d'urgence. Un autre indicateur ne fera pas oublier cette gravité, qu'il soit secondaire (le nombre de dents), ou même vital (l'électrocardiogramme, qui mesure la régularité des battements du coeur).
 
 Si mon état de fièvre est évalué à 2/10 (0 étant la mort, 10 la forme de Zizou le 12 juillet 1998), ma dentition à 10/10 et mon électro-cardiogramme 9/10, la moyenne de 7/10 qui m'aurait valu une mention au bac ne reflète absolument pas mon état de santé critique. En d'autres termes, **il est dangereux de moyenner les indicateurs vitaux d'un être vivant**.
 
