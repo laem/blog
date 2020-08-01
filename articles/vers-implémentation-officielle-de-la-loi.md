@@ -172,6 +172,9 @@ En attendant, la base est [construite sur ce site](https://github.com/sgmap/syso
 
 _C’est en cours de construction_, et c’est d’ailleurs une implémentation modeste des principes de cet article. D’autres initiatives feront un travail de modélisation similaire sur d’autres domaines. Peut-être qu’elle se généralisera progressivement à ces autres domaines, ou bien s’effacera face à un concurrent plus prometteur…
 
+
+> Cet article est suivi d'un deuxième beaucoup plus pratique : venez découvrir comment on peut [facilement expliciter l'algorithme de l'impôt sur le revenu](/l-état-nous-doit-des-explications).
+
 ### Un tout petit peu de bibliographie.
 
 [Cet article](http://greenash.net.au/thoughts/2008/08/legislation-and-programming-two-peas-in-a-pod/) d’un blog personnel introduit bien le couple loi-code. Il compare malheureusement la loi à du code moyen, pas très élégant. Sa conclusion vaut la lecture : elle note l’importance du mot “raisonnable” dans notre système législatif.
