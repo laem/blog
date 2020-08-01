@@ -101,13 +101,13 @@ Si vous ne comprenez pas le premier bout de code que vous allez voir, ce n’est
 
 Mais comprenez-bien qu’il tourne là, sous vos yeux. Ce n’est pas qu’un bout de texte qui ne ferait que décrire un calcul : cliquez sur le bouton vert `Run` et il va prendre les 2 300 € en entrée pour sortir les 1650€ d’impôt.
 
-<iframe style="padding: 0; margin: 0; background: transparent;width: 90%; height: 450px" src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/1/default" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe style="padding: 0; margin: 0; background: transparent;width: 100%; height: 550px" src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/1/default" frameborder="0" allowfullscreen></iframe>
 
 Vous pouvez même changer le code et le refaire tourner, par exemple avec 3 000€ en entrée.
 
 Ce code sera considéré par tous les programmeurs comme de mauvaise qualité, fait à la va-vite : à aucun endroit on ne peut voir mention de cette pierre angulaire de l’impôt, le _barème_. En fait, aucun bloc n’a de nom, il sera difficile à lire. Deuxième essai :
 
-<iframe style="padding: 0; margin: 0; background: transparent;width: 90%; height: 750px" src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/2/default" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe style="padding: 0; margin: 0; background: transparent;width: 100%; height: 800px" src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/2/default" frameborder="0" allowfullscreen></iframe>
 
 Voilà qui est mieux : on a créé une fonction `barème`, et une autre fonction `abattement`. Eh oui, on a même nommé ces fonctions en français, après tout c’est la langue qu’on parle le mieux ici.
 
@@ -115,7 +115,7 @@ N’empêche, il reste toujours des expressions pas très familières : `functi
 
 Comment écrire ce barème plus simplement ? Facile : on va séparer la fonction qui fait l’opération (le barème) des données utilisées dans l’opération (les tranches de l’impôt et les % correspondants). Après tout, ça fait 300 ans qu’un barème se calcule de la même façon, seules ses données changent !
 
-<iframe style="padding: 0; margin: 0; background: transparent;width: 90%; height: 1750px" src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/3/default" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe style="padding: 0; margin: 0; background: transparent;width: 100%; height: 1800px" src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/3/default" frameborder="0" allowfullscreen></iframe>
 
 On vient de poser les premières briques d’un langage de programmation spécialisé dans le calcul de l’impôt sur le revenu !
 
