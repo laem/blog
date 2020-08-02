@@ -1,14 +1,10 @@
 ---
-title: 'Voie B, le TGV AirFrance n°01072020 est attendu au départ.'
-description: "Les faits sont incontestables\_: notre climat se détraque et les yeux se braquent de plus en plus vers les traînées blanches dans le ciel."
-date: '2019-10-20T18:05:49.400Z'
-categories: []
-keywords: []
-slug: >-
-  /@l4em/voie-b-le-tgv-airfrance-n-01072020-est-attendu-au-d%C3%A9part-55f05f86fb42
+titre: Voie B, le TGV Air France est attendu au départ
+résumé: |
+  La compagnie aérienne fera-t-elle le choix visionnaire de devenir un acteur du seul transport rapide du futur : le train ?
+date: 2019-10-20
+image: https://cdn-images-1.medium.com/max/800/1*lgbRWT3Chvu4V_ybv307Yw.jpeg
 ---
-
-![](https://cdn-images-1.medium.com/max/800/1*lgbRWT3Chvu4V_ybv307Yw.jpeg)
 
 Les faits sont incontestables : notre climat se détraque et les yeux se braquent de plus en plus vers les traînées blanches dans le ciel.
 
