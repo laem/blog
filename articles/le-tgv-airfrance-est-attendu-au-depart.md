@@ -72,3 +72,5 @@ Aujourd’hui, dans la panique, vous ripostez avec des messages qui ne dupent pl
 Titrer “Roissy-Mérignac en 1h15” aurait été un peu plus honnête.
 
 **Demain, serez-vous la première compagnie aérienne à entrer en gare ?**
+
+![](https://pbs.twimg.com/media/EWohhRQXYAIRV3E.jpg)
