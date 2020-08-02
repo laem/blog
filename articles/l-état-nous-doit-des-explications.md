@@ -5,6 +5,9 @@ date: 2018-06-21
 image: https://cdn-images-1.medium.com/max/2560/1*RbIsqc5VcBlXSWNrGNkN0Q.png
 ---
 
+# L’État nous doit des explications
+
+
 > Cet article est la suite pratique du premier article [Vers une implémentation officielle de la loi](/vers-implémentation-officielle-de-la-loi), mais il peut sans problème être lu directement. 
 
 Bonne nouvelle ! La France [se convertit](https://fr.m.wikipedia.org/wiki/Données_ouvertes_en_France) à l’_open data_. C’est quoi au fait ? Le principe est simple : les agents de l’État et autres employés du privé qui travaillent pour des missions publiques sont payés par nos impôts, en conséquence les données qu’ils collectent ou font collecter doivent être rendues publiques. 

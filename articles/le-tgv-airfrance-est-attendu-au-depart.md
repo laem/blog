@@ -6,6 +6,9 @@ date: 2019-10-20
 image: https://cdn-images-1.medium.com/max/800/1*lgbRWT3Chvu4V_ybv307Yw.jpeg
 ---
 
+# Voie B, le TGV Air France est attendu au départ
+
+
 Les faits sont incontestables : notre climat se détraque et les yeux se braquent de plus en plus vers les traînées blanches dans le ciel.
 
 Les habitués des weekends à Prague ou des vacances à Bali se réfugient souvent derrière cet argument particulièrement efficace : “l’avion c’est seulement 1% de notre impact sur le climat”. Convaincant… mais faux ! Le bon chiffre, pour la France, se situe [plutôt entre 6 et 10%](https://theshiftproject.org/article/aerien-climat-fiscalite-manuel-auto-defense-intellectuelle/).
