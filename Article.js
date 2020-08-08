@@ -27,43 +27,51 @@ export default ({}) => {
 	const theOne = parsedArticles.find(({ id: id2 }) => id === id2)
 
 	const {
-		attributes: { titre, image },
+		attributes: { titre, image, sombre },
 		body,
 	} = theOne
 
 	return (
-		<div css={() => articleStyle}>
-			<nav css="img {width: 3rem; margin: 1rem 0; display: inline; }; a {text-decoration: none}">
-				<Link to="/">
-					<img src="https://avatars1.githubusercontent.com/u/1177762?s=460&v=4" />
-				</Link>
-			</nav>
-			<img css="max-height: 30rem;" src={imageResizer('l')(image)}></img>
-			<ReactMarkdown
-				renderers={{ image: ImageRenderer }}
-				source={body}
-				escapeHtml={false}
-			/>
-			<hr />
-			<p>
-				<span
-					css={`
-						font-size: 200%;
-						vertical-align: middle;
-					`}
-				>
-					🐦
-				</span>{' '}
-				Venez discuter de cet article{' '}
-				<a
-					class="twitter-share-button"
-					href={`https://twitter.com/intent/tweet?text=${titre} https://kont.me/${id} @maeool`}
-					target="_blank"
-					data-size="large"
-				>
-					sur twitter
-				</a>
-			</p>
+		<div
+			css={
+				sombre
+					? 'background:  linear-gradient(#000, #9198e5); color: white'
+					: ''
+			}
+		>
+			<div css={() => articleStyle}>
+				<nav css="img {width: 3rem; margin: 1rem 0; display: inline; }; a {text-decoration: none}">
+					<Link to="/">
+						<img src="https://avatars1.githubusercontent.com/u/1177762?s=460&v=4" />
+					</Link>
+				</nav>
+				<img css="max-height: 30rem;" src={imageResizer('l')(image)}></img>
+				<ReactMarkdown
+					renderers={{ image: ImageRenderer }}
+					source={body}
+					escapeHtml={false}
+				/>
+				<hr />
+				<p>
+					<span
+						css={`
+							font-size: 200%;
+							vertical-align: middle;
+						`}
+					>
+						🐦
+					</span>{' '}
+					Venez discuter de cet article{' '}
+					<a
+						class="twitter-share-button"
+						href={`https://twitter.com/intent/tweet?text=${titre} https://kont.me/${id} @maeool`}
+						target="_blank"
+						data-size="large"
+					>
+						sur twitter
+					</a>
+				</p>
+			</div>
 		</div>
 	)
 }

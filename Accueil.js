@@ -41,11 +41,6 @@ export default () => {
 			</ScrollToTop>
 		</Router>
 	)
-
-	const theOne = parsedArticles.find(({ id }) => id === path.replace('/', ''))
-	if (theOne) return <Article data={theOne} />
-
-	return <div>Désolé, cette page n'existe pas</div>
 }
 
 const Header = () => (
