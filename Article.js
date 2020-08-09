@@ -33,11 +33,12 @@ export default ({}) => {
 
 	return (
 		<div
-			css={
-				sombre
+			css={`
+				padding: 1rem;
+				${sombre
 					? 'background:  linear-gradient(#000, #9198e5); color: white'
-					: ''
-			}
+					: ''}
+			`}
 		>
 			<div css={() => articleStyle}>
 				<nav css="img {width: 3rem; margin: 1rem 0; display: inline; }; a {text-decoration: none}">
