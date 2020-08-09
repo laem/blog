@@ -6,6 +6,8 @@ date: 2020-08-08
 sombre: oui
 ---
 
+> Cette lettre qui vient du futur ne semble pas être encore dans sa forme finale ⏳. 
+
 Voilà on y est. C'est la fin de la vie quotidienne telle qu'on la connaît. 
 
 La plupart d'entre nous avaient entendu cette nouvelle un peu banale sur FranceTVinfo ou BFMTV, noyée dans des analyses économiques. C'est pas la première fois qu'on entendais ce genre de choses, notre oreille était habituée à entendre son prix varier et ses embrouilles géopolitiques lointaines. 
