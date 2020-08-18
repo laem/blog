@@ -8,12 +8,12 @@ sombre: oui
 
 Voilà on y est. C'est la fin de la vie quotidienne telle qu'on la connaît. 
 
-La plupart d'entre nous avaient entendu cette nouvelle un peu banale sur FranceTVinfo ou BFMTV, noyée dans des analyses économiques. C'est pas la première fois qu'on entendais ce genre de choses, notre oreille était habituée à entendre son prix varier au fil des embrouilles géopolitiques lointaines. 
+La plupart d'entre nous avaient entendu cette nouvelle un peu banale sur FranceTVinfo ou BFMTV, noyée dans des analyses économiques. C'est pas la première fois qu'on entendait ce genre de choses, notre oreille était habituée à entendre son prix varier au fil des embrouilles géopolitiques lointaines. 
 
 À force de crier au loup, on n'y croyait plus. 
 Tout le monde refusait l'hypothèse d'un pic, personne n'osait réfléchir aux conséquences que ça allait avoir sur notre vie de pauvres européens. 
 
-En un mois, les constructeurs automobile qui n'avaient pas fait l'effort de s'extraire du monde d'avant ont fait faillite. Mais pas seulement : on s'est rendu compte à quel point la voiture électrique dépendait du pétrole, et en l'absence de ce dernier, ses prix ont triplés. Vous vous rappelez du PQ et de la farine la 1ère semaine de confinement en 2020 ? Les véhicules électrique sont partis aussi vite. Certains ont vendu leur maison secondaire pour ça.
+En un mois, les constructeurs automobile qui n'avaient pas fait l'effort de s'extraire du monde d'avant ont fait faillite. Mais pas seulement : on s'est rendu compte à quel point la voiture électrique dépendait du pétrole, et en l'absence de ce dernier, ses prix ont triplé. Vous vous rappelez du PQ et de la farine la 1ère semaine de confinement en 2020 ? Les véhicules électriques sont partis aussi vite. Certains ont vendu leur maison secondaire pour ça.
 
 C'est tout simplement le concept de __voiture__ qui a décollé vers une autre planète : elle est maintenant la marque d'une famille riche. 
 
