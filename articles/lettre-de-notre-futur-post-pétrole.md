@@ -25,7 +25,7 @@ Ces 10 baignoires suffiraient aujourd'hui à payer le salaire annuel d'un footba
 
 La France est en un éclair devenue la deuxième puissance européenne, aux côtés de la Russie. Nos voisins allemands se sont pris une claque plus violente que nous : sans  essence et avec un gaz devenu si cher, nos vies modernes sont branchées au réseau électrique. Ce réseau qu'on considérait comme acquis il y a quelques mois, est devenu l'infrastructure à défendre des pays. 
 
-Le quotidien allemand n'a jamais autant dépendu de la météo, en tout cas pour la majorité n'a pas la chance de pouvoir se payer le forfait continu. Jamais on n'aurait pensé devoir regarder la météo avant de brancher le smartphone, faire bouillir de l'eau ou aller au cinéma.
+Le quotidien allemand n'a jamais autant dépendu de la météo, surtout pour les foyers qui ne peuvent se payer le forfait continu. Jamais on n'aurait pensé devoir regarder la météo avant de brancher le smartphone, faire bouillir de l'eau ou aller au cinéma.
 
 Tout ça ne serait qu'un nouveau style de vie auquel on pourrait prêter un certain charme... Mais ce serait sans compter les conséquences économiques : l'industrie allemande s'est effondrée, pas encore assez automatisée pour tripler la production les jours où le soleil est radieux ou les nuits pleines de vent. On s'est rendu compte que les concepts de vacances régulières et d'horaires fixes étaient conditionnés à un réseau d'énergie stable, qui dépend aujourd'hui dans beaucoup de pays d'Europe, dans l'ordre, de la météo, du gaz russe et du nucléaire français (tant que nos réserves tiennent). 
 
