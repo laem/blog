@@ -21,7 +21,7 @@ Le marché de l'occasion ne vaut presque plus rien, si ce n'est pour faire des c
 
 Tous les jours je pense à ce gâchis, quelle bande d'abrutis on a été. On sait depuis des lustres la valeur du pétrole, sa densité énergétique incroyable, en bref qu'il a permis l'essor de nos sociétés modernes. C'est notre croyance en son abondance qui nous autorisait à cramer sans broncher 10 baignoires de cet or noir pour aller passer une semaine au soleil l'hiver. 
 
-Ces 10 baignoires suffiraient aujourd'hui à payer le salaire annuel d'un footballer du Barça.
+Ces 10 baignoires suffiraient aujourd'hui à payer le salaire annuel d'un footballeur du Barça.
 
 La France est en un éclair devenue la deuxième puissance européenne, aux côtés de la Russie. Nos voisins allemands se sont pris une claque plus violente que nous : sans  essence et avec un gaz devenu si cher, nos vies modernes sont branchées au réseau électrique. Ce réseau qu'on considérait comme acquis il y a quelques mois, est devenu l'infrastructure à défendre des pays. 
 
