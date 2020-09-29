@@ -1,7 +1,11 @@
+---
+titre: La bibliothèque nationale de fabrication
+date: 2020-09-29
+image: https://i.imgur.com/yGG56Qr.jpg
+résumé: L'Etat doit lancer une grande bibliothèque associée à un réseau de fabriques des objets standards que l'on aura jugé démocratiquement essentiels à notre société.
+---
+
 # La bibliothèque nationale de fabrication
-
-
-![](https://i.imgur.com/yGG56Qr.jpg)
 
 
 L'Etat doit lancer une grande bibliothèque associée à un réseau de fabriques des objets standards que l'on aura jugé démocratiquement essentiels à notre société.
