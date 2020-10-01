@@ -7,6 +7,8 @@ résumé: L'Etat doit lancer une grande bibliothèque associée à un réseau de
 
 # La bibliothèque nationale de fabrication
 
+> ⚠️ Attention, cet article est en cours de rédaction. Vous pouvez le lire et me faire des remarques sur le fond, ou attendre une semaine ou deux pour lire la première version 
+ 
 
 L'Etat doit lancer une grande bibliothèque associée à un réseau de fabriques des objets standards que l'on aura jugé démocratiquement essentiels à notre société.
 
@@ -72,6 +74,10 @@ Or, nous n'avons plus le temps.
 Non. Nous n'avons pas le temps d'attendre que Citroën rattrappe le savoir faire de Tesla. Mais surtout pas le temps d'attendre que Tesla passe de la production de tank de luxe aux vélos, véhicules légers, bus et trains à batterie pour lignes rurales non électrifiées.
 
 [dire pourquoi, en une phrase choc sur le climat et la biodiv, nous n'avons pas le temps]
+
+Au-delà de l'apport évident de l'open source pour l'innovation démontrée dans le logiciel, il faut surtout comprendre que les impératifs environnementaux, à commencer par le climat, vont forcer une ouverture au moins partielle des objets de grande consommation. 
+
+Pour comprendre l'empreinte environnementale d'un objet ou d'un service, on fait une analyse de cycle de vie. [expliquer en deux mots sur un exemple]. Comment être certain que l'empreinte d'un objet est contenue dans une certaine limite, sans que son design soit complètement ouvert [analogie de la réparation de vélo dans la rue] ? On peut décrêter qu'un corps de fonctionnaires, ou des boîtes de conseil, sont les personnes de confiance qui vérifient tout ça sans révéler les secrets de fabrication. On peut aussi demander que les objets de base de notre vie courante, qui constituent l'essentiel de l'impact environnemental, doivent être ouverts. Quand il s'agit ni plus ni moins que d'assurer le lendemain de notre civilisation, puis-je faire confiance à un fournisseur de gaz qui me dirait "Non, il n'y a pas de fuite de méthane sur notre champs" ? Non.
 
 
 ### Open source low impact tech, plutôt que "low tech"
