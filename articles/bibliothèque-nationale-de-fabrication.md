@@ -2,29 +2,25 @@
 titre: La bibliothèque nationale de fabrication
 date: 2020-09-29
 image: https://i.imgur.com/yGG56Qr.jpg
-résumé: L'Etat doit lancer une grande bibliothèque associée à un réseau de fabriques des objets standards que l'on aura jugé démocratiquement essentiels à notre société.
+résumé: L'Etat doit lancer une grand service public de fabrication des objets standards que l'on aura jugé démocratiquement essentiels à notre société.
 ---
 
 # La bibliothèque nationale de fabrication
 
-> ⚠️ Attention, cet article est en cours de rédaction. Vous pouvez le lire et me faire des remarques sur le fond, ou attendre une semaine ou deux pour lire la première version 
- 
-
-L'Etat doit lancer une grande bibliothèque associée à un réseau de fabriques des objets standards que l'on aura jugé démocratiquement essentiels à notre société.
 
 « Cette crise nous enseigne que le caractère stratégique de certains biens nous impose une production européenne », déclare Emmanuel Macron en mars 2020 à une France qui sous le choc, constate que son grand pays n'est plus capable de fabriquer un objet parmi les plus simples qui soit, un masque en tissu.
 
-On ne peut plus se permettre de ne pas produire ou de ne pas savoir produire ces besoins de base, c'est une évidence. Mais nous devons aller bien plus loin que ça : nous devons changer de paradigme industriel.
+On ne peut plus se permettre de ne pas produire ou de ne pas savoir produire ces besoins de base, c'est une évidence. Mais nous devons aller bien plus loin que ça : **nous devons changer de paradigme industriel**.
 
-L'Etat doit construire une plateforme qui donne à tout citoyen, toute association ou entreprise, gratuitement et librement, toutes les informations qu'il faut pour construire un masque qui fait ce qu'on attend d'un bon masque.
+L'Etat doit construire une plateforme qui donne gratuitement et librement toutes les informations qu'il faut pour construire un masque efficace.
 
-L'utilisateur de cette plateforme pourra choisir entre plusieurs modèles de cet objet, plusieurs variations plus ou moins adaptées à ses besoins : elastiques derrière les oreilles, derrière la tête, jetable, FFP2... 
+L'utilisateur de cette plateforme, qu'il soit citoyen hacker, association ou entreprise, pourra choisir entre plusieurs modèles de cet objet, plusieurs variations plus ou moins adaptées à ses besoins : elastiques derrière les oreilles, derrière la tête, jetable, FFP2... 
 
-FFP2, mais n'est-ce pas déjà une norme ? Le problème serait-il déjà résolu ? Absolument pas. Les maques dits FFP2 répondent à la norme au nom barbare "NF EN 143/A1". En plus de coûter une centaine d'€ pour un vulgaire PDF, n'espérez pas y trouver le début d'un manuel de fabrication ! 
+FFP2, mais n'est-ce pas déjà une norme ? Le problème serait-il déjà résolu ? Absolument pas. Les masques dits FFP2 répondent à la norme au nom barbare "NF EN 143/A1", un document qui en plus de coûter une centaine d'€ pour un vulgaire PDF, ne vous donnera pas le début d'un manuel de fabrication ! 
 
 Au clic sur mon choix de masque, j'aurai accès : 
-- à la liste des ingrédients
-- au matériel nécessaire pour me lancer
+- à la liste des ingrédients (tissus, etc.)
+- aux outils nécessaires pour me lancer (ciseaux, etc.)
 - aux coûts en € de toutes ces dépendances
 - aux plans (le patron du tissu)
 - à la recette (comment mettre ces plans en action)
@@ -32,79 +28,94 @@ Au clic sur mon choix de masque, j'aurai accès :
 
 ### Du bout de tissu au smartphone durable
 
-Le masque sanitaire ne sera qu'un des objet de cette base. Au-delà de la crise sanitaire, nous avons besoin de nous déplacer, par exemple en vélo cargo. De meubler nos lieux de vie. D'extraire de l'électricité de notre environnement. De jouer de la musique. D'équiper un agriculteur mécaniquement. De construire des appartements en bois local, peut-être en laminé-croisé. De remplacer nos smartphones jetables par de nouveaux réparables, modulaires, propres.
+Le masque  ne sera qu'un des objets de cette base. Au-delà de la crise sanitaire, nous avons besoin de nous déplacer, par exemple en vélo cargo. De meubler nos lieux de vie. D'extraire de l'électricité de notre environnement. De jouer de la musique. D'équiper un agriculteur mécaniquement. De construire des appartements en bois local, peut-être en laminé-croisé. De remplacer nos smartphones jetables par de nouveaux réparables, modulaires, propres.
 
 
+Où doit-on s'arrêter, combien d'objets maximum nos députés (ou nous tous, directement) devront-ils intégrer et budgeter pour cette 1ère mouture ? Aucune raison de limiter cette plateforme : elle sera collaborative. 
 
-Où doit-on s'arrêter, combien d'objets maximum nos députés devront-ils intégrer et budgeter pour cette 1ère mouture ? Aucune raison de limiter cette plateforme : elle sera collaborative. 
+Alors que l'Etat se chargera de fournir les premières recettes et de l'alimenter régulièrement, tout le monde pourra ajouter sa pierre à l'édifice, du hacker derrière son ordinateur, au bricoleur dans son garage, aux bénévoles de l'association, à la PME locale, à la multinationale.
 
-Si l'Etat se chargera de fournir les premières recettes et de l'alimenter régulièrement, tout le monde pourra ajouter sa pierre à l'édifice, du hacker depuis son bureau, au bricoleur dans son garage, aux bénécoles de l'association, à la PME locale, à la multinationale.
+En pratique, l'Etat pourra créer un nouveau corps de fonctionnaires, mandater des entreprises, rachèter des brevets ou des startups. Il n'y a pas de méthode générale à appliquer à cette vaste gamme d'objets, mais il faudra profiter au mieux du reste de savoir faire national. 
 
-En pratique, peu importe si l'Etat crée un nouveau corps de la fabrication (et donc un nième acronyme), mandate des entreprises, rachète des brevets ou des startups. Il n'y a pas de méthode générale à appliquer à cette vaste gamme d'objets. 
+L'essentiel est que la connaissance disponible sur cette plateforme soit une connaissance *pratique*, éprouvée, testée, récemment. Donnez-moi les plans des meilleurs tabourets en bois : à moins que je sois menuisier expérimenté, je ne pourrai que les contempler rêveur. 
 
-L'essentiel est que la connaissance disponible sur cette plateforme soit une connaissance *pratique*, éprouvée, testée, récemment. Donnez-moi les plans des meilleurs tabourets en bois : à moins que je sois menuisier expérimenté, je ne pourrai que les contempler rêveur.
+La bibliothèque sera complètement intégrée dans un réseau national de fabriques locales.
 
 ### Un rêve irréaliste ?
 
 Vous vous dites que c'est une rêve fou et déconnecté ? Non, c'est la réalité du monde du logiciel. Il y a de très grandes chances pour que cet article, vous puissiez le lire grâce à Linux, qui s'incarne par exemple dans la marque plus connue appelée Android. Ces deux constructions logicielles, sont parmi les plus grandes oeuvres ouvertes, documentées, reproductibles, collaboratives de l'humanité.
 
-Le monde du logiciel a montré que ce partage d'une banque commune de briques de base, est non seulement possible, mais tout simplement plus efficace que l'alternative de la propriété intellectuelle entièrement privée. 
+Le monde du logiciel a montré que la mise au pot commun dans un immense répertoire de code public, est non seulement possible, mais tout simplement plus efficace que l'alternative de la propriété intellectuelle entièrement privée. 
 
-Tout le monde connait Wikipedia, l'encyclopédie que chacun peut améliorer en un clic et qu'aucune initiative privée n'aurait pu étoffer à ce point. Peu de gens connaissent *Github*, la base mondiale des recettes de *code informatique*, où tout le monde peut proposer des nouveautés, qui seront mises en application après modération.
+Tout le monde connait Wikipedia, l'encyclopédie que chacun peut améliorer en un clic et qu'aucune initiative privée n'aurait pu étoffer à ce point. Peu de gens connaissent *Github*, la base mondiale des recettes de *code informatique*, où tout le monde peut proposer des nouveautés.
 
-Je veux lancer un réseau social local ? Si je suis développeur, facile. Si je ne le suis pas mais que j'ai du temps ou de la passion, l'essentiel est en ligne, du tuto sur le site du zéro à l'état de l'art algorithmique pas encore intégré dans Google Docs !
+Je veux lancer un réseau social local ? Si je suis développeur, facile. Si je ne le suis pas mais que j'ai du temps ou de la passion, l'essentiel est en ligne, du tuto sur le site du zéro à l'état de l'art algorithmique pas encore intégré dans Google Docs ! Bien sûr, tout seul je ne ferai pas aussi bien que Twitter et son équipe de plusieurs centaines d'ingénieurs. Mais il faut bien comprendre que Twitter lui-même fonctionne sur un incroyable empilement de briques ouvertes ! 
 
 Si la connaissance encyclopédique a Wikipedia, le code et les algorithmes ont Github, alors pourquoi les objets de notre vie quotidienne n'ont-ils pas encore leur équivalent ? 
 
-Il y a énormément de raisons à cela. La plus évidente, et peut-être d'ailleurs suffisante, c'est que l'existence matérielle de ces objets est une barrière d'accès aux nouveaux entrants : le passionné de vélo a un ordinateur pour enrichir en deux clics l'article Wikipedia du [vélo cargo](https://fr.m.wikipedia.org/wiki/Vélo_cargo), mais un atelier tout équipé lui coûtera 1000€ et 25m². Et surtout, le temps et le coût nécessaires à produire ces objets rendent l'itération plus lente : si ma 1ère tentative a un défaut, je ne le corrigerai pas en un clic mais en une journée de plus.
+Il y a énormément de raisons à cela. La plus évidente, et peut-être d'ailleurs suffisante, c'est que l'existence matérielle de ces objets est une barrière d'accès aux nouveaux entrants : le passionné a un écran pour enrichir en deux clics l'article Wikipedia du [vélo cargo](https://fr.m.wikipedia.org/wiki/Vélo_cargo), mais un atelier tout équipé lui coûtera 1000€ et 25m². Le temps et le coût nécessaires pour produire ces objets rendent l'itération plus lente : si ma 1ère tentative a un défaut, je ne le corrigerai pas en 5 minutes derrière mon clavier, mais en une journée et 100€ de plus.
 
-[Mettre une capture d'écran d'instructables et grabcad]
+![](https://i.imgur.com/qHBkJZT.jpg)
 
-[Instructables](https://www.instructables.com), [Grabcad](https://grabcad.com), et plein d'autres tracent le chemin, mais timidement...  la bonne recette reste encore à inventer. 
+
+Malgré ces difficultés, des sites comme [le Low-Tech Lab](https://wiki.lowtechlab.org/), [Instructables](https://www.instructables.com), [Grabcad](https://grabcad.com) tracent le chemin, mais timidement...  la bonne recette de contribution peine à s'imposer.
 
 Or, nous n'avons plus le temps.
 
 
-
-
 ### Notre maison brûle
 
-... et nous attendons *le marché*, qui doit selon les écrits économiques, nous sauver.
+... et nous attendons *le marché*, qui selon les écrits économiques les plus adulés, va nous sauver des crises environnementales.
 
-Non. Nous n'avons pas le temps d'attendre que Citroën rattrappe le savoir faire de Tesla. Mais surtout pas le temps d'attendre que Tesla passe de la production de tank de luxe aux vélos, véhicules légers, bus et trains à batterie pour lignes rurales non électrifiées.
+Non. Nous n'avons pas le temps d'attendre que Citroën rattrappe le savoir faire de Tesla. Mais surtout pas le temps d'attendre que Tesla passe de la production de tank de luxe aux vélos, véhicules ruraux légers, bus et trains à batterie pour lignes non électrifiables.
 
-[dire pourquoi, en une phrase choc sur le climat et la biodiv, nous n'avons pas le temps]
-
-Au-delà de l'apport évident de l'open source pour l'innovation démontrée dans le logiciel, il faut surtout comprendre que les impératifs environnementaux, à commencer par le climat, vont forcer une ouverture au moins partielle des objets de grande consommation. 
-
-Pour comprendre l'empreinte environnementale d'un objet ou d'un service, on fait une analyse de cycle de vie. [expliquer en deux mots sur un exemple]. Comment être certain que l'empreinte d'un objet est contenue dans une certaine limite, sans que son design soit complètement ouvert [analogie de la réparation de vélo dans la rue] ? On peut décrêter qu'un corps de fonctionnaires, ou des boîtes de conseil, sont les personnes de confiance qui vérifient tout ça sans révéler les secrets de fabrication. On peut aussi demander que les objets de base de notre vie courante, qui constituent l'essentiel de l'impact environnemental, doivent être ouverts. Quand il s'agit ni plus ni moins que d'assurer le lendemain de notre civilisation, puis-je faire confiance à un fournisseur de gaz qui me dirait "Non, il n'y a pas de fuite de méthane sur notre champs" ? Non.
+Non, nous n'avons pas le temps, [les échéances du climat commencent en 2021, pas en 2050](https://ecolab.ademe.fr/blog/général/budget-empreinte-carbone-c-est-quoi.md). 
 
 
-### Open source low impact tech, plutôt que "low tech"
+Au-delà de l'apport évident de l'open source pour l'innovation, démontré dans le logiciel, et de la nécessité de réfléchir ensemble aux objets que nous voulons produire, il faut surtout comprendre que les impératifs environnementaux, à commencer par le climat, vont *forcer* une ouverture des objets de grande consommation. 
 
-[Evoquer la sobriété, le fait que si la technologie ne nous sauvera pas, elle amortira notre chute]
+En effet, pour comprendre l'empreinte environnementale d'un objet ou d'un service, on fait une analyse de cycle de vie (ACV). Du cabinet qui design l'objet, à l'usine qui le fabrique, au consommateur qui l'utilise, et à son recyclage, on compte son empreinte. 
 
+Comment être certain que l'empreinte d'un objet est contenue dans une certaine limite, avant de le rendre disponisible à la vente, ou pour le taxer au bon niveau ? 
+
+On peut décrêter qu'un corps de fonctionnaires, ou des armées de consultants de boîtes de conseil, seront les personnes de confiance qui vérifiront tout ça sans révéler les secrets de fabrication. 
+
+On peut aussi se dire qu'on ne rigole pas avec les crises environnementales, acter les échecs du DieselGate et autres rapports RSE promettant la lune et ainsi choisir démocratiquement que les objets de base de notre vie courante, ceux de grande consommation et qui constituent l'essentiel de l'impact environnemental, *doivent* être ouverts. 
 
 ### Vous voulez tuer nos entreprises et la concurrence ? 
 
-Cette bibliothèque nationale, ce modèle économique, c'est l'URSS ? Pas du tout. Elle ne tue pas la concurrence, elle la nourrit, en lui donnant une base bien plus solide accessible à tous.
+Cette bibliothèque nationale, ce modèle d'industrie, c'est l'URSS ? Pas du tout. Elle ne tue pas la concurrence, elle la nourrit, en lui donnant une base bien plus solide accessible à tous.
 
-Premièrement, toute entreprise pourra se saisir de ces connaissances communes nouellement partagées pour produire ces objets et les vendre ! La license est libre : à partir du moment où je paie mes impôts, je finance ces communs, donc j'en fait ce que je veux.
+Premièrement, il ne s'agit pas d'empêcher "le marché" de jouer le rôle qu'on lui attribue, c'est à dire faire mieux que la planification. Toute entreprise pourra lancer son produit et prospérer. Vous me direz alors : si l'Etat finance le design de ces objets, il y a concurrence déloyale au marché, l'entreprise ne peut que perdre face aux poches sans fond de la puissance publique. Justement, non : cet argument qui se tient si l'Etat finance un service concurrent, s'évapore s'il ne fait que financer la production de connaissance pratique intégralement ouverte. 
 
-Deuxièmement, les objets dont l'*ouverture* sera financée par l'Etat ne seront que des standards nécessaires, des objets qui répondent à un besoin de base. Un vélo de course en carbone aérodynamique dernier cri ? Non, pas un besoin de base. Un SUV ? Encore moins. Un smartphone qui se déplie en trois écrans ? Niet. Les plans d'une maison individuelle en ciment de 200m2, et son jacuzzi avec néons intégrés ? Vous rigolez là ?
+Toute entreprise pourra se saisir de ces connaissances communes nouvellement partagées pour reproduire des objets similaires et les vendre à son prix ! La license est libre : à partir du moment où ma société paie ses impôts, elle finance la production de ces communs, donc elle en profite aussi.
 
-En pratique, la plupart du temps en retard sur l'innovation, et si les entreprises arrivent à trouer acheteurs à ces déclinaisons et inventions, tant mieux pour elles. Les entreprises peuvent soit se contenter de construire à partir de ces plans de base et vendre leurs créations pas cher, soit d'innover pour les dépasser et fournir des besoins non élémentaires à ceux qui peuvent se les procurer, en attendant que ces innovations soient des années après récupérées par l'État avec une contrepartie; et ainsi de suite.
+Deuxièmement, les objets dont l'*ouverture* sera financée par l'Etat ne seront que ceux qui répondent aux besoins de base. Un vélo de course en carbone aérodynamique dernier cri ? Non, pas un besoin de base. Un SUV ? Encore moins. Un smartphone qui se déplie en trois écrans ? Niet. Les plans d'une maison individuelle en ciment de 200m2, et son jacuzzi avec néons intégrés ? Mais c'est fini, oui !
 
+En pratique donc, le catalogue sera la plupart du temps en retard sur l'innovation depointe, et si les entreprises arrivent à trouver acheteurs à ces déclinaisons et inventions, tant mieux pour elles. 
 
-------------
-
-### Notes pas encore intégrées.
-
+Elles peuvent soit se contenter de construire à partir de ces plans de base, améliorer le procédé et vendre leurs créations moins cher, soit innover pour les dépasser et fournir des besoins non élémentaires à ceux qui peuvent se les procurer, en attendant que ces innovations soient des années après récupérées par l'État, avec une contrepartie; et ainsi de suite.
 
 
+### Et si nous sommes les seuls à jouer le jeu ? 
 
-> Réflexions 
+L'ouverture de tous ces procédés de fabrication, sera évidemment disponible en dehors de nos frontières. Du pain béni pour les entreprises étrangères, qui continueront de bouffer notre industrie ?
 
-Risque de standardisation culturelle. La même table partout. Enfin c'est déjà le cas.
+Toute entreprise désirant vendre des objets sur le territoire, ou les faire importer, doit payer des impôts. Si ce n'est pas le cas aujourd'hui, c'est que l'Etat que nous avons élu, et en particulier son bras économique, Bercy, a décidé de ne rien faire. Il sera ainsi légitime que cette entreprise étrangère ait accès à toute cette connaissance. 
 
-> Ou la banque nationale d'objets standards
+Mais comme les entreprises françaises, Huawei sera soumise à la rude concurrence de la bibliothèque nationale de fabrication, et devra justifier que son dernier smartphone à triple écran justifie les 300€ de plus et la non réparabilité dans l'atelier au coin de ma rue.
+
+Par contre, si elle ne désire pas vendre ses oeuvres en France, elle pourra bien sûr profiter de nos connaissance pour les autres marchés. Le transfert technologique sera automatique. 
+
+
+Certes, nos exportations actuelles s'en trouveront diminuées... mais tout comme nos importations, qui nous coûtent très cher. 
+
+Regardez l'état de notre balance commerciale aujourd'hui : qu'avons-nous à perdre ?
+
+![](https://i.imgur.com/Huu9Rhm.png)
+
+
+
+
+
+
