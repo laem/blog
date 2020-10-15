@@ -74,13 +74,13 @@ Non, nous n'avons pas le temps, [les échéances du climat commencent en 2021, p
 
 Au-delà de l'apport évident de l'open source pour l'innovation, démontré dans le logiciel, et de la nécessité de réfléchir ensemble aux objets que nous voulons produire, il faut surtout comprendre que les impératifs environnementaux, à commencer par le climat, vont *forcer* une ouverture des objets de grande consommation. 
 
-En effet, pour comprendre l'empreinte environnementale d'un objet ou d'un service, on fait une analyse de cycle de vie (ACV). Du cabinet qui design l'objet, à l'usine qui le fabrique, au consommateur qui l'utilise, et à son recyclage, on compte son empreinte. 
+En effet, pour comprendre l'empreinte environnementale d'un objet ou d'un service, on fait une analyse de cycle de vie (ACV). Du cabinet qui conçoit les plans de l'objet, à l'usine qui le fabrique, au consommateur qui l'utilise, et à son recyclage, on compte son empreinte. 
 
 Comment être certain que l'empreinte d'un objet est contenue dans une certaine limite, avant de le rendre disponisible à la vente, ou pour le taxer au bon niveau ? 
 
-On peut décrêter qu'un corps de fonctionnaires, ou des armées de consultants de boîtes de conseil, seront les personnes de confiance qui vérifiront tout ça sans révéler les secrets de fabrication. 
+On peut décrêter qu'un corps de fonctionnaires, ou des armées de consultants de boîtes de conseil, seront les personnes de confiance qui vérifieront tout ça sans révéler les secrets de fabrication. 
 
-On peut aussi se dire qu'on ne rigole pas avec les crises environnementales, acter les échecs du DieselGate et autres rapports RSE promettant la lune et ainsi choisir démocratiquement que les objets de base de notre vie courante, ceux de grande consommation et qui constituent l'essentiel de l'impact environnemental, *doivent* être ouverts. 
+On peut aussi se dire qu'on ne rigole pas avec les crises environnementales, acter les échecs du *diesel gate* et autres rapports RSE promettant la lune et ainsi choisir démocratiquement que les objets de base de notre vie courante, ceux de grande consommation et qui constituent l'essentiel de l'impact environnemental, *doivent* être ouverts. 
 
 ### Vous voulez tuer nos entreprises et la concurrence ? 
 
@@ -88,11 +88,11 @@ Cette bibliothèque nationale, ce modèle d'industrie, c'est l'URSS ? Pas du tou
 
 Premièrement, il ne s'agit pas d'empêcher "le marché" de jouer le rôle qu'on lui attribue, c'est à dire faire mieux que la planification. Toute entreprise pourra lancer son produit et prospérer. Vous me direz alors : si l'Etat finance le design de ces objets, il y a concurrence déloyale au marché, l'entreprise ne peut que perdre face aux poches sans fond de la puissance publique. Justement, non : cet argument qui se tient si l'Etat finance un service concurrent, s'évapore s'il ne fait que financer la production de connaissance pratique intégralement ouverte. 
 
-Toute entreprise pourra se saisir de ces connaissances communes nouvellement partagées pour reproduire des objets similaires et les vendre à son prix ! La license est libre : à partir du moment où ma société paie ses impôts, elle finance la production de ces communs, donc elle en profite aussi.
+Toute entreprise pourra se saisir de ces connaissances communes nouvellement partagées pour reproduire des objets similaires et les vendre à son prix ! La licence est libre : à partir du moment où ma société paie ses impôts, elle finance la production de ces communs, donc elle en profite aussi.
 
-Deuxièmement, les objets dont l'*ouverture* sera financée par l'Etat ne seront que ceux qui répondent aux besoins de base. Un vélo de course en carbone aérodynamique dernier cri ? Non, pas un besoin de base. Un SUV ? Encore moins. Un smartphone qui se déplie en trois écrans ? Niet. Les plans d'une maison individuelle en ciment de 200m2, et son jacuzzi avec néons intégrés ? Mais c'est fini, oui !
+Deuxièmement, les objets dont l'ouverture sera financée par l'Etat ne seront que ceux qui répondent aux besoins de base. Un vélo de course en carbone aérodynamique dernier cri ? Non, pas un besoin de base. Un SUV ? Encore moins. Un smartphone qui se déplie en trois écrans ? Niet. Les plans d'une maison individuelle en ciment de 200m2, et son jacuzzi avec néons intégrés ? Mais c'est fini, oui !
 
-En pratique donc, le catalogue sera la plupart du temps en retard sur l'innovation depointe, et si les entreprises arrivent à trouver acheteurs à ces déclinaisons et inventions, tant mieux pour elles. 
+En pratique donc, le catalogue sera la plupart du temps en retard sur l'innovation de pointe, et si les entreprises arrivent à trouver acheteurs, dans les contraintes environnementales du moment, à ces déclinaisons et inventions, tant mieux pour elles. 
 
 Elles peuvent soit se contenter de construire à partir de ces plans de base, améliorer le procédé et vendre leurs créations moins cher, soit innover pour les dépasser et fournir des besoins non élémentaires à ceux qui peuvent se les procurer, en attendant que ces innovations soient des années après récupérées par l'État, avec une contrepartie; et ainsi de suite.
 
@@ -101,9 +101,9 @@ Elles peuvent soit se contenter de construire à partir de ces plans de base, am
 
 L'ouverture de tous ces procédés de fabrication, sera évidemment disponible en dehors de nos frontières. Du pain béni pour les entreprises étrangères, qui continueront de bouffer notre industrie ?
 
-Toute entreprise désirant vendre des objets sur le territoire, ou les faire importer, doit payer des impôts. Si ce n'est pas le cas aujourd'hui, c'est que l'Etat que nous avons élu, et en particulier son bras économique, Bercy, a décidé de ne rien faire. Il sera ainsi légitime que cette entreprise étrangère ait accès à toute cette connaissance. 
+Toute entreprise désirant vendre des objets sur le territoire, ou les faire importer, doit payer des impôts. Si ce n'est pas le cas aujourd'hui, c'est que l'Etat et l'Union que nous avons élus, et en particulier notre bras économique, Bercy, ont décidé de ne rien faire. Il sera ainsi légitime que cette entreprise étrangère ait accès à toute cette connaissance. 
 
-Mais comme les entreprises françaises, Huawei sera soumise à la rude concurrence de la bibliothèque nationale de fabrication, et devra justifier que son dernier smartphone à triple écran justifie les 300€ de plus et la non réparabilité dans l'atelier au coin de ma rue.
+Mais comme les entreprises françaises, Huawei sera soumise à la rude concurrence de la bibliothèque nationale de fabrication, et devra justifier que son dernier smartphone à triple écran vaut les 300€ de plus et la non réparabilité dans l'atelier au coin de ma rue.
 
 Par contre, si elle ne désire pas vendre ses oeuvres en France, elle pourra bien sûr profiter de nos connaissance pour les autres marchés. Le transfert technologique sera automatique. 
 
