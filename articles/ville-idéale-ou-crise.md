@@ -150,7 +150,7 @@ Quand est-ce que nos rues seront assez agréables pour y installer des tables de
 
 ### Un conflit d'argent 💰
 
-Un conflit moins évident d'argent ensuite. La France ne roule pas sur l'or (noir) comme Dubaï : nous n'arriverons pas à bâtir un réseau de transport alternatif sans s'attaquer aux coûts multiples de la voiture, publics (les infrastructures routières, la santé) comme privés (l'achat de la voiture, son entretien, son assurance, etc.). Il faut rogner sur le budget voiture 
+Un conflit moins évident d'argent ensuite. La France ne roule pas sur l'or (noir) comme Dubaï : nous n'arriverons pas à bâtir un réseau de transport alternatif sans s'attaquer aux coûts multiples de la voiture, publics (les infrastructures routières, la santé) comme privés (l'achat de la voiture, son entretien, son assurance, etc.). Il faut rogner sur le budget voiture.
 
 Certes, construire une piste cyclable, ou mieux, une voie apaisée où les voitures ne sont que tolérées, c'est peu d'investissement. Mais un métro, un tram, une voie de bus électrique fréquent, c'est cher. Non, nous ne pouvons pas *d'abord* mettre en place l'alternative pour faire une transition douce. Nous n'avons ni l'argent, ni le temps de réaliser ces travaux *avant* de toucher à la voiture. 
 
@@ -205,9 +205,9 @@ Rappelons d'abord que beaucoup de communes ont moins de cinquante mille habitant
 
 ### Un autre idéal écologique
 
-L'idéal écologique actuel, qui tend vers la maison isolée de campagne, est nourri en grande partie par un besoin viscéral de quitter la ville,devenue angoissante. Il est nécessaire et inspirant, mais ne répond pas forcément à une réduction réelle de notre empreinte. 
+L'idéal écologique actuel, qui tend vers la maison isolée de campagne, est nourri en grande partie par un besoin viscéral de quitter la ville, devenue angoissante. Il est nécessaire et inspirant, mais ne répond pas forcément à une réduction réelle de notre empreinte. 
 
-Il y a fort à parier qu'une vie durable en zone peu dense ne soit pas soutenable (au sens de notre empreinte sur l'environnement) sans d'énormes sacrifices, auxquels beaucoup ne sont pas prêts : un nombre conséquent de kilomètres à vélo ou en bus peu fréquent; résister à des surfaces de logement par personnes de plus de 30m², limiter l'artificialisation des sols à la seule habitation; baisser le chauffage et refaire du gros pull en laine la norme, etc. 
+Il y a fort à parier qu'une vie en zone peu dense ne soit pas soutenable (au sens de notre empreinte sur l'environnement) sans d'énormes sacrifices, auxquels beaucoup ne sont pas prêts : un nombre conséquent de kilomètres à vélo ou en bus peu fréquent; résister à des surfaces de logement par personnes de plus de 30m², limiter l'artificialisation des sols à la seule habitation; baisser le chauffage et refaire du gros pull en laine la norme, etc. 
 
 La vie quotidienne en ville dense est aujourd'hui bien plus soutenable que la vie en maison individuelle sur les composantes transport, logement et services publics, qui représentent par exemple du point de vue du climat [plus de la moitié de notre empreinte](http://ravijen.fr/?p=508). Il reste à s'assurer que cette vie quotidienne ne soit plus source de l'envie d'évasion en avion le weekend.
 
@@ -226,8 +226,7 @@ Une transition *préparée* vers des lieux de vie plus durables, qu'elle s'impos
 
 Un élément important vient toutefois questionner ce propos : le risque de rupture d'approvisionnement en nourriture des grandes villes est de plus en plus pointé du doigt.
 
-Jean-Marc Jancovici par exemple [laisse entendre](https://youtu.be/QGEai5owA4w?t=4434) un déplacement massif, contraint, vers les campagnes, où nous devrons être des millions en plus à travailler la terre. C'est aussi le point de vue du texte ["Propositions pour un retour sur Terre"
-](https://lapenseeecologique.com/propositions-pour-un-retour-sur-terre/) publié en avril 2020.
+Jean-Marc Jancovici par exemple [laisse entendre](https://youtu.be/QGEai5owA4w?t=4434) un déplacement massif, contraint, vers les campagnes, où nous devrons être des millions en plus à travailler la terre. C'est aussi le point de vue du texte ["Propositions pour un retour sur Terre"](https://lapenseeecologique.com/propositions-pour-un-retour-sur-terre/) publié en avril 2020.
 
 
 Cette campagne plus durable de toute évidence ne pourra ressembler à l'actuelle, dont [65%](https://parcel-app.org/repartition-des-produits-relocalises) de la surface est destinée à la viande (et ça ne suffit pas, il faut [importer du soja](https://www.lefigaro.fr/sciences/pourquoi-la-france-est-elle-si-dependante-du-soja-bresilien-20190920) en déforestant le Brésil), composée à 90% de champs démembrés, où les chemins publics et les bois se font rares, coupée par des routes dangereuses. Tout autre mode de déplacement que la voiture y est déconseillé.
