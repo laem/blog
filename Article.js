@@ -1,9 +1,22 @@
-import React from 'react'
+import React, { useState } from 'react'
 import ReactMarkdown from 'react-markdown/with-html'
 import { parsedArticles } from './Accueil'
 import { useParams } from 'react-router-dom'
 import { Link } from 'react-router-dom'
 import { dateCool } from './Accueil'
+
+const repo = 'laem/blog'
+
+const getLastEdit = (name, action) =>
+	fetch(
+		`https://api.github.com/repos/${repo}/commits?path=articles%2F${name}.md&page=1&per_page=1`
+	)
+		.then((res) => res.json())
+		.then((json) => {
+			const date = json[0].commit.committer.date
+
+			action(dateCool(new Date(date)))
+		})
 
 const thumbnailWidth = '320',
 	fullWidth = '800'
@@ -27,17 +40,23 @@ export default ({}) => {
 	const { id } = useParams()
 	const theOne = parsedArticles.find(({ id: id2 }) => id === id2)
 
+	const [lastEditDate, setLastEditDate] = useState(null)
+
 	const {
 		attributes: { titre, date, image, sombre },
 		body,
 	} = theOne
+
+	getLastEdit(id, setLastEditDate)
 
 	return (
 		<div
 			css={`
 				padding: 1rem;
 				${sombre
-					? 'background:  linear-gradient(#000, #9198e5); color: white'
+					? `
+					background:  linear-gradient(#000, #9198e5); color: white
+						; a {color: inherit}`
 					: ''}
 			`}
 		>
@@ -54,9 +73,19 @@ export default ({}) => {
 						font-style: italic;
 						opacity: 0.8;
 						margin-bottom: 2rem;
+						small {
+							font-size: 70%;
+						}
 					`}
 				>
-					<small>Publié le {dateCool(date)}, mis à jour le x</small>
+					<small>
+						Publié le {dateCool(date)}, mis à jour le{' '}
+						<a
+							href={`https://github.com/${repo}/blob/master/articles/${id}.md`}
+						>
+							{lastEditDate}
+						</a>
+					</small>
 				</p>
 				<ReactMarkdown
 					renderers={{ image: ImageRenderer }}
