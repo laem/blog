@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown/with-html'
 import { parsedArticles } from './Accueil'
 import { useParams } from 'react-router-dom'
 import { Link } from 'react-router-dom'
+import { dateCool } from './Accueil'
 
 const thumbnailWidth = '320',
 	fullWidth = '800'
@@ -27,7 +28,7 @@ export default ({}) => {
 	const theOne = parsedArticles.find(({ id: id2 }) => id === id2)
 
 	const {
-		attributes: { titre, image, sombre },
+		attributes: { titre, date, image, sombre },
 		body,
 	} = theOne
 
@@ -47,6 +48,16 @@ export default ({}) => {
 					</Link>
 				</nav>
 				<img css="max-height: 30rem;" src={imageResizer('l')(image)}></img>
+				<p
+					css={`
+						text-align: center;
+						font-style: italic;
+						opacity: 0.8;
+						margin-bottom: 2rem;
+					`}
+				>
+					<small>Publié le {dateCool(date)}, mis à jour le x</small>
+				</p>
 				<ReactMarkdown
 					renderers={{ image: ImageRenderer }}
 					source={body}

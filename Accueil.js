@@ -5,6 +5,14 @@ import { imageResizer } from './Article'
 import { Switch, Route, BrowserRouter as Router, Link } from 'react-router-dom'
 import ScrollToTop from './ScrollToTop'
 
+export const dateCool = (date) =>
+	date.toLocaleString(undefined, {
+		weekday: 'long',
+		year: 'numeric',
+		month: 'long',
+		day: 'numeric',
+	})
+
 export const pageLayout = `
 		padding: 0.6rem 1rem;
 			max-width: 800px;
@@ -114,14 +122,7 @@ let Liste = ({ articles }) => (
 							<Link to={'/' + a.id}>
 								<h2>{a.attributes.titre}</h2>
 							</Link>
-							<small>
-								{a.attributes.date.toLocaleString(undefined, {
-									weekday: 'long',
-									year: 'numeric',
-									month: 'long',
-									day: 'numeric',
-								})}
-							</small>
+							<small>{dateCool(a.attributes.date)}</small>
 						</header>
 						<Link to={'/' + a.id}>
 							<img
