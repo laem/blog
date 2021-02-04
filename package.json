@@ -6,7 +6,8 @@
 	"license": "MIT",
 	"scripts": {
 		"start": "webpack serve --hot --mode development --inline",
-		"compile": "NODE_ENV=production webpack --mode production -c webpack.config.js"
+		"compile": "NODE_ENV=production webpack --mode production -c webpack.config.js",
+		"stats": "NODE_ENV=production webpack --mode production -c webpack.config.js --profile --json > stats.json"
 	},
 	"dependencies": {
 		"@babel/plugin-transform-react-jsx": "^7.12.13",
