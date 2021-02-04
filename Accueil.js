@@ -19,10 +19,11 @@ export const pageLayout = `
 			margin: 0 auto;
 `
 
-var req = require.context('./articles', true, /\.md$/)
-const rawArticles = [...req.keys()]
-	.filter((key) => !key.includes('brouillon'))
-	.map((key) => [key.replace('./', '').replace('.md', ''), req(key).default])
+var req = require.context('./articles', false, /\.md$/)
+const rawArticles = [...req.keys()].map((key) => [
+	key.replace('./', '').replace('.md', ''),
+	req(key).default,
+])
 console.log({ rawArticles })
 
 export const parsedArticles = rawArticles.map(([id, string]) => ({
