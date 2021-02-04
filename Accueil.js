@@ -1,7 +1,7 @@
 import React from 'react'
 import Article from './Article'
 import frontMatter from 'front-matter'
-import { imageResizer } from './Article'
+import { imageResizer, accessibleImage } from './Article'
 import { Switch, Route, BrowserRouter as Router, Link } from 'react-router-dom'
 import ScrollToTop from './ScrollToTop'
 
@@ -127,7 +127,9 @@ let Liste = ({ articles }) => (
 						<Link to={'/' + a.id}>
 							<img
 								css="width: 10rem; box-shadow: rgb(147, 143, 143) 2px 2px 10px 0px;"
-								src={imageResizer('m')(a.attributes.image)}
+								src={imageResizer('m')(
+									accessibleImage(a.attributes.image).image
+								)}
 							></img>
 						</Link>
 						<p>

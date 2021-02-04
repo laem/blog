@@ -5,9 +5,10 @@ import { Helmet } from 'react-helmet'
 export default ({ title, description, image, url, published, updated }) => (
 	<Helmet>
 		<title>{title}</title>
-		<link rel="canonical" href="http://mysite.com/example" />
+		<link rel="canonical" href={url} />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />
+		<meta property="description" content={description} />
 		<meta property="og:image" content={image} />
 		<meta property="og:url" content={url} />
 		<meta property="og:type" content="article" />

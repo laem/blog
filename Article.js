@@ -37,6 +37,11 @@ export const imageResizer = (size) => (src) =>
 		  )
 		: src
 
+export const accessibleImage = (imageRaw, failsafe) =>
+	typeof imageRaw === 'string'
+		? { image: imageRaw, imageAlt: failsafe }
+		: { image: imageRaw.adresse, imageAlt: imageRaw.description }
+
 export default ({}) => {
 	const { id } = useParams()
 	const theOne = parsedArticles.find(({ id: id2 }) => id === id2)
@@ -44,10 +49,11 @@ export default ({}) => {
 	const [lastEditDate, setLastEditDate] = useState(null)
 
 	const {
-		attributes: { titre, date, image, sombre, résumé },
+		attributes: { titre, date, image: imageRaw, sombre, résumé },
 		body,
 	} = theOne
 
+	const { image, imageAlt } = accessibleImage(imageRaw, résumé)
 	getLastEdit(id, setLastEditDate)
 
 	return (
@@ -75,10 +81,17 @@ export default ({}) => {
 			<div css={() => articleStyle}>
 				<nav css="img {width: 3rem; margin: 1rem 0; display: inline; }; a {text-decoration: none}">
 					<Link to="/">
-						<img src="https://avatars1.githubusercontent.com/u/1177762?s=460&v=4" />
+						<img
+							alt="logo dégradé de l'orange vers le mauve"
+							src="https://avatars1.githubusercontent.com/u/1177762?s=460&v=4"
+						/>
 					</Link>
 				</nav>
-				<img css="max-height: 30rem;" src={imageResizer('l')(image)}></img>
+				<img
+					css="max-height: 30rem;"
+					src={imageResizer('l')(image)}
+					alt={imageAlt}
+				></img>
 				<p
 					css={`
 						text-align: center;
