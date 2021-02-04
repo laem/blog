@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import ReactMarkdown from 'react-markdown/with-html'
 import { parsedArticles } from './Accueil'
 import { useParams } from 'react-router-dom'
 import { Link } from 'react-router-dom'
@@ -114,11 +113,7 @@ export default ({}) => {
 						</a>
 					</small>
 				</p>
-				<ReactMarkdown
-					renderers={{ image: ImageRenderer }}
-					source={body}
-					escapeHtml={false}
-				/>
+				<div dangerouslySetInnerHTML={{ __html: body }} />
 				<hr />
 				<p>
 					<span
