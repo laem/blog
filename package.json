@@ -9,6 +9,7 @@
 		"compile": "NODE_ENV=production webpack --mode production -c webpack.config.js"
 	},
 	"dependencies": {
+		"@babel/plugin-transform-react-jsx": "^7.12.13",
 		"buffer": "^6.0.2",
 		"front-matter": "^4.0.2",
 		"imports-loader": "^1.2.0",
@@ -17,12 +18,13 @@
 		"raw-loader": "^4.0.2",
 		"react": "17.0.1",
 		"react-dom": "17.0.1",
+		"react-helmet": "^6.1.0",
 		"react-highlight-words": "^0.16.0",
 		"react-markdown": "^5.0.3",
 		"react-router-dom": "^5.2.0"
 	},
 	"devDependencies": {
-		"@babel/core": "7.12.3",
+		"@babel/core": "^7.12.13",
 		"@babel/preset-env": "^7.12.1",
 		"@babel/preset-react": "^7.12.5",
 		"@pmmmwh/react-refresh-webpack-plugin": "0.4.3",

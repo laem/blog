@@ -4,6 +4,7 @@ import { parsedArticles } from './Accueil'
 import { useParams } from 'react-router-dom'
 import { Link } from 'react-router-dom'
 import { dateCool } from './Accueil'
+import Meta from './Meta'
 
 const repo = 'laem/blog'
 
@@ -15,7 +16,7 @@ const getLastEdit = (name, action) =>
 		.then((json) => {
 			const date = json[0].commit.committer.date
 
-			action(dateCool(new Date(date)))
+			action(date)
 		})
 
 const thumbnailWidth = '320',
@@ -43,7 +44,7 @@ export default ({}) => {
 	const [lastEditDate, setLastEditDate] = useState(null)
 
 	const {
-		attributes: { titre, date, image, sombre },
+		attributes: { titre, date, image, sombre, résumé },
 		body,
 	} = theOne
 
@@ -60,6 +61,17 @@ export default ({}) => {
 					: ''}
 			`}
 		>
+			<Meta
+				{...{
+					title: titre,
+					description: résumé,
+					image,
+					url: 'https://kont.me/' + id,
+					published: new Date(date).toISOString(),
+					updated: lastEditDate,
+				}}
+			/>
+
 			<div css={() => articleStyle}>
 				<nav css="img {width: 3rem; margin: 1rem 0; display: inline; }; a {text-decoration: none}">
 					<Link to="/">
@@ -83,7 +95,7 @@ export default ({}) => {
 						<a
 							href={`https://github.com/${repo}/blob/master/articles/${id}.md`}
 						>
-							{lastEditDate}
+							{dateCool(new Date(lastEditDate))}
 						</a>
 					</small>
 				</p>
@@ -104,7 +116,7 @@ export default ({}) => {
 					</span>{' '}
 					Venez discuter de cet article{' '}
 					<a
-						class="twitter-share-button"
+						className="twitter-share-button"
 						href={`https://twitter.com/intent/tweet?text=${titre} https://kont.me/${id} @maeool`}
 						target="_blank"
 						data-size="large"
