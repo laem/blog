@@ -1,6 +1,7 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const ReactRefreshWebpackPlugin = require('@pmmmwh/react-refresh-webpack-plugin')
 const isDevelopment = process.env.NODE_ENV !== 'production'
+const RemarkHTML = require('remark-html')
 
 module.exports = {
 	mode: isDevelopment ? 'development' : 'production',
@@ -25,8 +26,20 @@ module.exports = {
 				],
 			},
 			{
-				test: /\.md$/i,
-				use: 'raw-loader',
+				test: /\.md$/,
+				use: [
+					{
+						loader: 'html-loader',
+					},
+					{
+						loader: 'remark-loader',
+						options: {
+							remarkOptions: {
+								plugins: [RemarkHTML],
+							},
+						},
+					},
+				],
 			},
 
 			{

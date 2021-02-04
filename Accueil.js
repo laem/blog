@@ -18,21 +18,29 @@ export const pageLayout = `
 			margin: 0 auto;
 `
 
-var req = require.context(
+var frontMatterReq = require.context(
 	'!json-loader!front-matter-loader!./articles',
 	false,
 	/\.md$/
 )
-const rawArticles = [...req.keys()].map((key) => [
+const frontMatters = [...frontMatterReq.keys()].map((key) => [
+	key.replace('./', '').replace('.md', ''),
+	frontMatterReq(key),
+])
+
+var req = require.context('./articles', false, /\.md$/)
+const mds = [...req.keys()].map((key) => [
 	key.replace('./', '').replace('.md', ''),
 	req(key),
 ])
 
-export const parsedArticles = rawArticles.map(([id, data]) => ({
-	...data,
+//console.log(frontMatters, mds)
+
+export const parsedArticles = mds.map(([id, data]) => ({
+	...frontMatters.find(([fid]) => fid === id)[1],
+	body: data,
 	id,
 }))
-console.log(parsedArticles)
 
 export default () => {
 	const path = decodeURI(window.location.pathname)
