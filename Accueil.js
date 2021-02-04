@@ -6,7 +6,7 @@ import { Switch, Route, BrowserRouter as Router, Link } from 'react-router-dom'
 import ScrollToTop from './ScrollToTop'
 
 export const dateCool = (date) =>
-	date.toLocaleString(undefined, {
+	new Date(date).toLocaleString(undefined, {
 		weekday: 'long',
 		year: 'numeric',
 		month: 'long',
@@ -19,17 +19,21 @@ export const pageLayout = `
 			margin: 0 auto;
 `
 
-var req = require.context('./articles', false, /\.md$/)
+var req = require.context(
+	'!json-loader!front-matter-loader!./articles',
+	false,
+	/\.md$/
+)
 const rawArticles = [...req.keys()].map((key) => [
 	key.replace('./', '').replace('.md', ''),
-	req(key).default,
+	req(key),
 ])
-console.log({ rawArticles })
 
-export const parsedArticles = rawArticles.map(([id, string]) => ({
-	...frontMatter(string),
+export const parsedArticles = rawArticles.map(([id, data]) => ({
+	...data,
 	id,
 }))
+console.log(parsedArticles)
 
 export default () => {
 	const path = decodeURI(window.location.pathname)

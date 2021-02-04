@@ -110,7 +110,7 @@ export default ({}) => {
 						<a
 							href={`https://github.com/${repo}/blob/master/articles/${id}.md`}
 						>
-							{dateCool(new Date(lastEditDate))}
+							{dateCool(lastEditDate)}
 						</a>
 					</small>
 				</p>
