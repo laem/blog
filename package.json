@@ -6,13 +6,15 @@
 	"license": "MIT",
 	"scripts": {
 		"start": "webpack serve --hot --mode development --inline",
-		"compile": "NODE_ENV=production webpack --mode production -c webpack.config.js"
+		"compile": "NODE_ENV=production webpack --mode production -c webpack.config.js",
+		"stats": "NODE_ENV=production webpack --mode production -c webpack.config.js --profile --json > stats.json"
 	},
 	"dependencies": {
 		"@babel/plugin-transform-react-jsx": "^7.12.13",
 		"buffer": "^6.0.2",
-		"front-matter": "^4.0.2",
+		"front-matter-loader": "^2.0.0",
 		"imports-loader": "^1.2.0",
+		"json-loader": "^0.5.7",
 		"path-browserify": "^1.0.1",
 		"process": "^0.11.10",
 		"raw-loader": "^4.0.2",
