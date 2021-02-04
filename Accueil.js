@@ -1,6 +1,5 @@
 import React from 'react'
 import Article from './Article'
-import frontMatter from 'front-matter'
 import { imageResizer, accessibleImage } from './Article'
 import { Switch, Route, BrowserRouter as Router, Link } from 'react-router-dom'
 import ScrollToTop from './ScrollToTop'

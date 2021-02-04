@@ -12,7 +12,6 @@
 	"dependencies": {
 		"@babel/plugin-transform-react-jsx": "^7.12.13",
 		"buffer": "^6.0.2",
-		"front-matter": "^4.0.2",
 		"front-matter-loader": "^2.0.0",
 		"imports-loader": "^1.2.0",
 		"json-loader": "^0.5.7",
