@@ -87,11 +87,13 @@ export default ({}) => {
 						/>
 					</Link>
 				</nav>
-				<img
-					css="max-height: 30rem;"
-					src={imageResizer('l')(image)}
-					alt={imageAlt}
-				></img>
+				<a href={imageResizer('l')(image)}>
+					<img
+						css="max-height: 30rem;"
+						src={imageResizer('m')(image)}
+						alt={imageAlt}
+					></img>
+				</a>
 				<p
 					css={`
 						text-align: center;
