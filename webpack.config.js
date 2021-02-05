@@ -75,13 +75,11 @@ module.exports = {
 	},
 
 	output: {
-		filename: 'index.js',
 		path: path.join(__dirname, '/dist'),
 	},
 	devServer: {
 		contentBase: path.join(__dirname, 'dist'),
 		historyApiFallback: true,
-		publicPath: '/dist',
 	},
 
 	plugins: [
