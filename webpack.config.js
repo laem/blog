@@ -2,6 +2,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 const ReactRefreshWebpackPlugin = require('@pmmmwh/react-refresh-webpack-plugin')
 const isDevelopment = process.env.NODE_ENV !== 'production'
 const RemarkHTML = require('remark-html')
+const path = require('path')
 
 module.exports = {
 	mode: isDevelopment ? 'development' : 'production',
@@ -75,16 +76,19 @@ module.exports = {
 
 	output: {
 		filename: 'index.js',
-		path: __dirname + '/dist',
+		path: path.join(__dirname, '/dist'),
 	},
 	devServer: {
+		contentBase: path.join(__dirname, 'dist'),
 		historyApiFallback: true,
+		publicPath: '/dist',
 	},
 
 	plugins: [
 		isDevelopment && new ReactRefreshWebpackPlugin(),
 		new HtmlWebpackPlugin({
 			title: 'Démo recherche floue',
+
 			template: 'index.html',
 		}),
 	].filter(Boolean),
