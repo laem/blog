@@ -4,7 +4,7 @@ date: 2020-09-29
 image:
   adresse: https://i.imgur.com/yGG56Qr.jpg
   description: La grande et magnifique bibliothèque nationale de France, salle Labrouste
-résumé: L'Etat doit lancer une grand service public de fabrication des objets standards que l'on aura jugé démocratiquement essentiels à notre société.
+résumé: L'État doit lancer un grand service public de fabrication des objets standards que l'on aura jugé démocratiquement essentiels à notre société.
 ---
 
 # La bibliothèque nationale de fabrication
