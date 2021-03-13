@@ -13,9 +13,12 @@ const getLastEdit = (name, action) =>
 	)
 		.then((res) => res.json())
 		.then((json) => {
-			const date = json[0].commit.committer.date
-
-			action(date)
+			try {
+				const date = json[0].commit.committer.date
+				action(date)
+			} catch (e) {
+				action('')
+			}
 		})
 
 const thumbnailWidth = '320',
@@ -48,7 +51,7 @@ export default ({}) => {
 	const [lastEditDate, setLastEditDate] = useState(null)
 
 	const {
-		attributes: { titre, date, image: imageRaw, sombre, résumé },
+		attributes: { titre, date, image: imageRaw, dégradé, résumé },
 		body,
 	} = theOne
 
@@ -59,9 +62,9 @@ export default ({}) => {
 		<div
 			css={`
 				padding: 1rem;
-				${sombre
+				${dégradé
 					? `
-					background:  linear-gradient(#000, #9198e5); color: white
+					background:  linear-gradient(${dégradé[0]}, ${dégradé[1]}); color: white
 						; a {color: inherit}`
 					: ''}
 			`}

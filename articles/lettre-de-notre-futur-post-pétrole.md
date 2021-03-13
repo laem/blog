@@ -5,7 +5,9 @@ image:
   adresse: https://images.unsplash.com/photo-1523975041633-a62b4a500f7e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80
   description: En contreplongée, une personne voit sous ses pieds le reflet multicolore du pétrole répandu au sol
 date: 2020-08-08
-sombre: oui
+dégradé:
+  - '#000'
+  - '#9198e5'
 ---
 
 Voilà on y est. C'est la fin de la vie quotidienne telle qu'on la connaît.
