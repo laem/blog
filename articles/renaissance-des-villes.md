@@ -2,12 +2,12 @@
 titre: Renaissance des villes
 résumé: En plein covid, on parlait de ce trop timide monde d'après. Il lui a fallu un petit coup de pouce.
 image:
-  adresse: https://imgur.com/7C2TOL7.png
+  adresse: https://imgur.com/e9qlrK7.jpg
   description: La France, vue depuis un satellite, semble avoir comme un champignon vert qui s'étend depuis ses métropoles
 date: 2021-03-13
 dégradé:
   - '#000'
-  - '#226043'
+  - '#16402c'
 ---
 
 Le litre d'essence vient de passer les 3€. L'Etat, endetté comme un joueur de poker n'ayant pas compris qu'on ne peut bluffer toute la soirée, ne pouvait pas se permettre de baisser les taxes qui font l'essentiel du prix à la pompe.
