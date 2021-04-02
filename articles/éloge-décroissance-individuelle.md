@@ -79,7 +79,9 @@ Merde ! Le gaz rentrera donc dans la catégorie des 60% d'efforts hors d'atteint
 
 Seulement voilà : il y a plusieurs années, j'ai comme beaucoup de gens calculé mon empreinte sur des simulateurs en ligne, le meilleur aujourd'hui étant bien sûr [Nos Gestes Climat](https://nosgestesclimat.fr).
 
-> Note importante : je développe ce calculateur dans l'équipe [Datagir](https://datagir.ademe.fr) depuis bientôt un an. vous comprenez à ce stade que j'ai un parti pris aussi important que celui de Carbone4 dans son étude faire sa part : je suis payé le développer. Toute information est subjective, l'objectivité s'atteint en croisant les sources ;)
+> Note importante : je développe ce calculateur dans l'équipe [Datagir](https://datagir.ademe.fr) depuis bientôt un an. vous comprenez à ce stade que j'ai un parti pris aussi important que celui de Carbone4 dans son étude faire sa part : je suis payé le développer. Toute information est subjective, l'objectivité s'atteint en croisant les sources.
+
+> Mais ces sources sont d'autant plus fiables qu'elles sont ouvertes, comme c'est le cas pour [Nos Gestes Climat](https://github.com/datagir/nosgestesclimat).
 
 Revenons à mon gaz : il apparaît clairement que l'empreinte du chauffage incontrôlable de ma passoire thermique douillette représente **la moitié de mon empreinte climat** 😱. Je me suis rendu compte de ce fait il y a 4 ans.
 
@@ -97,21 +99,29 @@ Deux semaines après, il nous a été demandé de faire des relevés de tempéra
 
 Alors, geste individuel ou effort collectif par ricochet 😏 ? La morale de cette histoire (et j'en ai plein d'autres, à commencer par l'impact en termes de pression sociale du fait d'avoir un ami qui ne prend plus l'avion) est pour moi limpide : arrêtons non seulement d'opposer effort individuel et effort collectif, mais arrêtons tout court de faire cette séparation si simpliste !
 
+> On notera que dans les simulateurs d'empreinte personnelle comme Nos Gestes Climat, ou encore MyCO2 de Carbone4 qui est sorti après l'étude "Faire sa part", il s'agit non pas de quantifier un effort "modéré" ou "héroïque", mais simplement de quantifier l'empreinte d'un individu, sans juger s'il lui est "facile" ou "presque impossible" (comprendre donc "relevant du collectif") de changer le chauffage de son logement, ou même de changer de logment. Cela dit, il y est théoriquement possible de passer de 11 tonnes (la moyenne nationale) à 2 tonnes, soit une baisse de plus de 80%.
+
+> La vie à quatre ou trois tonnes d'empreinte personnelle reste très mal décrite. Cela fera je l'espère prochainement l'objet de récits. Car s'il est avéré que selon la méthode comptabilité de consommation, il est possible de vivre à 3 tonnes, l'évidence est que très peu de gens s'y sont mis aujourd'hui.
+
 ## L'avihonte, les bourses, l'UE et les super-contaminateurs
 
-Évidemment, vous pourrez me rétorquer que cet engagement est limité (la copro n'a pas encore connecté la résidence au réseau de chaleur parisien). On pourra aussi émettre l'hypothèse très sérieuse que les 100 000 premiers français qui ne reprendront plus jamais l'avion (où en sommes nous aujourd'hui ?) ne feront que baisser les prix pour les autres, et ainsi garder un volume de vol, et des émissions constantes. On pourra pourtant aussi défendre l'idée que ces évangélistes de l'avihonte réduiront de façon faible mais perceptible les économies d'échelle de ce secteur, ou encore qu'ils et elles ébranleront les bourses des compagnies aériennes. Inchiffrable.
+Évidemment, vous pourrez me rétorquer que cet engagement n'a produit que des effets limités (la copro n'a pas encore connecté la résidence au réseau de chaleur parisien). Oui, mais 1° de réduction sur une résidence de 200 personnes (si tant est que c'est cela qu'il s'est vraiment passé), ramené à l'échelle de quelques individus "responsables", c'est costaud !
+
+Du point de vue de la comptabilité de consommation, pour enfin passer à 3 tonnes, il me faudrait clairement quitter cette copropriété. Pendant que je profiterai de mon chauffage électrique méticuleusement piloté par un thermostat réglé à moins de 19°, quelqu'un d'autre se prendrait le reste de l'empreinte du chauffage à gaz. Effet positif, neutre ou négatif de mon démégagement ? 🤷‍♂️. Nous y reviendrons : au-delà de la difficulté du chiffrage, il est illusoire de s'attendre à des réductions nationales sans qu'une part significative de la population se lance dans ces efforts.
+
+On pourra aussi émettre l'hypothèse très sérieuse que le premier million de français qui ne reprendront plus jamais l'avion (où en sommes nous aujourd'hui ?) ne feront que baisser les prix pour les autres, et ainsi garder un volume de vol, et des émissions constantes. On pourra pourtant aussi défendre l'idée que ces évangélistes de l'avihonte réduiront de façon faible mais perceptible les économies d'échelle de ce secteur, ou encore qu'ils et elles ébranleront les bourses des compagnies aériennes. Inchiffrable.
 
 Poussons encore plus loin ce modèle de séparation de l'individu et du collectif sans porosité, et appliquons-le à l'Union Européenne. Comme vous le savez, ses décisions structurantes se prennent à l'unanimité des États. Ainsi, l'engagement individuel de l'un d'eux (par exemple la France s'engagerait à mettre en place une taxe de douane écolo ambitieuse) aurait un impact strictement nul, car le collectif fonctionne à l'unanimité. Il est vrai qu'elle ne pourrait de toute façon pas toute seule imposer une taxe à ses frontières : on se retrouve dans la situation locataire versus copro. Mais frustrée, un rapport de force s'enclencherait, avec d'âpres négociations, et à la clef peut-être, la mobilisation des autres États. Ce jeu d'influence--cette porosité moi-nous, alors même que l'action individuelle effective est impossible, est absolument inquantifiable. Si le sujet vous intéresse, lisez ["Alignement des planètes"](https://lomm.medium.com/alignement-de-plan%C3%A8tes-5f9abac6974a).
 
-Puis nous pourrions faire une analogie plus crue avec la crise sanitaire que nous vivons. Il est évident qu'on ne peut pas se permettre d'oublier l'existence des effets de contamination qui partent d'**un** individu et des multiples relais super-contaminateurs et leur impact colossal sur les structures collectives. Oui, Elon Musk, [Nabilla](https://twitter.com/BonPote/status/1301455838683557888) et nos (tiens donc, "nos") 577 députés sont tous des individus. Et donc il est stupide de vouloir chiffrer la contribution des individus au nombre total de contaminations, car par définition, c'est 100 %. Macron aurait du couper les frontières en janvier 2021 ? Simpliste : il dépendait de l'opinion de la démocratie française, du parlement, et de l'Union Européenne, et de l'inattaquable liberté de prendre l'avion que nous avions tous façonné ou accepté. Tout ceci n'est absolument pas quantifiable en citoyens vs collectivités !
+Puis nous pourrions faire une analogie plus crue avec la crise sanitaire que nous vivons. Il est évident qu'on ne peut pas se permettre d'oublier l'existence des effets de contamination qui partent d'**un** individu et des multiples relais super-contaminateurs et leur impact colossal sur les structures collectives. Oui, Elon Musk, [Nabilla](https://twitter.com/BonPote/status/1301455838683557888) et nos (tiens donc, "nos") 577 députés sont tous des individus. Et donc il est stupide de vouloir chiffrer la contribution des individus au nombre total de contaminations, car par définition, c'est 100 %. Macron aurait du prendre la décision souveraine de couper les frontières en janvier 2021 ? Simpliste : il dépendait de l'opinion de la démocratie française, du parlement, et de l'Union Européenne, et de l'inattaquable liberté de prendre l'avion que nous avions tous façonné ou accepté. Tout ceci n'est absolument pas quantifiable en citoyens versus collectivités !
 
 Revenons maintenant à l'étude et sa définition de l'écolo "héroïque".
 
 ![](https://i.imgur.com/YjPMBGE.png)
 
-Imaginez donc que 30% des français adoptent ce mode de vie. Car évidemment, personne n'envisage que l'engagement individuel doit se faire tout seul, sans mettre l'accent sur le fait de le crier haut et fort, pour une propagation massive. Imaginez dans une ville 30% des gens qui ont remplacé 80% de leurs trajets en voiture par vélo.
+Imaginez donc que 30% des français adoptent ce mode de vie. Car évidemment, personne n'envisage que l'engagement individuel doit se faire tout seul (ainsi, il faut crier haut et fort les choix qu'on fait, même si c'est pas facile). Imaginez dans une ville 30% des gens qui auraient remplacé 80% de leurs trajets en voiture par vélo.
 
-Vous pensez que "la collectivité" tiendra combien de temps dérouler des boulevards cyclables dans la ville ? Voies cyclables qui permettront d'allonger les trajets faits en vélo. Qui réduiront à moyen terme l'investissement collectif dans l'entretien des routes, et à court terme peut-être les nouveaux projets de routes ?
+Vous pensez que "la collectivité" tiendrait combien de temps avant de dérouler des boulevards cyclables dans la ville ? Voies cyclables qui permettront d'allonger les trajets faits en vélo, donc la réduction d'empreinte modélisée initialement. Qui réduiront à moyen terme l'investissement collectif dans l'entretien des routes, et à court terme peut-être les nouveaux projets de routes ?
 
 Avec 30% des français qui achèteraient tous leurs biens numériques d'occasion, vous pensez vraiment que les directeurs de Fnac et Darty resteraient de marbre ? Que la legislation sur la réparabilité des produits n'évoluerait pas d'un beau tour de vis ?
 
@@ -119,7 +129,7 @@ Les déconsommations individuelles précèdent et justifient l'action collective
 
 ## Basculer
 
-En 2021, le but n'est pas de faire une transition, nous n'avons évidemment plus le temps.
+En 2021, le but n'est pas de faire une transition douce, nous n'avons évidemment plus le temps.
 
 ![](https://i.imgur.com/9G3uCs0.png)
 
@@ -127,7 +137,7 @@ Il s'agit de s'élancer volontairement, après avoir compris les enjeux, dans un
 
 Avoir une voiture, rêver de Bali, bouffer des gros burgers. On aura beau _vouloir_, _appeler_ à autant d'écologie que possible au parlement, dans la loi climat de 2021 comme celle de 2024, cette base pour l'instant inébranlée--nos vies--qui façonne nos votes et les notes ministérielles, cette base rend ces souhaits et promesses de changement politique "collectif" démagogiques, et les élus le savent très bien.
 
-Il ne suffit peut-être que de 3 choses pour que cette base se dérobe :
+Je crois qu'il ne suffit que de 3 choses pour que cette base se dérobe :
 
 1. comprendre la gravité du problème. C'est pourtant simple, sans climat stable on risque de perdre l'eau, la nourriture et les animaux. Mais aussi, plus proche de ce qu'on considère essentiel aujourd'hui en l'absence de ressenti de l'importance de ces besoins vitaux si bien comblés : le millier de milliards d'€ de biens immobiliers dans le sud de la France qui constituent peut-être votre héritage.
 
