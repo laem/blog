@@ -89,22 +89,31 @@ export default ({}) => {
 						/>
 					</Link>
 				</nav>
-				<a href={imageResizer('l')(image)}>
-					<img
-						css="max-height: 30rem;"
-						src={imageResizer('m')(image)}
-						alt={imageAlt}
-					></img>
-				</a>
+				<div>
+					<a href={imageResizer('l')(image)}>
+						<img
+							css="max-height: 30rem;"
+							src={imageResizer('m')(image)}
+							alt={imageAlt}
+						></img>
+					</a>
+					<small
+						css={`
+							text-align: center;
+							font-style: italic;
+							display: block;
+							color: #666;
+						`}
+					>
+						Crédits : {imageRaw.crédits}
+					</small>
+				</div>
 				<p
 					css={`
 						text-align: center;
 						font-style: italic;
 						opacity: 0.8;
 						margin-bottom: 2rem;
-						small {
-							font-size: 70%;
-						}
 					`}
 				>
 					<small>
@@ -195,5 +204,8 @@ aside {
 	aside h2, aside h3 {
 margin: .3rem
 	}
+						small {
+							font-size: 70%;
+						}
 
 	`
