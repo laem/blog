@@ -103,6 +103,8 @@ let Liste = ({ articles }) => (
 				aside {
 					text-align: center;
 				}
+				max-width: 400px;
+				margin: 0 auto;
 			`}
 		>
 			<header></header>
