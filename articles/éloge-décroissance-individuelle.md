@@ -109,11 +109,13 @@ Revenons maintenant à l'étude et sa définition de l'écolo "héroïque".
 
 ![](https://i.imgur.com/YjPMBGE.png)
 
-Imaginez donc que 30% des français adoptent ce mode de vie. Car évidemment, personne n'envisage que l'engagement individuel doit se faire tout seul, sans mettre l'accent sur le fait de le crier haut et fort, pour une propagation massive. Imaginez dans une ville périurbaine, 30% des gens qui font 80% de leurs trajets à vélo.
+Imaginez donc que 30% des français adoptent ce mode de vie. Car évidemment, personne n'envisage que l'engagement individuel doit se faire tout seul, sans mettre l'accent sur le fait de le crier haut et fort, pour une propagation massive. Imaginez dans une ville 30% des gens qui ont remplacé 80% de leurs trajets en voiture par vélo.
 
-Vous pensez que "la collectivité" tiendra combien de temps dérouler des boulevards cyclables dans la ville ? Avec 30% des français qui achèteraient tous leurs biens numériques d'occasion, vous pensez vraiment que les directeurs de Fnac et Darty vont rester de marbre ?
+Vous pensez que "la collectivité" tiendra combien de temps dérouler des boulevards cyclables dans la ville ? Voies cyclables qui permettront d'allonger les trajets faits en vélo. Qui réduiront à moyen terme l'investissement collectif dans l'entretien des routes, et à court terme peut-être les nouveaux projets de routes ?
 
-Les déconsommations individuelles précèdent et justifient l'action collective, elles **sont** en partie cette action collective, qui à la suite les légitime et les diffuse plus largement.
+Avec 30% des français qui achèteraient tous leurs biens numériques d'occasion, vous pensez vraiment que les directeurs de Fnac et Darty resteraient de marbre ? Que la legislation sur la réparabilité des produits n'évoluerait pas d'un beau tour de vis ?
+
+Les déconsommations individuelles précèdent et justifient l'action collective, elles **sont** en partie cette action collective, qui à la suite les légitime et les diffuse plus largement ♻️.
 
 ## Basculer
 
