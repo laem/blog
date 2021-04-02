@@ -31,7 +31,7 @@ Comment ce choix est-il fait aujourd'hui ? En première approximation, aujourd'h
 
 Première solution : nous modifions ce prix pour y intégrer les contraintes environnementales, en fonction de l'impact qu'a cette consommation sur les indicateurs cités plus haut. Il faudra alors… moyenner ces nombreux indicateurs pour tous les ramener à un nombre, le prix en €. Nous devrons être particulièrement vigilants pour éviter de tuer le patient en considérant que cette délicieuse entrecôte de boeuf est tout à fait durable : si si, j'ai lu que certes le boeuf est catastrophique pour le climat (1/10) mais l'animal a vécu une vie heureuse (9/10), a été élevé sans OGM (10/10) et sans antibiotiques (10/10) et issu d'une filière plutôt équitable (8/10). Note globale `7,6/10` , miam 😋 ! 
 
-[![](https://imgur.com/g6mNvUK.jpg)](https://lanoteglobale.org/les-produits-notes/poulets/poulet-blanc-lyre-fermier-decoupe-4-filets/)
+[![](https://i.imgur.com/g6mNvUK.jpg)](https://lanoteglobale.org/les-produits-notes/poulets/poulet-blanc-lyre-fermier-decoupe-4-filets/)
 
 Bien sûr, ceci est une caricature, les notes sur les emballages ou la majoration du prix d'achat seront des moyennes pondérées : on choisit de donner plus d'importance à certains indicateurs. Une autre façon de faire plus radicale serait de considérer certains indicateurs comme des conditions nécessaires (mais pas suffisantes) : si la note climat est en-dessous de 5, la consommation est disqualifiée, peut importe les autres notes : 0 pointé !
 

@@ -4,6 +4,7 @@ résumé: Oubliez tout ce qu'on vous a dit sur les efforts individuels versus le
 image:
   adresse: https://i.imgur.com/xFz8JBd.png
   description: Un cycliste prend la tête et entraîne derrière lui un peloton d'abord diffus puis massif
+  source: https://thomasdanthony.com/Rouleur
   crédits: Illustration "Rouleur" de Thomas Danthony.
 date: 2021-04-02
 ---

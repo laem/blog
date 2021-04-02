@@ -32,7 +32,7 @@ Certes, Paris est exceptionnellement chère et pas représentative du pays. Le r
 
 Encore plus étonnant, c'est en fait _toute la France_ en tendance longue qui a du compter de moins en moins sur son salaire pour devenir propriétaire.
 
-![](https://imgur.com/z1rrKuX.png)
+![](https://i.imgur.com/z1rrKuX.png)
 _Courbe de Friggit [publiée mensuellement par le ministère du logement](http://www.cgedd.developpement-durable.gouv.fr/prix-immobilier-evolution-a-long-terme-a1048.html)._
 
 ## La mécanique se grippe
@@ -68,7 +68,7 @@ Une rue piétonne de maisons colorées, aux trottoirs couverts de plantes : la [
 
 Plutôt que de reproduire ailleurs cette ambiance qui plait et donc diluer les touristes, la mairie du 12ème réfléchit à fermer cette voie publique les soirs et weekends...
 
-![](https://imgur.com/k8aWvT7.png)
+![](https://i.imgur.com/k8aWvT7.png)
 _Une lettre du nom de cette autre rue à Paris révélée pour chaque autre rue piétonnisée_
 
 ### Incarnation actuelle de l'écologie

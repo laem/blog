@@ -2,7 +2,7 @@
 titre: Renaissance des villes
 résumé: En plein covid, on parlait de ce trop timide monde d'après. Il lui a fallu un petit coup de pouce.
 image:
-  adresse: https://imgur.com/e9qlrK7.jpg
+  adresse: https://i.imgur.com/e9qlrK7.jpg
   description: La France, vue depuis un satellite, semble avoir comme un champignon vert qui s'étend depuis ses métropoles
 date: 2021-03-13
 dégradé:
@@ -24,7 +24,7 @@ L'hiver 2021, Paris faisait comme prévu dans le programme municipal une croix s
 
 Ce qui s'est passé dans l'organe central de la France en cette douce fin d'hiver 2021 n'était pourtant pas prévu : les parisiens entendirent une ville nouvelle si paradoxalement agréable dans ce monde en banqueroute. L'absence des véhicules motorisés offrait le silence du confinement mais sans perdre la vie débordante precovid qui renflouait la culture et les commerces de proximité.
 
-![](https://imgur.com/iogTWht.jpg)
+![](https://i.imgur.com/iogTWht.jpg)
 
 Une forte pression des Parisiens déclencha la radicalisation de la municipalité Hidalgo, qui peut-être avait toujours eu cette volonté refoulée par les rêves de puissance motorisée des intellectuels de salon haussmannien et de la préfecture de police : il y aurait début 2022 un référendum pour piétonniser l'espace public parisien intra-muros... mais l'espace d'un trimestre seulement !
 
@@ -42,7 +42,7 @@ Un barème complètement transparent leur permis de savoir s'ils allaient recevo
 
 Une alliance détonante précipita l'expérimentation en résolvant la question épineuse qui restait : des habitants de la couronne métropolitaine, des associations écolo aux rangs grossis par l'immonde reprise carbonée, mais aussi les agriculteurs craignant une invasion de carcasses motorisées dont ils redoutaient, emprunts d'une rare lucidité, le pourrissement sur leur terres fertiles, conduisit à l'évidence : en complément des parkings relais du Grand Paris, les aéroports parisiens, condamnés par l'avihonte et la loi à transporter de moins en moins de voyageurs, étaient l'espace idéal pour stocker toute cette ferraille.
 
-Les organisateurs des Vieilles Charrues, habitués à gérer des flux énormes de personnes et voitures, furent sollicités et confirmèrent l'intérêt de ce programme : les aéroports étaient déjà bitumés, parmi les endroits les plus accessibles pour le transfert par la route et les tours de contrôle idéales pour éviter le pillage de ce parc d'une valeur massive. Ils organisèrent en deux semaines l'archive du parc automobile de la capitale, qui ne se fit évidemment pas sans nostalgie, manifestations et blocages imprévus... mais elle se fit, les satellites braqués et les *timelines* se déchirant sur le bien fondé de cette expérience inédite, cette révolution que seuls ces fous de Français semblaient capables de mener.
+Les organisateurs des Vieilles Charrues, habitués à gérer des flux énormes de personnes et voitures, furent sollicités et confirmèrent l'intérêt de ce programme : les aéroports étaient déjà bitumés, parmi les endroits les plus accessibles pour le transfert par la route et les tours de contrôle idéales pour éviter le pillage de ce parc d'une valeur massive. Ils organisèrent en deux semaines l'archive du parc automobile de la capitale, qui ne se fit évidemment pas sans nostalgie, manifestations et blocages imprévus... mais elle se fit, les satellites braqués et les _timelines_ se déchirant sur le bien fondé de cette expérience inédite, cette révolution que seuls ces fous de Français semblaient capables de mener.
 
 Le Paris sans voiture, du moins sans véhicules thermiques, vécut ses premiers jours avec un sentiment étrange de mélancolie, comme après une sortie de boîte de nuit quand notre tête et nos oreilles entendent toujours le spectre des lourds décibels et trouvent ce calme trop violent.
 
@@ -77,4 +77,4 @@ Les critiques attentives d'_Une France 2030_ ne manquèrent pas de remarquer que
 
 La dernière proposition du club des 4, pourtant la plus symbolique et peu coûteuse, fut peut-être celle qui enveloppa délicatement l'horrible plaie en train d'être péniblement suturée. Il s'agissait pour certains de détruire ce qui a toujours fait Paris, mais pour beaucoup d'autres de mettre un terme à cette domination historique de la capitale sur ses "provinces". L'appareil d'État français fut éclaté aux quatre coins de la France, un Ministère par-ci, une Agence par là, une Assemblée nationale à Marseille, le Conseil scientifique (qui remplaçait le Sénat) à Lille. Les bâtiments somptueux étaient construits pour de bon mais leur fonction allait tourner régulièrement. L'État toujours uni allait gouverner désormais un peu plus près de la réalité de toutes et tous.
 
-> Note : cet article a été écrit *avant la lecture d'Écotopia*, mais le livre en a peut-être déclenché l'écriture. Le sujet de la voiture, qui définit la mobilité d'une ville et d'un pays, me semblent être un point de bascule intéressant et moins ambitieux que la transition intégrale et un peu trop magique racontée dans le livre. En tout cas, lisez-le !
+> Note : cet article a été écrit _avant la lecture d'Écotopia_, mais le livre en a peut-être déclenché l'écriture. Le sujet de la voiture, qui définit la mobilité d'une ville et d'un pays, me semblent être un point de bascule intéressant et moins ambitieux que la transition intégrale et un peu trop magique racontée dans le livre. En tout cas, lisez-le !
