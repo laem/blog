@@ -144,13 +144,19 @@ En 2021, le but n'est pas de faire une transition douce, nous n'avons terribleme
 
 ![](https://i.imgur.com/9G3uCs0.png)
 
-Il s'agit de s'élancer volontairement, après avoir compris les enjeux, dans une chute libre vers un mode de vie durable. Pour basculer, il faut rompre un équilibre. Cet équilibre repose sur les milliers de choix que l'on fait tous dans ce quotidien qu'on ne remet pas en question notamment parce qu'on attend le grand soir collectif, cette fameuse évolution spontanée de la norme sociale qui régit nos sociétés depuis des décennies. Je l'ai attendue de longues années, à lire, à débattre, à relire les rééditions de ce que j'avais lu 5 ans avant.
+Il s'agit de s'élancer volontairement, après avoir compris les enjeux, dans une chute libre vers un mode de vie durable.
+
+Vous êtes sur un rocher au bord de la mer, à 10m de haut. L'appréhension vous empêche de sauter, le fond bien visible et menaçant vous inquiète, et puis vous êtes bien là, à dorer au soleil. Pas maintenant. Chaque quart d'heure passé à appréhender, et la marée rend votre saut plus dangereux. Pourtant vous voyez bien que l'un de vos amis l'a fait. Mais il a toujours été fou celui-là. Une autre le rejoint. Ils ont l'air de s'éclater. Après tout...
+
+[![](https://www.ridestore.com/fr/mag/wp-content/uploads/2019/07/49858353_330801574204203_3329500948011927853_n.jpg)](https://www.ridestore.com/fr/mag/sauter-des-falaises-le-guide-complet/)
+
+Pour basculer, il faut rompre un équilibre. Cet équilibre repose sur les milliers de choix que l'on fait tous dans ce quotidien qu'on ne remet pas en question notamment parce qu'on attend le grand soir collectif, cette fameuse évolution spontanée de la norme sociale qui régit nos sociétés depuis des décennies. Je l'ai attendue de longues années, à lire, à débattre, à marcher place de la République, à relire les rééditions de ce que j'avais lu 7 ans avant.
 
 Avoir une voiture, rêver de Bali, bouffer des gros burgers. On aura beau _vouloir_, _appeler_ à autant d'écologie que possible au parlement, dans la loi climat de 2021 comme celle de 2024, cette base pour l'instant inébranlée--nos vies--qui façonne nos votes et les notes ministérielles, cette base rend ces souhaits et promesses de changement politique "collectif" démagogiques, et les élus le savent très bien.
 
 Je crois qu'il ne suffit que de 3 choses pour que cette base se dérobe :
 
-1. comprendre la gravité du problème. C'est pourtant simple, sans climat stable on risque de perdre l'eau, la nourriture et les animaux. Mais aussi, plus proche de ce qu'on considère essentiel aujourd'hui en l'absence de ressenti de l'importance de ces besoins vitaux si bien comblés : le millier de milliards d'€ de biens immobiliers dans le sud de la France qui constituent peut-être votre héritage.
+1. comprendre la gravité du problème. C'est pourtant simple, sans climat stable on risque de perdre l'eau, la nourriture et les animaux. Mais aussi, plus proche de ce qu'on considère essentiel aujourd'hui en l'absence de ressenti de l'importance de ces besoins vitaux si bien comblés : le millier de milliards d'€ de biens immobiliers dans le sud de la France qui incluent peut-être votre héritage.
 
 2. comprendre l'ampleur de l'effort à fournir, l'inutilité des petits gestes, quels sont les grands gestes.
 3. ne pas laisser dire que la pression sociale, la contagion des modes de vie n'existe pas 😉
