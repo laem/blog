@@ -156,7 +156,9 @@ export default ({}) => {
 const ImageRenderer = ({ src }) => <img src={imageResizer('l')(src)} />
 
 const articleStyle = `
-font-size: 125%;
+
+    font-size: 125%;
+	@media (max-width: 800px){font-size: 110%}
 	max-width: 700px;
 	margin: 0 auto 4rem;
 	h1 {
@@ -167,6 +169,10 @@ font-size: 125%;
 	h4,
 	h5 {
 		margin-top: 2rem;
+	}
+	p {line-height: 1.6rem;
+    letter-spacing: .2px;
+
 	}
 	img {
 		max-width: 80%;
