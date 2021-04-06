@@ -2,10 +2,9 @@
 titre: 'Éloge de la décroissance individuelle'
 résumé: Oubliez tout ce qu'on vous a dit sur les efforts individuels versus le collectif.
 image:
-  adresse: https://i.imgur.com/xFz8JBd.png
-  description: Un cycliste prend la tête et entraîne derrière lui un peloton d'abord diffus puis massif
-  source: https://thomasdanthony.com/Rouleur
-  crédits: Illustration "Rouleur" de Thomas Danthony.
+  adresse: https://www.ridestore.com/fr/mag/wp-content/uploads/2019/07/49858353_330801574204203_3329500948011927853_n.jpg
+  source: https://www.ridestore.com/fr/mag/sauter-des-falaises-le-guide-complet/
+  description: Des gens sautent dans la mer depuis un rocher.
 date: 2021-04-02
 ---
 
@@ -138,6 +137,9 @@ Les déconsommations individuelles précèdent et justifient l'action collective
 
 Avez-vous déjà rencontré quelqu'un qui fait un effort individuel conséquent (ne plus prendre l'avion, tout acheter en vrac, remplacer la voiture par le vélo) et qui ne désire pas que des lois et investissements publics soient votés par _nos_ députés pour passer à l'échelle ?
 
+![](https://i.imgur.com/xFz8JBd.png)
+_[Rouleur](https://thomasdanthony.com/Rouleur) de Thomas Danthony_
+
 ## Basculer
 
 En 2021, le but n'est pas de faire une transition douce, nous n'avons terriblement plus le temps.
@@ -148,7 +150,7 @@ Il s'agit de s'élancer volontairement, après avoir compris les enjeux, dans un
 
 Vous êtes sur un rocher au bord de la mer, à 10m de haut. L'appréhension vous empêche de sauter, le fond bien visible et menaçant vous inquiète, et puis vous êtes bien là, à dorer au soleil. Pas maintenant. Chaque quart d'heure passé à appréhender, et la marée rend votre saut plus dangereux. Pourtant vous voyez bien que l'un de vos amis l'a fait. Mais il a toujours été fou celui-là. Une autre le rejoint. Ils ont l'air de s'éclater. Après tout...
 
-[![](https://www.ridestore.com/fr/mag/wp-content/uploads/2019/07/49858353_330801574204203_3329500948011927853_n.jpg)](https://www.ridestore.com/fr/mag/sauter-des-falaises-le-guide-complet/)
+![](https://www.ridestore.com/fr/mag/wp-content/uploads/2019/07/49858353_330801574204203_3329500948011927853_n.jpg)
 
 Pour basculer, il faut rompre un équilibre. Cet équilibre repose sur les milliers de choix que l'on fait tous dans ce quotidien qu'on ne remet pas en question notamment parce qu'on attend le grand soir collectif, cette fameuse évolution spontanée de la norme sociale qui régit nos sociétés depuis des décennies. Je l'ai attendue de longues années, à lire, à débattre, à marcher place de la République, à relire les rééditions de ce que j'avais lu 7 ans avant.
 

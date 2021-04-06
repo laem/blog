@@ -97,16 +97,18 @@ export default ({}) => {
 							alt={imageAlt}
 						></img>
 					</a>
-					<small
-						css={`
-							text-align: center;
-							font-style: italic;
-							display: block;
-							color: #666;
-						`}
-					>
-						Crédits : {imageRaw.crédits}
-					</small>
+					{imageResizer.crédits && (
+						<small
+							css={`
+								text-align: center;
+								font-style: italic;
+								display: block;
+								color: #666;
+							`}
+						>
+							Crédits : {imageRaw.crédits}
+						</small>
+					)}
 				</div>
 				<p
 					css={`
