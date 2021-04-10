@@ -26,7 +26,7 @@ Ce qui s'est passé dans l'organe central de la France en cette douce fin d'hive
 
 ![](https://i.imgur.com/iogTWht.jpg)
 
-Une forte pression des Parisiens déclencha la radicalisation de la municipalité Hidalgo, qui peut-être avait toujours eu cette volonté refoulée par les rêves de puissance motorisée des intellectuels de salon haussmannien et de la préfecture de police : il y aurait début 2022 un référendum pour piétonniser l'espace public parisien intra-muros... mais l'espace d'un trimestre seulement !
+Une forte pression des Parisiens déclencha la radicalisation de la municipalité Hidalgo, qui peut-être avait toujours eu cette volonté refoulée par les rêves de puissance motorisée des intellectuels de salon haussmannien et de la préfecture de police : il y aurait début 2022 une consultation pour piétonniser l'espace public parisien intra-muros... mais le temps d'un trimestre seulement !
 
 Un expérimentation donc, car certains arguments des anti étaient en effet bien recevables : ce choc pétrolier n'était peut-être qu'un soubresaut d'un déclin de l'or noir qui allait peut-être s'étaler sur le siècle ou être résolu par on-ne-sait quelle technologie de raclage des fonds bitumineux du globe : mieux valait ne pas mettre la charrue avant les bœufs. Il était aussi question des chevaux et leurs crottes, symboles de ce retour en arrière brandi par l'opposition féroce qui innonda Coq, le réseau social bien français qui émergea suite aux censures de plus en plus fréquentes sur les réseaux étatsuniens de certains leaders politiques en cette pleine période de campagne présidentielle française.
 
