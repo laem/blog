@@ -12,11 +12,11 @@ dégradé:
 
 Le litre d'essence vient de passer les 3€. L'Etat, endetté comme un joueur de poker n'ayant pas compris qu'on ne peut bluffer toute la soirée, ne pouvait se permettre de baisser les taxes qui font l'essentiel du prix à la pompe.
 
-Nous sommes en septembre 2021. La technologie médicale nous a sauvé de ce virus contre lequel notre solidarité nationale s'est fracassée. Il est trop tôt pour savoir si cette nouvelle confiance en la science nous fera foncer plus sereinement encore dans le mur, ou si nous allons enfin plus modestement écouter ces sages oracles des temps modernes.
+Nous sommes à l'automne 2021. La technologie médicale nous a sauvés de ce virus contre lequel notre solidarité nationale s'est fracassée. Il est trop tôt pour savoir si cette nouvelle confiance en la science nous fera foncer plus sereinement encore dans le mur, ou si nous allons enfin plus modestement écouter ces sages oracles des temps modernes.
 
-L'activité économique, ce fameux PIB était en passe de dépasser les niveaux pré-covid. Nous allions nous plonger dans la torpeur méritée qui allait suivre un été de fêtes générales... mais notre source d'énergie a flanché. Notre économie entière était basée sur les richesses de quelques sous-sols, qui ne suffisaient, le 1er novembre 2021, tout simplement plus.
+L'activité économique, ce fameux PIB, allait dépasser les niveaux pré-covid. Nous allions nous plonger dans la torpeur méritée qui allait suivre un été de fêtes générales... mais notre source d'énergie a flanché. Notre économie entière était basée sur les richesses de quelques sous-sols, qui ne suffisaient, le 1er novembre 2021, tout simplement plus.
 
-S'en est suivie une réplique de la crise de 2008, globale, crue. Le tremblement de terre venait du sous-sol, mais la cité remplie d'appartements déjà fissuré. La pomme économique était depuis le covid pourrie, mais repeinte et gonflée à la seringue des prêts bancaires comme un BigMac avant son photo-shoot. Heureusement au moins, le virus était derrière nous. Il semble que la misère soit moins pénible quand on ne porte plus le masque et auprès de ses amis.
+S'en est suivie une réplique de la crise de 2008, globale, crue. Le tremblement de terre venait du sous-sol, mais la cité était remplie d'appartements déjà fissurés. La pomme économique était depuis le covid pourrie, mais repeinte et gonflée à la seringue des prêts bancaires comme un BigMac avant son photo-shoot. Heureusement au moins, le virus était derrière nous. Il semble que la misère soit moins pénible sans masque et auprès de ses amis.
 
 C'est pourtant localement que la fracture s'est opérée, quand les métropoles françaises ont pris la mesure de ce choc pétrolier, et en particulier Paris.
 
