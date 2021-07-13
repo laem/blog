@@ -26,7 +26,7 @@ const thumbnailWidth = '320',
 
 export const imageResizer = (size) => (src) =>
 	src.includes('imgur.com')
-		? src.replace(/\.(png|jpg)$/, size + '.png')
+		? src.replace(/\.(png|jpg)$/, (size || '') + '.png')
 		: src.includes('unsplash.com')
 		? src.replace(
 				/w=[0-9]+\&/,
@@ -90,7 +90,7 @@ export default ({}) => {
 					</Link>
 				</nav>
 				<div>
-					<a href={imageRaw.source || imageResizer('l')(image)}>
+					<a href={imageRaw.source || imageResizer()(image)}>
 						<img
 							css="max-height: 30rem;"
 							src={imageResizer('m')(image)}

@@ -2,9 +2,10 @@
 titre: 'Éloge de la décroissance individuelle'
 résumé: Oubliez tout ce qu'on vous a dit sur les efforts individuels versus le collectif.
 image:
-  adresse: https://www.ridestore.com/fr/mag/wp-content/uploads/2019/07/49858353_330801574204203_3329500948011927853_n.jpg
-  source: https://www.ridestore.com/fr/mag/sauter-des-falaises-le-guide-complet/
-  description: Des gens sautent dans la mer depuis un rocher.
+  adresse: https://i.imgur.com/tGFRD22.png
+  description: |
+    Des gens sautent dans la mer depuis un rocher.
+    Source : Steven Donovan @es_dons sur Instagram
 date: 2021-04-02
 ---
 
