@@ -67,7 +67,7 @@ Mais laissons de côté ces histoires de chiffres inexacts et de termes conçus 
 
 ## Séparer l'inséparable
 
-En d'autres termes, l'étude et à ma connaissance ceux qui insistent sur la limite de l'effort individuel, **postulent une non-porosité stricte des décisions propres à la vie d'une citoyen avec celles réservées aux collectivités**, souvent simplifié en "l'État".
+En d'autres termes, l'étude et à ma connaissance ceux qui insistent sur la limite de l'effort individuel, **postulent une non-porosité stricte des décisions propres à la vie d'une citoyen avec celles réservées aux collectivités**, souvent simplifiées en "l'État".
 
 Mais qui sont-elles ces collectivités au fait ? Seulement l'État, ou l'assemblée nationale, le sénat, les conseils régionaux, départementaux, les métropoles, les mairies ? Pourquoi pas les entreprises, les associations, et les équipes de collègues qui s'y constituent ? Et les copros de 200 personnes, celles de 10 voisins ? La famille est-elle une collectivité ? Mes multiples personnalités en sont-elles une autre 😁 ?
 
@@ -163,3 +163,6 @@ Je crois qu'il ne suffit que de 3 choses pour que cette base se dérobe :
 
 2. comprendre l'ampleur de l'effort à fournir, l'inutilité des petits gestes, quels sont les grands gestes.
 3. ne pas laisser dire que la pression sociale, la contagion des modes de vie n'existe pas 😉
+
+
+> Note : un autre article plus court, de Tristan Nitot, traite du même sujet d'un autre point de vue et était déjà sorti 1 an et demi avant, [à lire]( https://standblog.org/blog/post/2019/02/18/Agir-pour-le-climat-à-titre-individuel).
