@@ -28,7 +28,8 @@
 		"remark": "^13.0.0",
 		"remark-html": "^13.0.1",
 		"remark-loader": "^3.0.0",
-		"remark-react": "^8.0.0"
+		"remark-react": "^8.0.0",
+		"yaml-loader": "^0.6.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.12.13",

@@ -1,12 +1,31 @@
-- nom: mon-entreprise.fr
-  code: https://github.com/betagouv/mon-entreprise/
-  lien: https://mon-entreprise.fr
-  description: J'ai lancé l'assistant officiel des entrepreneurs, utilisé par des millions de gens chaque année.
-- nom: futur.eco
-  code: https://github.com/laem/futureco
-  lien: https://futur.eco
-  description: Il manquait un moyen facile de trouver l'empreinte climat des gestes de notre quotidien. Pas encore trouvé son public, v2 bientôt.
-- nom: nosgestesclimat.fr
+- nom: Nos Gestes Climat
   code: https://github.com/datagir/nosgestesclimat
   lien: https://nosgestesclimat.fr
   description: J'ai lancé le calculateur officiel de l'empreinte climat personnelle, aujourd'hui utilisé par des millions de français.
+  image: https://nosgestesclimat.fr/images/dessin-nosgestesclimat.png
+- nom: Futureco
+  code: https://github.com/laem/futureco
+  lien: https://futur.eco
+  description: Il manquait un moyen facile de trouver l'empreinte climat des gestes de notre quotidien. Pas encore trouvé son public, v2 bientôt.
+  image: https://futur.eco/images/logo.svg
+- nom: Vélo libre
+  code: https://github.com/laem/velolibre
+  lien: https://velolib.re
+  description: Il n'y avait pas de guide ouvert pour construire son vélo gravel, maintenant si !
+  image: https://imgur.com/N5HILMv.png
+- nom: Villes plus
+  code: https://github.com/laem/villesplus
+  lien: https://villes.plus
+  description: Le 1er classement des métropoles les plus piétonnes.
+  image: https://imgur.com/KZKYlFo.png
+- nom: Publicodes
+  code: https://github.com/betagouv/publicodes
+  lien: https://publi.codes
+  description: Il manquait un langage pour coder et expliquer les algorithmes d'intérêt public.
+  image: https://publi.codes/img/logo-publicodes.svg
+- nom: Mon Entreprise
+  code: https://github.com/betagouv/mon-entreprise/
+  lien: https://mon-entreprise.fr
+  description: J'ai lancé l'assistant officiel des entrepreneurs, utilisé par des millions de gens chaque année.
+  image: https://imgur.com/Zz4LgKl.png
+  meilleure image: https://blog.beta.gouv.fr/img/posts/logo-me.svg
