@@ -29,3 +29,8 @@
   description: J'ai lancé l'assistant officiel des entrepreneurs, utilisé par des millions de gens chaque année.
   image: https://imgur.com/Zz4LgKl.png
   meilleure image: https://blog.beta.gouv.fr/img/posts/logo-me.svg
+- nom: Transparence média
+  code: https://github.com/laem/transparencemedia
+  lien: https://transparencemedia.fr
+  description: Qui détient nos médias ? Il est bien temps qu'on le sache.
+  image: https://imgur.com/quXGjuVm.png
