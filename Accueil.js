@@ -182,14 +182,15 @@ const Projects = () => (
 				}
 				li {
 					padding: 0.1rem 0rem;
-					margin: 0.15rem 0.4rem;
+					margin: 0.4rem;
 					border-radius: 0.2rem;
 					line-height: 1.6rem;
 					display: flex;
 					flex-direction: column;
 					justify-content: center;
 					align-items: center;
-					box-shadow: var(--shadow-elevation-medium);
+					box-shadow: 0.5px 1px 1px hsl(var(--shadow-color) / 0.7);
+					--shadow-color: 0deg 0% 50%;
 					width: 10rem;
 					height: 8rem;
 					text-align: center;
@@ -197,6 +198,12 @@ const Projects = () => (
 				li img {
 					height: 4rem;
 					max-width: 100%;
+					filter: grayscale(1);
+					transition: filter 0.3s ease-in;
+				}
+				li img:hover,
+				li img:active {
+					filter: none;
 				}
 				li h3 {
 					font-size: 100%;
