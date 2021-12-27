@@ -206,12 +206,10 @@ const Projects = () => (
 				li img {
 					height: 4rem;
 					max-width: 100%;
-					filter: grayscale(1);
 					transition: filter 0.3s ease-in;
 				}
 				li img:hover,
 				li img:active {
-					filter: none;
 				}
 				li h3 {
 					font-size: 100%;
