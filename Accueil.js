@@ -18,6 +18,8 @@ export const pageLayout = `
 		padding: 0.6rem 1rem;
 			max-width: 800px;
 			margin: 0 auto;
+
+			a {text-decoration: none}
   --shadow-color: 0deg 0% 63%;
   --shadow-elevation-low:
     0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.34),
@@ -173,13 +175,11 @@ const Projects = () => (
 				align-items: center;
 				padding-left: 0;
 				margin: 0 0 2rem;
-				@media (max-width: 800px) {
-					flex-wrap: nowrap;
-					overflow-x: auto;
-					justify-content: normal;
-					height: 11rem;
-					scrollbar-width: none;
-				}
+				flex-wrap: nowrap;
+				overflow-x: auto;
+				justify-content: normal;
+				height: 11rem;
+				scrollbar-width: none;
 				li {
 					padding: 0.1rem 0rem;
 					margin: 0.4rem;
@@ -231,7 +231,7 @@ let Liste = ({ articles }) => (
 		<SubHeader>
 			<img src="https://openmoji.org/data/color/svg/2935.svg" />
 			<h2>
-				<em>Quelques idées</em> sur notre environnement, nos villes et les
+				<em>Quelques textes</em> sur notre environnement, nos villes et les
 				algorithmes
 			</h2>
 		</SubHeader>
