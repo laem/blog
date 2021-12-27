@@ -98,10 +98,7 @@ const Header = () => (
 			position: relative;
 		`}
 	>
-		<img
-			css="width: 5rem; margin: 0 1rem"
-			src="https://avatars1.githubusercontent.com/u/1177762?s=460&v=4"
-		/>
+		<img css="width: 5rem; margin: 0 1rem" src="/images/profil.png" />
 		<h1
 			css={`
 				position: absolute;

@@ -3,6 +3,7 @@ const ReactRefreshWebpackPlugin = require('@pmmmwh/react-refresh-webpack-plugin'
 const isDevelopment = process.env.NODE_ENV !== 'production'
 const RemarkHTML = require('remark-html')
 const path = require('path')
+const CopyPlugin = require('copy-webpack-plugin')
 
 module.exports = {
 	mode: isDevelopment ? 'development' : 'production',
@@ -90,9 +91,17 @@ module.exports = {
 	plugins: [
 		isDevelopment && new ReactRefreshWebpackPlugin(),
 		new HtmlWebpackPlugin({
-			title: 'Démo recherche floue',
+			title: 'Un blog',
 
 			template: 'index.html',
+		}),
+		new CopyPlugin({
+			patterns: [
+				{
+					from: 'images',
+					to: 'images',
+				},
+			],
 		}),
 	].filter(Boolean),
 }
