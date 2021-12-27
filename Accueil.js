@@ -95,13 +95,24 @@ const Header = () => (
 			align-items: center;
 			margin-bottom: 1rem;
 			justify-content: center;
+			position: relative;
 		`}
 	>
 		<img
-			css="width: 3rem; margin: 0 1rem"
+			css="width: 5rem; margin: 0 1rem"
 			src="https://avatars1.githubusercontent.com/u/1177762?s=460&v=4"
 		/>
-		<h1>Maël</h1>
+		<h1
+			css={`
+				position: absolute;
+				width: 5rem;
+				text-align: center;
+				color: white;
+				font-size: 120%;
+			`}
+		>
+			Maël Thomas
+		</h1>
 	</header>
 )
 
