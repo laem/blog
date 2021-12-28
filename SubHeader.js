@@ -17,7 +17,7 @@ export default styled.header`
 	}
 
 	h2 em {
-		background: rgb(78, 47, 90);
+		background: linear-gradient(to right, #311e4b, #863754);
 		font-style: normal;
 		color: white;
 		padding: 0rem 0.4rem 0.1rem;

@@ -45,7 +45,7 @@ export default () => {
 					li {
 						padding: 0.1rem 0rem;
 						margin: 0.4rem;
-						border-radius: 0.2rem;
+						border-radius: 0.4rem;
 						line-height: 1.6rem;
 						display: flex;
 						flex-direction: column;
@@ -65,6 +65,8 @@ export default () => {
 						transition: height 0.2s ease-in;
 					}
 					li img {
+						border-top-right-radius: 0.4rem;
+						border-top-left-radius: 0.4rem;
 						width: 100%;
 						object-fit: cover;
 						transition: height 0.3s ease-in;
