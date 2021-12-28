@@ -129,14 +129,14 @@ const Header = () => (
 				position: absolute;
 				bottom: 0.2rem;
 				img {
-					width: 1.6rem;
-					height: 1.6rem;
+					width: 1.8rem;
+					height: 1.8rem;
 					vertical-align: bottom;
 				}
 			`}
 		>
 			<a href="/contact" title="Me contacter">
-				<img src={'https://openmoji.org/data/color/svg/2709.svg'} />
+				<img src={'/images/lettre.svg'} />
 			</a>
 		</div>
 	</header>
