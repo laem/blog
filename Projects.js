@@ -13,7 +13,7 @@ export default () => {
 			css={`
 				margin: 0 0 2rem;
 				@media (max-width: 800px) {
-					margin: 0;
+					margin: 0 0 1rem;
 				}
 			`}
 		>
@@ -37,7 +37,6 @@ export default () => {
 					flex-wrap: nowrap;
 					overflow-x: auto;
 					justify-content: normal;
-					height: 11rem;
 					background: linear-gradient(0% #4d2d5b, 100% #7b3657);
 					@media (max-width: 800px) {
 						scrollbar-width: none;
@@ -55,14 +54,27 @@ export default () => {
 						box-shadow: 0.5px 1px 1px hsl(var(--shadow-color) / 0.7);
 						--shadow-color: 0deg 0% 50%;
 						min-width: 10rem;
-						height: 8rem;
+						${selectedProject
+							? `height: 10rem`
+							: `height: 8rem; 
+						@media (max-width: 800px) {
+							height: 6rem;
+						}
+						`}
 						text-align: center;
+						transition: height 0.2s ease-in;
 					}
 					li img {
 						width: 100%;
-						max-height: 6rem;
 						object-fit: cover;
-						transition: filter 0.3s ease-in;
+						transition: height 0.3s ease-in;
+						${selectedProject
+							? `height: 8rem`
+							: `height: 6rem; 
+						@media (max-width: 800px) {
+							height: 4rem;
+						}
+						`}
 					}
 					li img:hover,
 					li img:active {
