@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import projets from './projets.yaml'
 import SubHeader from './SubHeader'
+import downa from 'downa'
 
 export default () => {
 	const [descriptionShown, showDescription] = useState(false)
@@ -88,7 +89,11 @@ export default () => {
 						}
 					`}
 				>
-					<p>{selectedProject.description}</p>
+					<p
+						dangerouslySetInnerHTML={{
+							__html: downa.render(selectedProject.description),
+						}}
+					></p>
 					<a href={selectedProject.lien}>
 						{selectedProject.lien.replace('https://', '')}
 					</a>
