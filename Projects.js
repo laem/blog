@@ -89,6 +89,7 @@ export default () => {
 						}
 					`}
 				>
+					<p>{selectedProject.début}</p>
 					<p
 						dangerouslySetInnerHTML={{
 							__html: downa.render(selectedProject.description),
