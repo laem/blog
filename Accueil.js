@@ -188,7 +188,9 @@ const Projects = () => (
 				overflow-x: auto;
 				justify-content: normal;
 				height: 11rem;
-				scrollbar-width: none;
+				@media (max-width: 800px) {
+					scrollbar-width: none;
+				}
 				li {
 					padding: 0.1rem 0rem;
 					margin: 0.4rem;
