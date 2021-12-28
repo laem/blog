@@ -9,6 +9,7 @@ export default styled.header`
 		font-weight: normal;
 		max-width: 20rem;
 		margin: 0.6rem 0;
+		line-height: 1.6rem;
 		/*
 					border-bottom: 2px solid #fe9d00;
 					padding: 0.2rem 0.4rem;
