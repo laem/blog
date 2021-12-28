@@ -102,10 +102,18 @@ const Header = () => (
 			position: relative;
 		`}
 	>
-		<img css="width: 5rem; margin: 0 1rem" src="/images/profil.png" />
+		<img
+			css={`
+				width: 5rem;
+				margin: 0 1rem;
+				border-radius: 3rem;
+				box-shadow: var(--shadow-elevation-high);
+			`}
+			src="/images/profil.png"
+		/>
 		<h1
 			css={`
-				top: 0rem;
+				top: 0.1rem;
 				position: absolute;
 				width: 5rem;
 				text-align: center;
@@ -119,12 +127,11 @@ const Header = () => (
 		<div
 			css={`
 				position: absolute;
-				bottom: 0rem;
+				bottom: 0.2rem;
 				img {
 					width: 1.6rem;
 					height: 1.6rem;
 					vertical-align: bottom;
-					bottom: 0.4rem;
 				}
 			`}
 		>
