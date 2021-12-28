@@ -105,10 +105,11 @@ const Header = () => (
 				width: 5rem;
 				text-align: center;
 				color: white;
-				font-size: 120%;
+				font-size: 110%;
+				opacity: 0.9;
 			`}
 		>
-			Maël Thomas
+			Maël THOMAS
 		</h1>
 	</header>
 )
