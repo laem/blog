@@ -85,7 +85,13 @@ export default ({}) => {
 					<Link to="/">
 						<img
 							alt="logo dégradé de l'orange vers le mauve"
-							src="https://avatars1.githubusercontent.com/u/1177762?s=460&v=4"
+							css={`
+								width: 5rem;
+								margin: 0 1rem;
+								border-radius: 3rem;
+								box-shadow: var(--shadow-elevation-high);
+							`}
+							src="/images/profil.png"
 						/>
 					</Link>
 				</nav>
