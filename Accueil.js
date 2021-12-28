@@ -4,6 +4,7 @@ import Article, { accessibleImage, imageResizer } from './Article'
 import Projects from './Projects'
 import ScrollToTop from './ScrollToTop'
 import SubHeader from './SubHeader'
+import Contact from './Contact'
 
 export const dateCool = (date) =>
 	new Date(date).toLocaleString(undefined, {
@@ -73,6 +74,9 @@ export default () => {
 		<Router>
 			<ScrollToTop>
 				<Switch>
+					<Route path="/contact">
+						<Contact />
+					</Route>
 					<Route path="/:id">
 						<Article />
 					</Route>
@@ -101,16 +105,33 @@ const Header = () => (
 		<img css="width: 5rem; margin: 0 1rem" src="/images/profil.png" />
 		<h1
 			css={`
+				top: 0rem;
 				position: absolute;
 				width: 5rem;
 				text-align: center;
 				color: white;
-				font-size: 110%;
+				font-size: 100%;
 				opacity: 0.9;
 			`}
 		>
 			Maël THOMAS
 		</h1>
+		<div
+			css={`
+				position: absolute;
+				bottom: 0rem;
+				img {
+					width: 1.6rem;
+					height: 1.6rem;
+					vertical-align: bottom;
+					bottom: 0.4rem;
+				}
+			`}
+		>
+			<a href="/contact" title="Me contacter">
+				<img src={'https://openmoji.org/data/color/svg/2709.svg'} />
+			</a>
+		</div>
 	</header>
 )
 
