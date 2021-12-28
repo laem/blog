@@ -1,9 +1,12 @@
 {
 	"name": "kont.me",
-	"version": "0.0.1",
+	"version": "2",
 	"description": "",
 	"main": "index.html",
 	"license": "MIT",
+	"engines": {
+		"node": ">= 16"
+	},
 	"scripts": {
 		"start": "webpack serve --hot --mode development --inline",
 		"compile": "NODE_ENV=production webpack --mode production -c webpack.config.js",
