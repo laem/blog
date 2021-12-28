@@ -8,6 +8,7 @@ export default styled.header`
 		font-size: 120%;
 		font-weight: normal;
 		max-width: 20rem;
+		margin: 0.6rem 0;
 		/*
 					border-bottom: 2px solid #fe9d00;
 					padding: 0.2rem 0.4rem;
@@ -19,7 +20,7 @@ export default styled.header`
 		background: rgb(78, 47, 90);
 		font-style: normal;
 		color: white;
-		padding: 0rem 0.6rem 0.1rem;
+		padding: 0rem 0.4rem 0.1rem;
 	}
 	> img {
 		width: 2rem;

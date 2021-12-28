@@ -12,13 +12,19 @@ export default () => {
 		<div
 			css={`
 				margin: 0 0 2rem;
+				@media (max-width: 800px) {
+					margin: 0;
+				}
 			`}
 		>
 			<SubHeader>
-				<img src="https://openmoji.org/data/color/svg/2935.svg" />
 				<h2>
 					<em>Mes projets</em>
 				</h2>
+				<img
+					css="transform: none !important"
+					src="https://openmoji.org/data/color/svg/2194.svg"
+				/>
 			</SubHeader>
 			<ul
 				css={`
@@ -35,6 +41,7 @@ export default () => {
 					background: linear-gradient(0% #4d2d5b, 100% #7b3657);
 					@media (max-width: 800px) {
 						scrollbar-width: none;
+						margin: 0;
 					}
 					li {
 						padding: 0.1rem 0rem;
@@ -52,8 +59,9 @@ export default () => {
 						text-align: center;
 					}
 					li img {
-						height: 4rem;
-						max-width: 100%;
+						width: 100%;
+						max-height: 6rem;
+						object-fit: cover;
 						transition: filter 0.3s ease-in;
 					}
 					li img:hover,
@@ -61,7 +69,9 @@ export default () => {
 					}
 					li h3 {
 						font-size: 100%;
-						margin: 0.4rem;
+						margin: 0.2rem;
+						margin-top: auto;
+						color: #4d2d5b;
 					}
 				`}
 			>
