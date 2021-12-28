@@ -1,8 +1,10 @@
 import React from 'react'
-import Article from './Article'
-import { imageResizer, accessibleImage } from './Article'
-import { Switch, Route, BrowserRouter as Router, Link } from 'react-router-dom'
+import { BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom'
+import Article, { accessibleImage, imageResizer } from './Article'
+import Projects from './Projects'
 import ScrollToTop from './ScrollToTop'
+import SubHeader from './SubHeader'
+import Contact from './Contact'
 
 export const dateCool = (date) =>
 	new Date(date).toLocaleString(undefined, {
@@ -16,6 +18,29 @@ export const pageLayout = `
 		padding: 0.6rem 1rem;
 			max-width: 800px;
 			margin: 0 auto;
+
+			a {color: inherit}
+			button {border: none; background: none; cursor: pointer}
+  --shadow-color: 0deg 0% 63%;
+  --shadow-elevation-low:
+    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.34),
+    0.4px 0.8px 1px -1.2px hsl(var(--shadow-color) / 0.34),
+    1px 2px 2.5px -2.5px hsl(var(--shadow-color) / 0.34);
+  --shadow-elevation-medium:
+    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.36),
+    0.8px 1.6px 2px -0.8px hsl(var(--shadow-color) / 0.36),
+    2.1px 4.1px 5.2px -1.7px hsl(var(--shadow-color) / 0.36),
+    5px 10px 12.6px -2.5px hsl(var(--shadow-color) / 0.36);
+  --shadow-elevation-high:
+    0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.34),
+    1.5px 2.9px 3.7px -0.4px hsl(var(--shadow-color) / 0.34),
+    2.7px 5.4px 6.8px -0.7px hsl(var(--shadow-color) / 0.34),
+    4.5px 8.9px 11.2px -1.1px hsl(var(--shadow-color) / 0.34),
+    7.1px 14.3px 18px -1.4px hsl(var(--shadow-color) / 0.34),
+    11.2px 22.3px 28.1px -1.8px hsl(var(--shadow-color) / 0.34),
+    17px 33.9px 42.7px -2.1px hsl(var(--shadow-color) / 0.34),
+    25px 50px 62.9px -2.5px hsl(var(--shadow-color) / 0.34);
+
 `
 
 var frontMatterReq = require.context(
@@ -49,6 +74,9 @@ export default () => {
 		<Router>
 			<ScrollToTop>
 				<Switch>
+					<Route path="/contact">
+						<Contact />
+					</Route>
 					<Route path="/:id">
 						<Article />
 					</Route>
@@ -71,7 +99,58 @@ const Header = () => (
 			align-items: center;
 			margin-bottom: 1rem;
 			justify-content: center;
-			> h1 {
+			position: relative;
+		`}
+	>
+		<img
+			css={`
+				width: 5rem;
+				margin: 0 1rem;
+				border-radius: 3rem;
+				box-shadow: var(--shadow-elevation-high);
+			`}
+			src="/images/profil.png"
+		/>
+		<h1
+			css={`
+				top: 0.1rem;
+				position: absolute;
+				width: 5rem;
+				text-align: center;
+				color: white;
+				font-size: 100%;
+				opacity: 0.9;
+			`}
+		>
+			Maël THOMAS
+		</h1>
+		<div
+			css={`
+				position: absolute;
+				bottom: 0.2rem;
+				img {
+					width: 1.8rem;
+					height: 1.8rem;
+					vertical-align: bottom;
+				}
+			`}
+		>
+			<a href="/contact" title="Me contacter">
+				<img src={'/images/lettre.svg'} />
+			</a>
+		</div>
+	</header>
+)
+
+const BlogHeader = () => (
+	<div
+		css={`
+			display: flex;
+			align-items: center;
+			margin-bottom: 1rem;
+			justify-content: center;
+			> h1,
+			> h2 {
 				margin: 0.8rem;
 				font-size: 100%;
 				font-weight: normal;
@@ -80,21 +159,26 @@ const Header = () => (
 			> p {
 				margin-top: 0;
 			}
-			img {
+			> img {
 				width: 2.6rem;
+				transform: scale(-1, 1);
 			}
 		`}
-	>
-		<img src="https://avatars1.githubusercontent.com/u/1177762?s=460&v=4" />
-		<h1>
-			Quelques idées sur notre environnement, nos villes et les algorithmes
-		</h1>
-	</header>
+	></div>
 )
 
 let Liste = ({ articles }) => (
 	<main css={pageLayout}>
 		<Header />
+
+		<Projects />
+		<SubHeader>
+			<img src="https://openmoji.org/data/color/svg/2935.svg" />
+			<h2>
+				<em>Quelques textes</em> sur notre environnement, nos villes et les
+				algorithmes
+			</h2>
+		</SubHeader>
 		<section
 			css={`
 				display: flex;
@@ -140,7 +224,7 @@ let Liste = ({ articles }) => (
 						</header>
 						<Link to={'/' + a.id}>
 							<img
-								css="width: 10rem; box-shadow: rgb(147, 143, 143) 2px 2px 10px 0px;"
+								css="width: 10rem; box-shadow: var(--shadow-elevation-medium)"
 								src={imageResizer('m')(
 									accessibleImage(a.attributes.image).image
 								)}
