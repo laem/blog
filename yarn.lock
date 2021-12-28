@@ -2212,6 +2212,11 @@ dot-case@^3.0.3:
     no-case "^3.0.3"
     tslib "^1.10.0"
 
+downa@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/downa/-/downa-1.0.1.tgz#ff270cc23719fc10c73307df205279267a0c3492"
+  integrity sha512-Wm6ENz7XV09YU3u7wICrRs1wb1Viln5+5lBLNqmWM4HYvpm0poAC5JazHbaDfS8MVe8GsWX9Otvmx01V88J5+w==
+
 ee-first@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
