@@ -1,7 +1,7 @@
 - nom: Nos Gestes Climat
   code: https://github.com/datagir/nosgestesclimat
   lien: https://nosgestesclimat.fr
-  description: J'ai lancé le calculateur officiel de l'empreinte climat personnelle, aujourd'hui utilisé par des millions de français.
+  description: J'ai développé le calculateur officiel de l'empreinte climat personnelle, aujourd'hui utilisé par des millions de français.
   image: https://nosgestesclimat.fr/images/dessin-nosgestesclimat.png
   début: 2020
 - nom: Datagir
@@ -13,19 +13,19 @@
 - nom: Futureco
   code: https://github.com/laem/futureco
   lien: https://futur.eco
-  description: Il manquait un moyen facile de trouver l'empreinte climat des gestes de notre quotidien. Quelques milliers de visites par mois seulement, mais v2 bientôt avec plein de nouveautés.
+  description: Il manquait un moyen facile de trouver l'empreinte climat des gestes de notre quotidien. Quelques milliers de visites par mois seulement, mais bientôt une v2 avec plein de nouveautés.
   image: https://futur.eco/images/logo.svg
   début: 2018
 - nom: Vélo libre
   code: https://github.com/laem/velolibre
   lien: https://velolib.re
-  description: Il n'y avait pas de guide ouvert (open source) pour construire son vélo, maintenant si. On commence par le gravel !
+  description: Il n'y avait pas de guide ouvert (open source) pour construire son vélo, maintenant si. On commence par le gravel et un peu de documentation !
   image: https://imgur.com/N5HILMv.png
   début: 2019
 - nom: Villes plus
   code: https://github.com/laem/villesplus
   lien: https://villes.plus
-  description: Le 1er classement des métropoles les plus piétonnes, au-delà du centre ville  historique qui ne concerne qu'une minorité des gens. Parce qu'une ville piétonne, c'est une ville agréable.
+  description: Le 1er classement des métropoles les plus piétonnes, au-delà du centre ville historique qui ne concerne qu'une minorité des gens. Parce qu'une ville piétonne, c'est une ville agréable.
   image: https://imgur.com/KZKYlFo.png
   début: 2019
 - nom: Publicodes
