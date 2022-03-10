@@ -19,7 +19,7 @@ Autre exemple, à la minute 21 de cette émission [France Inter](https://francei
 
 Alors, quel est le problème dans ces deux citations ? Il y en a en fait deux : d'une, **ces citations sont des infox**, propagées par des gens très écoutés. De deux, l'étude sur laquelle se basent ces influenceurs est critiquable, et la thèse elle-même qui sous-tend l'étude est sans fondements : c'est l'objet principal de cet article.
 
-## Le mythe des efforts individuels
+## Diffusion d'une infox bien arrangeante
 
 Que dit [l'étude](http://www.carbone4.com/wp-content/uploads/2019/06/Publication-Carbone-4-Faire-sa-part-pouvoir-responsabilite-climat.pdf) publiée en juin 2019, et son [résumé](http://www.carbone4.com/wp-content/uploads/2019/06/2019-Carbone-4-–-Visuel-Faire-sa-part-2.png), précisément ? Elle expose deux scénarios de changement de vie d'un individu.
 
