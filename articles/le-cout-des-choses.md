@@ -9,10 +9,10 @@ image:
 date: 2022-06-01
 dégradé:
   - '#000'
-  - '#16402c'
+  - '#260808'
 ---
 
-# Les coûts des choses
+# Le coût des choses
 
 Ce soir c'est bière avec les collègues. Les élections réchauffent les esprits politiques. Et puis l'Europe est en guerre. Deux collègues débattent vivement. L'un des deux, d'habitude plutôt réservé ose balancer ce nom qui sonne polonais et qui l'a visiblement tracassé. 
 
