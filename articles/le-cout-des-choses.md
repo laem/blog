@@ -14,7 +14,7 @@ dégradé:
 
 # Le coût des choses
 
-Ce soir c'est bière avec tes collègues. Les élections réchauffent les esprits politiques. Et puis l'Europe est en guerre. Deux collègues débattent vivement. L'un des deux, d'habitude plutôt réservé ose balancer ce nom qui sonne polonais et qui l'a visiblement tracassé.
+Ce soir c'est bière avec tes collègues. Les élections réchauffent les esprits politiques. Et puis l'Europe est en guerre. Deux collègues débattent vivement. L'un des deux, d'habitude plutôt réservé ose balancer ce nom qui sonne roumain et qui l'a visiblement tracassé.
 
 Plein de vidéos de lui sur YouTube qu'il lui dit. "Vas-y c'est important, tu va pas le regretter".
 
