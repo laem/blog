@@ -16,7 +16,7 @@ dégradé:
 
 Ce soir c'est bière avec tes collègues. Les élections réchauffent les esprits politiques. Et puis l'Europe est en guerre. Deux collègues débattent vivement. L'un des deux, d'habitude plutôt réservé ose balancer ce nom qui sonne roumain et qui l'a visiblement tracassé.
 
-Plein de vidéos de lui sur YouTube qu'il lui dit. "Vas-y c'est important, tu va pas le regretter".
+Plein de vidéos de lui sur YouTube qu'il lui dit. "Vas-y c'est important, tu vas pas le regretter".
 
 Tes yeux avaient déjà vu passer son nom dans le programme de la chaîne californienne de télévision. L'aperçu terne et pixelisé d'un amphi d'université n'était pas vraiment au niveau graphique des miniatures qui t'attirent. Mais quand les recommandations algorithmiques préparent le terrain et que celles de la vraie vie en remettent une couche, tu fonces.
 
@@ -26,9 +26,9 @@ Avant ces vidéos YouTube diablement convaincantes, tu avais déjà entrevu le s
 
 Mais ce Morphéus de l'énergie-climat t'as invité dans son salon virtuel pour t'énoncer cette faille de notre matrice : plusieurs catastrophes aux allures bibliques s'abattent sur nous, prophétisées depuis de longues décennies par ces espèces d'oracles de notre temps, les scientifiques.
 
-Et pourquoi tu les croirait, ces scientifiques ? Renversons la question : comment ne pas croire ces gens qui ont inventé toutes les technologies qui régissent comme une horloge ton quotidien depuis ta naissance, de l'alignement des rails du TGV à l'intégralité des fonctionnalités de ton téléphone, en passant par la météo et le moteur de ta bagnole ? Ils sont chaque année plus formels : le climat change, c'est notre faute, et c'est la merde.
+Et pourquoi tu les croirais, ces scientifiques ? Renversons la question : comment ne pas croire ces gens qui ont inventé toutes les technologies qui régissent comme une horloge ton quotidien depuis ta naissance, de l'alignement des rails du TGV à l'intégralité des fonctionnalités de ton téléphone, en passant par la météo et le moteur de ta bagnole ? Ils sont chaque année plus formels : le climat change, c'est notre faute, et c'est la merde.
 
-Cette lagune de savoir était trop irrésistible pour ta curiosité. C'était aussi une abîme, tu t'y est enfoncé. Tu as pris la pilule rouge. Les lettres vertes de Matrix sont en fait des chiffres. Ta vie était régie par un mélange déjà pas simple : une mesure du coût des choses, qu'on appelle €, encadrée vaguement par des considérations morales. Peu rationnelles, mais puissantes pour trier parmi tous les désirs qu'on peut assouvir avec les quelques milliers d'€ que tu gagnes par mois.
+Cette lagune de savoir était trop irrésistible pour ta curiosité. C'était aussi une abîme, tu t'y es enfoncé. Tu as pris la pilule rouge. Les lettres vertes de Matrix sont en fait des chiffres. Ta vie était régie par un mélange déjà pas simple : une mesure du coût des choses, qu'on appelle €, encadrée vaguement par des considérations morales. Peu rationnelles, mais puissantes pour trier parmi tous les désirs qu'on peut assouvir avec les quelques milliers d'€ que tu gagnes par mois.
 
 Innocent, étudiant, premier boulot insouciant, ou assommant. Certains y restent toute leur vie et tu le sais pertinemment. Toi tu as eu l'opportunité, ou la malchance (c'est dire l'ampleur de ton doute), d'avoir atteint cette phase où tu as pu planer dans le savoir jusqu'à tomber dans le puit sans fin de la découverte de ces putains de limites environnementales. Tu n'en reviens toujours pas d'apprendre seulement maintenant des choses bien connues par les experts depuis au moins une génération.
 
