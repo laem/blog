@@ -12,7 +12,7 @@ dégradé:
 
 Voilà on y est. C'est la fin de la vie quotidienne telle qu'on la connaît.
 
-La plupart d'entre nous ont entendu cette nouvelle un peu banale sur FranceTVinfo ou BFMTV, noyée dans des analyses économiques. C'est pas la première fois qu'on entendait ce genre de choses, notre oreille était habituée à entendre son prix varier au fil des embrouilles géopolitiques lointaines.
+La plupart d'entre nous ont trouvé cette nouvelle un peu banale sur FranceTVinfo ou BFMTV, noyée dans des analyses économiques. C'est pas la première fois qu'on entendait ce genre de choses, notre oreille était habituée à entendre son prix varier au fil des embrouilles géopolitiques lointaines.
 
 À force de crier au loup, on n'y croyait plus.
 Tout le monde refusait l'hypothèse d'un pic, personne n'osait réfléchir aux conséquences que ça allait avoir sur notre vie de pauvres européens.
