@@ -9,7 +9,10 @@ export default ({ title, description, image, url, published, updated }) => (
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />
 		<meta name="description" content={description} />
-		<meta property="og:image" content={image} />
+		<meta
+			property="og:image"
+			content={image.includes('http') ? image : 'https://kont.me' + image}
+		/>
 		<meta property="og:url" content={url} />
 		<meta property="og:type" content="article" />
 		{published && (
