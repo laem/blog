@@ -22,7 +22,13 @@ html{
 
   <body>
     <div id="app"></div>
+    <script>
+				if(typeof navigator != 'undefined' && /prerender/i.test(navigator.userAgent)) {
+
+										SC_DISABLE_SPEEDY = true
+}</script>
     <script src="/index.js"></script>
+    
   </body>
   <a rel="me" href="https://boitam.eu/@maeool">Mastodon</a>
 </html>
