@@ -142,16 +142,16 @@ export default ({}) => {
 							vertical-align: middle;
 						`}
 					>
-						🐦
+						🐘
 					</span>{' '}
 					Venez discuter de cet article{' '}
 					<a
 						className="twitter-share-button"
-						href={`https://twitter.com/intent/tweet?text=${titre} https://kont.me/${id} @maeool`}
+						href={`https://boitam.eu/@maeool`}
 						target="_blank"
 						data-size="large"
 					>
-						sur twitter
+						sur Mastodon
 					</a>
 				</p>
 			</div>
