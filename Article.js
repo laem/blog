@@ -75,6 +75,7 @@ export default ({}) => {
 						; a {color: inherit}`
 					: ''}
 				${textColor && `color: ${textColor}`}
+				${textColor && `hr {border-color: ${textColor}}`}
 			`}
 		>
 			<Meta
