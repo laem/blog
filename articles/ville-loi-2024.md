@@ -3,7 +3,8 @@ created: 2023-01-29T12:15:16+01:00
 modified: 2023-01-29T17:47:00+01:00
 titre: Ville loi 2024
 résumé: |
-  Toute rue d'une "ville loi 2024" pouvant être empruntée par une voiture doit l'être séparément par les vélos. 3 villes seront tirées au sort.
+  Toute les rues d'une "ville loi 2024" pouvant être empruntées par une voiture doivent pouvoir l'être de façon sécurisée à vélo. 3 villes seront tirées au sort dans chaque région.
+
 image:
   adresse: /images/weelz-rennes-velo-urbain-cycliste-2019-9389.jpg
   description: Une des premières parties du REV (Réseau Express Vélo) de Rennes, le long des berges de la Vilaine.
