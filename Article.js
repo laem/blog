@@ -69,11 +69,17 @@ export default ({}) => {
 		<div
 			css={`
 				padding: 1rem;
-				${dégradé
-					? `
-					background:  linear-gradient(${dégradé[0]}, ${dégradé[1]}); color: white
+				${dégradé &&
+				`
+					background:  linear-gradient(${dégradé[0]}, ${dégradé[1]}); 
+
+					${
+						!textColor &&
+						`color: white
 						; a {color: inherit}`
-					: ''}
+					}
+
+						`}
 				${textColor && `color: ${textColor}`}
 				${textColor && `hr {border-color: ${textColor}}`}
 			`}
