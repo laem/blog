@@ -51,7 +51,14 @@ export default ({}) => {
 	const [lastEditDate, setLastEditDate] = useState(null)
 
 	const {
-		attributes: { titre, date, image: imageRaw, dégradé, résumé },
+		attributes: {
+			titre,
+			date,
+			image: imageRaw,
+			dégradé,
+			résumé,
+			'couleur du texte': textColor,
+		},
 		body,
 	} = theOne
 
@@ -67,6 +74,7 @@ export default ({}) => {
 					background:  linear-gradient(${dégradé[0]}, ${dégradé[1]}); color: white
 						; a {color: inherit}`
 					: ''}
+				${textColor && `color: ${textColor}`}
 			`}
 		>
 			<Meta
