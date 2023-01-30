@@ -19,7 +19,7 @@ couleur du texte: black
 
 > ### Article 1
 >
-> Tout segment du réseau de voirie d'une ville "loi 2024" pouvant être emprunté par une voiture, doit pouvoir l'être également par les vélo et autres véhicules de mobilité douces de façon strictement sécurisée telle que définie à l'article 2, à l'exception des autoroutes et voies express.
+> Tout segment du réseau routier d'une ville "loi 2024" pouvant être emprunté par une voiture, doit pouvoir l'être également par les vélos et autres véhicules de mobilité douces de façon strictement sécurisée telle que définie à l'article 2, à l'exception des autoroutes et voies express.
 
 > ### Article 2
 >
@@ -49,7 +49,7 @@ couleur du texte: black
 
 > ### Article 6
 >
-> Dans chaque région française, trois communes sont tirées au sort pour devenir des villes dites "loi 2024" parmi les trois catégories suivantes : population supérieure à 100 000 habitants; population entre 100 000 et 10 000 habitants; population inférieure à 10 000 habitants.
+> Dans chaque région française, trois communes sont tirées au sort pour devenir des villes dites "loi 2024" parmi les trois catégories suivantes : population supérieure à 100 000 habitants ; population entre 100 000 et 10 000 habitants ; population inférieure à 10 000 habitants.
 >
 > Les villes lauréates seront dotées d'un budget d'État pour mener à bien la sécurisation des voies de façon pérenne. Ce budget est prélevé dans l'existant alloué à la construction et l'entretien des routes nationales.
 
