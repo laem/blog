@@ -33,6 +33,8 @@ couleur du texte: black
 >
 > Dans le cas où la largeur de la voie ne permettrait pas d'accommoder véhicules de mobilités douces et véhicules à moteur, ces derniers sont interdits, sauf aux riverains ayant rempli l'attestation pour emprunter exceptionnellement les voies douces. Les riverains doivent alors respecter la priorité absolue des mobilités douces.
 >
+> Les services d'urgence et autres trajets exceptionnels sur attestation peuvent emprunter les voies de mobilité douce. 
+>
 > Concernant les voies rurales en zone très peu dense, une dérogation permet de ne pas doubler chaque km de route avec une voie cyclable et piétonne, tant qu'un itinéraire alternatif proche permet de remplir cette fonction. Dans ce cas, il est de la responsabilité de la commune de s'assurer que la distance supplémentaire est assumée par les véhicules à moteur.
 
 > ### Article 4
