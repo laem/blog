@@ -19,7 +19,7 @@ couleur du texte: black
 
 > ### Article 1
 >
-> Tout segment du réseau routier d'une ville "loi 2024" pouvant être emprunté par une voiture, doit pouvoir l'être également par les vélos et autres véhicules de mobilité douces de façon strictement sécurisée telle que définie à l'article 2, à l'exception des autoroutes et voies express.
+> Tout segment du réseau routier d'une ville "loi 2024" pouvant être emprunté par une voiture, doit pouvoir l'être également par les vélos et autres véhicules de mobilité douce de façon strictement sécurisée telle que définie à l'article 2, à l'exception des autoroutes et voies express.
 
 > ### Article 2
 >
