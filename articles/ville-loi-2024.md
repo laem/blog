@@ -33,7 +33,7 @@ couleur du texte: black
 >
 > Dans le cas où la largeur de la voie ne permettrait pas d'accommoder véhicules de mobilités douces et véhicules à moteur, ces derniers sont interdits, sauf aux riverains ayant rempli l'attestation pour emprunter exceptionnellement les voies douces. Les riverains doivent alors respecter la priorité absolue des mobilités douces.
 >
-> Les services d'urgence et autres trajets exceptionnels sur attestation peuvent emprunter les voies de mobilité douce. 
+> Les services d'urgence et autres trajets exceptionnels sur attestation peuvent emprunter les voies de mobilité douce.
 >
 > Concernant les voies rurales en zone très peu dense, une dérogation permet de ne pas doubler chaque km de route avec une voie cyclable et piétonne, tant qu'un itinéraire alternatif proche permet de remplir cette fonction. Dans ce cas, il est de la responsabilité de la commune de s'assurer que la distance supplémentaire est assumée par les véhicules à moteur.
 
@@ -99,6 +99,11 @@ Les automobilistes pouvaient continuer à s'entre-tuer à hauteur de 3000 décè
 La ville d'Ambert, sélectionnée dans la catégorie moins de 10 000 pour la région AuRA, fût la plus contestataire. Opposant à cette politique publique sa particularité topologique, quelques fabricants français de vélo prirent l'initiative il est vrai un peu moqueuse et commerciale d'installer à Ambert un stand d'essai de vélos électriques amplement capables de monter à 1300m, et d'en offrir 1000 tout neufs aux premiers habitants qui se débarrasseraient de leur seconde voiture.
 
 La ville fut également le théâtre d'un événement historique : il s'agirait a-t-on dit du premier déploiement de police important de l'histoire française pour assurer qu'une voie cyclable, temporairement peinte, ne soit pas obstruée par des automobilistes rebelles.
+
+[
+![](/images/avant-apres.png)
+](https://twitter.com/QAGreenways/status/1591541400931557376/photo/2)
+_D'autres villes en profitèrent pour aller plus loin que la loi, comme libérées d'une vieille emprise malsaine. Oui, c'est la même rue à gauche et à droite._
 
 Plusieurs métriques objectives semblèrent rapidement attester du succès de cette loi. D'abord, le nombre de communes qui rejoignirent de plein gré l'expérimentation. Sans surprise, l'ouest devint une grande terre de villes loi 2024. Les deux métropoles rivales Rennes et Nantes se lancèrent dans une compétition pour le déploiement des rues 2024, si bien que le taux d'équipement en voiture des ménages y chuta de 70% à 30%, libérant pour ces deux seules communes 600 millions d'euros de dépenses _annuelles_ dans l'automobile. Le "pharaonique" coût des transports en commun paru tout d'un coup somme toute plutôt lilliputien.
 

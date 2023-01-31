@@ -196,7 +196,7 @@ const articleStyle = `
 
 	}
 	img {
-		max-width: 80%;
+		max-width: 100%;
 		margin: 2rem auto;
 		display: block;
 	}
