@@ -25,7 +25,7 @@ couleur du texte: black
 >
 > Une voie "douce" est considérée comme sécurisée si elle est interdite aux véhicules à moteur, avec une séparation en relief et dans un matériau solide, d'une largeur de 2,5 m minimum pour une voie unidirectionnelle, et de 4 m pour une bidirectionnelle.
 >
-> Les bandes cyclables peintes et les voies séparées de potelets en plastique ne sont dorénavant tolérées que pour une période transitoire de 6 mois maximum. À défaut d'aménagement à temps, la rue devient automatiquement exclusive aux mobilités douces.
+> Les bandes cyclables peintes et les voies séparées par des potelets en plastique ne sont dorénavant tolérées que pour une période transitoire de 6 mois maximum. À défaut d'aménagement à temps, la rue devient automatiquement exclusive aux mobilités douces.
 >
 > L'assistance électrique y est autorisée jusqu'à 25 km/h en ville, et 30 km/h sur ligne droite en zone peu dense.
 
@@ -33,13 +33,13 @@ couleur du texte: black
 >
 > Dans le cas où la largeur de la voie ne permettrait pas d'accommoder véhicules de mobilités douces et véhicules à moteur, ces derniers sont interdits, sauf aux riverains ayant rempli l'attestation pour emprunter exceptionnellement les voies douces. Les riverains doivent alors respecter la priorité absolue des mobilités douces.
 >
-> Les services d'urgence et autres trajets exceptionnels sur attestation peuvent emprunter les voies de mobilité douce.
+> Les services d'urgence, ou autres trajets exceptionnels sur attestation, peuvent emprunter ces voies.
 >
-> Concernant les voies rurales en zone très peu dense, une dérogation permet de ne pas doubler chaque km de route avec une voie cyclable et piétonne, tant qu'un itinéraire alternatif proche permet de remplir cette fonction. Dans ce cas, il est de la responsabilité de la commune de s'assurer que la distance supplémentaire est assumée par les véhicules à moteur.
+> Concernant les voies rurales en zone très peu dense, une dérogation permet de ne pas doubler chaque km de route avec une voie cyclable et piétonne, tant qu'un itinéraire alternatif proche permet de remplir cette fonction. Dans ce cas, il est de la responsabilité de la commune de s'assurer que la distance supplémentaire sera assumée par les véhicules à moteur.
 
 > ### Article 4
 >
-> Le même régime de priorité s'applique aux véhicules de mobilité douce (vélos, trottinettes, etc.) par rapport aux piétons : si la largeur de la voie est insuffisante pour séparer le trafic, les cyclistes doivent descendre du vélo et les piétons ont priorité absolue.
+> Le même principe de priorité s'applique aux véhicules de mobilité douce (vélos, trottinettes, etc.) par rapport aux piétons : si la largeur de la voie est insuffisante pour séparer le trafic, les cyclistes doivent descendre du vélo et les piétons ont priorité absolue.
 >
 > En conséquence, dans les villes dites "loi 2024", un trottoir ou voie piétonne d'une largeur pénalisante de moins de 2m50 ne peut exister qu'exceptionnellement entre deux bâtiments très peu espacés.
 
@@ -49,7 +49,7 @@ couleur du texte: black
 
 > ### Article 6
 >
-> Dans chaque région française, trois communes sont tirées au sort pour devenir des villes dites "loi 2024" parmi les trois catégories suivantes : population supérieure à 100 000 habitants ; population entre 100 000 et 10 000 habitants ; population inférieure à 10 000 habitants.
+> Dans chaque région française, trois communes seront tirées au sort pour devenir des villes dites "loi 2024" parmi les trois catégories suivantes : population supérieure à 100 000 habitants ; population entre 100 000 et 10 000 habitants ; population inférieure à 10 000 habitants.
 >
 > Les villes lauréates seront dotées d'un budget d'État pour mener à bien la sécurisation des voies de façon pérenne. Ce budget est prélevé dans l'existant alloué à la construction et l'entretien des routes nationales.
 
