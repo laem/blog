@@ -122,3 +122,7 @@ Plusieurs métriques objectives semblèrent rapidement attester du succès de la
 Les journaux internationaux furent incapables de s'accorder sur le bien fondé de ce que le New Yorker appela la "French Velorution" dans une nouvelle [illustration mythique louant le vélo](https://twitter.com/Lelievre_Adrien/status/1247183286138527744). Les autres pays de l'Union Européenne furent obligés de réagir face à l'émergence de cet étonnant nouveau poids lourd du vélo. Il fallait choisir : le suivre, ou se poser en contrepoids conservateur pro-voiture ?
 
 Si les opinions politiques restaient diverses et débattures, le succès de la loi villes 2024 semblait déjà solidement écrit dans l'engouement national et international pour ces nouvelles villes qui défiaient Amsterdam et Copenhague.
+
+---
+
+_L'image d'en-tête est tiré d'[un article Wheelz!](https://www.weelz.fr/fr/municipales-2020-lyon-rennes-toulouse-potentiel-velo-efforts-insuffisants/) qui nous ramène à la triste réalité de 2023_.
