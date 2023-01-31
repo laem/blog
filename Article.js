@@ -73,11 +73,13 @@ export default ({}) => {
 				`
 					background:  linear-gradient(${dégradé[0]}, ${dégradé[1]}); 
 
+				${
+					!textColor &&
+					`color: white;
+				a {color: inherit};`
+				}
 
 						`}
-				${!textColor &&
-				`color: white;
-				a {color: inherit};`}
 				${textColor && `color: ${textColor};`}
 				${textColor && `hr {border-color: ${textColor} !important}`}
 			`}
