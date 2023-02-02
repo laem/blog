@@ -69,7 +69,7 @@ En 2022 le choc énergétique et donc l'inflation, déclenchés notamment par l'
 
 L'Union Européenne et en particulier l'Allemagne avaient montré, non sans difficulté, qu'elles pouvaient remplacer le pétrole et le gaz Russe... mais cette flexibilité, obtenue grâce à une dose de sobriété et beaucoup de réorganisation des échanges mondiaux d'hydrocarbures, avait des limites.
 
-Dans le système de mobilité occidental du moment, impossible de se passer de l'or noir du Moyen-Orient et de l'Afrique, qui devenait pourtant de plus en plus difficile à négocier au fur et à mesure du ralliement effectif de certains pays à la Russie, dont le projet de société conservateur inspirait malgré notre étonnement occidental bien des millions d'hommes prêts à .
+Dans le système de mobilité occidental du moment, impossible de se passer de l'or noir du Moyen-Orient et de l'Afrique, qui devenait pourtant de plus en plus difficile à négocier au fur et à mesure du ralliement effectif de certains pays à la Russie, dont le projet de société dictatoriale, religieuse et conservatrice inspirait malgré notre étonnement occidental bien des millions d'hommes.
 
 ---
 
@@ -125,4 +125,4 @@ Si les opinions politiques restaient diverses et débattures, le succès de la l
 
 ---
 
-_L'image d'en-tête est tiré d'[un article Wheelz!](https://www.weelz.fr/fr/municipales-2020-lyon-rennes-toulouse-potentiel-velo-efforts-insuffisants/) qui nous ramène à la triste réalité de 2023_.
+_L'image d'en-tête est tirée d'[un article Wheelz!](https://www.weelz.fr/fr/municipales-2020-lyon-rennes-toulouse-potentiel-velo-efforts-insuffisants/) qui nous ramène à la triste réalité de 2023_.
