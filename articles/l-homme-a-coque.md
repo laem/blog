@@ -1,8 +1,8 @@
 ---
 date: 2023-05-02
-titre: L'homme à coque d'acier
+titre: L'homme à coque
 résumé: |
-  La voiture est la carapace de l’automobiliste. 
+  La voiture est la carapace de l’automobiliste, cet homme à coque d'acier. 
   Il fait corps avec elle.
 image:
   adresse: https://images.unsplash.com/photo-1518560998531-087edcb36c13?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80
