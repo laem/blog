@@ -175,7 +175,7 @@ let Liste = ({ articles }) => (
 		<SubHeader>
 			<img src="https://openmoji.org/data/color/svg/2935.svg" />
 			<h2>
-				<em>Quelques textes</em> sur notre environnement, nos villes et les
+				<em>Quelques textes</em> sur notre environnement, nos villes et nos
 				algorithmes
 			</h2>
 		</SubHeader>
