@@ -13,7 +13,7 @@ image:
 
 La voiture est la carapace de l'automobiliste. Il fait corps avec elle.
 
-Se sentant profondément protégé par sa coque, qui n'est autre qu'une extension de lui-même dès qu'il se déplace, souvent dès le premier kilomètre, il est par nature incapable d'apprécier sa vitesse. Il peut même oublier qu'il se déplace.
+Se sentant profondément protégé par sa coque, qui n'est autre qu'une extension de lui-même dès qu'il se déplace, souvent dès le premier kilomètre, il est incapable d'apprécier sa vitesse. Il peut même oublier qu'il se déplace.
 
 Le principe même du pare-brise, c'est de parer la brise, d'extraire l'automobiliste de cette sensation fondamentale qui nous permet de savoir que nous sommes dehors et que nous avançons.
 
