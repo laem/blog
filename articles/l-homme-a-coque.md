@@ -9,6 +9,8 @@ image:
   description: Volkswagen avait bien compris l'idée
 ---
 
+# L'homme à coque
+
 La voiture est la carapace de l'automobiliste. Il fait corps avec elle.
 
 Se sentant profondément protégé par sa coque, qui n'est autre qu'une extension de lui-même dès qu'il se déplace, souvent dès le premier kilomètre, il est par nature incapable d'apprécier sa vitesse. Il peut même oublier qu'il se déplace.
