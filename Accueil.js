@@ -92,7 +92,7 @@ export default () => {
 	)
 }
 
-const Header = () => (
+export const Header = () => (
 	<header
 		css={`
 			display: flex;
@@ -239,6 +239,9 @@ let Liste = ({ articles }) => (
 					</aside>
 				))}
 		</section>
+		<a rel="me" href="https://boitam.eu/@maeool">
+			Mastodon
+		</a>
 	</main>
 )
 
