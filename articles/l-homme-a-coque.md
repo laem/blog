@@ -19,7 +19,7 @@ Le principe même du pare-brise, c'est de parer la brise, d'extraire l'automobil
 
 Mais ce terme est complètement désuet : une brise, c'est un vent doux et léger. Il est réservé aux vents allant de 1 (très légère) à 39 km/h (bonne brise), soit la vitesse atteignable par un cycliste déjà costaud.
 
-Non, à 50km/h, c'est un grand vent, de quoi mettre à l'alerte un marin, et si l'automobiliste n'a pas les larmes qui lui brouillent la vue, c'est parce que le plastique, l'acier et le verre l'ont extrait de son environnement.
+Non, à 50km/h, c'est un grand vent, le marin est à l'alerte depuis déjà longtemps, et si l'automobiliste n'a pas les larmes qui lui brouillent la vue, c'est parce que le plastique, l'acier et le verre l'ont extrait de son environnement.
 
 Ainsi il n'y a rien d'étonnant à la situation si fréquente et dépénalisée consistant à se faire frôler en vélo à moins d'un mètre par un automobiliste ne voulant pour rien au monde admettre son erreur, celle qui vous a mis en danger, incontestablement.
 
@@ -31,11 +31,11 @@ Ces rapports physiques de base si déséquilibrés étant déjà intangibles pou
 
 Vous tapez à sa fenêtre, car avec cette fenêtre qui l'isole phoniquement du bruit extérieur, la seule communication possible est un signal binaire à 90db, digne des animaux les plus primitifs, incroyablement plus primitifs qu'au hasard, la coccinelle, paradoxalement plus proche d'une voiture autonome bardée de caméras, d'IA et de 5G.
 
-La où la comparaison avec les insectes s'arrête, c'est que ceux-ci ont naturellement adapté leur coque à leur taille. Les contraintes de base de l'évolution des espèces ne s'appliquent pas à l'homme à coque. Et pour l'instant, les contraintes sociales de vivre ensemble qu'on appelle "la loi" ont elles aussi failli à régulier cette débauche de matériaux.
+La où la comparaison avec les insectes s'arrête, c'est que ceux-ci ont naturellement adapté leur coque à leur taille. Les contraintes de base de l'évolution des espèces ne s'appliquent pas à l'homme à coque. Et pour l'instant, les contraintes sociales de vivre ensemble qu'on appelle "la loi" ont elles aussi failli à réguler cette débauche de matériaux.
 
-Mais taper à sa fenêtre, un geste qui témoignerait d'un cycliste "radical" dans une France où la voiture est adulée et le cycliste honnis, dans le but de dialoguer, c'est risquer que l'automobiliste qui déjà ne reconnaissait pas sa faute, parte dans une rage, un réflexe de défense digne d'une agression physique faite à son corps. C'est normal : dès qu'il est au volant, c'est bien de son corps qu'il s'agit.
+Mais taper à sa fenêtre, un geste qui témoignerait d'un cycliste "radical" dans une France où la voiture est adulée et le cycliste honni, dans le but de dialoguer, c'est risquer que l'automobiliste qui déjà ne reconnaissait pas sa faute, parte dans une rage, un réflexe de défense digne d'une agression physique faite à son corps. C'est normal : dès qu'il est au volant, c'est bien de son corps qu'il s'agit.
 
-Le rapprochement provocateur entre l'impuissance sexuelle d'un homme et sa grosse cylindrée ne sont qu'une révélation de plus quand à cette évidence. La femme n'est pas épargnée par cette réalité primitive. Elle aussi recherche dans la carrosserie sécurisée de sa voiture le garde du corps qu'elle n'a pas pour affronter ce monde où l'insécurité régnerait, devenant encore une fois, _elle-même_, source majeure d'insécurité.
+Le rapprochement provocateur entre l'impuissance sexuelle d'un homme et sa grosse cylindrée ne sont qu'une révélation de plus quand à cette évidence. La femme n'est pas épargnée par cette réalité primitive. Elle aussi recherche dans la carrosserie sécurisée de sa voiture le garde du corps qu'elle n'a pas pour affronter ce monde où l'insécurité régnerait, devenant _elle-même_ source d'insécurité.
 
 Cet humain à coque qui tue chaque année plus de 3000 français, dont 500 piétons et 300 cyclistes. Qui blesse grièvement 16 000 personnes, et qui en blesse on imagine par déduction mais sans savoir ce que ça veut dire "non grièvement", le discret chiffre de 230 000 humains.
 
@@ -45,15 +45,15 @@ Ce corps qui permet de tuer sans risquer de peine de prison, et souvent même [s
 
 Malheureusement, les conséquences de ce trans-humanisme inavoué ne se limitent pas aux drames sur les routes. C'est un drame social.
 
-Une fois admise cette réalité subtile mais pourtant si évidente, que l'automobiliste et l'automobile font corps, on comprends mieux l'épisode des gilets jaunes. Ce n'est pas l'essence qui allait renchérir avec la hausse prévue de longue date de la taxe carbone. Non, cela aurait été un fait économique qui n'aurait pas provoqué une révolte : l'[immobilier a eu beau exploser](https://twitter.com/unevoiture_/status/1653021362393423876) en France, personne n'est descendu dans la rue pour lui.
+Une fois admise cette réalité subtile mais pourtant si évidente, que l'automobiliste et l'automobile font corps, on comprend mieux l'épisode des gilets jaunes. Ce n'est pas l'essence qui allait renchérir avec la hausse prévue de longue date de la taxe carbone. Non, cela aurait été un fait économique qui n'aurait pas provoqué une révolte : l'[immobilier a eu beau exploser](https://twitter.com/unevoiture_/status/1653021362393423876) en France, personne n'est descendu dans la rue pour lui.
 
 C'est une denrée bien plus fondamentale qui pour lui augmentait : la nourriture de son extension corporelle.
 
-Il suffit de se poster quelques minutes devant la boulangerie d'une ville de 5 à 10 000 habitants un dimanche par temps doux pour comprendre que le mouvement des gilets jaunes fut bien un mouvement de défense de la bagnole et de la dépendance qu'elle provoque au fossile.
+Il suffit de se poster quelques minutes devant la boulangerie d'une ville de 5 à 10 000 habitants un dimanche par temps doux pour comprendre que le "tout voiture" est toujours une très bonne description des milieux périurbains et ruraux en France.
 
-Les boulangeries françaises sont, pour l'essentiel, des drives. Elles n'ont juste pas le courage de s'assumer comme un MacDo, un magasin issu d'un monde où toutes les horreurs décrites dans cet article s'imposent en taille XXL.
+Posté devant ce commerce essentiel de proximité toujours [largement distribué sur notre territoire](https://overpass-turbo.eu/s/1uOZ), vous verrez que personne n'y va en vélo, ou à pieds. 10 minutes, 9 bagnoles, 7 autosolistes, un scooter. Ah, et un bus vide, s'il y en a.
 
-Posté devant cette boulangerie, vous verrez que personne n'y va en vélo, ou à pieds. 10 minutes, 9 bagnoles, 7 autosolistes, un scooter. Ah, et un bus vide, s'il y en a.
+Les boulangeries françaises sont, pour l'essentiel, des _drives_. Elles n'ont juste pas le courage de l'assumer comme le fait MacDo, un magasin issu d'un monde où toutes les horreurs décrites dans cet article s'imposent en taille XXL.
 
 Ce n'est pas une révélation de dire qu'en dehors des hyper-centres de métropole, la France est un territoire 99% voiture. C'est une évidence pour tout le monde, même s'il vaut mieux éviter d'en parler.
 
