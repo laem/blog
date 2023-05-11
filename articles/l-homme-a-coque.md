@@ -33,7 +33,9 @@ Vous tapez à sa fenêtre, car avec cette fenêtre qui l'isole phoniquement du b
 
 La où la comparaison avec les insectes s'arrête, c'est que ceux-ci ont naturellement adapté leur coque à leur taille. Les contraintes de base de l'évolution des espèces ne s'appliquent pas à l'homme à coque. Et pour l'instant, les contraintes sociales de vivre ensemble qu'on appelle "la loi" ont elles aussi failli à réguler cette débauche de matériaux.
 
-Mais taper à sa fenêtre, un geste qui témoignerait d'un cycliste "radical" dans une France où la voiture est adulée et le cycliste honni, dans le but de dialoguer, c'est risquer que l'automobiliste qui déjà ne reconnaissait pas sa faute, parte dans une rage, un réflexe de défense digne d'une agression physique faite à son corps. C'est normal : dès qu'il est au volant, c'est bien de son corps qu'il s'agit.
+Mais taper à sa fenêtre, un geste qui témoignerait d'un cycliste "radical" dans une France où la voiture est adulée et le cycliste honni, dans le but de dialoguer, c'est risquer que l'automobiliste qui déjà ne reconnaissait pas sa faute, se laisse aller à une [folle](https://www.francetvinfo.fr/societe/securite-routiere/video-la-voiture-nous-rend-elle-fous_5171767.html) rage, un réflexe automatique de défense digne d'une agression physique faite à son corps. C'est normal : dès qu'il est au volant, c'est bien de son corps qu'il s'agit.
+
+Peu importe que l'automobiliste soit captif du système tout-voiture, ou appelle à toujours plus de routes : le fait qu'une fois protégé de sa coque, l'humain se transforme et s'isole, est une constante, même si en pratique l'inhumanité se nuance évidemment entre le chauffard dont la trajectoire jusqu'à l'homicide est toute tracée, et l'automobiliste consciencieux qui par un seul oubli de vérification d'angle mort fera reposer la vie des usagers humains sur leur propre vigileance.
 
 Le rapprochement provocateur entre l'impuissance sexuelle d'un homme et sa grosse cylindrée ne sont qu'une révélation de plus quand à cette évidence. La femme n'est pas épargnée par cette réalité primitive. Elle aussi recherche dans la carrosserie sécurisée de sa voiture le garde du corps qu'elle n'a pas pour affronter ce monde où l'insécurité régnerait, devenant _elle-même_ source d'insécurité.
 
@@ -61,7 +63,7 @@ Que cette France ne veuille aucunement changer, ça, c'est la grande révélatio
 
 Bien sûr, beaucoup diront que "les gilets jaunes, ça a peut-être [sic] commencé avec un refus de la taxe carbone, mais c'est devenu surtout un mouvement politique global appelant à plus de démocratie". Évidemment, le coût de l'immobilier dans les zones à fort potentiel d'emploi, couplé au rêve de maison et de jardin, sont également moteur dans ce mouvement. Mais ce sont d'autres sujets qui n'invalident nullement ce constat. Un mouvement politique peut très bien revendiquer une démocratie plus directe et une fin de la spéculation et concentration de la richesse immobilière, mais cela ne présume en rien de son programme pour la mobilité du pays.
 
-Car il n'est guère question ici d'un abandon de l'État. Le mode de déplacement des automobilistes qui roulent jusqu'à la boulangerie seuls dans leur voiture, n'a absolument rien à voir avec la forte propension qu'a le gouvernement élu à détricoter les services publics.
+Car il n'est guère question ici d'un abandon de l'État. Le mode de déplacement des automobilistes qui roulent jusqu'à la boulangerie seuls dans leur voiture, n'a absolument rien à voir avec la forte propension qu'a le gouvernement élu à détricoter les services publics. Quoique, étant donné les ravages de la sédentarité, il n'est pas absurde de penser que la voiture met à mal nos hôpitaux.
 
 Tout ça se décide et se budgète localement, chaque année. Il n'est pas question ici des investissement importants dans le train, où la main de l'État est souvent nécessaire, mais que son manque cruel de vision et d'intelligence économique condamne. Notons quand même qu'en pratique, la création d'un réseau de tram est bien à la portée de la moindre ville de 50 000 habitant si tant est que ses citoyens décidaient de ne pas cramer tant d'argent dans le tout-voiture. Si si, [faites le calcul](https://twitter.com/maeool/status/1450893680349483009). La voiture coûte un pognon de dingue.
 
@@ -75,7 +77,7 @@ Car c'est bien ça le sujet : **créer une brèche, d'urgence**. Permettre au mo
 
 Après s'être fait prendre sa priorité des milliers de fois par des monstres de 2 tonnes totalement débridés et fonçant avec toute la nonchalance conférée par l'impunité d'une police coupable et d'un ministre de l'intérieur délinquant, à 50km/h dans la zone 30 d'un centre-ville déserté. Déserté de ses habitants bipèdes, et donc de plus en plus en surpoids, et leurs enfants privés de la lumière du jour et en conséquence touchés par l'épidémie de myopie.
 
-Donner le droit à ceux qui font l'effort de s'extraire de ce monde tout bagnole, de circuler en sécurité, ça devrait être au cœur de votre engagement politique, tous les jours. Reconnaître haut et fort que moins on est riche en France, [moins on utilise la voiture et moins elle est grosse](https://www.alternatives-economiques.fr/mobilite-ca-roule-riches/00101860), et donc que permettre aux citoyens de s'en défaire, c'est aider les plus pauvres. Un programme qui serait de gauche. Simple, basique.
+Donner le droit à ceux qui font l'effort de s'extraire de ce monde tout bagnole, de circuler en sécurité, ça devrait être au cœur de votre engagement politique, tous les jours. Reconnaître haut et fort, contre les idées reçues, que moins on est riche en France, [moins on utilise la voiture et moins elle est grosse](https://www.alternatives-economiques.fr/mobilite-ca-roule-riches/00101860), et donc que permettre aux citoyens de s'en défaire, c'est aider les plus pauvres. Un programme qui serait de gauche. Simple, basique.
 
 Il faut avouer que sans l'effort admirable des municipalités de gauche qui elles prouvent leur courage, timide mais palpable, localement, toute perte d'espoir dans la classe politique, de A à Z, [serait de mise](https://twitter.com/maeool/status/1516009056078639106).
 
@@ -84,3 +86,13 @@ Vous privilégiez [le soutien à la colère bestiale des motards](https://twitte
 Un drame historique qui est venu s'ajouter, ou plutôt que l'on a observé s'ajouter sans broncher, malgré l'état calamiteux de nos bronches, depuis déjà plusieurs décennies, aux vies elles aussi irrémédiablement détruites par le choc physique d'un os protégé par son centimètre de peau qui se fracasse dans un bruit qui traumatise à vie sur la carapace Euro NCAP 5 étoiles Crit'Air 1 qu'a décidé d'utiliser l'homme devenu automobiliste.
 
 La richesse historiquement inédite que la France possède, plutôt que de l'investir dans les hôpitaux, la santé, les services publics, l'éducation, et une infrastructure de transport décarbonée et durable, vous appelez encore et toujours à la cramer dans le pétrole et les assurances bagnole.
+
+---
+
+Vous vous en doutez peut-être, cet essai à charge ne part pas de rien. Il n'est que la conséquence logique des milliers d'agressions que j'ai subies pendant mes dernières dix années de vélo du quotidien, de l'agression physique par un policier qui défendait le conducteur alcoolisé d'une Audi qui venait de me griller le feu, à la folie d'un conducteur de Mini qui après un dépassement raté par la droite, me voyant sortir mon téléphone pour prendre en photo sa plaque, s'est mis à me supplier en frappant sa carosserie de sa propre tête de ne pas aller déposer plainte, en passant par le stationnement systématique et provocateur des voitures et motos sur les sas vélo.
+
+Deux récentes infractions, qui ont conduit à des altercations car je suis un cycliste qui ne ferme pas sa gueule face aux mises en danger, ont mis en évidence à mes yeux cette réalité de l'homme et de la femme à coque.
+
+La seule explication alternative serait que les humains qui prennent la voiture sont tous ou presque profondément cons. Cette thèse, couplée au fait que 90% des Français sont automoblistes, conduirait à affirmer le règne de la connerie généralisée. Je n'y adhère pas. C'est bien l'automobile qui, en plus des problèmes évidents que sa taille et sa puissance imposent, renforce les comportements primitifs et abrutis qui someillent en chacun de nous.
+
+La solution est simple.
