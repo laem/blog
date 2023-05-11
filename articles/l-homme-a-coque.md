@@ -75,7 +75,7 @@ Car c'est bien ça le sujet : **créer une brèche, d'urgence**. Permettre au mo
 
 Après s'être fait prendre sa priorité des milliers de fois par des monstres de 2 tonnes totalement débridés et fonçant avec toute la nonchalance conférée par l'impunité d'une police coupable et d'un ministre de l'intérieur délinquant, à 50km/h dans la zone 30 d'un centre-ville déserté. Déserté de ses habitants bipèdes, et donc de plus en plus en surpoids, et leurs enfants privés de la lumière du jour et en conséquence touchés par l'épidémie de myopie.
 
-Donner le droit à ceux qui font l'effort de s'extraire de ce monde tout bagnole, de circuler en sécurité, ça devrait être au cœur de votre engagement politique, tous les jours. Reconnaître haut et fort que moins on est riche en France, moins on utilise la voiture et moins elle est grosse, et donc que permettre aux citoyens de s'en défaire, c'est aider les plus pauvres. Un programme qui serait de gauche. Simple, basique.
+Donner le droit à ceux qui font l'effort de s'extraire de ce monde tout bagnole, de circuler en sécurité, ça devrait être au cœur de votre engagement politique, tous les jours. Reconnaître haut et fort que moins on est riche en France, [moins on utilise la voiture et moins elle est grosse](https://www.alternatives-economiques.fr/mobilite-ca-roule-riches/00101860), et donc que permettre aux citoyens de s'en défaire, c'est aider les plus pauvres. Un programme qui serait de gauche. Simple, basique.
 
 Il faut avouer que sans l'effort admirable des municipalités de gauche qui elles prouvent leur courage, timide mais palpable, localement, toute perte d'espoir dans la classe politique, de A à Z, [serait de mise](https://twitter.com/maeool/status/1516009056078639106).
 
