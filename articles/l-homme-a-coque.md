@@ -21,7 +21,7 @@ Mais ce terme est complètement désuet : une brise, c'est un vent doux et lége
 
 Non, à 50km/h, c'est un grand vent, le marin est à l'alerte depuis déjà longtemps, et si l'automobiliste n'a pas les larmes qui lui brouillent la vue, c'est parce que le plastique, l'acier et le verre l'ont extrait de son environnement.
 
-Ainsi il n'y a rien d'étonnant à la situation si fréquente et dépénalisée consistant à se faire frôler en vélo à moins d'un mètre par un automobiliste ne voulant pour rien au monde admettre son erreur, celle qui vous a mis en danger, incontestablement.
+Ainsi il n'y a rien d'étonnant à la situation si fréquente et dépénalisée consistant à se faire frôler son vélo à moins d'un mètre par un automobiliste ne voulant pour rien au monde admettre son erreur, celle qui vous a mis en danger, incontestablement.
 
 Rien d'étonnant non plus au fait que l'automobiliste veuille systématiquement dépasser le cycliste. Lui voler la priorité. Exiger du piéton qu'il lui dise merci, à lui, le roi ou la reine de la route qui a daigné donner au badaud l'autorisation exceptionnelle de traverser le passage... piéton.
 
@@ -53,7 +53,7 @@ C'est une denrée bien plus fondamentale qui pour lui augmentait : la nourriture
 
 Il suffit de se poster quelques minutes devant la boulangerie d'une ville de 5 à 10 000 habitants un dimanche par temps doux pour comprendre que le "tout voiture" est toujours une très bonne description des milieux périurbains et ruraux en France.
 
-Posté devant ce commerce essentiel de proximité toujours [largement distribué sur notre territoire](https://overpass-turbo.eu/s/1uOZ), vous verrez que personne n'y va en vélo, ou à pieds. 10 minutes, 9 bagnoles, 7 autosolistes, un scooter. Ah, et un bus vide, s'il y en a.
+Posté devant ce commerce essentiel de proximité toujours [largement distribué sur notre territoire](https://overpass-turbo.eu/s/1uOZ), vous verrez que personne n'y va à vélo, ou à pied. 10 minutes, 9 bagnoles, 7 autosolistes, un scooter. Ah, et un bus vide, s'il y en a.
 
 Les boulangeries françaises sont, pour l'essentiel, des _drives_. Elles n'ont juste pas le courage de l'assumer comme le fait MacDo, un magasin issu d'un monde où toutes les horreurs décrites dans cet article s'imposent en taille XXL.
 
