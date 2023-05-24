@@ -159,7 +159,8 @@ Putain je pourrais arrêter l'article ici mais y a tant de choses à dire. On va
 
 Voilà donc pour l'aspect stratégique. Versez votre acompte écologique, faites _seulement_, mais déjà, un tiers du chemin, pour espérer débloquer la situation.
 
-Mais dans la vie, la stratégie rationnelle, c'est une chose. La morale en est une autre, tout aussi puissante. Elle pour de nombreuses personnes largement suffisante pour initier [un changement conséquent de leur mode de vie](https://kont.me/le-cout-des-choses).
+Mais dans la vie, la stratégie rationnelle, c'est une chose. La morale en est une autre, tout aussi puissante. Elle pour de nombreuses personnes largement suffisante pour initier [un changement conséquent de leur mode de vie](https://kont.me/le-cout-des-choses). La morale, c'est la culpabilité. Rejetée systématiquement par l'essentiel des personnes travaillant dans le sujet de la "sensibilisation climat", c'est pourtant la culpabilité qui fait se mouvoir quelqu'un qui ne veut pas être responsable d'un iota d'un futur drame du calibre de celui qui est décrit de façon si poignante dans l'introduction du livre Ministry for the Future de l'un des auteurs de sciences fiction les plus vendus.
+La culpabilité, c'est un sentiment dont la conséquence peut tout aussi bien être le remord, que l'espoir, quand elle amène à se bouger le cul pour que ses enfants ne vivent pas les prédictions aujourd'hui bien établies.
 
 ---
 
