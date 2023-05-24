@@ -67,7 +67,11 @@ Qu'est-ce qui nous permet d'émettre cette hypothèse ? En limitant notre champ 
 - le contrôle technique des deux roues moteur
 - la limitation à 110km/h sur autoroute
 
-Chacune de ces lois a été avortée ou retirée _par crainte d'une révolte des concernés_, alors même que leur quator n'aurait permis au mieux que d'atteindre une seule année de baisse de 5% des émissions.
+Chacune de ces lois a été avortée ou retirée _par crainte d'une révolte des concernés_, alors même que leur quator n'aurait permis au mieux que d'atteindre une seule année de baisse de 5% des émissions. Ne parlons même pas du corps électorale des chasseurs.
+
+Mais ne nous laissons pas tromper par la tendance conservatrice et climaticide actuelle de ces groupes d'influence : il y a seulement 70 ans, après-guerre, ce sont les cyclistes qui étaient ainsi influents, avant de finalement perdre la bataille, sous la pression d'une minorité d'automobilistes ayant réussi à _hacker_ le système politique.
+
+> La seule raison pour laquelle ils continuent d'être autorisés sur les routes, c'est qu'ils sont très nombreux. Les gouvernements ont cette crainte qu'ils perdraient le vote des cyclistes. Ils forment un groupe redoutable, dont tous les partis politiques ont peur, relate l'auteur de "Bike boom" page 49.
 
 Le gouvernement attend un acompte pour ne pas prendre un risque qu'il considère légitimement, sur la base de ses expériences (maladroites, c'est un piètre commerçant) passées, comme injustifiable.
 
@@ -123,13 +127,17 @@ Eh bien comme ce mécanisme fondamental vieux lui aussi comme la nuit des temps 
 
 Certaines relations commerciales se délenchent sur un acompte de 100% : le client paie, puis profite plus tard du service. Dans d'autres cas, le client profite du service et paie une fois le service entièrement rendu. Les trente dernières années de sensibilisation et de débats sans fin et de flirt sans résultat pratique ont montré l'échec de ces postures débiles.
 
-Je crois qu'il d'usage dans ces cas là, de considérer un acompte de 30%. Pourquoi pas ? 30% selon la mesure de l'empreinte climat de consommation, ce n'est qu'une partie mineure du chemin mais c'est pourtant un effort significatif, quand on le décline concrètement.
+Je crois qu'il d'usage dans ces cas là, de considérer un acompte de 30%. Pourquoi 30 ? Je ne sais pas. C'est souvent le compromis qui permet de se faire suffisamment confiance pour faire des plans sur le futur. Pourquoi pas ? Ça pourrait être 40 ou 60%, mais 30% semble un minimum.
+
+30% selon la mesure de l'empreinte climat de consommation, ce n'est qu'une partie mineure du chemin mais c'est pourtant un effort significatif, quand on le décline concrètement.
 
 30%, c'est 3 tonnes sur 10. C'est la fin de la voiture thermique, de l'aviation ainsi que de l'empreinte de la consommation d'énergie dans les logements. Dilués de façon plus réaliste dans cet ensemble coloré de pollutions diverses, il n'empêche que ça veut au moins dire une réduction de 30% du chiffre d'affaire des aéroports français, une hausse de 200% des achats de pompe à chaleur, une part modale du vélo qui passe de 3% à 30%, et encore la fin des 95% d'achats neufs de véhicules thermiques.
 
 ![](https://imgur.com/uvm9MHO.png)
 
 Si cela vous semble terriblement radical, alors que ces efforts ne représentent que 30% de notre objectif de décarbonation, c'est que comme nous tous, vous avez été habitué à penser qu'on aurait le beurre et l'argent du beurre. Que trier ses poubelles et arrêter Netflix c'était la première marche qui allait engager les citoyens et la société sur l'escalier de la lutte pour le climat.
+
+Si l'objectif de 30% d'acompte, vous le jugez personnellement inatteignable, c'est parce que vos précecesseurs le jugeaient le 20% inatteignable hier, et ainsi de suite. Ce sera bien pire demain.
 
 Attendre que l'État, dans un revirement providentiel, fournisse 100% de l'effort plutôt que de pondre des lois minables aux effets totalement dilués, quand ses citoyens se révoltent pour une loi qui n'aurait même pas amélioré le problème d'un maigre pourcent, c'est vivre dans le monde des bisounours en bioplastique.
 
@@ -145,7 +153,13 @@ Pensez-vous vraiment que des milliers de manifestants dans la rue pour le climat
 
 ---
 
-Putain je pourrais arrêter l'article ici mais y a tant de choses à dire.
+Putain je pourrais arrêter l'article ici mais y a tant de choses à dire. On va continuer avec une suite davantage morale et sous forme d'introspection.
+
+---
+
+Voilà donc pour l'aspect stratégique. Versez votre acompte écologique, faites _seulement_, mais déjà, un tiers du chemin, pour espérer débloquer la situation.
+
+Mais dans la vie, la stratégie rationnelle, c'est une chose. La morale en est une autre, tout aussi puissante. Elle pour de nombreuses personnes largement suffisante pour initier [un changement conséquent de leur mode de vie](https://kont.me/le-cout-des-choses).
 
 ---
 
