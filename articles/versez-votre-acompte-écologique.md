@@ -44,28 +44,34 @@ Je vous prie d'agréer l'expression de mes sentiments les meilleurs.
 
 ---
 
-Je ne soutiens pas la politique du gouvernement. La hausse de la taxe sur le pétrole qui a déclenché le mouvement des gilets jaunes, a été très maladroite.
+Je ne soutiens pas la politique du gouvernement. En particulier, la hausse de la taxe sur le pétrole qui a déclenché le mouvement des gilets jaunes, a été très maladroite.
 
-On pourrait suspecter cyniquement qu'elle n'était destinée qu'à apporter de l'argent frais aux choix de société portés par le gouvernement, mais ce serait ignorer que le but premier d'une telle taxe sur le pétrole, c'est que [les gens en consomment simplement moins.](https://fr.wikipedia.org/wiki/Taxe_pigouvienne)
+Beaucoup ont porté cyniquement l'accusation qu'elle n'était destinée _qu'à_ apporter de l'argent frais aux choix de société portés par le gouvernement, mais ce serait ignorer que l'effet premier d'une telle taxe sur le pétrole, c'est que [les gens en consomment simplement moins.](https://fr.wikipedia.org/wiki/Taxe_pigouvienne)
 
 Je suis cependant convaincu que pour être acceptée, elle aurait du être accompagnée d'une grande planification des transports écologiques. Car il était aisé de comprendre la relation qu'on adopté les français [avec leur voiture](https://kont.me/l-homme-a-coque).
 
+N'en déplaise à M. Lesggy et Autoplus, les cyclistes ne roule pas au steak carboné, mais les automobilistes eux mangent bien du pétrole. La révolution moderne se fait sur le prix du pétrole.
+
 > On va vous prélèver quelques euros en plus sur chaque plein d'essence, mais en échange vous aurez de nouvelles lignes de bus électrique, de TER, de TGV, des incitations concrètes au covoiturage, mais aussi des jours de congés en plus pour voyager sobrement ; nous taxerons également le kérosène, etc.
 
-Pourtant, rien ne nous garantit qu'adossée à un grand plan de transformation du transport en France, cette mouture plus complète n'aurait pas déclenché la même levée de bouclier.
+Voilà le pacte qu'aurait du faire le gouvernement avec son peuple. Pourtant, rien ne nous garantit qu'adossée à un grand plan de transformation du transport en France, cette mouture plus complète n'aurait pas déclenché la même levée de carosserie.
 
-Disons les choses clairement : je pense que même en faisant l'hypothèse d'un gouvernement stratège et de bonne foi, mettant plus en avant la défense des glaciers que des grandes fortunes, n'agirait pas fortement sur le sujet de l'écologie\* car il n'a aucune confiance dans la propension des français à accepter les lois qui en découleraient.
+Disons les choses clairement : je pense que même en faisant l'hypothèse d'un gouvernement stratège et de bonne foi, mettant plus en avant la défense des derniers glaciers alpins que des grandes fortunes, ce gouvernement n'agirait pas fortement sur le sujet de l'écologie\* **car il n'a aucune confiance dans la propension des français à accepter les lois qui en découleraient**.
 
-> \* Mettons-nous d'accord sur une définition minimale de l'action écologique : il s'agit, a minima, de respecter l'accord de Paris pour le climat. Donc de baisser, chaque année, nos émissions de gaz à effet de serre d'au moins 5%.
+> \* Mettons-nous d'accord sur une définition minimale de l'action écologique : il s'agit, a minima, de respecter l'accord de Paris pour le climat. Donc de baisser, chaque année, nos émissions de gaz à effet de serre d'au moins 5%. C'est une définition nécessaire mais non suffisante bien sûr, ignorant l'aspect biodiversité par exemple.
 
 Qu'est-ce qui nous permet d'émettre cette hypothèse ? En limitant notre champ d'analyse aux sujets pétrole-bagnole, on peut lister au moins 4 renoncements du gouvernement :
 
-- la hausse de la taxe pétrole qui a fait naître les gilets jaunes
+- la hausse de la taxe pétrole (TICPE) qui a fait naître les gilets jaunes
 - la régularisation de la taxation du pétrole du BTP
-- la limitation à 110km/h sur autoroute
 - le contrôle technique des deux roues moteur
+- la limitation à 110km/h sur autoroute
 
-Chacune de ces lois a été avortée ou retirée*par crainte d'une révolte des concernés*, alors même qu'elles n'auraient permis au mieux que d'atteindre une seule année de baisse de 5% des émissions.
+Chacune de ces lois a été avortée ou retirée _par crainte d'une révolte des concernés_, alors même que leur quator n'aurait permis au mieux que d'atteindre une seule année de baisse de 5% des émissions.
+
+Le gouvernement attend un acompte pour ne pas prendre un risque qu'il considère légitimement, sur la base de ses expériences (maladroites, c'est un piètre commerçant) passées, comme injustifiable.
+
+---
 
 Le propos ici n'est pas de dire que le frein serait davantage du côté des citoyens plus que des collectivités, des députés, du gouvernement, de l'Union Européenne.
 
