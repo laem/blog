@@ -133,9 +133,11 @@ Attendre que l'État, dans un revirement providentiel, fournisse 100% de l'effor
 
 La transformation des citoyens normaux de la convention citoyenne en activistes climatiques prêts à rogner sur leur confort de riches pollueurs et à revenir sur leurs dogmes anti-technologiques, du nucléaire aux voitures électriques, ne peut que donner de l'espoir. Mais une poignée de citoyens non élus ne faisaient pas le poids par rapport à Airbus, Renault, les lobbyistes Russes et les élus alignés sur la même cause du gaz fossile, les journalistes de droite prêts à calomnier pour défendre leur mode de vie, et surtout tous ces citoyens écrasés par ces informations contradictoires et la magnifique excuse du "c'est pas à nous de faire le premier pas".
 
-La contestation citoyenne massive, non plus contre la hausse du prix de la première énergie fossile, mais contre les nouveaux kilomètres d'autoroute, ce peut que donner de l'espoir. C'est assurément une forme d'acompte écologique également.
+La contestation citoyenne massive, non plus contre la hausse du prix de la première énergie fossile, mais contre les nouveaux kilomètres d'autoroute, ne peut que donner de l'espoir. C'est assurément une forme d'acompte écologique également. Mais un acompte non financier, un acompte de confiance.
 
-Suffisante pour que le gouvernement et tous les acteurs qui forment ses décisions revoie sa copie ? Personnellement, je ne pense pas. Des millions de manifestants contre un projet politique impopulaire à 70% n'ont pas suffi pour changer la donne.
+![](https://imgur.com/NmxeGG2.png)
+
+Suffisant pour que le gouvernement et tous les acteurs qui forment ses décisions revoie sa copie ? Personnellement, je ne pense pas. Des millions de manifestants contre un projet politique impopulaire à 70% n'ont pas suffi pour changer la donne.
 
 Pensez-vous vraiment que des milliers de manifestants dans la rue pour le climat, et 1 milloin de likes sur un tweet de Bon Pote auront un quelconque poids face à des millions de billets d'avion low-cost réservés chaque année ? La lutte ne peut se cantonner au symbolique, et dans l'équation climat, le concret c'est la consommation de produits carbonés, celle qui fait notre PIB.
 
