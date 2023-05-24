@@ -107,7 +107,9 @@ La preuve d'engagement du citoyen est l'ingrédient stratégique manquant aujour
 
 Elle n'atteindra pas spontanément la majorité des gens, mais celle-ci sera tentée de suivre l'évolution de la mode et de la morale portée par une minorité influente, comme on peut le constater depuis la nuit des temps. Et surtout, ce consensus minoritaire rendra possible, non sans d'âpres débats publics, les nouvelles lois qui seules peuvent généraliser un mode de vie écologique.
 
-Je suis évidemment incapable de prouver cette urgence de l'engagement d'une minorité, car ces choses là ne se prouvent pas comme des théorèmes mathématiques : les [prétentions de chiffrage des responsabilités](https://kont.me/éloge-décroissance-individuelle) qui vous sortiront des "en étant un héros vous pouvez faire 25% du chemin seulement" ont leur place sur un post inspirationnel LinkedIn, pas dans le débat public sérieux.
+Je suis évidemment incapable de prouver cette urgence de l'engagement d'une minorité, car ces choses là ne se prouvent pas comme des théorèmes mathématiques : les [prétentions de chiffrage des responsabilités](https://kont.me/éloge-décroissance-individuelle) qui vous sortiront des "en étant un héros vous pouvez faire 25% du chemin seulement" ont leur place sur un post inspirationnel LinkedIn, pas dans un débat public sérieux. Personne n'est en mesure de trancher sur la responsabilité d'une personne en donnant des poids aux paramètres incroyablement divers que sont le revenu, le patrimoine, le grande dans l'entreprise, la fonction dans l'État, l'importance d'un mandat, le nombre de followers sur Instagram.
+
+Personne n'est en mesure de calculer la responsabilité en étant contemporain d'un délire collectif. C'est le rôle terrible de l'appareil judiciaire dans le cadre de procès a posteriori organisés pour juger tant bien que mal les pires heures sombres de l'histoire.
 
 Il est impossible de chiffrer la pression qui s'exerce tout autant sur les patrons que sur les citoyens, chacun à son échelle, et qui conduit à perpétuer notre mode de vie climaticide. Il est par contre possible de mesurer l'[empreinte carbone des individus](https://nosgestesclimat.fr) et des organisations. _Mesurer_, ce n'est pas attribuer 100% de la responsabilité d'un chiffre à quelqu'un, pas du tout. Si vous me dites que vous êtes payé au SMIC, ça ne veut en aucun cas dire que vous êtes [responsables de ce salaire](https://hackmd.io/@laem/nosgestesclimat-cest-culpabilisant), plus que votre patron, le MEDEF, la société ou la mondialisation.
 
@@ -115,7 +117,7 @@ Il est impossible de chiffrer la pression qui s'exerce tout autant sur les patro
 
 ---
 
-Alors, puisqu'on est incapables d'attribuer une responsabilité nette aux malheurs qui nous affectent et nous détruirons, puisqu'on n'est pas davantage capables, au-delà des intuitions, de dire précisément qui doit faire le premier pas, comment on fait ?
+Alors, puisqu'on est incapables d'attribuer une responsabilité nette aux malheurs qui nous affectent et nous détruiront, puisqu'on n'est pas davantage capables, au-delà des intuitions, de dire précisément qui doit faire le premier pas, comment on fait ?
 
 Eh bien comme ce mécanisme fondamental vieux lui aussi comme la nuit des temps : on verse un acompte à cette personne morale à laquelle on demande un service.
 
@@ -139,7 +141,7 @@ La contestation citoyenne massive, non plus contre la hausse du prix de la premi
 
 Suffisant pour que le gouvernement et tous les acteurs qui forment ses décisions revoie sa copie ? Personnellement, je ne pense pas. Des millions de manifestants contre un projet politique impopulaire à 70% n'ont pas suffi pour changer la donne.
 
-Pensez-vous vraiment que des milliers de manifestants dans la rue pour le climat, et 1 milloin de likes sur un tweet de Bon Pote auront un quelconque poids face à des millions de billets d'avion low-cost réservés chaque année ? La lutte ne peut se cantonner au symbolique, et dans l'équation climat, le concret c'est la consommation de produits carbonés, celle qui fait notre PIB.
+Pensez-vous vraiment que des milliers de manifestants dans la rue pour le climat, et 1 milloin de likes sur un tweet de Bon Pote auront un quelconque poids face à des millions de billets d'avion low-cost réservés chaque année ? La lutte ne peut se cantonner à un activisme symbolique sur fond de consommation inchangée, car dans l'équation climat, le concret c'est la consommation de produits carbonés, celle qui fait notre PIB.
 
 ---
 
