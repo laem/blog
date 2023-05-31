@@ -87,11 +87,23 @@ Le conservatisme imprègne notre société à tous ses niveaux, de l'individu, e
 
 Je soutenais dans le texte "[Éloge de la décroissance individuelle](https://kont.me/éloge-décroissance-individuelle)" que le mouvement des cellules de notre société (nous, les individus) est aujourd'hui crucial pour rompre cette paralysie généralisée. Comme dit Orelsan dans l'album "Civilisation" qui fait une part belle aux réflexions sur l'écologie, "Faut qu'on brise ce putain de cercle, il est vicieux ce putain de cercle, je peux pas le faire tout seul faut que tu m'aides".
 
-Orelsan, c'est aussi l'un des deux jouteurs du clash lyrique ["À qui la faute"](https://www.youtube.com/watch?v=VsGkZEC2cVs) de Kerry James. Ce débat qui n'admet aucune solution manichéenne pour le sujet de la responsabilité de l'état des citées, n'en a évidemment pas plus pour le défi du siècle : le réchauffement climatique.
+Il met le doigt sur une des raisons sovent non avouées mais massives à l'absence de changement de mode de vie : je ne le ferai que si je sens que les autres sont prêts à le faire. [Coopération - trahison](https://twitter.com/kukntoast/status/1548234586320019458). Tant qu'il sera possible sans sanction (légales, morales, et dans une moindre mesure financière) de faire un aller-retour à Dubai pour faire sa storie dans un centre commercial climatisé, les français refuseront de verser leur acompte. Ce que je soutiens dans cet article, c'est que nous n'avons pas le choix : _pour_ attaquer ces comportements nocifs, il faut que nous soyons nombreux à verser notre acompte. Briser ce putain de cercle si stable qu'il est même croissant.
+
+Orelsan, c'est aussi l'un des deux jouteurs du clash lyrique ["À qui la faute"](https://www.youtube.com/watch?v=VsGkZEC2cVs) de Kerry James. Ce débat qui n'admet aucune solution manichéenne pour le sujet de la responsabilité de l'État dans le mal qui ronge nos citées, n'en a évidemment pas plus pour le défi du siècle, le réchauffement climatique.
 
 Redescendons sur terre : voici un exemple d'énigme pratique de responsabilité, c'est [l'histoire d'un hôpital schizophèrene](https://twitter.com/maeool/status/1331195853999120384), à Brest. L'établissement mobilise des centaines de professionnels sur fonds publics notamment pour soigner la sédentarité, ce mal moderne, le pendant du progrès technologique. Pour accueillir les malades, il construit toujours plus de parkings voiture, qui favorisent cette sédentarité, parce que les patients ne veulent (dit-on, et d'ailleurs le personnel soignant aussi) se déplacer qu'en voiture. Qui est responsable du problème ? Impossible de trancher. Nous sommes en situation d'équilibre stable. Comment on s'en sort ?
 
-Il faut faire émerger puis grossir ce petit carré, bien caché sous le poids du triangle conservateur.
+Rejeter le rôle de l'individu dans le réchauffement climatique et ses solutions, c'est simplement adapter la thèse de Pierre Bourdieu mais à l'extrême pour le défi du siècle. L'individu n'aurait aucune influence sur le système. La mode n'existerait pas. La pression sociale serait une invention. Les influenceurs n'influenceraient pas. La démocratie française en 2023 serait une arnaque totale, sans nuance.
+
+S'est opposée à cette thèse de Bourdieu, le philosophe et sociologue Raymond Boudon, qui en tant qu'« individualistes » s'oppose aux « structuralistes », via la notion d'[individualisme méthodologique](https://fr.wikipedia.org/wiki/Individualisme_m%C3%A9thodologique).
+
+[Petite explication de sa thèse nécessaire].
+
+Ce que je défends ici, c'est que la minorité riche et influente qui se considère engagée poru l'environnement, doit accepter de faire un écart stratégique Boudonnien pour espérer atteindre un changement structuraliste Bourdieusien. Car les initiatives naïves visant à transformer radicalement le système en démocratie sont vouées à l'échec.
+
+Il est évident que parler d'individualisme méthodologique à l'employé au SMIC qui prend la voiture pour travailler à 60km de son domicile, donnera probablement moins de résultats pratique d'en parler au cadre en télétravail qui a la même empreinte carbone via ses vols d'avion, une opposition mise en scène dans cette merveilleuse [vidéo de Groland](https://www.dailymotion.com/video/x8n2mo). Pourtant, la réalité est tenace : si Bertrand Ambart est enfermé dans un carcan économique difficile, Jérôme Ludion ne subit pas pour autant des freins au changement moins puissants. Ils ne sont pas économiques, ils sont sociaux. Comme tout humain, il est sous influence de son cercle. Arrêtons de négliger le mimétisme. Si la perspective internationale d'inégalité climatique nous montre que Bertrand est lui-même, sans hésitation possible, un privilégié, il n'est reste pas moins que Jérôme devrait être soumis à une obligation morale plus forte, car il en a davantage les moyens et la connaissance.
+
+Il faut faire émerger puis grossir ce petit carré, bien caché sous le poids du triangle conservateur et structurant.
 
 ![](https://imgur.com/MxxMzBS.png)
 
@@ -153,7 +165,7 @@ Pensez-vous vraiment que des milliers de manifestants dans la rue pour le climat
 
 ---
 
-Putain je pourrais arrêter l'article ici mais y a tant de choses à dire. On va continuer avec une suite davantage morale et sous forme d'introspection.
+Si vous en êtes arrivés là, vous avez l'essentiel de l'idée défendue par cet article. La suite s'attache à des considérations plus morales notamment au moyen d'une introspection, qui j'en suis sûr, étant donné que vous en êtes arrivés là, vous parlera également même si chaque individu est différent ;)
 
 ---
 
