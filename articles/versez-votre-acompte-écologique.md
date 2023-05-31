@@ -2,7 +2,7 @@
 date: 2023-05-11
 titre: Versez votre acompte écologique
 résumé: |
-  Il n'y a pas encore de résumé. TODO
+  N'espérez pas que le gouverment vous donne les clefs de la société écologique avant de lui avoir prouvé votre engagement.
 image:
   adresse: https://images.unsplash.com/photo-1596633607590-7156877ef734?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGhhbmRzaGFrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
   description: Décrire l'image ici TODO
