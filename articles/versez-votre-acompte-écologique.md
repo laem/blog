@@ -52,11 +52,11 @@ Je suis cependant convaincu que pour être acceptée, elle aurait du être accom
 
 N'en déplaise à M. Lesggy et Autoplus, les cyclistes ne roulent pas au steak carboné, mais les automobilistes eux mangent bien du pétrole. Les révolutions se font sur le pain, sauf dans les pays riches, dont la richesse dépend toujours essentiellement de l'or noir.
 
-> On va vous prélèver quelques euros en plus sur chaque plein d'essence, mais en échange vous aurez de nouvelles lignes de bus électrique, de TER, de TGV, des incitations concrètes au covoiturage, mais aussi des jours de congés en plus pour voyager sobrement ; nous taxerons également le kérosène, etc.
+> On va vous prélever quelques euros en plus sur chaque plein d'essence, mais en échange vous aurez de nouvelles lignes de bus électrique, de TER, de TGV, des incitations concrètes au covoiturage, mais aussi des jours de congés en plus pour voyager sobrement ; nous taxerons également le kérosène, etc.
 
-Voilà le pacte qu'aurait du faire le gouvernement avec son peuple. Pourtant, rien ne nous garantit qu'adossée à un grand plan de transformation du transport en France, cette mouture plus complète n'aurait pas déclenché la même levée de carosserie.
+Voilà le pacte qu'aurait du faire le gouvernement avec son peuple. Pourtant, rien ne nous garantit qu'adossée à un grand plan de transformation du transport en France, cette mouture plus complète n'aurait pas déclenché la même levée de carrosserie.
 
-Disons les choses clairement : je pense que même en faisant l'hypothèse d'un gouvernement stratège et de bonne foi, mettant plus en avant la défense des derniers glaciers alpins que des grandes fortunes, l'executif n'agirait pas fortement sur le sujet de l'écologie\* **car il n'a aucune confiance dans la propension des français à accepter les lois qui en découleraient**.
+Disons les choses clairement : je pense que même en faisant l'hypothèse d'un gouvernement stratège et de bonne foi, mettant plus en avant la défense des derniers glaciers alpins que des grandes fortunes, l'exécutif n'agirait pas fortement sur le sujet de l'écologie\* **car il n'a aucune confiance dans la propension des français à accepter les lois qui en découleraient**.
 
 > \* Mettons-nous d'accord sur une définition minimale de l'action écologique : il s'agit, a minima, de respecter l'accord de Paris pour le climat. Donc de baisser, chaque année, nos émissions de gaz à effet de serre d'au moins 5%. C'est une définition nécessaire mais non suffisante bien sûr, ignorant l'aspect biodiversité par exemple.
 
@@ -67,7 +67,7 @@ Qu'est-ce qui nous permet d'émettre cette hypothèse ? En limitant notre champ 
 - le contrôle technique des deux roues moteur
 - la limitation à 110km/h sur autoroute
 
-Chacune de ces lois a été avortée ou retirée _par crainte d'une révolte des concernés_, alors même que leur quator n'aurait permis au mieux que d'atteindre une seule année de baisse de 5% des émissions.
+Chacune de ces lois a été avortée ou retirée _par crainte d'une révolte des concernés_, alors même que leur quatuor n'aurait permis au mieux que d'atteindre une seule année de baisse de 5% des émissions.
 
 Ne nous laissons pas tromper par la tendance conservatrice et climaticide actuelle de ces corps électoraux qui terrorisent les élus.
 
@@ -83,19 +83,19 @@ Le propos ici n'est pas de dire que le frein serait davantage du côté des cito
 
 La marche arrière de 80 à 90km/h d'un [tiers des départements français](https://www.rtl.fr/actu/debats-societe/limitation-a-80km-h-quel-bilan-en-tirer-7800964280) montre bien la complexité des oppositions qu'on ne peut traiter sous l'angle simpliste l'État vs la démocratie locale.
 
-Les entreprises ne sont pas en reste, loin de là, quand on constate ou devine leur rôle dans la ridicule [taxe sur le poids des véhicules](https://www.quechoisir.org/actualite-malus-ecologique-les-vehicules-taxes-au-poids-n84479/) qui commencera donc à 1800kg (oui, à presque 2 tonnes !) ou encore la [non répression du greenwashing dans les publicités](https://www.carbone4.com/allegations-neutralite-loiclimat). Sans compter la loi qui était sensée interdire les vols d'avion courts, mais pas les correspondances Rennes-Paris (Rennes est l'un des 9 aéroports de ligne de la Breagne) concurrencées par une LGV à 320 km/h.
+Les entreprises ne sont pas en reste, loin de là, quand on constate ou devine leur rôle dans la ridicule [taxe sur le poids des véhicules](https://www.quechoisir.org/actualite-malus-ecologique-les-vehicules-taxes-au-poids-n84479/) qui commencera donc à 1800kg (oui, à presque 2 tonnes !) ou encore la [non répression du greenwashing dans les publicités](https://www.carbone4.com/allegations-neutralite-loiclimat). Sans compter la loi qui était sensée interdire les vols d'avion courts, mais pas les correspondances Rennes-Paris (Rennes est l'un des 9 aéroports de ligne de Bretagne) concurrencées par une LGV à 320 km/h.
 
 Le conservatisme imprègne notre société à tous ses niveaux, de l'individu, en passant par tous les échelons de la vie collective, jusqu'au stade ultime qui dépasse notre entendement et qu'on appelle donc "le système". Non, il est dangereusement simpliste de séparer et même d'opposer les échelons fluides de notre démocratie en des catégories discrètes, encore moins binaires !
 
 Je soutenais dans le texte "[Éloge de la décroissance individuelle](https://kont.me/éloge-décroissance-individuelle)" que l'initiative rebelle des cellules de notre société (nous, les individus) est aujourd'hui cruciale pour rompre cette paralysie généralisée. Comme dit Orelsan dans l'album "Civilisation" qui fait une part belle aux réflexions sur l'écologie, "faut qu'on brise ce putain de cercle, il est vicieux ce putain de cercle, je peux pas le faire tout seul faut que tu m'aides".
 
-Il met le doigt sur une des raisons sovent non avouées mais massives à l'absence de changement de mode de vie : je ne le ferai que si je sens que les autres sont prêts à le faire. [Coopération - trahison](https://twitter.com/kukntoast/status/1548234586320019458). Tant qu'il sera possible sans sanction (légales, morales, et dans une moindre mesure financière) de faire un aller-retour à Dubai pour faire sa storie dans un centre commercial climatisé, les français refuseront de verser leur acompte.
+Il met le doigt sur une des raisons souvent non avouées mais massives à l'absence de changement de mode de vie : je ne le ferai que si je sens que les autres sont prêts à le faire. [Coopération - trahison](https://twitter.com/kukntoast/status/1548234586320019458). Tant qu'il sera possible sans sanction (légales, morales, et dans une moindre mesure financière) de faire un aller-retour à Dubai pour faire sa _story_ dans un centre commercial climatisé, les français refuseront de verser leur acompte.
 
 Ce que je soutiens dans cet article, c'est que nous n'avons pas le choix : _pour_ réduire ces comportements nocifs, qui servent d'épouvantail au changement, il faut que nous soyons nombreux à verser notre acompte. Briser ce putain de cercle si stable qu'il est même croissant.
 
 Orelsan, c'est aussi l'un des deux jouteurs du clash lyrique ["À qui la faute"](https://www.youtube.com/watch?v=VsGkZEC2cVs) de Kerry James. Ce débat qui n'admet aucune solution manichéenne pour le sujet de la responsabilité de l'État dans le mal qui ronge nos cités, n'en a évidemment pas plus pour le défi du siècle, le réchauffement climatique.
 
-Redescendons sur terre : voici un exemple d'énigme pratique de responsabilité, c'est [l'histoire d'un hôpital schizophèrene](https://twitter.com/maeool/status/1331195853999120384), à Brest. L'établissement mobilise des centaines de professionnels sur fonds publics notamment pour soigner la sédentarité, ce mal moderne, le pendant du progrès technologique. Pour accueillir les malades, il construit toujours plus de parkings voiture, qui favorisent cette sédentarité, parce que les patients ne veulent (dit-on, et d'ailleurs le personnel soignant aussi) se déplacer qu'en voiture. Qui est responsable du problème ? Impossible de trancher. Nous sommes en situation d'équilibre stable. Comment on s'en sort ?
+Redescendons sur terre : voici un exemple d'énigme pratique de responsabilité, c'est [l'histoire d'un hôpital schizophrène](https://twitter.com/maeool/status/1331195853999120384), à Brest. L'établissement mobilise des centaines de professionnels sur fonds publics notamment pour soigner la sédentarité, ce mal moderne, le pendant du progrès technologique. Pour accueillir les malades, il construit toujours plus de parkings voiture, qui favorisent cette sédentarité, parce que les patients ne veulent (dit-on, et d'ailleurs le personnel soignant aussi) se déplacer qu'en voiture. Qui est responsable du problème ? Impossible de trancher. Nous sommes en situation d'équilibre stable. Comment on s'en sort ?
 
 Rejeter le rôle de l'individu dans le réchauffement climatique et ses solutions, c'est simplement adapter la thèse de Pierre Bourdieu au défi du siècle, mais en la caricaturant à l'extrême. L'individu n'aurait aucune influence sur le système. La mode n'existerait pas. La pression sociale serait une invention. Les influenceurs n'influenceraient pas. La démocratie française en 2023 serait une arnaque totale, sans nuance.
 
@@ -135,7 +135,7 @@ Elle n'atteindra pas spontanément la majorité des gens, mais celle-ci sera ten
 
 Je suis évidemment incapable de prouver cette urgence de l'engagement d'une minorité, car ces choses là ne se prouvent pas comme des théorèmes mathématiques : les [prétentions de chiffrage des responsabilités](https://kont.me/éloge-décroissance-individuelle) qui vous sortiront des "en étant un héros vous pouvez faire 25% du chemin seulement" ont leur place sur un post inspirationnel LinkedIn, pas dans un débat public sérieux.
 
-Personne n'est en mesure de trancher sur la responsabilité d'une personne en donnant des poids aux paramètres incroyablement divers que sont le revenu, le patrimoine, le grande dans l'entreprise, la fonction dans l'État, l'importance d'un mandat, le nombre de followers sur Instagram.
+Personne n'est en mesure de trancher sur la responsabilité d'une personne en donnant des poids aux paramètres incroyablement divers que sont le revenu, le patrimoine, le grande dans l'entreprise, la fonction dans l'État, l'importance d'un mandat, le nombre d'abonnés sur Instagram.
 
 Personne n'est en mesure de calculer la responsabilité en étant contemporain d'un délire collectif. C'est le rôle terrible de l'appareil judiciaire dans le cadre de procès a posteriori organisés pour juger tant bien que mal les pires heures sombres de l'histoire.
 
@@ -149,7 +149,7 @@ Eh bien comme ce mécanisme fondamental vieux lui aussi comme la nuit des temps 
 
 Oui, c'est aussi simple que ça : tout simplement montrer que les écologistes de France existent, et pas seulement en ayant une veste Harley-Davidson, mais en pratiquant le mode de vie qu'ils défendent au quotidien, de façon visible.
 
-Certaines relations commerciales se délenchent sur un acompte de 100% : le client paie, puis profite plus tard du service. Dans d'autres cas, le client profite du service et paie une fois le service entièrement rendu. Les trente dernières années de sensibilisation et de débats sans fin et de flirt sans résultat pratique ont montré l'échec de ces postures débiles.
+Certaines relations commerciales se déclenchent sur un acompte de 100% : le client paie, puis profite plus tard du service. Dans d'autres cas, le client profite du service et paie une fois le service entièrement rendu. Les trente dernières années de sensibilisation et de débats sans fin et de flirt sans résultat pratique ont montré l'échec de ces postures débiles.
 
 Je crois qu'il est d'usage dans ces cas là, de considérer un acompte de 30%. Pourquoi 30 ? Je ne sais pas. C'est souvent le compromis qui permet de se faire suffisamment confiance pour faire des plans sur le futur. Pourquoi pas ? Ça pourrait être 40 ou 60%, mais 30% semble un minimum.
 
@@ -161,9 +161,9 @@ Je crois qu'il est d'usage dans ces cas là, de considérer un acompte de 30%. P
 
 Si cela vous semble terriblement radical, alors que ces efforts ne représentent que 30% de notre objectif de décarbonation, c'est que comme nous tous, vous avez été trompé. On vous a dit que trier ses poubelles, ses mails et arrêter Netflix c'était la première marche qui allait engager les citoyens et la société sur l'escalier de la lutte pour le climat. C'est faux.
 
-Cette politique de l'escalier, n'est qu'une version institutionnalisée des [excuses de l'inaction](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/), consistant à communiquer sur les mesures les plus _faciles_ à mettre en oeuvre, peu importe leur impact, permettant à leur promotteurs de ne prendre aucun risque et de maintenir au passage leur propre mode de vie carboné.
+Cette politique de l'escalier, n'est qu'une version institutionnalisée des [excuses de l'inaction](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/), consistant à communiquer sur les mesures les plus _faciles_ à mettre en œuvre, peu importe leur impact, permettant à leur promoteurs de ne prendre aucun risque et de maintenir au passage leur propre mode de vie carboné.
 
-Si l'objectif de 30% d'acompte, vous le jugez personnellement inatteignable, c'est parce que vos précecesseurs jugeaient le 20% inatteignable hier, [et ainsi de suite](https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi/). Ce sera bien pire demain.
+Si l'objectif de 30% d'acompte, vous le jugez personnellement inatteignable, c'est parce que vos prédecesseurs jugeaient le 20% inatteignable hier, [et ainsi de suite](https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi/). Ce sera bien pire demain.
 
 Attendre que l'État, dans un revirement providentiel, fournisse 100% de l'effort plutôt que de pondre des lois minables aux effets totalement dilués, quand ses citoyens se révoltent pour une loi qui n'allait même pas effleurer le problème d'un maigre pourcent, c'est vivre dans le monde des bisounours en bioplastique.
 
@@ -180,9 +180,9 @@ La contestation citoyenne massive, non plus contre la hausse du prix de la premi
 
 Suffisant pour que le gouvernement et tous les acteurs qui forment ses décisions revoie sa copie ? Dans notre analogie, ces manifestations ne sont pas un acompte financier, mais un acompte de confiance. Parfois, ça passe. Souvent, non. Des millions de manifestants contre un projet politique impopulaire à 70% n'ont pas suffi pour changer la donne. Mais ça aide assurément à créer un rapport de force.
 
-Pensez-vous vraiment que des milliers de manifestants dans la rue pour le climat, et 1 million de likes sur un tweet de Bon Pote auront un quelconque poids face à des millions de billets d'avion low-cost réservés chaque année ? La lutte ne peut se cantonner à un activisme symbolique sur fond de consommation inchangée, car dans l'équation climat, le concret c'est la consommation de produits carbonés, celle qui fait notre PIB.
+Pensez-vous vraiment que des milliers de manifestants dans la rue pour le climat, et 1 million de likes sur un tweet de Bon Pote auront un quelconque poids face à des millions de billets d'avion _low-cost_ réservés chaque année ? La lutte ne peut se cantonner à un activisme symbolique sur fond de consommation inchangée, car dans l'équation climat, le concret c'est la consommation de produits carbonés, celle qui fait notre PIB.
 
-C'est celle qui est mesurée par l'INSEE, rapportée par l'AFP, qui fait le catalogue de Citroën et les prioritées de l'assemblée.
+C'est celle qui est mesurée par l'INSEE, rapportée par l'AFP, qui fait le catalogue de Citroën et les priorités de l'assemblée.
 
 ---
 
