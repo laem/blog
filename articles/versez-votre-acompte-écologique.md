@@ -99,9 +99,9 @@ Redescendons sur terre : voici un exemple d'énigme pratique de responsabilité,
 
 Rejeter le rôle de l'individu dans le réchauffement climatique et ses solutions, c'est simplement adapter la thèse de Pierre Bourdieu au défi du siècle, mais en la caricaturant à l'extrême. L'individu n'aurait aucune influence sur le système. La mode n'existerait pas. La pression sociale serait une invention. Les influenceurs n'influenceraient pas. La démocratie française en 2023 serait une arnaque totale, sans nuance.
 
-S'est opposée à cette thèse de Bourdieu, le philosophe et sociologue Raymond Boudon, qui en tant qu'« individualiste » s'oppose aux « structuralistes », via la notion d'[individualisme méthodologique](https://fr.wikipedia.org/wiki/Individualisme_m%C3%A9thodologique).
+S'est opposé à cette thèse de Bourdieu, le philosophe et sociologue Raymond Boudon, qui en tant qu'« individualiste » s'oppose aux « structuralistes », via la notion d'[individualisme méthodologique](https://fr.wikipedia.org/wiki/Individualisme_m%C3%A9thodologique).
 
-Ces bases théoriques ainsi placées, ce que je défends ici, c'est que la minorité riche et influente qui se considère engagée pour l'environnement, doit accepter de faire un écart stratégique Boudonnien pour espérer atteindre un changement structuraliste Bourdieusien. Car les initiatives naïves visant à transformer radicalement le système par la magie d'un engagement politique sans réalité de terrain (les changements de mode de vie) sont vouées à l'échec.
+Ces bases théoriques ainsi placées, ce que je défends ici, c'est que la minorité riche et influente qui se considère engagée pour l'environnement, doit accepter de faire un écart stratégique Boudonnien pour espérer atteindre un changement structuraliste Bourdieusien. Car les espoirs naïfs de transformer radicalement le système par la magie d'un engagement politique sans réalité de terrain (les changements de mode de vie) sont voués à l'échec.
 
 Il est évident que parler d'individualisme méthodologique à l'employé au SMIC qui prend la voiture pour travailler à 60km de son domicile, donnera probablement moins de résultats pratiques que d'en parler au cadre en télétravail qui a la même empreinte carbone via ses vols d'avion, une opposition mise en scène dans cette merveilleuse [vidéo de Groland](https://www.dailymotion.com/video/x8n2mo).
 
