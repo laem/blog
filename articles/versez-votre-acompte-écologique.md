@@ -101,7 +101,7 @@ Rejeter le rôle de l'individu dans le réchauffement climatique et ses solution
 
 S'est opposé à cette thèse de Bourdieu, le philosophe et sociologue Raymond Boudon, qui en tant qu'« individualiste » s'oppose aux « structuralistes », via la notion d'[individualisme méthodologique](https://fr.wikipedia.org/wiki/Individualisme_m%C3%A9thodologique).
 
-Ces bases théoriques ainsi placées, ce que je défends ici, c'est que la minorité riche et influente qui se considère engagée pour l'environnement, doit accepter de faire un écart stratégique Boudonnien pour espérer atteindre un changement structuraliste Bourdieusien. Car les espoirs naïfs de transformer radicalement le système par la magie d'un engagement politique sans réalité de terrain (les changements de mode de vie) sont voués à l'échec.
+Ces bases théoriques ainsi placées, ce que je défends ici, c'est que la minorité riche et influente qui se considère engagée pour l'environnement, doit accepter de faire un écart stratégique Boudonnien pour espérer atteindre un changement structuraliste Bourdieusien. Car les espoirs de transformer radicalement le système par la magie d'un engagement politique sans réalité de terrain (les changements de mode de vie) sont voués à l'échec.
 
 Il est évident que parler d'individualisme méthodologique à l'employé au SMIC qui prend la voiture pour travailler à 60km de son domicile, donnera probablement moins de résultats pratiques que d'en parler au cadre en télétravail qui a la même empreinte carbone via ses vols d'avion, une opposition mise en scène dans cette merveilleuse [vidéo de Groland](https://www.dailymotion.com/video/x8n2mo).
 
@@ -117,15 +117,15 @@ Il faut faire émerger puis grossir ce petit carré, bien caché sous le poids d
 
 ---
 
-Évidemment, ce serait confortable pour tout le monde si nous pouvions nous reposer sur le pari que la patronne de Peugeot (au hasard, l'une des "plus grosses pollueuses Européennes" comme aiment à dire les associations "écolo" qui dédouanent au passage les français de leur responsabilité de riches terriens) puisse un beau matin se lever du bon pied et décréter que sa belle entreprise et ses 200 000 salariés arrêteraient la production de véhicules de plus d'1 tonne, briderait leur vitesse maximum à 100km/h, acterait la fin des moteurs thermiques, lancerait une gamme de vélos personnels (comme au bon vieux temps) et utilitaires, puis évidemment changerait le logo de la marque :
+Évidemment, ce serait confortable pour tout le monde si nous pouvions nous reposer sur le pari que la patronne de Peugeot (au hasard, l'une des "plus grosses pollueuses Européennes" comme aiment à dire les associations "écolo" qui dédouanent au passage les français de leur responsabilité de riches terriens) puisse un beau matin se lever du bon pied et décréter que sa belle entreprise et ses 200 000 salariés arrêteront la production de véhicules de plus d'1 tonne, brideront leur vitesse maximum à 100km/h, acteront la fin des moteurs thermiques, lanceront une gamme de vélos personnels (comme au bon vieux temps) et utilitaires, puis évidemment changeront le logo de la marque :
 
 ![](https://i.imgur.com/GM4hM8F.png)
 
-Quelle naïveté ! Oui, la PDG de Peugeot a une force de frappe immense de millions d'unités écologiques (une unité fantaisiste qui représenterait le potentiel de changement vert d'un individu), mais son indice d'inertie écologique est lui-même colossal : elle doit trop de choses à trop de monde, et elle sait pertinemment que le virage écologique radical, c'est le suicide économique de la personne morale qu'il représente.
+Quelle naïveté ! Oui, la PDG de Peugeot a une force de frappe immense de millions d'unités écologiques (une unité fantaisiste qui représenterait le potentiel de changement vert d'un individu), mais son indice d'inertie écologique est lui-même colossal : elle doit trop de choses à trop de monde, et elle sait pertinemment que le virage écologique radical, c'est le suicide économique de la personne morale qu'elle représente.
 
-Non : le patron de Stellantis, l'entreprise qui possède Peugeot (c'est qui le vrai méchant du coup ?) est tellement écrasé sous cette pression qu'il [s'inquiète même d'une transition trop rapide vers l'électrique](https://www.automobile-propre.com/stellantis-sinquiete-dune-transition-trop-rapide-vers-lelectrique/) et que le moindre faux pas lui vaudrait assurément un remerciement express, et probablement de longues poursuites judiciaires.
+Non : le patron de Stellantis, l'entreprise qui possède Peugeot (c'est qui le méchant ultime du coup, lui ou elle ?) est tellement écrasé sous cette pression qu'il [s'inquiète même d'une transition trop rapide vers l'électrique](https://www.automobile-propre.com/stellantis-sinquiete-dune-transition-trop-rapide-vers-lelectrique/) et que le moindre faux pas lui vaudrait assurément un remerciement express, et probablement de longues poursuites judiciaires.
 
-Le citoyen, lui, a-t-il un rapport impact/pression plus favorable ? Dans la configuration actuelle de notre pays, je le crois. Je pense que le contrat démocratique sur le sujet de l'écologie n'est pas encore signé car les citoyens n'ont pas encore versé un acompte suffisant.
+Le citoyen, lui, a-t-il un rapport impact/pression plus favorable ? Dans la configuration actuelle de notre pays et de l'Union Européenne, je le crois. Je ne dirai pas la même chose concernant la dictature Russe. Je pense que le contrat démocratique sur le sujet de l'écologie n'est pas encore signé car les citoyens n'ont pas encore versé un acompte suffisant.
 
 Concrètement, le mode de vie écologique minimum consistant en une décroissance individuelle de l'empreinte climat de consommation d'un facteur 10, n'est pas encore assez mis en lumière dans la société française pour qu'il soit remarqué comme une trajectoire possible par les élus, les chefs d'entreprise et le mille-feuille décisionnaire qui fait qu'un SUV thermique puisse encore être vendu en 2023.
 
@@ -133,9 +133,9 @@ La preuve d'engagement du citoyen est l'ingrédient stratégique manquant aujour
 
 Elle n'atteindra pas spontanément la majorité des gens, mais celle-ci sera tentée de suivre l'évolution de la mode et de la morale portée par une minorité influente. Et surtout, ce consensus minoritaire rendra possible, non sans d'âpres débats publics, les nouvelles lois qui seules peuvent généraliser un mode de vie écologique.
 
-Je suis évidemment incapable de prouver cette urgence de l'engagement d'une minorité, car ces choses là ne se prouvent pas comme des théorèmes mathématiques : les [prétentions de chiffrage des responsabilités](https://kont.me/éloge-décroissance-individuelle) qui vous sortiront des "en étant un héros vous pouvez faire 25% du chemin seulement" ont leur place sur un post inspirationnel LinkedIn, pas dans un débat public sérieux.
+Je suis évidemment incapable de prouver cette urgence de l'engagement d'une minorité, car ces choses là ne se prouvent pas comme des théorèmes mathématiques : les [prétentions de chiffrage des responsabilités](https://kont.me/éloge-décroissance-individuelle) qui vous sortiront des "en étant un héros vous pouvez faire 25% du chemin seulement" ont leur place sur un post inspirationnel LinkedIn, puis dans la rubrique "infox", pas dans un débat public sérieux.
 
-Personne n'est en mesure de trancher sur la responsabilité d'une personne en donnant des poids aux paramètres incroyablement divers que sont le revenu, le patrimoine, le grande dans l'entreprise, la fonction dans l'État, l'importance d'un mandat, le nombre d'abonnés sur Instagram.
+Personne n'est en mesure de trancher sur la responsabilité d'une personne en donnant des poids aux paramètres incroyablement divers que sont le revenu, le patrimoine, le grade dans l'entreprise, la fonction dans l'État, l'importance d'un mandat, le nombre d'abonnés sur Instagram.
 
 Personne n'est en mesure de calculer la responsabilité en étant contemporain d'un délire collectif. C'est le rôle terrible de l'appareil judiciaire dans le cadre de procès a posteriori organisés pour juger tant bien que mal les pires heures sombres de l'histoire.
 
@@ -143,13 +143,13 @@ Il est impossible de chiffrer la pression qui s'exerce tout autant sur les patro
 
 ---
 
-Alors, puisqu'on est incapables d'attribuer une responsabilité nette aux malheurs qui nous affectent et nous détruiront, puisqu'on n'est pas davantage capables, au-delà des intuitions, de dire précisément qui doit faire le premier pas, comment on fait ?
+Alors, puisqu'on est incapables d'attribuer une responsabilité nette aux malheurs qui nous affectent et nous détruiront, puisqu'on n'est pas davantage capables, au-delà des intuitions, de garantir la réussite d'une stratégie qui dicterait qui doit faire le premier pas, comment on fait ?
 
-Eh bien comme ce mécanisme fondamental vieux lui aussi comme la nuit des temps : on verse un acompte à cette personne morale à laquelle on demande un service. On montre à l'État qu'on est prêts, tout comme les motards montrent aux élus qu'ils sont des motards, et qu'ils constituent un corps électoral puissant, bien qu'ultra-minoritaire.
+Eh bien comme ce mécanisme fondamental vieux lui aussi comme la nuit des temps : on verse un acompte à cette personne morale à laquelle on demande un service. On montre à l'État qu'on est prêts, tout comme les motards montrent aux élus qu'ils sont des motards en y consacrant une part important de leur mode de vie, formant ainsi ce corps électoral puissant, bien qu'ultra-minoritaire.
 
-Oui, c'est aussi simple que ça : tout simplement montrer que les écologistes de France existent, et pas seulement en ayant une veste Harley-Davidson, mais en pratiquant le mode de vie qu'ils défendent au quotidien, de façon visible.
+Oui, c'est aussi simple que ça : tout simplement montrer que les écologistes de France existent, mais pas seulement via une marche à Paris tous les 3 ans, mais en pratiquant le mode de vie que l'on défend au quotidien, de façon visible et bruyante.
 
-Certaines relations commerciales se déclenchent sur un acompte de 100% : le client paie, puis profite plus tard du service. Dans d'autres cas, le client profite du service et paie une fois le service entièrement rendu. Les trente dernières années de sensibilisation et de débats sans fin et de flirt sans résultat pratique ont montré l'échec de ces postures débiles.
+Certaines relations commerciales se déclenchent sur un acompte de 100% : le client paie, puis profite plus tard du service. Dans d'autres cas, le client profite du service et paie une fois le service entièrement rendu. Les trente dernières années de sensibilisation à l'eau de rose et de faux engagement ont montré l'échec de ces postures débiles.
 
 Je crois qu'il est d'usage dans ces cas là, de considérer un acompte de 30%. Pourquoi 30 ? Je ne sais pas. C'est souvent le compromis qui permet de se faire suffisamment confiance pour faire des plans sur le futur. Pourquoi pas ? Ça pourrait être 40 ou 60%, mais 30% semble un minimum.
 
@@ -161,28 +161,28 @@ Je crois qu'il est d'usage dans ces cas là, de considérer un acompte de 30%. P
 
 Si cela vous semble terriblement radical, alors que ces efforts ne représentent que 30% de notre objectif de décarbonation, c'est que comme nous tous, vous avez été trompé. On vous a dit que trier ses poubelles, ses mails et arrêter Netflix c'était la première marche qui allait engager les citoyens et la société sur l'escalier de la lutte pour le climat. C'est faux.
 
-Cette politique de l'escalier, n'est qu'une version institutionnalisée des [excuses de l'inaction](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/), consistant à communiquer sur les mesures les plus _faciles_ à mettre en œuvre, peu importe leur impact, permettant à leur promoteurs de ne prendre aucun risque et de maintenir au passage leur propre mode de vie carboné.
+Cette politique de l'escalier, n'est qu'une version institutionnalisée des [excuses de l'inaction](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/), consistant à communiquer sur les mesures les plus _faciles_ à mettre en œuvre, peu importe leur impact, permettant à leur promoteurs de ne prendre aucun risque politique et de maintenir au passage leur propre mode de vie carboné.
 
 Si l'objectif de 30% d'acompte, vous le jugez personnellement inatteignable, c'est parce que vos prédecesseurs jugeaient le 20% inatteignable hier, [et ainsi de suite](https://datagir.ademe.fr/blog/budget-empreinte-carbone-c-est-quoi/). Ce sera bien pire demain.
 
-Attendre que l'État, dans un revirement providentiel, fournisse 100% de l'effort plutôt que de pondre des lois minables aux effets totalement dilués, quand ses citoyens se révoltent pour une loi qui n'allait même pas effleurer le problème d'un maigre pourcent, c'est vivre dans le monde des bisounours en bioplastique.
+Attendre que l'État, dans un revirement providentiel, fournisse 100% de l'effort plutôt que de pondre des lois minables aux effets totalement dilués, alors même que ses citoyens se révoltent pour une loi qui n'allait même pas effleurer le problème d'un maigre pourcent, c'est vivre dans le monde des bisounours en bioplastique.
 
 ---
 
 La transformation des citoyens normaux de la convention citoyenne en activistes climatiques prêts à rogner sur leur confort de riches pollueurs et à revenir sur leurs dogmes anti-technologiques, du nucléaire aux voitures électriques, ne peut que donner de l'espoir. Mais une poignée de citoyens non élus ne faisaient pas le poids par rapport à Airbus, Renault, les lobbyistes Russes et les élus alignés sur la même cause du gaz fossile, curieusement bien répartis dans l'hémicycle, les journalistes de droite prêts à calomnier pour défendre leur mode de vie, et surtout tous ces citoyens écrasés par ces informations contradictoires et la magnifique excuse du "c'est pas à nous de faire le premier pas".
 
 ![](https://i.imgur.com/ImIMu0G.jpg)
-_Quand les arguments de la gauche et des conducteurs de SUV se rejoignent autour du consensus sur le dédouanement individualiste_
+_Quand les arguments de la gauche et des conducteurs de SUV se rejoignent autour du consensus sur le dédouanement individualiste, ça sent le gaz_
 
 La contestation citoyenne massive, non plus contre la hausse du prix de la première énergie fossile, mais contre les nouveaux kilomètres d'autoroute, ne peut que donner de l'espoir. C'est assurément une forme d'acompte écologique également.
 
 ![](https://imgur.com/NmxeGG2.png)
 
-Suffisant pour que le gouvernement et tous les acteurs qui forment ses décisions revoie sa copie ? Dans notre analogie, ces manifestations ne sont pas un acompte financier, mais un acompte de confiance. Parfois, ça passe. Souvent, non. Des millions de manifestants contre un projet politique impopulaire à 70% n'ont pas suffi pour changer la donne. Mais ça aide assurément à créer un rapport de force.
+Suffisant pour que le gouvernement et tous les acteurs qui forment ses décisions revoient leur copie ? Dans notre analogie, ces manifestations ne sont pas un acompte financier, mais un acompte de confiance. Parfois, ça passe. Souvent, non. Des millions de manifestants contre un projet politique impopulaire à 70% n'ont pas suffi pour changer la donne. Mais ça aide assurément à créer un rapport de force.
 
 Pensez-vous vraiment que des milliers de manifestants dans la rue pour le climat, et 1 million de likes sur un tweet de Bon Pote auront un quelconque poids face à des millions de billets d'avion _low-cost_ réservés chaque année ? La lutte ne peut se cantonner à un activisme symbolique sur fond de consommation inchangée, car dans l'équation climat, le concret c'est la consommation de produits carbonés, celle qui fait notre PIB.
 
-C'est celle qui est mesurée par l'INSEE, rapportée par l'AFP, qui fait le catalogue de Citroën et les priorités de l'assemblée.
+C'est celle qui est mesurée par l'INSEE, rapportée par l'AFP, qui fait le catalogue de Citroën, les priorités de l'assemblée. L'ultime excuse pour l'inaction de vos cercles d'influence, de leurs cercles d'influence, et ainsi de suite.
 
 ---
 
