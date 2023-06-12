@@ -22,21 +22,21 @@ Françaises, français,
 
 Le Président de la République a bien reçu votre demande de transition écologique.
 
-Également sensible à ce sujet majeur de notre temps, il est cependant dans le regret de vous annoncer son incapacité à répondre favorablement à votre demande, n'ayant pas reçu à ce jour un acompte écologique suffisant pour lui permettre d'engager sereinement les réformes nécessaires dans le cadre du quinquennat.
+Également sensible à ce sujet majeur de notre temps, il est cependant dans le regret de vous annoncer son incapacité à répondre favorablement à votre demande.
 
 En effet, ayant acté que les récentes et pourtant timides tentatives de transition se sont soldées par des manifestations historiques d'une partie de la population pour les rejeter,
 
-ayant également acté l'ampleur historique de l'effort de transformation de notre économie qu'une réelle transition nous imposerait, ne serait-ce que du point de vue de notre empreinte sur le climat,
+ayant également acté l'ampleur colossale de l'effort de transformation de notre économie qu'une réelle transition nous imposerait, ne serait-ce que du point de vue de notre empreinte sur le climat,
 
 n'ayant pas constaté de signaux dénotant un engagement profond d'une part significative de la population à soutenir ces décisions politiquement si difficiles,
 
-le Président a estimé que les risques d'emballement en révolte qu'impliquerait la remise en jeu des dites mesures, ne sont en l'état pas assumables.
+le Président a estimé que les risques d'emballement en révolte qu'impliquerait la remise en jeu des dites mesures, ne sont en l'état pas politiquement assumables.
 
-Soyez pour autant certains qu'en cas de versement d'un **acompte écologique** significatif, votre demande sera promptement réévaluée.
+Soyez pour autant certains qu'en cas de versement d'un **acompte&nbsp;écologique** significatif, votre demande sera promptement réévaluée.
 
-Cet acompte devra se traduire par un engagement politique d'une partie minoritaire _mais influente_ de la population,
+Cet acompte devra se traduire par un engagement politique d'une influente de la population,
 
-mais surtout être incarné par une preuve d'engagement constituée de changements radicaux des usages de consommation, démontrant en pratique la faisabilité sociale de l'implémentation en France des modes de vie nouveaux qu'impose le respect des limites planétaires.
+mais surtout être incarné par une preuve d'engagement constituée de **changements radicaux des usages de consommation**, démontrant en pratique la faisabilité sociale de l'implémentation en France des modes de vie nouveaux qu'impose le respect des limites planétaires.
 
 Je vous prie d'agréer l'expression de mes sentiments les meilleurs.
 
@@ -46,19 +46,19 @@ Je vous prie d'agréer l'expression de mes sentiments les meilleurs.
 
 Je ne soutiens pas la politique du gouvernement. En particulier, la hausse de la taxe sur le pétrole qui a déclenché le mouvement des gilets jaunes a été très maladroite.
 
-Beaucoup ont porté cyniquement l'accusation qu'elle n'était destinée _qu'à_ apporter de l'argent frais aux choix de société portés par le gouvernement, mais ce serait ignorer que l'effet premier d'une telle taxe sur le pétrole, c'est que [les gens en consomment simplement moins.](https://fr.wikipedia.org/wiki/Taxe_pigouvienne)
+Beaucoup ont porté cyniquement l'accusation qu'elle n'était destinée _qu'à_ financer les choix de société néolibéraux du gouvernement, mais ce serait ignorer que l'effet premier d'une telle taxe sur le pétrole, c'est simplement que [les gens en consomment moins](https://fr.wikipedia.org/wiki/Taxe_pigouvienne)..
 
 Je suis cependant convaincu que pour être acceptée, elle aurait du être accompagnée d'une grande planification des transports écologiques. Car il était aisé de comprendre la relation qu'on adopté les français [avec leur voiture](https://kont.me/l-homme-a-coque).
 
-N'en déplaise à M. Lesggy et Autoplus, les cyclistes ne roulent pas au steak carboné, mais les automobilistes eux mangent bien du pétrole. Les révolutions se font sur le pain, sauf dans les pays riches, dont la richesse dépend toujours essentiellement de l'or noir.
+N'en déplaise à M. Lesggy et Autoplus, les cyclistes ne roulent pas au steak carboné, mais les automobilistes eux mangent bien du pétrole. Les révolutions se font sur le prix du pain, sauf dans les pays riches, où c'est l'or noir qui les déclenche.
 
-> On va vous prélever quelques euros en plus sur chaque plein d'essence, mais en échange vous aurez de nouvelles lignes de bus électrique, de TER, de TGV, des incitations concrètes au covoiturage, mais aussi des jours de congés en plus pour voyager sobrement ; nous taxerons également le kérosène, etc.
+> On va vous prélever quelques euros en plus sur chaque plein d'essence, mais en échange vous aurez de nouvelles lignes de bus électrique, de TER, de TGV, des incitations concrètes au covoiturage, mais aussi des jours de congés en plus pour voyager sobrement ; nous taxerons également le kérosène, et nous limiterons les jets privés.
 
-Voilà le pacte qu'aurait du faire le gouvernement avec son peuple. Pourtant, rien ne nous garantit qu'adossée à un grand plan de transformation du transport en France, cette mouture plus complète n'aurait pas déclenché la même levée de carrosserie.
+Voilà le pacte qu'aurait du faire le gouvernement avec son peuple. Pourtant, rien ne nous garantit qu'adossée à un grand plan de transformation du transport en France, cette mouture plus solide n'aurait pas déclenché la même levée de carrosserie.
 
-Disons les choses clairement : je pense que même en faisant l'hypothèse d'un gouvernement stratège et de bonne foi, mettant plus en avant la défense des derniers glaciers alpins que des grandes fortunes, l'exécutif n'agirait pas fortement sur le sujet de l'écologie\* **car il n'a aucune confiance dans la propension des français à accepter les lois qui en découleraient**.
+Disons les choses clairement : je pense que même en faisant l'hypothèse d'un gouvernement stratège et entièrement de bonne foi, mettant plus en avant la défense des derniers glaciers alpins que des grandes fortunes, l'exécutif n'agirait pas fortement sur le sujet de l'écologie **car il n'a aucune confiance dans la propension des français à accepter les lois qui en découleraient**.
 
-> \* Mettons-nous d'accord sur une définition minimale de l'action écologique : il s'agit, a minima, de respecter l'accord de Paris pour le climat. Donc de baisser, chaque année, nos émissions de gaz à effet de serre d'au moins 5%. C'est une définition nécessaire mais non suffisante bien sûr, ignorant l'aspect biodiversité par exemple.
+> Mettons-nous d'accord sur une définition minimale de l'action écologique : il s'agit, a minima, de respecter l'accord de Paris pour le climat. Donc de baisser, chaque année, nos émissions de gaz à effet de serre d'au moins 5%. C'est une définition nécessaire mais non suffisante bien sûr, ignorant l'aspect biodiversité par exemple.
 
 Qu'est-ce qui nous permet d'émettre cette hypothèse ? En limitant notre champ d'analyse aux sujets pétrole-bagnole, on peut lister au moins 4 renoncements du gouvernement :
 
@@ -67,7 +67,7 @@ Qu'est-ce qui nous permet d'émettre cette hypothèse ? En limitant notre champ 
 - le contrôle technique des deux roues moteur
 - la limitation à 110km/h sur autoroute
 
-Chacune de ces lois a été avortée ou retirée _par crainte d'une révolte des concernés_, alors même que leur quatuor n'aurait permis au mieux que d'atteindre une seule année de baisse de 5% des émissions.
+Chacune de ces lois a été avortée ou retirée _par crainte d'une révolte des concernés_, alors même que leur quatuor n'aurait permis au mieux que d'atteindre une seule année de baisse de 5% des émissions. Même pas une seule année.
 
 Ne nous laissons pas tromper par la tendance conservatrice et climaticide actuelle de ces corps électoraux qui terrorisent les élus.
 
