@@ -34,7 +34,7 @@ le Président a estimé que les risques d'emballement en révolte qu'impliquerai
 
 Soyez pour autant certains qu'en cas de versement d'un **acompte&nbsp;écologique** significatif, votre demande sera promptement réévaluée.
 
-Cet acompte devra se traduire par un engagement politique d'une influente de la population,
+Cet acompte devra se traduire par un engagement politique d'une partie influente de la population,
 
 mais surtout être incarné par une preuve d'engagement constituée de **changements radicaux des usages de consommation**, démontrant en pratique la faisabilité sociale de l'implémentation en France des modes de vie nouveaux qu'impose le respect des limites planétaires.
 
