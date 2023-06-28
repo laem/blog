@@ -18,13 +18,13 @@ Ce soir c'est bière avec tes collègues. Les élections réchauffent les esprit
 
 Plein de vidéos de lui sur YouTube qu'il lui dit. "Vas-y c'est important, tu vas pas le regretter".
 
-Tes yeux avaient déjà vu passer son nom dans le programme de la chaîne californienne de télévision. L'aperçu terne et pixelisé d'un amphi d'université n'était pas vraiment au niveau graphique des miniatures qui t'attirent. Mais quand les recommandations algorithmiques préparent le terrain et que celles de la vraie vie en remettent une couche, tu fonces.
+Tes yeux avaient déjà vu passer son nom dans les recommandations de la chaîne californienne de télévision qu'on nomme YouTube. L'aperçu terne et pixelisé d'un amphi d'université n'était pas vraiment au niveau graphique des miniatures qui t'attirent. Mais quand les algorithmes préparent le terrain et que les gens dans la vraie vie en remettent une couche, tu fonces.
 
 T'as enchainé les vidéos de ce virtuose de l'allégorie, distributeur de baffes énergétiques et climatiques. Un autre monde s'est découvert devant toi, l'envers du décors. Tu étais fasciné.
 
-Avant ces vidéos YouTube diablement convaincantes, tu avais déjà entrevu le sujet en discutant avec quelques potes que tu considérais un peu en marge. Un peu trop collapso pour toi. Dès le lendemain, voir dès la conversation suivante, t'avais tout oublié.
+Avant ces vidéos YouTube diablement convaincantes, tu avais déjà entrevu le sujet en discutant avec quelques potes que tu considérais comme un peu en marge. Un peu trop collapso pour toi. Dès le lendemain, voir dès la conversation suivante, tu avais enterré leurs arguments.
 
-Mais ce Morphéus de l'énergie-climat t'as invité dans son salon virtuel pour t'énoncer cette faille de notre matrice : plusieurs catastrophes aux allures bibliques s'abattent sur nous, prophétisées depuis de longues décennies par ces espèces d'oracles de notre temps, les scientifiques.
+Mais ce Morphéus de l'énergie-climat t'as invité dans son salon virtuel pour t'énoncer cette faille de notre matrice : plusieurs catastrophes aux allures bibliques s'abattent sur nous, prophétisées depuis de longues décennies par les oracles de notre temps, les scientifiques.
 
 Et pourquoi tu les croirais, ces scientifiques ? Renversons la question : comment ne pas croire ces gens qui ont inventé toutes les technologies qui régissent comme une horloge ton quotidien depuis ta naissance, de l'alignement des rails du TGV à l'intégralité des fonctionnalités de ton téléphone, en passant par la météo et le moteur de ta bagnole ? Ils sont chaque année plus formels : le climat change, c'est notre faute, et c'est la merde.
 
