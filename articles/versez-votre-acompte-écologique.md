@@ -46,7 +46,7 @@ Je vous prie d'agréer l'expression de mes sentiments les meilleurs.
 
 Je ne soutiens pas la politique du gouvernement. En particulier, la hausse de la taxe sur le pétrole qui a déclenché le mouvement des gilets jaunes a été très maladroite.
 
-Beaucoup ont porté cyniquement l'accusation qu'elle n'était destinée _qu'à_ financer les choix de société néolibéraux du gouvernement, mais ce serait ignorer que l'effet premier d'une telle taxe sur le pétrole, c'est simplement que [les gens en consomment moins](https://fr.wikipedia.org/wiki/Taxe_pigouvienne)..
+Beaucoup ont porté cyniquement l'accusation qu'elle n'était destinée _qu'à_ financer les choix de société néolibéraux du gouvernement, mais ce serait ignorer que l'effet premier d'une telle taxe sur le pétrole, c'est simplement que [les gens en consomment moins](https://fr.wikipedia.org/wiki/Taxe_pigouvienne)...
 
 Je suis cependant convaincu que pour être acceptée, elle aurait du être accompagnée d'une grande planification des transports écologiques. Car il était aisé de comprendre la relation qu'on adopté les français [avec leur voiture](https://kont.me/l-homme-a-coque).
 
@@ -67,9 +67,9 @@ Qu'est-ce qui nous permet d'émettre cette hypothèse ? En limitant notre champ 
 - le contrôle technique des deux roues moteur
 - la limitation à 110km/h sur autoroute
 
-Chacune de ces lois a été avortée ou retirée _par crainte d'une révolte des concernés_, alors même que leur quatuor n'aurait permis au mieux que d'atteindre une seule année de baisse de 5% des émissions. Même pas une seule année.
+Chacune de ces lois a été avortée ou retirée _par crainte d'une révolte des concernés_, alors même que leur quatuor n'aurait permis au mieux que d'atteindre une seule année de baisse de 5% des émissions. Même pas une seule année. En d'autres mots, même une planification écologique permettant d'atteindre une fraction de nos engagements a été radicalement refusée.
 
-Ne nous laissons pas tromper par la tendance conservatrice et climaticide actuelle de ces corps électoraux qui terrorisent les élus.
+Pourtant, nous ne devons pas croire que la tendance conservatrice et climaticide actuelle de ces corps électoraux qui terrorisent les élus, est inévitable.
 
 > La seule raison pour laquelle ils continuent d'être autorisés sur les routes, c'est qu'ils sont très nombreux. Les gouvernements ont cette crainte qu'ils perdraient le vote des cyclistes. Ils forment un groupe redoutable, dont tous les partis politiques ont peur, relate l'auteur de ["Bike boom"](https://islandpress.org/books/bike-boom) page 49.
 
