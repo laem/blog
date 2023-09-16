@@ -111,7 +111,7 @@ Arrêtons de négliger la notion si fondamentale de mimétisme. Il faut être de
 
 Si la perspective internationale d'inégalité climatique nous montre que Bertrand l'employé au SMIC est lui-même, sans hésitation possible, un privilégié en dette par rapport aux autres citoyens de cette planète qui subiront les conséquences de son mode de vie bien plus violemment, il n'en reste pas moins que Jérôme doit être soumis à une obligation morale plus forte, car il a bien davantage les moyens et la connaissance de se mettre en mouvement.
 
-Il faut faire émerger puis grossir ce petit carré, bien caché sous le poids du triangle conservateur et structurant. Ce petit carré, ça peu être toi Jérôme.
+Il faut faire émerger puis grossir ce petit carré, bien caché sous le poids du triangle conservateur et structurant. Ce petit carré, ça peut être toi Jérôme.
 
 ![](https://imgur.com/MxxMzBS.png)
 
