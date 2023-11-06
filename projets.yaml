@@ -1,13 +1,16 @@
 - nom: Nos Gestes Climat
   code: https://github.com/datagir/nosgestesclimat
   lien: https://nosgestesclimat.fr
-  description: Je développe dans l'équipe Datagir le calculateur officiel de l'empreinte climat personnelle, aujourd'hui utilisé par des millions de français.
-  image: https://i.imgur.com/GQeCHQg.png
+  description: J'ai développé dans l'équipe Datagir le calculateur officiel de l'empreinte climat personnelle, aujourd'hui utilisé par des millions de français.
+  image: /images/dessin-nosgestesclimat.png
   début: 2020
 - nom: Datagir
   code: https://github.com/datagir
   lien: https://datagir.ademe.fr
-  description: J'ai rejoint l'équipe Datagir, une collaboration beta.gouv.fr x ADEME pour valoriser les données publiées par l'ADEME auprès du grand public.
+  description: |
+    J'ai rejoint l'équipe Datagir, une collaboration beta.gouv.fr x ADEME pour valoriser les données publiées par l'ADEME auprès du grand public.
+
+    4 ans après, Datagir est devenu en 2023 l'incubateur des services numériques de l'ADEME, et mobilise aujourd'hui une trentaine de personnes.
   image: https://avatars.githubusercontent.com/u/78278195?s=200&v=4
   début: 2019
 - nom: Futureco
