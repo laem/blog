@@ -45,7 +45,7 @@ export default ({ name }) => {
 						src="/images/Git-Icon-White.svg"
 						css="width: 1.3rem; vertical-align: middle; margin-right: .6rem"
 					/>
-					<a href={selectedProject.code}>Le code est ouvert</a>.
+					<a href={selectedProject.code}>Le code est ouvert</a>
 				</p>
 			)}
 		</div>

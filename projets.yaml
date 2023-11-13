@@ -5,10 +5,14 @@
   image: /images/dessin-nosgestesclimat.png
   début: 2020
 - nom: Datagir
-  code: https://github.com/datagir
+  code: https://github.com/incubateur-ademe
   lien: https://datagir.ademe.fr
   description: |
-    J'ai rejoint l'équipe Datagir, une collaboration beta.gouv.fr x ADEME pour valoriser les données publiées par l'ADEME auprès du grand public.
+    Datagir est une collaboration beta.gouv.fr x ADEME pour valoriser les données publiées par l'ADEME auprès du grand public.
+
+    J'ai rejoint l'équipe Datagir comme l'un des premiers membres et le deuxième développeur. J'y ai co-développé le site vitrine, travaillé sur l'ouverture de la base d'empreinte alimentaire Agribalyse, puis j'y ai développé Mon Impact Transport, ainsi que Nos Gestes Climat. 
+
+    D'abord envisagés comme des démonstrations techniques pour mettre en avant les données environnementales de l'ADEME, nous avons vite compris que le grand public voulait des services. Mon Impact Transport est devenu ImpactCO2 et Nos Gestes Climat n'est plus à présenter. 
 
     4 ans après, Datagir est devenu en 2023 l'incubateur des services numériques de l'ADEME, et mobilise aujourd'hui une trentaine de personnes.
   image: https://avatars.githubusercontent.com/u/78278195?s=200&v=4
@@ -45,9 +49,15 @@
   image: https://imgur.com/N5HILMv.png
   début: 2019
 - nom: Publicodes
-  code: https://github.com/betagouv/publicodes
+  code: https://github.com/publicodes
   lien: https://publi.codes
-  description: Il manquait un langage de programmation simple pour coder et expliquer en français les algorithmes d'intérêt public.
+  description: |
+    Il manquait un langage de programmation simple pour coder et expliquer en français les algorithmes d'intérêt public.
+
+    Développé initialement pour répondre au besoin de mon-entreprise.fr, j'ai vite constaté qu'entre manipule les euros des cotisations sociales ou les CO2 des émissions de carbone, il n'y a pas beaucoup de différences.
+
+    Je l'ai ensuite utilisé avec succès sur mon projet personnel Futureco qui a été la base technique de Nos Gestes Climat pour l'ADEME. En parallèle, d'autres projets innovants comme Code du Travail Numérique, Mes Aides Vélo ainsi que des banques et des startups s'en sont emparés, quand l'équipe de Mon-Entreprise en faisait un vrai langage séparé du projet dans lequel il est né.
+
   image: https://publi.codes/img/logo-publicodes.svg
   début: 2017
 - nom: Mon Entreprise
