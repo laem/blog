@@ -7,7 +7,7 @@ export default () => (
 			max-width: 30rem;
 			margin: 0 auto;
 			color: white;
-			padding: 0.6rem 1rem;
+			padding: 0.2rem 1.5rem;
 			border-radius: 0.3rem;
 			margin-bottom: 1rem;
 		`}
