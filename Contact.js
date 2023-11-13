@@ -11,13 +11,13 @@ export default () => (
 				<a href="https://twitter.com/maeool">twitter</a>.
 			</p>
 			<p>
-				En privé, le mieux est de m'écrire via matrix.org, c'est{' '}
-				<a href="https://matrix.to/#/@maelito:matrix.org">par ici</a>.
+				En privé, le mieux est de m'écrire{' '}
+				<a href="https://matrix.to/#/@maelito:matrix.org">via matrix.org</a>.
 			</p>
 			<p>
-				Voici mon{' '}
+				Vous pouvez aussi{' '}
 				<a href="https://www.linkedin.com/in/thomasmael/">
-					profil professionnel Linkedin
+					me contacter via Linkedin
 				</a>
 				.
 			</p>

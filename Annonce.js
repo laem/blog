@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom'
+
 export default () => (
 	<div
 		css={`
@@ -7,6 +9,7 @@ export default () => (
 			color: white;
 			padding: 0.6rem 1rem;
 			border-radius: 0.3rem;
+			margin-bottom: 1rem;
 		`}
 	>
 		<p>
@@ -20,6 +23,9 @@ export default () => (
 			prends les casquettes qu'il faut pour lancer de nouveaux projets de façon
 			frugale jusqu'à atteindre une masse critique justifiant un budget plus
 			important.
+		</p>
+		<p>
+			<Link to="/contact">Contactez-mois</Link>
 		</p>
 	</div>
 )
