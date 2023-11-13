@@ -21,11 +21,14 @@
   code: https://github.com/laem/futureco
   lien: https://futur.eco
   description: |
-    Il manquait un moyen facile de trouver l'empreinte climat des gestes de notre quotidien. La plateforme technique de base de Nos Gestes Climat, qui a inspiré le lancement du site public ADEME [ImpactCO2](https://impactco2.fr). 
+    Il manquait un moyen facile de trouver l'empreinte climat des gestes de notre quotidien. C'est la plateforme technique de base de Nos Gestes Climat, qui nous a permis de le lancer la v1 en un temps record de 2 semaines. Futureco a ensuite inspiré le lancement du site public ADEME [ImpactCO2](https://impactco2.fr), qui a la même proposition de valeur mais est porté officiellement par l'administration. 
 
     <br/>
 
-    En 2023, Futureco renait et se concentre sur les transports : simulateurs de référence de l'empreinte carbone de l'avion et du ferry, calculateur du coût d'une voiture... et un grand projet en cours de développement ;)
+    En 2022, Futureco renait et se concentre sur les transports : simulateurs de référence de l'empreinte carbone de l'avion et du ferry, calculateur du coût d'une voiture... 
+
+    En 2023, nous lançons un projet bien plus ambitieux, qui mettra de côté les indicateurs de mesure (CO₂, €) pour repenser nos façons de voyager.
+
   image: https://futur.eco/logo.svg
   début: 2018
   poids: 2
@@ -54,7 +57,7 @@
   description: |
     Il manquait un langage de programmation simple pour coder et expliquer en français les algorithmes d'intérêt public.
 
-    Développé initialement pour répondre au besoin de mon-entreprise.fr, j'ai vite constaté qu'entre manipule les euros des cotisations sociales ou les CO2 des émissions de carbone, il n'y a pas beaucoup de différences.
+    Développé initialement pour répondre au besoin de mon-entreprise.fr, j'ai vite constaté qu'entre manipule les euros des cotisations sociales ou les CO₂ des émissions de carbone, il n'y a pas beaucoup de différences.
 
     Je l'ai ensuite utilisé avec succès sur mon projet personnel Futureco qui a été la base technique de Nos Gestes Climat pour l'ADEME. En parallèle, d'autres projets innovants comme Code du Travail Numérique, Mes Aides Vélo ainsi que des banques et des startups s'en sont emparés, quand l'équipe de Mon-Entreprise en faisait un vrai langage séparé du projet dans lequel il est né.
 
@@ -85,6 +88,8 @@
   code: https://github.com/laem/transparencemedia
   lien: https://transparencemedia.fr
   description: |
-    Qui détient nos médias ? Il est bien temps qu'on le sache. Lancé pour la présidentielle 2017, inconnu, il va peut-être renaître pour la présidentielle 2022 ? Pour aider, [rendez-vous ici](https://github.com/pom421/transparencemedia).
+    Qui détient nos médias ? Il est bien temps qu'on le sache. Lancé pour la présidentielle 2017, je n'ai pas réussi à le porter pour qu'il soit reconnu.
+
+    C'est un projet qui renait fréquemment de ses cendres, [par exemple ici](https://github.com/pom421/transparencemedia) ou avec [Medias.wiki](https://www.medias.wiki).
   image: https://imgur.com/quXGjuVm.png
   début: 2016
