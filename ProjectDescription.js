@@ -17,7 +17,7 @@ export default ({ name }) => {
 				color: white;
 				padding: 0.6rem 1rem;
 				p {
-					margin: 0 0 0.6rem;
+					margin: 0.4rem 0 0.6rem;
 				}
 			`}
 		>
@@ -30,9 +30,24 @@ export default ({ name }) => {
 					__html: downa.render(selectedProject.description),
 				}}
 			></p>
-			<a href={selectedProject.lien}>
-				{selectedProject.lien.replace('https://', '')}
-			</a>
+			<p>
+				<img
+					src="/images/1F517.svg"
+					css="height: 1.5em; vertical-align: middle; margin-right: .4rem; "
+				/>
+				<a href={selectedProject.lien}>
+					{selectedProject.lien.replace('https://', '')}
+				</a>
+			</p>
+			{selectedProject.code && (
+				<p>
+					<img
+						src="/images/Git-Icon-White.svg"
+						css="width: 1.3rem; vertical-align: middle; margin-right: .6rem"
+					/>
+					<a href={selectedProject.code}>Le code est ouvert</a>.
+				</p>
+			)}
 		</div>
 	)
 }
