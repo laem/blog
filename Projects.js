@@ -89,18 +89,23 @@ export default () => {
 					}
 				`}
 			>
-				{projets.map(({ lien, nom, image, github }) => (
-					<button
-						onClick={() =>
-							showDescription(selectedProject?.nom === nom ? false : nom)
-						}
-					>
-						<li css={``} key={lien}>
-							<img src={image} />
-							<h3>{nom}</h3>
-						</li>
-					</button>
-				))}
+				{projets
+					.sort(
+						(a, b) =>
+							-(a.poids * 10000 || a.début) + (b.poids * 10000 || b.début)
+					)
+					.map(({ lien, nom, image, github }) => (
+						<button
+							onClick={() =>
+								showDescription(selectedProject?.nom === nom ? false : nom)
+							}
+						>
+							<li css={``} key={lien}>
+								<img src={image} />
+								<h3>{nom}</h3>
+							</li>
+						</button>
+					))}
 			</ul>
 			{descriptionShown && (
 				<div

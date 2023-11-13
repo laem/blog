@@ -24,6 +24,7 @@
     En 2023, Futureco renait et se concentre sur les transports : simulateurs de référence de l'empreinte carbone de l'avion et du ferry, calculateur du coût d'une voiture... et un grand projet en cours de développement ;)
   image: https://futur.eco/logo.svg
   début: 2018
+  poids: 2
 - nom: Villes plus
   code: https://github.com/laem/villesplus
   lien: https://villes.plus
@@ -34,6 +35,7 @@
     Lancé comme le 1er classement des métropoles les plus piétonnes, au-delà du centre ville historique qui ne concerne qu'une minorité des gens. Parce qu'une ville piétonne, c'est une ville agréable.
   image: https://www.villes.plus/logo.svg
   début: 2019
+  poids: 1
 - nom: Vélo libre
   code: https://github.com/laem/velolibre
   lien: https://velolib.re
