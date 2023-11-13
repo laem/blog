@@ -5,6 +5,7 @@ import Projects from './Projects'
 import ScrollToTop from './ScrollToTop'
 import SubHeader from './SubHeader'
 import Contact from './Contact'
+import Annonce from './Annonce'
 
 export const dateCool = (date) =>
 	new Date(date).toLocaleString(undefined, {
@@ -172,6 +173,7 @@ let Liste = ({ articles }) => (
 		<Header />
 
 		<Projects />
+<Annonce />
 		<SubHeader>
 			<img src="https://openmoji.org/data/color/svg/2935.svg" />
 			<h2>
