@@ -51,7 +51,21 @@
 - nom: Mon Entreprise
   code: https://github.com/betagouv/mon-entreprise/
   lien: https://mon-entreprise.fr
-  description: J'ai lancé l'assistant officiel des entrepreneurs, incubé à beta.gouv.fr et repris par l'URSSAF, utilisé par des millions de gens chaque année.
+  description: |
+    J'ai lancé l'assistant officiel des entrepreneurs, incubé à beta.gouv.fr et repris par l'URSSAF, utilisé par des millions de gens chaque année.
+
+    J'ai rejoint le projet en 2017 pour travailler sur le "simulateur de coût d'embauche", un produit confidentiel qui avait quelques dizaines de milliers de vues. L'interface était essentiellement une phrase à trou sur fond blanc avec la saisie du salaire. Le modèle de calcul n'était aucunement fiable. Nous l'avons fiabilisé, pris en compte la complexité des situations de l'usager, intégré les CDD, les autres types de contrat, designé et développé une nterface moderne, etc. 
+
+    J'ai mené la refonte complète du moteur de calcul, ce qui a abouti à un nouveau langage de programmation, Publicodes, décrit dans la liste des projets.
+
+    J'ai été responsable technique, responsable produit et quand il le fallait intrapreneur pour porter le projet jusqu'à trouver la bonne administration porteuse, ici l'URSSAF, puis spécifier la convention annuelle et le budget. 
+
+    Mon-entreprise.fr est le premier modèle de calcul public d'ampleur à la fois disponible via un site grand public et via une documentation interéactive du modèle open source.
+
+    Nous avons ensuite pu recruter de supers associés. Nous avons propsé à l'URSSAF deux grands projets : passer de la simulation au calcul de paie effective ; devenir le portail unique de l'entrepreneur. Les arbitrages politiques nous ont été défavorables, pour privilégier les administrations existantes (à vous de juger du choix ;) ). 
+
+    À ce stade mon côté j'estimais avoir fait le tour du sujet des cotisations sociales, pour aller vers l'écologie.
+
   image: https://imgur.com/Zz4LgKl.png
   meilleure image: https://blog.beta.gouv.fr/img/posts/logo-me.svg
   début: 2017

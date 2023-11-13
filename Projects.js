@@ -1,12 +1,24 @@
 import React, { useState } from 'react'
 import projets from './projets.yaml'
 import SubHeader from './SubHeader'
-import downa from 'downa'
+import { Link, useLocation } from 'react-router-dom'
+import ProjectDescription, { encodeProjectName } from './ProjectDescription'
+
+function useQuery() {
+	const { search } = useLocation()
+
+	return React.useMemo(() => new URLSearchParams(search), [search])
+}
 
 export default () => {
-	const [descriptionShown, showDescription] = useState(false)
+	const query = useQuery(),
+		selectedProjectName = query.get('projet')
 
-	const selectedProject = projets.find(({ nom }) => nom === descriptionShown)
+	console.log(selectedProjectName)
+
+	const selectedProject = projets.find(
+		({ nom }) => encodeProjectName(nom) === selectedProjectName
+	)
 
 	return (
 		<div
@@ -95,40 +107,21 @@ export default () => {
 							-(a.poids * 10000 || a.début) + (b.poids * 10000 || b.début)
 					)
 					.map(({ lien, nom, image, github }) => (
-						<button
-							onClick={() =>
-								showDescription(selectedProject?.nom === nom ? false : nom)
+						<Link
+							to={
+								selectedProject && selectedProject.nom === nom
+									? '/'
+									: '/?projet=' + encodeProjectName(nom, true)
 							}
 						>
-							<li css={``} key={lien}>
+							<li key={lien}>
 								<img src={image} />
 								<h3>{nom}</h3>
 							</li>
-						</button>
+						</Link>
 					))}
 			</ul>
-			{descriptionShown && (
-				<div
-					css={`
-						background: #4e2f5a;
-						color: white;
-						padding: 0.6rem 1rem;
-						p {
-							margin: 0 0 0.6rem;
-						}
-					`}
-				>
-					<p>{selectedProject.début}</p>
-					<p
-						dangerouslySetInnerHTML={{
-							__html: downa.render(selectedProject.description),
-						}}
-					></p>
-					<a href={selectedProject.lien}>
-						{selectedProject.lien.replace('https://', '')}
-					</a>
-				</div>
-			)}
+			{selectedProjectName && <ProjectDescription name={selectedProjectName} />}
 		</div>
 	)
 }
