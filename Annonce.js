@@ -24,8 +24,9 @@ export default () => (
 			frugale jusqu'à atteindre une masse critique justifiant un budget plus
 			important.
 		</p>
-		<p>
-			<Link to="/contact">Contactez-mois</Link>
+		<p css={'display: flex; align-items: center; a {padding-bottom: .1rem}'}>
+			<span css="margin-right: .3rem">✉️ </span>
+			<Link to="/contact">Contactez-moi</Link>
 		</p>
 	</div>
 )
