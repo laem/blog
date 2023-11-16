@@ -57,10 +57,10 @@ const frontMatters = [...frontMatterReq.keys()].map((key) => [
 var req = require.context('./articles', false, /\.md$/)
 const mds = [...req.keys()].map((key) => [
 	key.replace('./', '').replace('.md', ''),
-	req(key),
+	req(key).default,
 ])
 
-//console.log(frontMatters, mds)
+console.log(frontMatters, mds)
 
 export const parsedArticles = mds.map(([id, data]) => ({
 	...frontMatters.find(([fid]) => fid === id)[1],
@@ -173,7 +173,7 @@ let Liste = ({ articles }) => (
 		<Header />
 
 		<Projects />
-<Annonce />
+		<Annonce />
 		<SubHeader>
 			<img src="https://openmoji.org/data/color/svg/2935.svg" />
 			<h2>
