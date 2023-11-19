@@ -12,13 +12,13 @@ image:
 
 <aside class="notice">
 
-De : La Présidence de la République Française
+De : La Présidence de la République française
 
-<div style="text-align: right">À : le peuple Français</div>
+<div style="text-align: right">À : le peuple français</div>
 
 Objet : Avis de refus de votre demande de transition écologique
 
-Françaises, français,
+Françaises, Français,
 
 Le Président de la République a bien reçu votre demande de transition écologique.
 
@@ -48,7 +48,7 @@ Je ne soutiens pas la politique du gouvernement. En particulier, la hausse de la
 
 Beaucoup ont porté cyniquement l'accusation qu'elle n'était destinée _qu'à_ financer les choix de société néolibéraux du gouvernement, mais ce serait ignorer que l'effet premier d'une telle taxe sur le pétrole, c'est simplement que [les gens en consomment moins](https://fr.wikipedia.org/wiki/Taxe_pigouvienne)...
 
-Je suis cependant convaincu que pour être acceptée, elle aurait du être accompagnée d'une grande planification des transports écologiques. Car il était aisé de comprendre la relation qu'on adopté les français [avec leur voiture](https://kont.me/l-homme-a-coque).
+Je suis cependant convaincu que pour être acceptée, elle aurait du être accompagnée d'une grande planification des transports écologiques. Car il était aisé de comprendre la relation qu'on adopté les Français [avec leur voiture](https://kont.me/l-homme-a-coque).
 
 N'en déplaise à M. Lesggy et Autoplus, les cyclistes ne roulent pas au steak carboné, mais les automobilistes eux mangent bien du pétrole. Les révolutions se font sur le prix du pain, sauf dans les pays riches, où c'est l'or noir qui les déclenche.
 
@@ -105,7 +105,7 @@ Ces bases théoriques ainsi placées, ce que je défends ici, c'est que la minor
 
 Il est évident que parler d'individualisme méthodologique à l'employé au SMIC qui prend la voiture pour travailler à 60km de son domicile, donnera probablement moins de résultats pratiques que d'en parler au cadre en télétravail qui a la même empreinte carbone que la bagnolard via ses vols d'avion, une opposition mise en scène dans cette merveilleuse [vidéo de Groland](https://www.dailymotion.com/video/x8n2mo).
 
-Pourtant, la réalité est tenace : si Bertrand Ambart est enfermé dans un carcan économique difficile, Jérôme Ludion ne subit pas pour autant des freins au changement moins puissants. Ils ne sont pas économiques, ils sont sociaux. Comme tout humain, il est sous influence de son cercle : de ses amis, son foyer, sa famille, ses collègues, la réputation sociale qu'il s'est constituée, l'argent qu'il ne sait pas dépenser autrement, les médias qu'il lit, les pubs AirFrance qu'il y visionnera, d'ailleurs brainstormées par son amie de promo qui bosse dans la comm'.
+Pourtant, la réalité est tenace : si Bertrand Ambart est enfermé dans un carcan économique difficile, Jérôme Ludion ne subit pas pour autant des freins au changement moins puissants. Ils ne sont pas économiques, ils sont sociaux. Comme tout humain, il est sous influence de son cercle : de ses amis, son foyer, sa famille, ses collègues, la réputation sociale qu'il s'est constituée, l'argent qu'il ne sait pas dépenser autrement, les médias qu'il lit, les pubs Air France qu'il y visionnera, d'ailleurs brainstormées par son amie de promo qui bosse dans la comm'.
 
 Arrêtons de négliger la notion si fondamentale de mimétisme. Il faut être de mauvaise foi pour prétendre qu'un cycliste vu par 100 personnes sur 1 seul trajet, un retraité qui s'achète un vélo électrique, un végan qui sort son tupperware à la cantine, un propriétaire qui parle isolation à la copropriété, [ne font qu'un "geste individuel"](https://kont.me/le-cout-des-choses).
 
@@ -117,7 +117,7 @@ Il faut faire émerger puis grossir ce petit carré, bien caché sous le poids d
 
 ---
 
-Évidemment, ce serait confortable pour tout le monde si nous pouvions nous reposer sur le pari que la patronne de Peugeot (au hasard, l'une des "plus grosses pollueuses Européennes" comme aiment à dire les associations "écolo" qui dédouanent au passage les français de leur responsabilité de riches terriens) puisse un beau matin se lever du bon pied et décréter que sa belle entreprise et ses 200 000 salariés arrêteront la production de véhicules de plus d'1 tonne, brideront leur vitesse maximum à 100km/h, acteront la fin des moteurs thermiques, lanceront une gamme de vélos personnels (comme au bon vieux temps) et utilitaires, puis finalement changeront le logo de la marque :
+Évidemment, ce serait confortable pour tout le monde si nous pouvions nous reposer sur le pari que la patronne de Peugeot (au hasard, l'une des "plus grosses pollueuses européennes" comme aiment à dire les associations "écolo" qui dédouanent au passage les Français de leur responsabilité de riches terriens) puisse un beau matin se lever du bon pied et décréter que sa belle entreprise et ses 200 000 salariés arrêteront la production de véhicules de plus d'1 tonne, brideront leur vitesse maximum à 100km/h, acteront la fin des moteurs thermiques, lanceront une gamme de vélos personnels (comme au bon vieux temps) et utilitaires, puis finalement changeront le logo de la marque :
 
 ![](https://i.imgur.com/GM4hM8F.png)
 
@@ -125,7 +125,7 @@ Quelle naïveté ! Oui, la PDG de Peugeot a une force de frappe immense de milli
 
 Non : le patron de Stellantis, l'entreprise qui possède Peugeot (c'est qui le méchant ultime du coup, lui ou elle ?) est tellement écrasé sous cette pression qu'il [s'inquiète même d'une transition trop rapide vers l'électrique](https://www.automobile-propre.com/stellantis-sinquiete-dune-transition-trop-rapide-vers-lelectrique/) et que le moindre excès d'écologie, du point de vue des actionnaires un inacceptable faux pas, lui vaudrait assurément un remerciement express, et probablement de longues poursuites judiciaires.
 
-Le citoyen, lui, a-t-il un rapport impact/pression plus favorable ? Dans la configuration actuelle de notre pays et de l'Union Européenne, je le crois. Je ne dirai pas la même chose concernant la dictature Russe. Je pense que le contrat démocratique sur le sujet de l'écologie n'est pas encore signé car les citoyens n'ont pas encore versé un acompte suffisant.
+Le citoyen, lui, a-t-il un rapport impact/pression plus favorable ? Dans la configuration actuelle de notre pays et de l'Union Européenne, je le crois. Je ne dirai pas la même chose concernant la dictature russe. Je pense que le contrat démocratique sur le sujet de l'écologie n'est pas encore signé car les citoyens n'ont pas encore versé un acompte suffisant.
 
 Concrètement, le mode de vie écologique minimum consistant en une décroissance individuelle de l'empreinte climat de consommation d'un facteur 10, n'est pas encore assez mis en lumière dans la société française pour qu'il soit remarqué comme une trajectoire possible par les élus, les chefs d'entreprise et le mille-feuille décisionnaire qui fait qu'un SUV thermique puisse encore être vendu en 2023, alors que pour respecter nos engagements, c'est bien sûr la voiture thermique, sous toutes ses formes, qui devrait immédiatement être interdite à la vente neuve.
 
@@ -165,7 +165,7 @@ Mais revenons à l'acompte de 30%, plus réaliste pour une cible massive. Selon 
 
 ![](https://imgur.com/uvm9MHO.png)
 
-Si cela vous semble terriblement radical, alors que ces efforts ne représentent que 30% de notre objectif de décarbonation, c'est que comme nous tous, vous avez été trompé. [On vous a dit](https://assets.rte-france.com/prod/public/2023-06/2023-06-07-rapport-ipsos-changement-transition-energetique.pdf#page=24) que trier ses poubelles, ses mails et arrêter Netflix c'était la première marche qui allait engager les citoyens et la société sur l'escalier de la lutte pour le climat. C'est faux, mais ça vous arangeait bien.
+Si cela vous semble terriblement radical, alors que ces efforts ne représentent que 30% de notre objectif de décarbonation, c'est que comme nous tous, vous avez été trompé. [On vous a dit](https://assets.rte-france.com/prod/public/2023-06/2023-06-07-rapport-ipsos-changement-transition-energetique.pdf#page=24) que trier ses poubelles, ses mails et arrêter Netflix c'était la première marche qui allait engager les citoyens et la société sur l'escalier de la lutte pour le climat. C'est faux, mais ça vous arrangeait bien.
 
 Cette politique de l'escalier, n'est qu'une version institutionnalisée des [excuses de l'inaction](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/), consistant à communiquer sur les mesures les plus _faciles_ à mettre en œuvre, peu importe leur impact, permettant à leur promoteurs de ne prendre aucun risque politique et de maintenir au passage leur propre mode de vie carboné.
 
@@ -177,7 +177,7 @@ Attendre que l'État, dans un revirement providentiel, fournisse 100% de l'effor
 
 La transformation des citoyens normaux de la convention citoyenne en activistes climatiques prêts à rogner sur leur confort de riches pollueurs et à revenir sur leurs dogmes anti-technologiques, du nucléaire aux voitures électriques, ne peut que donner de l'espoir.
 
-Mais une poignée de citoyens non élus ne faisaient pas le poids par rapport à Airbus, Renault, les lobbyistes Russes et les élus alignés sur la même cause du gaz fossile, curieusement bien répartis dans l'hémicycle, les journalistes de droite prêtes à calomnier pour défendre leur mode de vie, et surtout tous ces citoyens écrasés par ces informations contradictoires et la magnifique excuse du "c'est pas à nous de faire le premier pas".
+Mais une poignée de citoyens non élus ne faisaient pas le poids par rapport à Airbus, Renault, les lobbyistes russes et les élus alignés sur la même cause du gaz fossile, curieusement bien répartis dans l'hémicycle, les journalistes de droite prêts à calomnier pour défendre leur mode de vie, et surtout tous ces citoyens écrasés par ces informations contradictoires et la magnifique excuse du "c'est pas à nous de faire le premier pas".
 
 ![](https://i.imgur.com/ImIMu0G.jpg)
 _Quand les arguments de la gauche et des conducteurs de SUV se rejoignent autour du consensus sur le dédouanement individualiste, ça sent le gaz_
