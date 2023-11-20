@@ -177,7 +177,7 @@ Attendre que l'État, dans un revirement providentiel, fournisse 100% de l'effor
 
 La transformation des citoyens normaux de la convention citoyenne en activistes climatiques prêts à rogner sur leur confort de riches pollueurs et à revenir sur leurs dogmes anti-technologiques, du nucléaire aux voitures électriques, ne peut que donner de l'espoir.
 
-Mais une poignée de citoyens non élus ne faisaient pas le poids par rapport à Airbus, Renault, les lobbyistes russes et les élus alignés sur la même cause du gaz fossile, curieusement bien répartis dans l'hémicycle, les journalistes de droite prêts à calomnier pour défendre leur mode de vie, et surtout tous ces citoyens écrasés par ces informations contradictoires et la magnifique excuse du "c'est pas à nous de faire le premier pas".
+Mais une poignée de citoyens non élus ne faisaient pas le poids par rapport à Airbus, Renault, les lobbyistes russes et les élus alignés sur la même cause du gaz fossile, curieusement bien répartis dans l'hémicycle, les journalistes de droite prêtes à calomnier pour défendre leur mode de vie, et surtout tous ces citoyens écrasés par ces informations contradictoires et la magnifique excuse du "c'est pas à nous de faire le premier pas".
 
 ![](https://i.imgur.com/ImIMu0G.jpg)
 _Quand les arguments de la gauche et des conducteurs de SUV se rejoignent autour du consensus sur le dédouanement individualiste, ça sent le gaz_
