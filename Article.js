@@ -49,6 +49,7 @@ export default ({}) => {
 	const foundArticle = parsedArticles.find(({ id: id2 }) => id === id2)
 	const [theOne, setTheOne] = useState(foundArticle)
 
+	const [lastEditDate, setLastEditDate] = useState(null)
 	useEffect(() => {
 		if (theOne) return
 
@@ -57,11 +58,16 @@ export default ({}) => {
 			const json = await req.json()
 
 			setTheOne(json)
+			if (json.attributes.modified) setLastEditDate(json.attributes.modified)
 		}
 		doFetch()
 	}, [theOne, setTheOne, id])
+	useEffect(() => {
+		if (!theOne || lastEditDate) return
 
-	const [lastEditDate, setLastEditDate] = useState(null)
+		getLastEdit(id, setLastEditDate)
+	}, [id, setLastEditDate, lastEditDate, theOne])
+
 	if (!theOne) return null
 
 	console.log('THEONE', theOne)
@@ -69,6 +75,7 @@ export default ({}) => {
 		attributes: {
 			titre,
 			date: stringDate,
+			created: stringDate2,
 			image: imageRawFail,
 			dégradé,
 			résumé,
@@ -79,9 +86,11 @@ export default ({}) => {
 
 	const imageRaw = imageRawFail || {}
 	const { image, imageAlt } = accessibleImage(imageRaw, résumé)
-	getLastEdit(id, setLastEditDate)
 
-	const date = new Date(stringDate || null)
+	const date = new Date(stringDate || stringDate2 || null)
+
+	const publishDate = dateCool(date)
+	const updateDate = dateCool(lastEditDate)
 
 	return (
 		<div
@@ -148,12 +157,18 @@ export default ({}) => {
 					`}
 				>
 					<small>
-						Publié le {dateCool(date)}, mis à jour le{' '}
-						<a
-							href={`https://github.com/${repo}/blob/master/articles/${id}.md`}
-						>
-							{dateCool(lastEditDate)}
-						</a>
+						Publié le {publishDate}
+						{publishDate !== updateDate && (
+							<span>
+								, mis à jour le{' '}
+								<a
+									href={`https://github.com/${repo}/blob/master/articles/${id}.md`}
+								>
+									{updateDate}
+								</a>
+							</span>
+						)}
+						.
 					</small>
 				</p>
 				<div dangerouslySetInnerHTML={{ __html: body }} />

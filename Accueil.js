@@ -16,7 +16,7 @@ import Contact from './Contact'
 import Annonce from './Annonce'
 
 export const dateCool = (date) =>
-	new Date(date).toLocaleString(undefined, {
+	new Date(date).toLocaleString('fr-FR', {
 		weekday: 'long',
 		year: 'numeric',
 		month: 'long',
