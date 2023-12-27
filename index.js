@@ -1,5 +1,7 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import Accueil from "./Accueil";
+import React from 'react'
+import Accueil from './Accueil'
 
-ReactDOM.render(<Accueil />, document.getElementById("app"));
+import { createRoot } from 'react-dom/client'
+const container = document.getElementById('app')
+const root = createRoot(container) // createRoot(container!) if you use TypeScript
+root.render(<Accueil />)

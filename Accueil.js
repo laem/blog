@@ -74,8 +74,6 @@ const mds = [...req.keys()].map((key) => [
 	req(key).default,
 ])
 
-console.log('ARTICLES', frontMatters[0])
-
 export const parsedArticles = mds.map(([id, data]) => ({
 	...frontMatters.find(([fid]) => fid === id)[1],
 	body: data,
@@ -83,17 +81,15 @@ export const parsedArticles = mds.map(([id, data]) => ({
 }))
 
 export default () => {
-	const path = decodeURI(window.location.pathname)
-
-	const router = createBrowserRouter(
-		createRoutesFromElements(
-			<Route path="/" element={<Liste articles={parsedArticles} />}>
-				<Route path="contact" element={<Contact />} />
-				<Route path=":id" element={<Article />} />
-				<Route path="*" element={<NoMatch />} />
-			</Route>
-		)
-	)
+	const router = createBrowserRouter([
+		{
+			path: '/',
+			element: <Liste articles={parsedArticles} />,
+		},
+		{ path: 'contact', element: <Contact /> },
+		{ path: ':id', element: <Article /> },
+		{ path: '*', element: <NoMatch /> },
+	])
 	return <RouterProvider router={router} />
 }
 
@@ -203,6 +199,7 @@ let Liste = ({ articles }) => (
 				.sort((a1, a2) => (a1.attributes.date > a2.attributes.date ? -1 : 1))
 				.map((a) => (
 					<aside
+						key={a.id}
 						css={`
 							p {
 								max-width: 36rem;

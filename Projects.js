@@ -108,6 +108,7 @@ export default () => {
 					)
 					.map(({ lien, nom, image, github }) => (
 						<Link
+							key={lien}
 							to={
 								selectedProject && selectedProject.nom === nom
 									? '/'

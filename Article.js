@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { parsedArticles } from './Accueil'
-import { useParams } from 'react-router-dom'
-import { Link } from 'react-router-dom'
+import { useParams, ScrollRestoration } from 'react-router-dom'
 import { dateCool } from './Accueil'
 import Meta from './Meta'
 import SmallHeader from './SmallHeader'
@@ -101,6 +100,7 @@ export default ({}) => {
 				${textColor && `hr {border-color: ${textColor} !important}`}
 			`}
 		>
+			<ScrollRestoration />
 			<Meta
 				{...{
 					title: titre,
