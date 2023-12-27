@@ -61,16 +61,15 @@ export default ({}) => {
 		doFetch()
 	}, [theOne, setTheOne, id])
 
-	if (!theOne) return null
-
 	const [lastEditDate, setLastEditDate] = useState(null)
+	if (!theOne) return null
 
 	console.log('THEONE', theOne)
 	const {
 		attributes: {
 			titre,
-			date,
-			image: imageRaw,
+			date: stringDate,
+			image: imageRawFail,
 			dégradé,
 			résumé,
 			'couleur du texte': textColor,
@@ -78,8 +77,11 @@ export default ({}) => {
 		body,
 	} = theOne
 
+	const imageRaw = imageRawFail || {}
 	const { image, imageAlt } = accessibleImage(imageRaw, résumé)
 	getLastEdit(id, setLastEditDate)
+
+	const date = new Date(stringDate || null)
 
 	return (
 		<div
@@ -107,34 +109,36 @@ export default ({}) => {
 					description: résumé,
 					image,
 					url: 'https://kont.me/' + id,
-					published: new Date(date).toISOString(),
+					published: date.toISOString(),
 					updated: lastEditDate,
 				}}
 			/>
 
 			<div css={() => articleStyle}>
 				<SmallHeader />
-				<div>
-					<a href={imageRaw.source || imageResizer()(image)}>
-						<img
-							css="max-height: 30rem;"
-							src={imageResizer('m')(image)}
-							alt={imageAlt}
-						></img>
-					</a>
-					{imageResizer.crédits && (
-						<small
-							css={`
-								text-align: center;
-								font-style: italic;
-								display: block;
-								color: #666;
-							`}
-						>
-							Crédits : {imageRaw.crédits}
-						</small>
-					)}
-				</div>
+				{image && (
+					<div>
+						<a href={imageRaw.source || imageResizer()(image)}>
+							<img
+								css="max-height: 30rem;"
+								src={imageResizer('m')(image)}
+								alt={imageAlt}
+							></img>
+						</a>
+						{imageResizer.crédits && (
+							<small
+								css={`
+									text-align: center;
+									font-style: italic;
+									display: block;
+									color: #666;
+								`}
+							>
+								Crédits : {imageRaw.crédits}
+							</small>
+						)}
+					</div>
+				)}
 				<p
 					css={`
 						text-align: center;
@@ -178,7 +182,7 @@ export default ({}) => {
 	)
 }
 
-const ImageRenderer = ({ src }) => <img src={imageResizer('l')(src)} />
+//const ImageRenderer = ({ src }) => <img src={imageResizer('l')(src)} />
 
 const articleStyle = `
 
