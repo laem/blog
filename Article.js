@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { parsedArticles } from './Accueil'
 import { useParams } from 'react-router-dom'
 import { Link } from 'react-router-dom'
@@ -47,7 +47,22 @@ export const accessibleImage = (imageRaw, failsafe) =>
 
 export default ({}) => {
 	const { id } = useParams()
-	const theOne = parsedArticles.find(({ id: id2 }) => id === id2)
+	const foundArticle = parsedArticles.find(({ id: id2 }) => id === id2)
+	const [theOne, setTheOne] = useState(foundArticle)
+
+	useEffect(() => {
+		if (theOne) return
+
+		const doFetch = async () => {
+			const req = await fetch('https://brave-starling-23.deno.dev/note/' + id)
+			const json = await req.json()
+
+			setTheOne(json)
+		}
+		doFetch()
+	}, [theOne, setTheOne, id])
+
+	if (!theOne) return null
 
 	const [lastEditDate, setLastEditDate] = useState(null)
 
