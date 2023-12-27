@@ -57,7 +57,7 @@ export default ({}) => {
 			const req = await fetch('https://brave-starling-23.deno.dev/note/' + id)
 			const json = await req.json()
 
-			setTheOne(json)
+			setTheOne({ ...json, privateNote: true })
 			if (json.attributes.modified) setLastEditDate(json.attributes.modified)
 		}
 		doFetch()
@@ -173,25 +173,27 @@ export default ({}) => {
 				</p>
 				<div dangerouslySetInnerHTML={{ __html: body }} />
 				<hr />
-				<p>
-					<span
-						css={`
-							font-size: 200%;
-							vertical-align: middle;
-						`}
-					>
-						🐘
-					</span>{' '}
-					Venez discuter de cet article{' '}
-					<a
-						className="twitter-share-button"
-						href={`https://boitam.eu/@maeool`}
-						target="_blank"
-						data-size="large"
-					>
-						sur Mastodon
-					</a>
-				</p>
+				{!theOne.privateNote && (
+					<p>
+						<span
+							css={`
+								font-size: 200%;
+								vertical-align: middle;
+							`}
+						>
+							🐘
+						</span>{' '}
+						Venez discuter de cet article{' '}
+						<a
+							className="twitter-share-button"
+							href={`https://boitam.eu/@maeool`}
+							target="_blank"
+							data-size="large"
+						>
+							sur Mastodon
+						</a>
+					</p>
+				)}
 			</div>
 		</div>
 	)
