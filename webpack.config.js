@@ -42,7 +42,7 @@ const config = {
 						loader: 'remark-loader',
 						options: {
 							remarkOptions: {
-								plugins: [RemarkHTML],
+								plugins: [[RemarkHTML, { sanitize: false }]],
 							},
 						},
 					},

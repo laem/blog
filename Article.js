@@ -13,6 +13,7 @@ const getLastEdit = (name, action) =>
 	)
 		.then((res) => res.json())
 		.then((json) => {
+			console.log(json)
 			try {
 				const date = json[0].commit.committer.date
 				action(date)
@@ -70,7 +71,6 @@ export default ({}) => {
 
 	if (!theOne) return null
 
-	console.log('THEONE', theOne)
 	const {
 		attributes: {
 			titre,
