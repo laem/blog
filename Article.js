@@ -66,6 +66,7 @@ export default ({}) => {
 
 	const [lastEditDate, setLastEditDate] = useState(null)
 
+	console.log('THEONE', theOne)
 	const {
 		attributes: {
 			titre,

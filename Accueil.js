@@ -52,9 +52,6 @@ export const pageLayout = `
 
 `
 
-const articles = import.meta.webpackContext('./articles')
-console.log('ARTICLES', articles)
-
 /*
 var frontMatterReq = require.context(
 
@@ -62,20 +59,22 @@ var frontMatterReq = require.context(
 	false,
 	/\.md$/
 )
+*/
+const frontMatterReq = import.meta.webpackContext(
+	'!json-loader!front-matter-loader!./articles'
+)
 const frontMatters = [...frontMatterReq.keys()].map((key) => [
 	key.replace('./', '').replace('.md', ''),
 	frontMatterReq(key),
 ])
 
-var req = require.context('./articles', false, /\.md$/)
+const req = import.meta.webpackContext('./articles')
 const mds = [...req.keys()].map((key) => [
 	key.replace('./', '').replace('.md', ''),
 	req(key).default,
 ])
 
-console.log(frontMatters, mds)
-
-
+console.log('ARTICLES', frontMatters[0])
 
 export const parsedArticles = mds.map(([id, data]) => ({
 	...frontMatters.find(([fid]) => fid === id)[1],
@@ -83,8 +82,6 @@ export const parsedArticles = mds.map(([id, data]) => ({
 	id,
 }))
 
-*/
-export const parsedArticles = []
 export default () => {
 	const path = decodeURI(window.location.pathname)
 
