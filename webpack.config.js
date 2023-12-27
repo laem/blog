@@ -1,12 +1,17 @@
-const HtmlWebpackPlugin = require('html-webpack-plugin')
-const ReactRefreshWebpackPlugin = require('@pmmmwh/react-refresh-webpack-plugin')
+import HtmlWebpackPlugin from 'html-webpack-plugin'
+import ReactRefreshWebpackPlugin from '@pmmmwh/react-refresh-webpack-plugin'
 const isDevelopment = process.env.NODE_ENV !== 'production'
-const RemarkHTML = require('remark-html')
-const path = require('path')
-const CopyPlugin = require('copy-webpack-plugin')
+import RemarkHTML from 'remark-html'
+import path from 'path'
+import CopyPlugin from 'copy-webpack-plugin'
 
-module.exports = {
+const __dirname = new URL('.', import.meta.url).pathname
+const outputPath = __dirname + 'dist'
+console.log({ outputPath })
+
+const config = {
 	mode: isDevelopment ? 'development' : 'production',
+
 	resolve: {
 		fallback: {
 			path: 'path-browserify',
@@ -47,14 +52,16 @@ module.exports = {
 			{
 				test: /\.ya?ml$/,
 				use: 'yaml-loader',
-				type: 'json',
 			},
 			{
 				test: /\.js$/,
 				exclude: /node_modules/,
+				resolve: {
+					fullySpecified: false, // disable the behaviour
+				},
 				use: [
 					{
-						loader: require.resolve('babel-loader'),
+						loader: 'babel-loader',
 						options: {
 							presets: [
 								'@babel/preset-env',
@@ -67,7 +74,7 @@ module.exports = {
 							],
 							plugins: [
 								'babel-plugin-styled-components',
-								isDevelopment && require.resolve('react-refresh/babel'),
+								isDevelopment && 'react-refresh/babel',
 							].filter(Boolean),
 						},
 					},
@@ -81,10 +88,11 @@ module.exports = {
 	},
 
 	output: {
-		path: path.join(__dirname, '/dist'),
+		path: outputPath,
 	},
 	devServer: {
 		historyApiFallback: true,
+		hot: true,
 	},
 
 	plugins: [
@@ -104,3 +112,5 @@ module.exports = {
 		}),
 	].filter(Boolean),
 }
+
+export default config

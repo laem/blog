@@ -1,8 +1,16 @@
 import React from 'react'
-import { BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom'
+import {
+	BrowserRouter as Router,
+	Link,
+	Route,
+	Routes,
+	RouterProvider,
+	ScrollRestoration,
+	createBrowserRouter,
+	createRoutesFromElements,
+} from 'react-router-dom'
 import Article, { accessibleImage, imageResizer } from './Article'
 import Projects from './Projects'
-import ScrollToTop from './ScrollToTop'
 import SubHeader from './SubHeader'
 import Contact from './Contact'
 import Annonce from './Annonce'
@@ -44,7 +52,12 @@ export const pageLayout = `
 
 `
 
+const articles = import.meta.webpackContext('./articles')
+console.log('ARTICLES', articles)
+
+/*
 var frontMatterReq = require.context(
+
 	'!json-loader!front-matter-loader!./articles',
 	false,
 	/\.md$/
@@ -62,35 +75,29 @@ const mds = [...req.keys()].map((key) => [
 
 console.log(frontMatters, mds)
 
+
+
 export const parsedArticles = mds.map(([id, data]) => ({
 	...frontMatters.find(([fid]) => fid === id)[1],
 	body: data,
 	id,
 }))
 
+*/
+export const parsedArticles = []
 export default () => {
 	const path = decodeURI(window.location.pathname)
 
-	return (
-		<Router>
-			<ScrollToTop>
-				<Switch>
-					<Route path="/contact">
-						<Contact />
-					</Route>
-					<Route path="/:id">
-						<Article />
-					</Route>
-					<Route path="/">
-						<Liste articles={parsedArticles} />
-					</Route>
-					<Route path="*">
-						<NoMatch />
-					</Route>
-				</Switch>
-			</ScrollToTop>
-		</Router>
+	const router = createBrowserRouter(
+		createRoutesFromElements(
+			<Route path="/" element={<Liste articles={parsedArticles} />}>
+				<Route path="contact" element={<Contact />} />
+				<Route path=":id" element={<Article />} />
+				<Route path="*" element={<NoMatch />} />
+			</Route>
+		)
 	)
+	return <RouterProvider router={router} />
 }
 
 export const Header = () => (
@@ -170,6 +177,7 @@ const BlogHeader = () => (
 
 let Liste = ({ articles }) => (
 	<main css={pageLayout}>
+		<ScrollRestoration />
 		<Header />
 
 		<Projects />
