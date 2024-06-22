@@ -1,3 +1,31 @@
+- nom: Cartes
+  code: https://github.com/laem/futureco
+  lien: https://cartes.app
+  description: |
+    Une alternative libre, souveraine et moderne aux "maps" des GAFAM.
+
+    Basée sur OpenStreetMap, Cartes combine les sources de données libres pour construite une application Web de cartes généraliste.
+
+    En particulier, une grosse partie du travail en 2024 consiste à y intégrer les réseaux de transport en commun (train, métro, tram, bus, car, ferry), pierre angulaire de l'écologie dans la mobilité.
+
+    Cartes peut être vu comme la suite de futur.eco : les calculateurs de mobilité (avion, ferry, coût d'un trajet en voiture) ont été le grand succès de futur.eco, et ils seront fin 2024 intégrés directement dans cette application de cartes utile au quotidien.
+  image: https://cartes.app/voyage.svg
+  début: 2024
+  poids: 0
+- nom: Mes Aides Réno
+  code: https://github.com/betagouv/reno
+  lien: https://mesaidesreno.beta.gouv.fr
+  description: |
+    Toutes les aides à la rénovation, sur un seul calculateur. 
+
+    La rénovation thermique est avec la mobilité, l'un des énormes postes de pollution du climat et de perte de souveraineté energétique.
+
+    Toutes les aides y sont en cours d'intégration : MaPrimeRénov' (parcours accompagné et par geste), les exonérations fiscales, les aides locales, les CEE, les prêts à taux zéro et réduits, etc.
+
+    C'est un projet beta.gouv.fr.
+  image: https://mesaidesreno.beta.gouv.fr/logo.svg
+  début: 2024
+  poids: 1
 - nom: Nos Gestes Climat
   code: https://github.com/datagir/nosgestesclimat
   lien: https://nosgestesclimat.fr
