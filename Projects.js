@@ -79,7 +79,7 @@ export default () => {
 					li img {
 						border-top-right-radius: 0.4rem;
 						border-top-left-radius: 0.4rem;
-						width: 100%;
+						width: 60%;
 						object-fit: cover;
 						transition: height 0.3s ease-in;
 						${selectedProject

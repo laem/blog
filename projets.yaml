@@ -11,7 +11,7 @@
     Cartes peut être vu comme la suite de futur.eco : les calculateurs de mobilité (avion, ferry, coût d'un trajet en voiture) ont été le grand succès de futur.eco, et ils seront fin 2024 intégrés directement dans cette application de cartes utile au quotidien.
   image: https://cartes.app/voyage.svg
   début: 2024
-  poids: 0
+  poids: 4
 - nom: Mes Aides Réno
   code: https://github.com/betagouv/reno
   lien: https://mesaidesreno.beta.gouv.fr
@@ -25,7 +25,7 @@
     C'est un projet beta.gouv.fr.
   image: https://mesaidesreno.beta.gouv.fr/logo.svg
   début: 2024
-  poids: 1
+  poids: 3
 - nom: Nos Gestes Climat
   code: https://github.com/datagir/nosgestesclimat
   lien: https://nosgestesclimat.fr
