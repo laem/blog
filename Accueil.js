@@ -174,7 +174,7 @@ let Liste = ({ articles }) => (
 		<Header />
 
 		<Projects />
-		<Annonce />
+		{false && <Annonce />}
 		<SubHeader>
 			<img src="https://openmoji.org/data/color/svg/2935.svg" />
 			<h2>
