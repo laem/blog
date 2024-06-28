@@ -1,5 +1,5 @@
 - nom: Cartes
-  code: https://github.com/laem/futureco
+  code: https://github.com/laem/cartes
   lien: https://cartes.app
   description: |
     Une alternative libre, souveraine et moderne aux "maps" des GAFAM.
@@ -9,7 +9,7 @@
     En particulier, une grosse partie du travail en 2024 consiste à y intégrer les réseaux de transport en commun (train, métro, tram, bus, car, ferry), pierre angulaire de l'écologie dans la mobilité.
 
     Cartes peut être vu comme la suite de futur.eco : les calculateurs de mobilité (avion, ferry, coût d'un trajet en voiture) ont été le grand succès de futur.eco, et ils seront fin 2024 intégrés directement dans cette application de cartes utile au quotidien.
-  image: https://cartes.app/voyage.svg
+  image: https://cartes.app/logo.svg
   début: 2024
   poids: 4
 - nom: Mes Aides Réno
