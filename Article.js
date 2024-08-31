@@ -181,16 +181,16 @@ export default ({}) => {
 								vertical-align: middle;
 							`}
 						>
-							🐘
+							🦋
 						</span>{' '}
 						Venez discuter de cet article{' '}
 						<a
 							className="twitter-share-button"
-							href={`https://boitam.eu/@maeool`}
+							href={"https://bsky.app/profile/maeool.bsky.social"}
 							target="_blank"
 							data-size="large"
 						>
-							sur Mastodon
+							sur Bluesky
 						</a>
 					</p>
 				)}
