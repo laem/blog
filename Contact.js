@@ -7,8 +7,7 @@ export default () => (
 			<h1>Me contacter</h1>
 			<p>
 				Pour parler d'un sujet ou projet public qui peut intéresser du monde, je
-				suis sur <a href="https://boitam.eu/@maeool">Mastodon</a> et{' '}
-				<a href="https://twitter.com/maeool">twitter</a>.
+				suis sur <a href="https://bsky.app/profile/maeool.bsky.social">Bluesky</a>.
 			</p>
 			<p>
 				En privé, le mieux est de m'écrire{' '}
