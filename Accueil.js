@@ -243,8 +243,8 @@ let Liste = ({ articles }) => (
 					</aside>
 				))}
 		</section>
-		<a rel="me" href="https://boitam.eu/@maeool">
-			Mastodon
+		<a rel="me" href="https://bsky.app/profile/maeool.bsky.social">
+			Bluesky
 		</a>
 	</main>
 )
