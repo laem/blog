@@ -11,7 +11,7 @@ import {
 } from 'react-router-dom'
 import Article, { accessibleImage, imageResizer } from './Article'
 import Projects from './Projects'
-import SubHeader from './SubHeader'
+import SubHeaden from './SubHeader'
 import Contact from './Contact'
 import Annonce from './Annonce'
 
