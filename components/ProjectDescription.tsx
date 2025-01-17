@@ -1,4 +1,4 @@
-import projets from './projets.yaml'
+import projets from '@/projets.yaml'
 
 export const encodeProjectName = (nom, noSpaces) => {
 	const lower = nom.toLowerCase()

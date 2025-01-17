@@ -1,8 +1,5 @@
-import Projects from './Projects'
-import SubHeader from '@/components/SubHeader'
-import Contact from './Contact'
-import Annonce from './Annonce'
-import Header from '../components/Header'
+import Projects from '@/components/Projects'
+import Header from '@/components/Header'
 
 export default async function Page({ searchParams }) {
 	const { projet } = await searchParams

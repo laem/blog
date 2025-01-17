@@ -1,10 +1,9 @@
-import { withContentlayer } from 'next-contentlayer2'
 import createMDX from '@next/mdx'
+import { withContentlayer } from 'next-contentlayer2'
+import { withYak } from 'next-yak/withYak'
 import path from 'path'
 import { fileURLToPath } from 'url'
 const __filename = fileURLToPath(import.meta.url)
-import { withYak } from 'next-yak/withYak'
-import CopyPlugin from 'copy-webpack-plugin'
 
 import mdxOptions from './mdxOptions.mjs'
 
@@ -63,20 +62,6 @@ const nextConfig = {
 			//https://github.com/Turfjs/turf/issues/2200
 			rbush: path.resolve(__dirname, '/node_modules/rbush/rbush.js'),
 		}
-
-		config.plugins.push(
-			new CopyPlugin({
-				patterns: [
-					{
-						to: path.resolve(__dirname, 'public/indoorequal'),
-						from: path.resolve(
-							__dirname,
-							'node_modules/maplibre-gl-indoorequal/sprite'
-						),
-					},
-				],
-			})
-		)
 
 		return config
 	},
