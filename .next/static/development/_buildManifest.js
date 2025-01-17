@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST = (function(a){return {__rewrites:{afterFiles:[{has:a,source:"\u002Ffeed.xml",destination:"\u002F_next\u002Fstatic\u002Ffeed.xml"}],beforeFiles:[],fallback:[]},__routerFilterStatic:a,__routerFilterDynamic:a,sortedPages:["\u002F_app"]}}(void 0));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
