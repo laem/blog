@@ -1,6 +1,6 @@
-import { allArticles } from '../blogArticles'
-import { getLastEdit } from '../utils'
-import Article from '../Article'
+import { allArticles } from '@/components/blog/blogArticles'
+import { getLastEdit } from '@/components/blog/utils'
+import Article from '@/components/Article'
 
 export const generateMetadata = async (props) => {
 	const params = await props.params

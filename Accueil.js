@@ -15,14 +15,6 @@ import SubHeaden from './SubHeader'
 import Contact from './Contact'
 import Annonce from './Annonce'
 
-export const dateCool = (date) =>
-	new Date(date).toLocaleString('fr-FR', {
-		weekday: 'long',
-		year: 'numeric',
-		month: 'long',
-		day: 'numeric',
-	})
-
 export const pageLayout = `
 		padding: 0.6rem 1rem;
 			max-width: 800px;
