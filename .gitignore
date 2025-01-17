@@ -2,3 +2,4 @@ node_modules
 dist/*
 !dist/_redirects
 .contentlayer
+.next

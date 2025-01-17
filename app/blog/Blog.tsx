@@ -1,4 +1,4 @@
-import Logo from '@/public/profil.png'
+//import Logo from '@/public/profil.png'
 import Image from 'next/image'
 import Link from 'next/link'
 import { List, Nav } from './UI'
@@ -10,7 +10,12 @@ export default function Blog({ articles }) {
 		<main>
 			<Nav>
 				<Link href="/">
-					<Image src={Logo} alt="Logo de Cartes.app" width="100" height="100" />
+					<Image
+						src={'/profil.png'}
+						alt="Logo de Cartes.app"
+						width="100"
+						height="100"
+					/>
 					Revenir sur la carte
 				</Link>
 			</Nav>

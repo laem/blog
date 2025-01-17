@@ -2,15 +2,16 @@
 titre: L’État nous doit des explications
 résumé: A mesure que les algorithmes prennent une place centrale dans l'action publique, l’État nous doit l'explication de ces boîtes noires. Exemple sur le cas de l'impôt sur le revenu.
 date: 2018-06-21
-image: https://cdn-images-1.medium.com/max/2560/1*RbIsqc5VcBlXSWNrGNkN0Q.png
+image:
+  adresse: https://cdn-images-1.medium.com/max/2560/1*RbIsqc5VcBlXSWNrGNkN0Q.png
+  description: Une photo de l'assemblée nationale avec des 0 et des 1 superposés pour représenter le code de la République.
 ---
 
 # L’État nous doit des explications
 
+> Cet article est la suite pratique du premier article [Vers une implémentation officielle de la loi](/vers-implémentation-officielle-de-la-loi), mais il peut sans problème être lu directement.
 
-> Cet article est la suite pratique du premier article [Vers une implémentation officielle de la loi](/vers-implémentation-officielle-de-la-loi), mais il peut sans problème être lu directement. 
-
-Bonne nouvelle ! La France [se convertit](https://fr.m.wikipedia.org/wiki/Données_ouvertes_en_France) à l’_open data_. C’est quoi au fait ? Le principe est simple : les agents de l’État et autres employés du privé qui travaillent pour des missions publiques sont payés par nos impôts, en conséquence les données qu’ils collectent ou font collecter doivent être rendues publiques. 
+Bonne nouvelle ! La France [se convertit](https://fr.m.wikipedia.org/wiki/Données_ouvertes_en_France) à l’_open data_. C’est quoi au fait ? Le principe est simple : les agents de l’État et autres employés du privé qui travaillent pour des missions publiques sont payés par nos impôts, en conséquence les données qu’ils collectent ou font collecter doivent être rendues publiques.
 
 Plus concrètement, je dois pouvoir trouver en ligne la qualité de l’air dans mon quartier : c’est une _donnée accessible_, mais je dois aussi pouvoir réutiliser tout un jeu de données pour lancer villes-les-moins-polluées.fr : ce sont des _données réutilisables librement_.
 
@@ -18,7 +19,7 @@ Plus concrètement, je dois pouvoir trouver en ligne la qualité de l’air dans
 
 L’_open data_ est un vieux combat. Vous aurez remarqué qu’un autre sujet prend de l’ampleur : une fois que l’on dispose de la _donnée_, on veut en faire quelque chose, et souvent on _code un programme_. L’administration tourne de plus en plus aux algorithmes. Ce sujet a récemment fait surface avec Parcoursup, le jeu d’algorithmes controversé qui décide de l’avenir des lycéens après le bac. En entrée, il prend le classement de chaque étudiant. En sortie, il interroge à la suite les lycéens pour afficher un établissement supérieur à chacun.
 
-Heureusement, comme pour l’_open data_, la loi [_oblige_](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=700061AD285AE7BEF500A4ADD90217AF.tpdila10v_1?cidTexte=JORFTEXT000034194929&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000034194924)  l’administration à publier ses codes sources, en tout cas les plus importants d’entre eux : ceux qui conduisent à des _décisions individuelles_. Contrairement aux grandes entreprises, l’État est un bien commun et ses algorithmes ne sont pas une propriété intellectuelle à protéger.
+Heureusement, comme pour l’_open data_, la loi [_oblige_](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=700061AD285AE7BEF500A4ADD90217AF.tpdila10v_1?cidTexte=JORFTEXT000034194929&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000034194924) l’administration à publier ses codes sources, en tout cas les plus importants d’entre eux : ceux qui conduisent à des _décisions individuelles_. Contrairement aux grandes entreprises, l’État est un bien commun et ses algorithmes ne sont pas une propriété intellectuelle à protéger.
 
 #### Ils se cachent où, ces fameux algorithmes ?
 
@@ -85,12 +86,12 @@ Ce dernier code imbuvable et en apparence sophistiqué sert à … diviser un n
 En bref, voilà où nous en sommes aujourd’hui :
 
 ![La plupart des algorithmes publics sont des boîtes noires](https://cdn-images-1.medium.com/max/800/1*GQVFEdpK-TG4ZtbRntuEXg.png)
-*La plupart des algorithmes publics sont des boîtes noires*
+_La plupart des algorithmes publics sont des boîtes noires_
 
 Voilà où nous risquons d’aller :
 
 ![Seuls les horlogers peuvent comprendre le fonctionnement de cette machine. Et encore !](https://cdn-images-1.medium.com/max/800/1*-NTQAZz5feN7ia3e4XFa8Q.jpeg)
-*Seuls les horlogers peuvent comprendre le fonctionnement de cette machine. Et encore !*
+_Seuls les horlogers peuvent comprendre le fonctionnement de cette machine. Et encore !_
 
 ### Comment expliquer les algorithmes ?
 
@@ -104,13 +105,23 @@ Si vous ne comprenez pas le premier bout de code que vous allez voir, ce n’est
 
 Mais comprenez-bien qu’il tourne là, sous vos yeux. Ce n’est pas qu’un bout de texte qui ne ferait que décrire un calcul : cliquez sur le bouton vert `Run` et il va prendre les 2 300 € en entrée pour sortir les 1650€ d’impôt.
 
-<iframe style="padding: 0; margin: 0; background: transparent;width: 100%; height: 550px" src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/1/default" frameborder="0" allowfullscreen></iframe>
+<iframe
+	style="padding: 0; margin: 0; background: transparent;width: 100%; height: 550px"
+	src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/1/default"
+	frameborder="0"
+	allowfullscreen
+></iframe>
 
 Vous pouvez même changer le code et le refaire tourner, par exemple avec 3 000€ en entrée.
 
 Ce code sera considéré par tous les programmeurs comme de mauvaise qualité, fait à la va-vite : à aucun endroit on ne peut voir mention de cette pierre angulaire de l’impôt, le _barème_. En fait, aucun bloc n’a de nom, il sera difficile à lire. Deuxième essai :
 
-<iframe style="padding: 0; margin: 0; background: transparent;width: 100%; height: 800px" src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/2/default" frameborder="0" allowfullscreen></iframe>
+<iframe
+	style="padding: 0; margin: 0; background: transparent;width: 100%; height: 800px"
+	src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/2/default"
+	frameborder="0"
+	allowfullscreen
+></iframe>
 
 Voilà qui est mieux : on a créé une fonction `barème`, et une autre fonction `abattement`. Eh oui, on a même nommé ces fonctions en français, après tout c’est la langue qu’on parle le mieux ici.
 
@@ -118,11 +129,16 @@ N’empêche, il reste toujours des expressions pas très familières : `functi
 
 Comment écrire ce barème plus simplement ? Facile : on va séparer la fonction qui fait l’opération (le barème) des données utilisées dans l’opération (les tranches de l’impôt et les % correspondants). Après tout, ça fait 300 ans qu’un barème se calcule de la même façon, seules ses données changent !
 
-<iframe style="padding: 0; margin: 0; background: transparent;width: 100%; height: 1800px" src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/3/default" frameborder="0" allowfullscreen></iframe>
+<iframe
+	style="padding: 0; margin: 0; background: transparent;width: 100%; height: 1800px"
+	src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/3/default"
+	frameborder="0"
+	allowfullscreen
+></iframe>
 
 On vient de poser les premières briques d’un langage de programmation spécialisé dans le calcul de l’impôt sur le revenu !
 
-> 💡Libérez le législateur qui sommeille en vous : jouez sur le montant de l’impôt calculé en changeant le taux des tranches puis en cliquant à nouveau sur le bouton  `Run`.
+> 💡Libérez le législateur qui sommeille en vous : jouez sur le montant de l’impôt calculé en changeant le taux des tranches puis en cliquant à nouveau sur le bouton `Run`.
 
 On a ici le meilleur des deux mondes : comme une documentation, notre code est une _description_ du calcul qui n’est pas noyée dans des accolades et autres détails techniques. Comme un code traditionnel, il contient des _instructions_ que votre ordinateur comprend et qui feront les calculs pour nous.
 

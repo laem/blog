@@ -2,10 +2,11 @@
 titre: Vers une implémentation officielle de la loi
 description: 'Partie 1 : introduction'
 résumé: L'Etat doit accompagner la loi d'un code qui peut être lu par un ordinateur
-image: "https://cdn-images-1.medium.com/max/2560/1*xOKbBlYZ4wg0OhIhyUgnfQ.jpeg"
+image:
+  adresse: 'https://cdn-images-1.medium.com/max/2560/1*xOKbBlYZ4wg0OhIhyUgnfQ.jpeg'
+  description: Une photo de l'assemblée nationale française.
 date: 2017-06-22
 ---
-
 
 # Vers une implémentation officielle de la loi
 
@@ -15,14 +16,14 @@ L’objectif n’est pas de changer ou remplacer la loi, mais simplement de mode
 
 Les opinions exprimées dans cet article sont celles de son auteur. N’hésitez pas à signaler les malheureuses simplifications ou erreurs.
 
---------------------
+---
 
 ### Le problème du citoyen avec la loi
 
 Vous avez peut-être eu la chance de visiter le Louvre à Paris et de tomber sur une mystérieuse stèle noire plus grande que vous : le Code de Hammourabi. Gravé il y a près de 4000 ans, il comporte des paragraphes d’un style qui nous est familier : des lois qui régissaient la vie quotidienne des citoyens de l’époque.
 
 ![](https://cdn-images-1.medium.com/max/800/1*YX0Ju8EpIO0fa_LkvDhsMg.png)
-*[Voir la page Wikipedia](https://fr.wikipedia.org/wiki/Code_de_Hammurabi)*
+_[Voir la page Wikipedia](https://fr.wikipedia.org/wiki/Code_de_Hammurabi)_
 
 On pourra se réjouir du chemin parcouru depuis en termes d’égalité et de tolérance… Mais mettons ce jugement de côté un moment. Pour nous, citoyens d’aujourd’hui, ça ne semble pas si compliqué à comprendre : les règles sont limpides et il n’y en a finalement pas tant que ça. Sauf qu’à l’époque, [peu de gens pouvaient les lire](https://fr.wikipedia.org/wiki/Cun%C3%A9iforme#Qui_.C3.A9crivait_et_lisait_le_cun.C3.A9iforme_.3F)…
 
@@ -60,16 +61,16 @@ A priori seulement…
 
 La fiche de [service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F2971), qui nous donne cette formule à la ligne “Revenus d’activité salarié” du premier tableau, indique déjà que c’est plus compliqué que ça.
 
-*   l’**assiette** inclut le salaire brut, mais aussi les primes et “indemnités diverses”. Mais lesquelles précisément ? Il faut y ajouter les “avantages en nature ou en espèces” mais avec une exception : “si la rémunération est exclusivement constituée d’avantages en nature, elle est exonérée de de CRDS” (le reste concerne les travailleurs non salariés). L’énumération finit par trois petits points : doit-on comprendre que d’autres revenus peuvent être concernés ?
-*   notre formule a oublié l’**abattement de 1,75% **: seul 98,25% de l’assiette sera à prendre en compte…
+- l’**assiette** inclut le salaire brut, mais aussi les primes et “indemnités diverses”. Mais lesquelles précisément ? Il faut y ajouter les “avantages en nature ou en espèces” mais avec une exception : “si la rémunération est exclusivement constituée d’avantages en nature, elle est exonérée de de CRDS” (le reste concerne les travailleurs non salariés). L’énumération finit par trois petits points : doit-on comprendre que d’autres revenus peuvent être concernés ?
+- notre formule a oublié l’**abattement de 1,75% **: seul 98,25% de l’assiette sera à prendre en compte…
 
 ![un abattement conditionnel](https://cdn-images-1.medium.com/max/600/1*U5reYyoAViUcWfgCtCpCLA.png)
-*un abattement conditionnel*
+_un abattement conditionnel_
 
 Et ce, seulement en dessous d’un certain montant comme le montre cette copie d’écran. Cet usage de “au delà” n’est-il pas ambigu ? Doit-on comprendre que pour un salaire de 200 000 € c’est seulement le reste de 43 088 € qui ne sera pas abattu, ou l’ensemble ?
 
-*   Mais encore : pour des “compléments du salaire”, qui ne sont pas définis dans la fiche, **pas d’abattement**. En pratique, c’est le cas de la contribution employeur pour la complémentaire santé, qui est maintenant obligatoire et donc concerne tous les salariés. Il est courant que ce point soit oublié et que “la mutuelle” soit abattue par mégarde.
-*   Pour d’autres cas **exceptionnels** bien listés dans la fiche, par exemple les salaires des apprentis, c’est toute la somme qui est exonérée. Il en est de même par exemple pour le paiement par le patron des tickets restaurants.
+- Mais encore : pour des “compléments du salaire”, qui ne sont pas définis dans la fiche, **pas d’abattement**. En pratique, c’est le cas de la contribution employeur pour la complémentaire santé, qui est maintenant obligatoire et donc concerne tous les salariés. Il est courant que ce point soit oublié et que “la mutuelle” soit abattue par mégarde.
+- Pour d’autres cas **exceptionnels** bien listés dans la fiche, par exemple les salaires des apprentis, c’est toute la somme qui est exonérée. Il en est de même par exemple pour le paiement par le patron des tickets restaurants.
 
 Ainsi, le diable est dans le détail : la règle qui semblait être une simple multiplication à été compliquée d’un paquet de conditions.
 
@@ -87,7 +88,7 @@ Revenons donc à notre exemple : rien ne semble nous empêcher d’écrire du c
 
 #### La loi exécutable
 
-Ce code, disons par exemple  du code source dans le langage de programmation très courant nommé _python_, est conçu pour être lu par un ordinateur, qui va le faire “tourner” comme on dit pour répondre à un problème précis : par exemple pour calculer cette fameuse CRDS, en nous donnant le montant à retenir chaque mois sur la feuille de paie d’après notre situation personnelle.
+Ce code, disons par exemple du code source dans le langage de programmation très courant nommé _python_, est conçu pour être lu par un ordinateur, qui va le faire “tourner” comme on dit pour répondre à un problème précis : par exemple pour calculer cette fameuse CRDS, en nous donnant le montant à retenir chaque mois sur la feuille de paie d’après notre situation personnelle.
 
 Une initiative développée notamment par l’État, le [projet OpenFisca](http://openfisca.org), rassemble du code libre (gratuit et réutilisable) qui permet de simuler certains de ces sujets. Concrètement, notre CRDS dans OpenFisca c’est [30 lignes de code python](http://legislation.openfisca.fr/crds_salaire) lisibles par un ordinateur _pour faire le calcul_. C’est déjà bien !
 
@@ -103,7 +104,7 @@ Notons bien que le langage de cette base n’en est pas un dans le sens où tout
 
 Le code lui-même est l’un des objectifs, pas seulement un moyen de faire des calculs.
 
-En termes techniques, on va rendre le code des règles plus _déclaratif_ qu’_impératif _: ça veut dire qu’au lieu de vraiment y exprimer le calcul — “ma règle retourne A x T”, on va plutôt faire une description de l’objectif — “ma règle est une cotisation dont la formule est une multiplication d’une assiette A par un taux T_”._ Ça peut paraître étonnant, mais c’est techniquement difficile d’écrire un programme qui comprend que dans notre premier exemple l’information A est une assiette qui aura sa place dans la colonne “base” de votre fiche de paie.
+En termes techniques, on va rendre le code des règles plus _déclaratif_ qu’_impératif _: ça veut dire qu’au lieu de vraiment y exprimer le calcul — “ma règle retourne A x T”, on va plutôt faire une description de l’objectif — “ma règle est une cotisation dont la formule est une multiplication d’une assiette A par un taux T*”.* Ça peut paraître étonnant, mais c’est techniquement difficile d’écrire un programme qui comprend que dans notre premier exemple l’information A est une assiette qui aura sa place dans la colonne “base” de votre fiche de paie.
 
 En réalité, beaucoup de domaines législatifs sont des compositions de mécanismes relativement simples. On met à disposition de la personne qui va écrire les règles de base un manuel et une valise d’outils adaptés au domaine à implémenter : dans notre exemple, c’est les mots-clefs “cotisation”, “multiplication”, “assiette” et “taux”. Lue par le moteur, cette description pourra donner cette multitude d’usages.
 
@@ -114,10 +115,10 @@ Comme il traite un sujet important, ce code doit évidemment être _ouvert._ Mal
 ![Le code est souvent assimilé à une boîte noire qui transforme des entrées (votre situation) en sorties (vos droits ou obligations).](https://cdn-images-1.medium.com/max/800/1*aHka_eebkDaBLcOOnn_qdw.png)
 Le code est souvent assimilé à une boîte noire qui transforme des entrées (votre situation) en sorties (vos droits ou obligations).
 
-Les demandes d’ouverture, quand par chance elles aboutissent, n’obtiennent jamais un code _lisible_ par tous, seulement ouvert _(“open source”)_ mais  pénible à lire même pour ceux qui sont familiers avec le langage de programmation utilisé. Les règles sont donc soit cadenassées (code caché) soit opaques (code public mais illisible par la plupart)— et on réserve le même sort aux incontournables _tests_, qu’il faut voir comme des exemples, utiles autant pour comprendre le code que pour prouver son bon fonctionnement.
+Les demandes d’ouverture, quand par chance elles aboutissent, n’obtiennent jamais un code _lisible_ par tous, seulement ouvert _(“open source”)_ mais pénible à lire même pour ceux qui sont familiers avec le langage de programmation utilisé. Les règles sont donc soit cadenassées (code caché) soit opaques (code public mais illisible par la plupart)— et on réserve le même sort aux incontournables _tests_, qu’il faut voir comme des exemples, utiles autant pour comprendre le code que pour prouver son bon fonctionnement.
 
 ![À quoi bon avoir accès aux rouages si vous n’êtes pas horloger ?](https://cdn-images-1.medium.com/max/800/0*i1Cs4Qp7p8CEBQm4.jpg)
-*À quoi bon avoir accès aux rouages si vous n’êtes pas horloger ?*
+_À quoi bon avoir accès aux rouages si vous n’êtes pas horloger ?_
 
 Ça tombe bien : un code source plus déclaratif, permettant plusieurs usages quand il est lu par un programme, sera aussi plus accessible pour les citoyens. Ne nous faisons pas d’illusion : il faudra quand même un certain investissement pour comprendre les blocs de texte affichés à l’écran. Mais justement, c’est sur le Web qu’il sera présenté dans sa version finale enrichie pour le citoyen (c’est justement cette base documentaire 3.0).
 
@@ -135,18 +136,18 @@ Ces développements mériteraient d’être appliqués à bien d’autres sujets
 
 Par exemple aujourd’hui, quand on loue un appartement à l’année, on donne au propriétaire un dépôt de garantie. Cela entraîne un tas de questions :
 
-*   quel est son montant ? Récemment, il a été [limité](https://www.service-public.fr/particuliers/vosdroits/F31269) à un maximum d’un mois de loyer (sans les charges, elles aussi à calculer).
-*   d’ailleurs, ce loyer ne peut augmenter librement entre chaque location. Dans certaines villes, comme Paris et Lille, il est même en plus encadré.
-*   qu’en fait le propriétaire ? En pratique, il l’encaisse, (car ça pourrait être un chèque en blanc). Le locataire est donc contraint à lui accorder un prêt à taux 0… mais c’est un autre sujet.
-*   que se passe-t-il en fin de location ? Le propriétaire a 2 mois pour réaliser les devis des dégradations constatées lors de l’état des lieux. Il les déduit du dépôt de garantie, qu’il rend au locataire. En intégralité ? Non ! Il peut aussi retenir 20% du dépôt jusqu’au prochain conseil de copropriété au cas où les charges auraient augmenté. La somme sera donc rendue dans son intégralité jusqu’à 1 an après le départ du locataire.
-*   si le propriétaire tarde, le locataire peut demander des intérêts !
-*   …
+- quel est son montant ? Récemment, il a été [limité](https://www.service-public.fr/particuliers/vosdroits/F31269) à un maximum d’un mois de loyer (sans les charges, elles aussi à calculer).
+- d’ailleurs, ce loyer ne peut augmenter librement entre chaque location. Dans certaines villes, comme Paris et Lille, il est même en plus encadré.
+- qu’en fait le propriétaire ? En pratique, il l’encaisse, (car ça pourrait être un chèque en blanc). Le locataire est donc contraint à lui accorder un prêt à taux 0… mais c’est un autre sujet.
+- que se passe-t-il en fin de location ? Le propriétaire a 2 mois pour réaliser les devis des dégradations constatées lors de l’état des lieux. Il les déduit du dépôt de garantie, qu’il rend au locataire. En intégralité ? Non ! Il peut aussi retenir 20% du dépôt jusqu’au prochain conseil de copropriété au cas où les charges auraient augmenté. La somme sera donc rendue dans son intégralité jusqu’à 1 an après le départ du locataire.
+- si le propriétaire tarde, le locataire peut demander des intérêts !
+- …
 
 Ainsi une question aussi courante et _a priori_ simple, active en réalité un jeu de règles à respecter par les deux parties qui demande une fine connaissance du droit.
 
 On est alors tentés d’imaginer une plateforme en ligne, garantie par l’État, qui permettrait d’encadrer ce sujet en informant les deux parties, voir en se comportant comme un intermédiaire qui _exécute_ ces règles. Simulation en ligne du montant du dépôt de garantie, déduit du loyer maximum lui aussi simulé et attesté par l’état (aujourd’hui une grande partie du parc locatif [ne respecte pas](https://www.lavieimmo.com/avis-experts/encadrement-des-loyers-ou-en-est-on-8-mois-apres-36096.html) la loi, et c’est au locataire de prendre le temps de le contester en commission de conciliation); dépôt de la somme directement sur les comptes d’une nouvelle organisation (somme alors rendue “neutre”, par exemple pour servir un projet d’investissement public), qui jouera le rôle de garant de la conciliation en cas de problème. Remplissage et enregistrement en ligne d’un état des lieux type, notifications tenant le locataire au courant des devis téléchargés par le propriétaire, rappel et pénalisation automatique du propriétaire en cas de retard de restitution, …
 
-Tout ça ne vous rappelle rien ? Ce rôle est déjà tenu par un acteur (sur le marché cousin de la location saisonnière), garant du respect de _ses propres règles_ : Airbnb. La plateforme de location entre particuliers assure déjà certains des services évoqués plus haut : le calcul en ligne du loyer, des charges, la [gestion de la caution](https://www.airbnb.fr/help/article/140/how-does-airbnb-handle-security-deposits), et la conciliation des litiges.
+Tout ça ne vous rappelle rien ? Ce rôle est déjà tenu par un acteur (sur le marché cousin de la location saisonnière), garant du respect de *ses propres règles* : Airbnb. La plateforme de location entre particuliers assure déjà certains des services évoqués plus haut : le calcul en ligne du loyer, des charges, la [gestion de la caution](https://www.airbnb.fr/help/article/140/how-does-airbnb-handle-security-deposits), et la conciliation des litiges.
 
 Peut-être allons nous nous réveiller en 2030, dans une France où l’essentiel du parc immobilier est géré par Airbnb. Aucun risque, pensez-vous, Airbnb prend une commission trop importante. Vraiment ? Un calcul simpliste pour un studio à Paris : pour 1 an de location à 900€/mois, c’est 10 800 € de loyer, 850€ de dépôt de garantie, 450€ de frais d’agence soit 12% de commission du “système classique”, dont 8% restitués en fin de période. Chez Airbnb, ça peut descendre jusqu’à 6% (pour l’instant), mais avec une expérience utilisateur bien plus attirante.
 
@@ -172,7 +173,6 @@ En attendant, la base est [construite sur ce site](https://github.com/sgmap/syso
 
 _C’est en cours de construction_, et c’est d’ailleurs une implémentation modeste des principes de cet article. D’autres initiatives feront un travail de modélisation similaire sur d’autres domaines. Peut-être qu’elle se généralisera progressivement à ces autres domaines, ou bien s’effacera face à un concurrent plus prometteur…
 
-
 > Cet article est suivi d'un deuxième beaucoup plus pratique : venez découvrir comment on peut [facilement expliciter l'algorithme de l'impôt sur le revenu](/l-état-nous-doit-des-explications).
 
 ### Un tout petit peu de bibliographie.
@@ -183,7 +183,7 @@ _C’est en cours de construction_, et c’est d’ailleurs une implémentation 
 
 > Legislation endeavours to be unambiguous, and yet it’s infamous for being plagued with ambiguity problems. \[…\] Computer code doesn’t _try_ to be unambiguous, it simply _is_ unambiguous — by its very definition. A piece of code, when supplied with any given input, is quite literally incapable of returning inconsistent output.
 
-L’article [Computational Law, Symbolic Discourse, and the AI Constitution](https://medium.com/backchannel/computational-law-symbolic-discourse-and-the-ai-constitution-d8528ee27bf0) de Stephen Wolfram (scientifique pluridisciplinaire notamment créateur du calculateur Mathematica) tourne longuement autour du pot, n’apporte rien de concret (à part ses produits commerciaux) mais est intéressant : il pense que le rêve de Leibniz, écrire une loi calculable, est aujourd’hui à notre portée : un _symbolic discourse language_ : machine learning en entrée, Ethereum…
+L’article [Computational Law, Symbolic Discourse, and the AI Constitution](https://medium.com/backchannel/computational-law-symbolic-discourse-and-the-ai-constitution-d8528ee27bf0) de Stephen Wolfram (scientifique pluridisciplinaire notamment créateur du calculateur Mathematica) tourne longuement autour du pot, n’apporte rien de concret (à part ses produits commerciaux) mais est intéressant : il pense que le rêve de Leibniz, écrire une loi calculable, est aujourd’hui à notre portée : un *symbolic discourse language* : machine learning en entrée, Ethereum…
 
 À noter :
 

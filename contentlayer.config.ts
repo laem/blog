@@ -1,5 +1,9 @@
 // contentlayer.config.ts
-import { defineDocumentType, makeSource } from 'contentlayer2/source-files'
+import {
+	defineDocumentType,
+	defineNestedType,
+	makeSource,
+} from 'contentlayer2/source-files'
 import mdxOptions from './mdxOptions.mjs'
 
 export const Article = defineDocumentType(() => ({
@@ -13,11 +17,13 @@ export const Article = defineDocumentType(() => ({
 		created: { type: 'date', required: false },
 		date: { type: 'date', required: true },
 		résumé: { type: 'string', required: true },
-		//image: { type: 'nested', required: false },
+		description: { type: 'string', required: false },
+		image: { type: 'nested', of: Image, required: false },
 		tags: { type: 'list', of: { type: 'string' }, required: false },
 		bluesky: { type: 'string', required: false },
 		lang: { type: 'string', required: false },
 		dégradé: { type: 'list', of: { type: 'string' }, required: false },
+		'couleur du texte': { type: 'string', required: false },
 	},
 	computedFields: {
 		url: {
@@ -32,3 +38,11 @@ export default makeSource({
 	documentTypes: [Article],
 	mdx: mdxOptions,
 })
+
+const Image = defineNestedType(() => ({
+	name: 'Image',
+	fields: {
+		adresse: { type: 'string', required: true },
+		description: { type: 'string', required: true },
+	},
+}))
