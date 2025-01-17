@@ -193,56 +193,7 @@ let Liste = ({ articles }) => (
 				max-width: 400px;
 				margin: 0 auto;
 			`}
-		>
-			<header></header>
-			{articles
-				.sort((a1, a2) => (a1.attributes.date > a2.attributes.date ? -1 : 1))
-				.map((a) => (
-					<aside
-						key={a.id}
-						css={`
-							p {
-								max-width: 36rem;
-								margin-bottom: 0.3rem;
-							}
-							header {
-								margin-bottom: 1rem;
-							}
-							header > a {
-								text-decoration: none;
-							}
-
-							h2 {
-								display: block;
-								text-decoration: none;
-								margin-bottom: 0.3rem;
-							}
-							margin-bottom: 3rem;
-						`}
-					>
-						<header>
-							<Link to={'/' + a.id}>
-								<h2>{a.attributes.titre}</h2>
-							</Link>
-							<small>{dateCool(a.attributes.date)}</small>
-						</header>
-						<Link to={'/' + a.id}>
-							<img
-								css="width: 10rem; box-shadow: var(--shadow-elevation-medium)"
-								src={imageResizer('m')(
-									accessibleImage(a.attributes.image).image
-								)}
-							></img>
-						</Link>
-						<p>
-							{a.attributes.résumé}{' '}
-							<Link to={'/' + a.id}>
-								<em>Lire</em>
-							</Link>
-						</p>
-					</aside>
-				))}
-		</section>
+		></section>
 		<a rel="me" href="https://bsky.app/profile/maeool.bsky.social">
 			Bluesky
 		</a>
