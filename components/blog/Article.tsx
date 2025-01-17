@@ -1,5 +1,5 @@
-import Contribution from '@/app/blog/Contribution'
-import ArticleWrapper, { BackToBlogLink } from '@/components/ArticleUI'
+import Contribution from '@/components/blog/Contribution'
+import ArticleWrapper, { BackToBlogLink } from '@/components/blog/ArticleUI'
 import BlueskyComments from '@/components/BlueskyComments'
 import { getMDXComponent } from 'next-contentlayer2/hooks'
 import Image from 'next/image'

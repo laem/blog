@@ -8,20 +8,20 @@ export const dateCool = (date) =>
 		day: 'numeric',
 	})
 
-export const getLastEdit = (name, action) =>
-	fetch(
-		`https://api.github.com/repos/${repo}/commits?path=articles%2F${name}.md&page=1&per_page=1`
-	)
-		.then((res) => res.json())
-		.then((json) => {
-			console.log(json)
-			try {
-				const date = json[0].commit.committer.date
-				action(date)
-			} catch (e) {
-				action('')
-			}
-		})
+export const getLastEdit = async (name) => {
+	try {
+		const url = `https://api.github.com/repos/${repo}/commits?path=articles%2F${name}.mdx&page=1&per_page=1`
+
+		const request = await fetch(url)
+
+		const json = await request.json()
+
+		const date = json[0].commit.committer.date
+		return date
+	} catch (e) {
+		return null
+	}
+}
 
 const thumbnailWidth = '320',
 	fullWidth = '800'

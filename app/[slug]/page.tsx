@@ -1,12 +1,11 @@
-import { allArticles } from '@/components/blog/blogArticles'
+import { blogArticles } from '@/components/blog/blogArticles'
 import { getLastEdit } from '@/components/blog/utils'
-import Article from '@/components/Article'
+import Article from '@/components/blog/Article'
 
 export const generateMetadata = async (props) => {
 	const params = await props.params
-	const post = allArticles.find(
-		(post) => post._raw.flattenedPath === params.slug
-	)
+	const slug = decodeURIComponent(params.slug)
+	const post = blogArticles.find((post) => post.url === '/' + slug)
 	if (!post) return null
 	const lastEdit = await getLastEdit(params.slug)
 	return {
@@ -24,9 +23,8 @@ export const generateMetadata = async (props) => {
 
 export default async function Post(props: Props) {
 	const params = await props.params
-	const post = allArticles.find(
-		(post) => post._raw.flattenedPath === params.slug
-	)
+	const slug = decodeURIComponent(params.slug)
+	const post = blogArticles.find((post) => post.url === '/' + slug)
 
 	console.log('POSTOU', post, params.slug)
 	if (!post) return null
