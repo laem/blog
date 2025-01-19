@@ -2,7 +2,7 @@ import { css, styled } from 'next-yak'
 
 export default function Header() {
 	return (
-		<HeaderWrapper css={css``}>
+		<HeaderWrapper>
 			<img src="/profil.png" />
 			<h1>Maël THOMAS</h1>
 			<Contact>

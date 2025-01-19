@@ -1,6 +1,9 @@
 import { blogArticles } from '@/components/blog/blogArticles'
 import { getLastEdit } from '@/components/blog/utils'
 import Article from '@/components/blog/Article'
+import SubHeader from '@/components/SubHeader'
+import Header from '@/components/Header'
+import SmallHeader from '@/components/SmallHeader'
 
 export const generateMetadata = async (props) => {
 	const params = await props.params
@@ -29,5 +32,10 @@ export default async function Post(props: Props) {
 	console.log('POSTOU', post, params.slug)
 	if (!post) return null
 
-	return <Article post={post} slug={params.slug} />
+	return (
+		<main>
+			<SmallHeader />
+			<Article post={post} slug={params.slug} />
+		</main>
+	)
 }

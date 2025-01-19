@@ -21,10 +21,10 @@ const Article = styled.article`
 		color: var(--color);
 	}
 	header > img {
-		width: 30rem;
-		max-width: 80%;
+		width: auto;
+		max-width: 100%;
+		max-height: 30rem;
 		height: auto;
-		border-radius: 1rem;
 		box-shadow: 0.3px 0.5px 0.7px hsl(0deg 0% 63% / 0.36),
 			0.8px 1.6px 2px -0.8px hsl(0deg 0% 63% / 0.36),
 			2.1px 4.1px 5.2px -1.7px hsl(0deg 0% 63% / 0.36),

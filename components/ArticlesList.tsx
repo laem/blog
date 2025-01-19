@@ -40,6 +40,7 @@ const Aside = styled.aside`
 	a {
 		img {
 			width: 10rem;
+			height: auto;
 			box-shadow: var(--shadow-elevation-medium);
 		}
 	}

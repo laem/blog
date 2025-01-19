@@ -1,10 +1,9 @@
-import Contribution from '@/components/blog/Contribution'
-import ArticleWrapper, { BackToBlogLink } from '@/components/blog/ArticleUI'
 import BlueskyComments from '@/components/BlueskyComments'
+import ArticleWrapper from '@/components/blog/ArticleUI'
+import Contribution from '@/components/blog/Contribution'
 import { getMDXComponent } from 'next-contentlayer2/hooks'
 import Image from 'next/image'
 import OtherArticles from './OtherArticles'
-import { mdxComponents } from './mdxComponents'
 import { dateCool, getLastEdit } from './utils'
 
 export default async function Article({ post, slug }) {
@@ -16,9 +15,6 @@ export default async function Article({ post, slug }) {
 	return (
 		<div>
 			<ArticleWrapper>
-				{!post.tags?.includes('page') && (
-					<BackToBlogLink href="/blog">← Retour au blog</BackToBlogLink>
-				)}
 				<header>
 					{post.image && (
 						<Image
@@ -41,6 +37,7 @@ export default async function Article({ post, slug }) {
 					</small>
 					<hr />
 				</header>
+				<MDXContent />
 				<Contribution slug={slug} />
 				<OtherArticles excludeUrl={post.url} />
 			</ArticleWrapper>

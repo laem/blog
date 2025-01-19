@@ -10,8 +10,8 @@ export default function Contribution({
 		<ContributionLink
 			href={
 				slug
-					? `https://github.com/cartesapp/cartes/edit/master/articles/${slug}.mdx`
-					: `https://github.com/cartesapp/cartes/issues/${issueNumber}`
+					? `https://github.com/laem/blog/edit/master/articles/${slug}.mdx`
+					: `https://github.com/laem/blog/issues/${issueNumber}`
 			}
 		>
 			{text}
