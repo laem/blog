@@ -13,13 +13,16 @@ export const generateMetadata = async (props) => {
 	const lastEdit = await getLastEdit(params.slug)
 	return {
 		title: post.titre.raw,
-		description: post.description,
+		description: post.résumé,
 		openGraph: {
 			images: post.image && [post.image],
 			type: 'article',
 			publishedTime: post.date + 'T00:00:00.000Z',
 			modifiedTime: lastEdit + 'T00:00:00.000Z',
-			url: '/blog/' + params.slug,
+			url: params.slug,
+		},
+		alternates: {
+			canonical: params.slug,
 		},
 	}
 }

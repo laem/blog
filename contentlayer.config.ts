@@ -17,7 +17,6 @@ export const Article = defineDocumentType(() => ({
 		created: { type: 'date', required: false },
 		date: { type: 'date', required: true },
 		résumé: { type: 'string', required: true },
-		description: { type: 'string', required: false },
 		image: { type: 'nested', of: Image, required: false },
 		tags: { type: 'list', of: { type: 'string' }, required: false },
 		bluesky: { type: 'string', required: false },

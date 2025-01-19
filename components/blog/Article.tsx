@@ -13,7 +13,6 @@ export default async function Article({ post, slug }) {
 
 	const sameEditDate =
 		!lastEdit || post.date.slice(0, 10) === lastEdit.slice(0, 10)
-	console.log('COUCOU', post.dégradé)
 	const textColor = post['couleur du texte']
 	return (
 		<div>
