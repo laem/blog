@@ -22,7 +22,7 @@ export default async function Article({ post, slug }) {
 				<header>
 					{post.image && (
 						<Image
-							src={post.image.adresse}
+							src={'/' + post.image.adresse}
 							width="600"
 							height="400"
 							alt="Illustration de l'article"
