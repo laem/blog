@@ -20,7 +20,7 @@ const Article = styled.article`
 	header > small {
 		display: block;
 		text-align: center;
-		color: #402a59;
+		color: inherit;
 	}
 	header > img {
 		margin-top: 0;
