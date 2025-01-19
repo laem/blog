@@ -23,6 +23,7 @@ export const OtherArticlesSection = styled.section`
 	padding: 0 0.8rem;
 	max-width: 90vw;
 	overflow: hidden;
+	color: #222;
 	h2 {
 		width: 700px;
 		margin: 0 auto;
@@ -49,7 +50,7 @@ export const OtherArticlesList = styled.div`
 			min-width: 14rem;
 			margin: 0 0.6rem;
 			padding: 0.8rem 1.4rem;
-			border: 1px solid var(--lighterColor);
+			border: 1px solid #ccc;
 			border-radius: 0.4rem;
 			white-space: wrap;
 			h3 {

@@ -18,7 +18,7 @@ export default function ({ excludeUrl }) {
 							<li key={url}>
 								<div>
 									<Link href={url}>
-										<h3 dangerouslySetInnerHTML={{ __html: titre.html }} />
+										<h3>{titre.raw}</h3>
 									</Link>
 								</div>
 								<SmallDate>Publié le {dateCool(date)}</SmallDate>

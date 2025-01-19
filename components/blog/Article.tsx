@@ -5,6 +5,7 @@ import { getMDXComponent } from 'next-contentlayer2/hooks'
 import Image from 'next/image'
 import OtherArticles from './OtherArticles'
 import { dateCool, getLastEdit } from './utils'
+import { css } from 'next-yak'
 
 export default async function Article({ post, slug }) {
 	const MDXContent = getMDXComponent(post.body.code)
@@ -12,9 +13,24 @@ export default async function Article({ post, slug }) {
 
 	const sameEditDate =
 		!lastEdit || post.date.slice(0, 10) === lastEdit.slice(0, 10)
+	console.log('COUCOU', post.dégradé)
+	const textColor = post['couleur de texte']
 	return (
 		<div>
-			<ArticleWrapper>
+			<ArticleWrapper
+				$dégradé={
+					post.dégradé
+						? `
+								linear-gradient(
+									${post.dégradé[0]},
+									${post.dégradé[1]}
+								);
+						  `
+						: 'unset'
+				}
+				$textColor={!textColor ? 'white' : textColor}
+				$hrBorderColor={!textColor ? 'rgb(238, 238, 238)' : textColor}
+			>
 				<header>
 					{post.image && (
 						<Image

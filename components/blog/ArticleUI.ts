@@ -1,10 +1,12 @@
-import { styled } from 'next-yak'
+import { styled, css } from 'next-yak'
 import Link from 'next/link'
 
 const Article = styled.article`
-	max-width: 700px;
+	font-size: 120%;
+	max-width: 600px;
+	color: #222;
 	margin: 0 auto;
-	padding: 0 1rem;
+	padding: 1rem 1rem;
 	padding-bottom: 10vh;
 	header {
 		margin-bottom: 2rem;
@@ -12,15 +14,16 @@ const Article = styled.article`
 	h1 {
 		font-size: 240%;
 		margin-bottom: 1rem;
-		line-height: 2.2rem;
+		line-height: 2.8rem;
 		text-align: center;
 	}
 	header > small {
 		display: block;
 		text-align: center;
-		color: var(--color);
+		color: #402a59;
 	}
 	header > img {
+		margin-top: 0;
 		width: auto;
 		max-width: 100%;
 		max-height: 30rem;
@@ -72,20 +75,20 @@ const Article = styled.article`
 	blockquote {
 		margin-left: 0;
 		padding-left: 1.4rem;
-		border-left: 6px solid var(--color1);
+		border-left: 4px solid #402a59;
 	}
 	ul {
 		padding-left: 1rem;
 	}
 	#sommaire + ul {
-		background: var(--darkestColor);
+		background: #402a59;
 		padding: 0.6rem 2rem;
 		border-radius: 1rem;
 	}
 	hr {
-		opacity: 0.25;
-		margin: 1.6rem 0;
-		border: 1px solid var(--lightColor);
+		border: 1px solid rgb(238, 238, 238);
+		width: 70%;
+		margin: 2rem auto;
 	}
 	iframe {
 		width: 90%;
@@ -96,8 +99,15 @@ const Article = styled.article`
 	}
 	del  {
 		text-decoration-thickness: 3px;
-		text-decoration-color: var(--lightColor);
+		text-decoration-color: #402a59;
 		text-decoration-style: wavy;
+	}
+
+	background: ${(p) => p.$dégradé};
+	color: ${(p) => p.$textColor};
+
+	hr {
+		border-color: ${(p) => p.$hrBorderColor} !important;
 	}
 `
 
