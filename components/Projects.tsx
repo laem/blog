@@ -10,14 +10,7 @@ export default ({ projet }) => {
 	)
 
 	return (
-		<div
-			css={css`
-				margin: 0 0 2rem;
-				@media (max-width: 800px) {
-					margin: 0 0 1rem;
-				}
-			`}
-		>
+		<Wrapper>
 			<SubHeader>
 				<h2>
 					<em>Mes projets</em>
@@ -52,7 +45,7 @@ export default ({ projet }) => {
 					))}
 			</Ul>
 			{projet && <ProjectDescription name={projet} />}
-		</div>
+		</Wrapper>
 	)
 }
 
@@ -123,5 +116,12 @@ const Ul = styled.ul`
 		margin: 0.2rem;
 		margin-top: auto;
 		color: #4d2d5b;
+	}
+`
+
+const Wrapper = styled.section`
+	margin: 0 0 2rem;
+	@media (max-width: 800px) {
+		margin: 0 0 1rem;
 	}
 `

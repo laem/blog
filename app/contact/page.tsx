@@ -1,13 +1,15 @@
-import { Header } from './Accueil'
-import SmallHeader from './SmallHeader'
+import { styled } from 'next-yak'
+
+import SmallHeader from '@/components/SmallHeader'
+
 export default () => (
-	<div css="padding: 1rem .6rem">
+	<Container>
 		<SmallHeader />
-		<div css="max-width: 800px; margin: 1rem auto">
+		<div>
 			<h1>Me contacter</h1>
 			<p>
 				Pour parler d'un sujet ou projet public qui peut intéresser du monde, je
-				suis sur <a href="https://bsky.app/profile/maeool.bsky.social">Bluesky</a>.
+				suis sur <a href="https://bsky.app/profile/mael.kont.me">Bluesky</a>.
 			</p>
 			<p>
 				En privé, le mieux est de m'écrire{' '}
@@ -21,5 +23,13 @@ export default () => (
 				.
 			</p>
 		</div>
-	</div>
+	</Container>
 )
+
+const Container = styled.section`
+	padding: 1rem 0.6rem;
+	> div {
+		max-width: 800px;
+		margin: 1rem auto;
+	}
+`

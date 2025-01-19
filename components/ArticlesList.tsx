@@ -36,6 +36,12 @@ const Aside = styled.aside`
 		margin-bottom: 0.3rem;
 	}
 	margin-bottom: 3rem;
+	a {
+		img {
+			width: 10rem;
+			box-shadow: var(--shadow-elevation-medium);
+		}
+	}
 `
 
 export default function ArticlesList() {
@@ -54,10 +60,6 @@ export default function ArticlesList() {
 						</header>
 						<Link href={a.url}>
 							<img
-								css={css`
-									width: 10rem;
-									box-shadow: var(--shadow-elevation-medium);
-								`}
 								src={imageResizer('m')(accessibleImage(a.image).image)}
 							></img>
 						</Link>
