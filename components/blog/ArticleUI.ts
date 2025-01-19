@@ -17,15 +17,21 @@ const Article = styled.article`
 		line-height: 2.8rem;
 		text-align: center;
 	}
+	@media (max-width: 800px) {
+		h1 {
+			font-size: 140%;
+			line-height: 1.8rem;
+		}
+	}
 	header > small {
 		display: block;
 		text-align: center;
 		color: inherit;
 	}
 	header > img {
-		margin-top: 0;
+		margin: 0 auto;
 		width: auto;
-		max-width: 100%;
+		max-width: 100% !important;
 		max-height: 30rem;
 		height: auto;
 		/*
@@ -43,7 +49,7 @@ const Article = styled.article`
 	}
 	img,
 	video {
-		max-width: 90%;
+		max-width: 80%;
 		max-height: 30rem;
 		display: block;
 		margin: 4vh auto;
@@ -52,7 +58,7 @@ const Article = styled.article`
 
 	@media (max-width: 800px) {
 		img {
-			width: 100vw !important;
+			width: 90vw !important;
 			max-width: initial !important;
 			margin-left: -1rem;
 			border-radius: 0 !important;
