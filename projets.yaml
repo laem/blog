@@ -1,5 +1,5 @@
 - nom: Cartes
-  code: https://github.com/laem/cartes
+  code: https://github.com/cartesapp/cartes
   lien: https://cartes.app
   description: |
     Une alternative libre, souveraine et moderne aux "maps" des GAFAM.
@@ -10,6 +10,16 @@
 
     Cartes peut être vu comme la suite de futur.eco : les calculateurs de mobilité (avion, ferry, coût d'un trajet en voiture) ont été le grand succès de futur.eco, et ils seront fin 2024 intégrés directement dans cette application de cartes utile au quotidien.
   image: https://cartes.app/logo.svg
+  début: 2024
+  poids: 10
+- nom: Politix
+  code: https://github.com/laem/politix
+  lien: https://politix.top
+  description: |
+    Suivre l'avancement de la migration hors X. Depuis le rachat par Musk, le réseau Twitter n'a fait qu'empirer, culminant sur la manipulation d'élections et l'ingérence dans la politique Europeénne, Musk étant en début 2025 en train d'essayer de faire "élire" l'extrême-droite en Allemagne, au Royaume-Uni.
+
+    C'est intolérable, et le site Politix permet de suivre la très lente et donc très révélatrice migration hors de ce réseau d'extrême-droite de nos politiciens, en particulier ceux dit "de gauche".
+  image: https://politix.top/jaquette.png
   début: 2024
   poids: 4
 - nom: Mes Aides Réno
