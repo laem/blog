@@ -28,7 +28,7 @@ export default async function Article({ post, slug }) {
 						  `
 						: 'unset'
 				}
-				$textColor={!textColor ? 'white' : textColor}
+				$textColor={!textColor ? '#222' : textColor}
 				$hrBorderColor={!textColor ? 'rgb(238, 238, 238)' : textColor}
 			>
 				<header>
