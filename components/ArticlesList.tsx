@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { blogArticles } from '@/components/blog/blogArticles'
 import {
 	accessibleImage,
@@ -59,9 +60,12 @@ export default function ArticlesList() {
 							<small>{dateCool(a.date)}</small>
 						</header>
 						<Link href={a.url}>
-							<img
-								src={imageResizer('m')(accessibleImage(a.image).image)}
-							></img>
+							<Image
+								src={'/' + a.image.adresse}
+								width="200"
+								height="300"
+								alt={a.image.description}
+							></Image>
 						</Link>
 						<p>
 							{a.résumé}{' '}

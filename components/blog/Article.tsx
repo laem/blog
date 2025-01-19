@@ -22,7 +22,7 @@ export default async function Article({ post, slug }) {
 				<header>
 					{post.image && (
 						<Image
-							src={post.image}
+							src={post.image.adresse}
 							width="600"
 							height="400"
 							alt="Illustration de l'article"
@@ -41,7 +41,6 @@ export default async function Article({ post, slug }) {
 					</small>
 					<hr />
 				</header>
-				<MDXContent components={mdxComponents} />
 				<Contribution slug={slug} />
 				<OtherArticles excludeUrl={post.url} />
 			</ArticleWrapper>

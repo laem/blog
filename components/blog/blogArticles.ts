@@ -5,3 +5,5 @@ export const blogArticles = articles.filter(
 	(article) =>
 		!article.tags?.includes('page') && !article.tags?.includes('brouillon')
 )
+
+console.log(blogArticles.map((post) => post.image.adresse))
