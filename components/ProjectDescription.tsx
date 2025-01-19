@@ -1,5 +1,6 @@
 import projets from '@/projets.yaml'
 import { styled } from 'next-yak'
+import downa from 'downa'
 
 export const encodeProjectName = (nom, noSpaces) => {
 	const lower = nom.toLowerCase()
@@ -16,7 +17,11 @@ export default ({ name }) => {
 				<time date={selectedProject.début}>{selectedProject.début}</time>
 			</p>
 			<h2>{selectedProject.nom}</h2>
-			<p>{selectedProject.description}</p>
+			<p
+				dangerouslySetInnerHTML={{
+					__html: downa.render(selectedProject.description),
+				}}
+			></p>
 			<p>
 				<img src="/1F517.svg" />
 				<a href={selectedProject.lien}>
