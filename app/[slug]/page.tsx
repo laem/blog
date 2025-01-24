@@ -1,9 +1,7 @@
+import SmallHeader from '@/components/SmallHeader'
+import Article from '@/components/blog/Article'
 import { blogArticles } from '@/components/blog/blogArticles'
 import { getLastEdit } from '@/components/blog/utils'
-import Article from '@/components/blog/Article'
-import SubHeader from '@/components/SubHeader'
-import Header from '@/components/Header'
-import SmallHeader from '@/components/SmallHeader'
 
 export const generateMetadata = async (props) => {
 	const params = await props.params
@@ -15,7 +13,7 @@ export const generateMetadata = async (props) => {
 		title: post.titre.raw,
 		description: post.résumé,
 		openGraph: {
-			images: post.image && [post.image],
+			images: post.image && [post.image.adresse],
 			type: 'article',
 			publishedTime: post.date + 'T00:00:00.000Z',
 			modifiedTime: lastEdit + 'T00:00:00.000Z',
