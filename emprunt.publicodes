@@ -1,0 +1,51 @@
+apport: 50 + 50
+âge:
+  valeur:
+    texte: neuf
+
+########################
+achat: surface * prix
+surface: 63
+prix:
+  variations: 
+    - si: âge = 'neuf' 
+      alors: 3.5
+    - si: âge = 'ancien'
+      alors: 3.5
+
+
+emprunt privé: achat - (ptz + apport)
+ptz: 
+  applicable si: âge = 'neuf'
+  valeur: 60
+  référence: https://www.anil.org/outils/outils-de-calcul/votre-pret-a-taux-zero/
+
+taxe foncière: 
+  valeur: 1.8
+  référence: https://www.rennesimmo9.com/politiques-publiques/fiscalite-rennes
+exonération taxe foncière: 
+  applicable si: âge = 'neuf'
+  valeur: taxe foncière * 2
+taux: 3.5 %
+bousin: numérateur / dénominateur
+taux mensuel: (taux / 12)
+durée emprunt: 15
+mois: 12 * durée emprunt
+numérateur: taux mensuel * ((1 + taux mensuel) ** mois)
+dénominateur: ((1 + taux mensuel) ** mois) - 1
+
+mensualités: emprunt privé * bousin
+frais emprunt: mensualités * mois - emprunt privé
+
+droits de mutation et notaire: 
+  variations: 
+    - si: âge = 'neuf'
+      alors: 8 %
+    - sinon: 3 %
+  références: https://www.pap.fr/acheteur/calcul-frais-notaire
+
+économies d'énergie: 500 * 15
+total: 
+  valeur: |
+    frais emprunt + achat + (achat * droits de mutation et notaire) - exonération taxe foncière
+  
