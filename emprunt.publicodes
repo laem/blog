@@ -1,9 +1,30 @@
 apport: 60 + 10 + 60
+
+
+######################## Comparaison location vs achat
+
+prix ancien: 4 k€/m2
+loyer actuel: 840 € /mois
+rendement épargne: annuel / 12
+# faire l'hypothèse d'une assurance vie
+
+
+rendement épargne . annuel: 
+  somme: 
+    - livret A
+    - LDDS
+    - PEL
+livret A: 25 * 2.4 %
+LDDS: 13 * 2.4 %
+PEL: 25 * 2.5 %
+
+diff: mensualités
+
+
+######################## Coût de l'acquisition neuf / ancien
 âge:
   valeur:
     texte: ancien
-
-########################
 achat: surface * prix
 surface: 63
 prix:
@@ -11,7 +32,7 @@ prix:
     - si: âge = 'neuf' 
       alors: 4 # BRS l'esplanade par exemple 
     - si: âge = 'ancien'
-      alors: 4
+      alors: prix ancien
 
 
 emprunt privé: achat - (ptz + apport)
