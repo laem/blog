@@ -28,7 +28,7 @@ exonération taxe foncière:
   applicable si: âge = 'neuf'
   valeur: taxe foncière * 2
 
-taux: 3.5 %
+taux: 3.4 %
 bousin: numérateur / dénominateur
 taux mensuel: (taux / 12)
 durée emprunt: 15
@@ -48,7 +48,11 @@ droits de mutation et notaire:
 
 économies d'énergie: 500 * 15
 total: 
-  valeur: |
-    frais emprunt + achat + (achat * droits de mutation et notaire) - exonération taxe foncière
+  titre: Cout total de l'acquisition
+  somme:
+  - frais emprunt
+  - achat
+  - (achat * droits de mutation et notaire)
+  - (- exonération taxe foncière)
   
 
