@@ -4,7 +4,9 @@ apport: 60 + 10 + 60
 ######################## Comparaison location vs achat
 
 prix ancien: 4 k€/m2
-loyer actuel: 840 € /mois
+loyer: -0.840 k€ /mois
+loyer . annuel: loyer * 12 mois
+loyer . annuel . dont charges: -1.230 k€
 rendement épargne: annuel / 12
 # faire l'hypothèse d'une assurance vie
 
@@ -14,12 +16,29 @@ rendement épargne . annuel:
     - livret A
     - LDDS
     - PEL
-livret A: 25 * 2.4 %
-LDDS: 13 * 2.4 %
-PEL: 25 * 2.5 %
+livret A: 25 k€ * 2.4 %
+LDDS: 13 k€ * 2.4 %
+PEL: 25 k€ * 2.5 %
+total livrets: 
+  valeur: 25 + 13 + 25
+  unité: k€
+épargne non rémunérée: apport - total livrets
 
-diff: mensualités
-
+diff: flux locataire - flux proprio
+flux locataire: 
+  somme: 
+   - rendement épargne . annuel
+   - loyer . annuel
+flux proprio:
+  somme:
+    - taxe foncière
+    - loyer . annuel . dont charges # le propriétaire paie alors les charges qu'un locataire paierait, plus l'entretien de l'immeuble (ravalement, etc.)
+    - travaux
+travaux: 
+  valeur: 10 k€ / 20 
+  description: 10 k€ de ravalement ou travaux d'efficacité énergétique tous les 20 ans
+  note: |
+    À proratiser avec le DPE. DPE A = travaux faits pour longtemps. DPE G : lourds travaux à prévoir
 
 ######################## Coût de l'acquisition neuf / ancien
 âge:
@@ -76,4 +95,5 @@ total:
   - (achat * droits de mutation et notaire)
   - (- exonération taxe foncière)
   
+
 
