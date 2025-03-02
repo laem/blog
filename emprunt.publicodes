@@ -1,4 +1,15 @@
-apport: 60 + 10 + 60
+#
+# À faire : estimer l'évolution du bien par rapport à l'inflation, et l'inflation aussi sur l'épargne non placée
+# C'est la dernière clef du calcul ! Ou plutôt, estimer dans "achat réévalué" la différence avec l'inflation en supposant que tout le reste est en € constants ?
+# 
+# Autre point à traiter : l'évolution des loyers, qui suit l'inflation (hors prix de l'immobilier) d'après l'IRL
+# > L'IRL est déterminé grâce à la moyenne de l'évolution des prix à la consommation sur douze mois, hors tabac et loyers, conformément à l'article 9 de la loi n° 2008-111 du 8 février 2008.
+
+apport: 60 + 10 + 60 k€
+diff: 
+  formule: (flux locataire - flux proprio)
+  unité: €
+  description: Positif si le scénario locataire est plus rentable
 
 
 ######################## Comparaison location vs achat
@@ -18,19 +29,27 @@ rendement épargne . annuel:
     - livret A
     - LDDS
     - PEL
+    - (apport - total livrets) * rendement reste épargne
+rendement reste épargne: 
+  valeur: 2%
+  description: |
+    Par exemple une assurance vie. Pas simple à estimer, ce taux https://finance-heros.fr/rendement-assurance-vie-2024.
+    À mettre à 0 si pas de placement de cette somme hors livrets reglementés. 
+# Taux en mars 2025, donc hypothèse critiquable difficile à améliorer (le taux historique ne veut pas dire taux futur)
 livret A: 25 k€ * 2.4 %
 LDDS: 13 k€ * 2.4 %
 PEL: 25 k€ * 2.5 %
+
 total livrets: 
   valeur: 25 + 13 + 25
   unité: k€
 épargne non rémunérée: apport - total livrets
 
-diff: flux locataire - flux proprio
 flux locataire: 
   somme: 
    - rendement épargne . annuel
    - loyer . annuel
+   - apport / durée emprunt
 flux proprio:
   description: Les dépenses annuelles qu'implique l'achat du logement pour un propriétaire occupant.
   somme:
@@ -38,13 +57,24 @@ flux proprio:
     - loyer . annuel . dont charges # le propriétaire paie alors les charges qu'un locataire paierait, plus l'entretien de l'immeuble (ravalement, etc.)
     - travaux
     - droits de mutation et notaire / durée de possession
-    - frais emprunt / durée emprunt
+    - mensualités . annuelles
+    - achat réévalué / durée emprunt
+achat réévalué: 
+  formule: achat * 70%
+  description: |
+    Chacun est libre ici de croire ce qu'il veut, mais il vaut mieux avant avoir lu les travaux de Jacques Friggit.
+    
+    - Page wikipedia https://fr.wikipedia.org/wiki/Jacques_Friggit
+    - Site du Ministère du logement : https://www.igedd.developpement-durable.gouv.fr/prix-immobilier-evolution-a-long-terme-a1048.html
+    - Cours à l'école des Ponts https://www.cgedd.fr/prix-immobilier-presentation.pdf
+
+    
 durée de possession: 
   valeur: 15
   description: Difficile à estimer, mais une revente + achat 15 ans après semble probable à 35 ans.
 
 travaux: 
-  valeur: 10 k€ / 20 
+  valeur: -10 k€ / 20 
   description: 10 k€ de ravalement ou travaux d'efficacité énergétique tous les 20 ans
   note: |
     À proratiser avec le DPE. DPE A = travaux faits pour longtemps. DPE G : lourds travaux à prévoir
@@ -70,12 +100,12 @@ ptz:
   référence: https://www.anil.org/outils/outils-de-calcul/votre-pret-a-taux-zero/
 
 taxe foncière: 
-  valeur: 1.8
+  valeur: -1.8
   référence: https://www.rennesimmo9.com/politiques-publiques/fiscalite-rennes
 
 exonération taxe foncière: 
   applicable si: âge = 'neuf'
-  valeur: taxe foncière * 2
+  valeur: -taxe foncière * 2
 
 taux: 3.4 %
 bousin: numérateur / dénominateur
@@ -85,10 +115,11 @@ mois: 12 * durée emprunt
 numérateur: taux mensuel * ((1 + taux mensuel) ** mois)
 dénominateur: ((1 + taux mensuel) ** mois) - 1
 
-mensualités: emprunt privé * bousin
-frais emprunt: mensualités * mois - emprunt privé
+mensualités: -(emprunt privé * bousin)
+mensualités . annuelles: mensualités * 12
+frais emprunt: mensualités * mois + emprunt privé
 
-droits de mutation et notaire: taux * achat 
+droits de mutation et notaire: -(taux * achat)
 
 droits de mutation et notaire . taux: 
   variations: 
@@ -104,7 +135,7 @@ total:
   - frais emprunt
   - achat
   - droits de mutation et notaire
-  - (- exonération taxe foncière)
+  - exonération taxe foncière
   
 
 
