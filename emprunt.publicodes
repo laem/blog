@@ -6,7 +6,9 @@ apport: 60 + 10 + 60
 prix ancien: 4 k€/m2
 loyer: -0.840 k€ /mois
 loyer . annuel: loyer * 12 mois
-loyer . annuel . dont charges: -1.230 k€
+loyer . annuel . dont charges: 
+  titre: Charges du logement (proprio ou locataire)
+  valeur: -1.230 k€
 rendement épargne: annuel / 12
 # faire l'hypothèse d'une assurance vie
 
@@ -30,10 +32,17 @@ flux locataire:
    - rendement épargne . annuel
    - loyer . annuel
 flux proprio:
+  description: Les dépenses annuelles qu'implique l'achat du logement pour un propriétaire occupant.
   somme:
     - taxe foncière
     - loyer . annuel . dont charges # le propriétaire paie alors les charges qu'un locataire paierait, plus l'entretien de l'immeuble (ravalement, etc.)
     - travaux
+    - droits de mutation et notaire / durée de possession
+    - frais emprunt / durée emprunt
+durée de possession: 
+  valeur: 15
+  description: Difficile à estimer, mais une revente + achat 15 ans après semble probable à 35 ans.
+
 travaux: 
   valeur: 10 k€ / 20 
   description: 10 k€ de ravalement ou travaux d'efficacité énergétique tous les 20 ans
@@ -45,11 +54,11 @@ travaux:
   valeur:
     texte: ancien
 achat: surface * prix
-surface: 63
+surface: 63 m2
 prix:
   variations: 
     - si: âge = 'neuf' 
-      alors: 4 # BRS l'esplanade par exemple 
+      alors: 4 k€/m2 # BRS l'esplanade par exemple 
     - si: âge = 'ancien'
       alors: prix ancien
 
@@ -79,7 +88,9 @@ dénominateur: ((1 + taux mensuel) ** mois) - 1
 mensualités: emprunt privé * bousin
 frais emprunt: mensualités * mois - emprunt privé
 
-droits de mutation et notaire: 
+droits de mutation et notaire: taux * achat 
+
+droits de mutation et notaire . taux: 
   variations: 
     - si: âge = 'ancien'
       alors: 8 %
@@ -92,7 +103,7 @@ total:
   somme:
   - frais emprunt
   - achat
-  - (achat * droits de mutation et notaire)
+  - droits de mutation et notaire
   - (- exonération taxe foncière)
   
 
