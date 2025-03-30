@@ -15,13 +15,6 @@ export default () => (
 				En privé, le mieux est de m'écrire{' '}
 				<a href="https://matrix.to/#/@maelito:matrix.org">via matrix.org</a>.
 			</p>
-			<p>
-				Vous pouvez aussi{' '}
-				<a href="https://www.linkedin.com/in/thomasmael/">
-					me contacter via Linkedin
-				</a>
-				.
-			</p>
 		</div>
 	</Container>
 )
