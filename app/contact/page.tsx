@@ -12,6 +12,10 @@ export default () => (
 				suis sur <a href="https://bsky.app/profile/mael.kont.me">Bluesky</a>.
 			</p>
 			<p>
+				Je suis également disponible (mais moins actif) sur suis sur{' '}
+				<a href="https://mastodon.social/@maeool">Mastodon</a>.
+			</p>
+			<p>
 				En privé, le mieux est de m'écrire{' '}
 				<a href="https://matrix.to/#/@maelito:matrix.org">via matrix.org</a>.
 			</p>
