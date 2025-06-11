@@ -5,7 +5,12 @@
 # Autre point à traiter : l'évolution des loyers, qui suit l'inflation (hors prix de l'immobilier) d'après l'IRL
 # > L'IRL est déterminé grâce à la moyenne de l'évolution des prix à la consommation sur douze mois, hors tabac et loyers, conformément à l'article 9 de la loi n° 2008-111 du 8 février 2008.
 
-apport: 60 + 10 + 60 k€
+apport: personnel + famille + bonus
+apport . personnel: 70 k€
+apport . famille: 70 k€
+apport . bonus: 
+  valeur: 40 k€
+  description: Mobilisable si besoin. 
 diff: 
   formule: (flux locataire - flux proprio)
   unité: €
@@ -30,7 +35,7 @@ rendement épargne . annuel:
     - LDDS
     - PEL
     - (apport - total livrets) * rendement reste épargne
-rendement reste épargne: 
+rendement reste épargne:
   valeur: 2%
   description: |
     Par exemple une assurance vie. Pas simple à estimer, ce taux https://finance-heros.fr/rendement-assurance-vie-2024.
@@ -137,5 +142,6 @@ total:
   - droits de mutation et notaire
   - exonération taxe foncière
   
+
 
 
