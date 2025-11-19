@@ -17,7 +17,7 @@ export default () => (
 			</p>
 			<p>
 				En privé, le mieux est de m'écrire{' '}
-				<a href="https://matrix.to/#/@maelito:matrix.org">via matrix.org</a>.
+				<a href="https://matrix.to/#/@maeltq:matrix.org">via matrix.org</a>.
 			</p>
 		</div>
 	</Container>
