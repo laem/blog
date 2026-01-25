@@ -5,15 +5,13 @@ import { styled } from 'next-yak'
 export default function Page({ slug, post }) {
 	return (
 		<Main
-			$dégradé={
+			$gradient={
 				post.dégradé
 					? `
-								linear-gradient(
 									${post.dégradé[0]},
 									${post.dégradé[1]}
-								);
 						  `
-					: 'unset'
+					: 'red, blue'
 			}
 		>
 			<SmallHeader />
@@ -22,5 +20,5 @@ export default function Page({ slug, post }) {
 	)
 }
 const Main = styled.main`
-	background: ${(p) => p.$dégradé};
+	background: linear-gradient(${(p) => p.$gradient});
 `
