@@ -1,4 +1,4 @@
-import { styled, css } from 'next-yak'
+import { styled } from 'next-yak'
 import Link from 'next/link'
 
 const Article = styled.article`
@@ -111,7 +111,6 @@ const Article = styled.article`
 		text-decoration-style: wavy;
 	}
 
-	background: ${(p) => p.$dégradé};
 	color: ${(p) => p.$textColor};
 
 	hr {

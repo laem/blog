@@ -1,5 +1,11 @@
 import { styled } from 'next-yak'
 
+export const Main = styled.main`
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0.6rem 1rem;
+`
+
 export const List = styled.ol`
 	margin-top: 2rem;
 	padding-left: 1rem;
