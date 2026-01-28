@@ -11,7 +11,7 @@ export default function Page({ slug, post }) {
 									${post.dégradé[0]},
 									${post.dégradé[1]}
 						  `
-					: 'red, blue'
+					: 'white, white'
 			}
 		>
 			<SmallHeader />
