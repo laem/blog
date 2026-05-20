@@ -128,10 +128,16 @@ N’empêche, il reste toujours des expressions pas très familières : `functi
 Comment écrire ce barème plus simplement ? Facile : on va séparer la fonction qui fait l’opération (le barème) des données utilisées dans l’opération (les tranches de l’impôt et les % correspondants). Après tout, ça fait 300 ans qu’un barème se calcule de la même façon, seules ses données changent !
 
 <iframe
-	style="padding: 0; margin: 0; background: transparent;width: 100%; height: 1800px"
+	style={{
+		padding: 0,
+		margin: 0,
+		background: 'transparent',
+		width: '100%',
+		height: '1800px',
+	}}
 	src="https://runkit.com/e/oembed-iframe?target=/users/com/repositories/3/default"
-	frameborder="0"
-	allowfullscreen
+	frameBorder={0}
+	allowFullScreen={true}
 ></iframe>
 
 On vient de poser les premières briques d’un langage de programmation spécialisé dans le calcul de l’impôt sur le revenu !
